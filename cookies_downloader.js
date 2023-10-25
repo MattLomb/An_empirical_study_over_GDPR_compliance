@@ -1,39 +1,38 @@
 const puppeteer = require('puppeteer-extra');
 const path = require('path');
+const cookiesFormatter = require( './cookiesFormatter' );
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+const formatCookies = require('./cookiesFormatter');
 
-/****** PARSE INPUT  ******/
+/****** PARSE INPUT -> get the url and the arguments to pass as input to CoM Custom Event ******/
 
-const arguments = process.argv.slice(2);
-arguments.forEach((value, index) => {
-  console.log(index, value);
-});
+async function parseArgsAndSetup() {
 
-const url = 'https://' + arguments[0];
+  var arguments = process.argv.slice(2);
+  arguments.forEach((value, index) => {
+    console.log(index, value);
+  });
 
-const consents_array = [];
-let i = 0;
-for ( i; i < arguments.length; i++ ){
-  if ( i > 0 ) {
-    consents_array.push( arguments[i] );
+  const url = 'https://' + arguments[0];
+
+  const consents_array = [];
+  let i = 0;
+  for (i; i < arguments.length; i++) {
+    if (i > 0) {
+      consents_array.push(arguments[i]);
+    }
   }
+
+  return [url, consents_array];
 }
-
-var gdpr_consents = {
-  "A": consents_array.includes('a')? true:false,
-  "B": consents_array.includes('b')? true:false,
-  "D": consents_array.includes('d')? true:false,
-  "E": consents_array.includes('e')? true:false,
-  "F": consents_array.includes('f')? true:false,
-  "X": consents_array.includes('x')? true:false
-};
-
 
 
 (async () => {
 
-  //Testing purpose
-  var url = 'https://hdblog.it';
+  const args = await parseArgsAndSetup();
+
+  const url = args[0];
+  const consents_array = args[1];
 
   const pathToExtension = path.join(process.cwd(), './Consent-O-Matic-ScrapeAutoTesting/Extension');
   const browser = await puppeteer
@@ -43,14 +42,24 @@ var gdpr_consents = {
     args: [
       `--disable-extensions-except=${pathToExtension}`,
       `--load-extension=${pathToExtension}`,
+      '--disable-web-security' // Disabilita la sicurezza web per consentire i cookies di terze parti
     ],
   });
 
   try {
     const page = await browser.newPage();
+
+    // SET ITALIAN LANGUAGE
+    await page.setExtraHTTPHeaders({
+      'Accept-Language': 'it-IT'
+    });
+  
     const navigation = await page.goto(url, {
         waitUntil: 'networkidle2'
     });
+
+    /* THIS CODE IS THE ONE IN CHARGE OF CREATING A PARTICULAR SESSION FOR CHROMIUM THAT ALLOWS TO DOWNLOAD ALL THE COOKIES SETTED */
+    const client = await page.target().createCDPSession();
 
     console.log( 'URL VISITATO ' + url );
 
@@ -59,6 +68,7 @@ var gdpr_consents = {
     if ( navigation.status().toString() != '200' ) {
         console.log( "ERROR DURING NAVIGATION ON  " + url + "\nERROR CODE/RESPONSE STATUS: " + navigation.status().toString() );
     } else {
+        //Inject the code of Consent-O-Matic
         let promise = new Promise((resolve)=>{
             page.exposeFunction("publishCoMResult", (result)=>{
                 console.log(result);
@@ -68,21 +78,25 @@ var gdpr_consents = {
         });
     
         // Start executing the script for the interaction with the CMP
-        await page.evaluate(()=>{
-            window.dispatchEvent(new CustomEvent("startCOM", { detail: 0 }));
-        });
+        await page.evaluate( (consents_array)=>{
+            var test = consents_array.join();
+            window.dispatchEvent(new CustomEvent("startCOM", { detail: test }));
+        }, consents_array);
     
         let result = await promise;
 
-        // Retrieve the cookies from the website
-        const cookies = await page.cookies();
-        
-        console.log( "--- COOKIES RETRIEVED AFTER COM INTERACTION ---" );
-        console.log( cookies );
+        // WAIT FOR ALL COOKIES BEING SETTED FROM THE CMP AND FROM THE THIRD PARTY SERVICES
+        await new Promise(resolve => setTimeout(resolve, 8000));
+
+        console.log("------ COOKIES RETRIEVED ------");
+        const all_browser_cookies = (await client.send('Storage.getCookies')).cookies;
+        console.log(all_browser_cookies);
+
+        await browser.close();
+
+        await formatCookies( 'hdblog.it', all_browser_cookies );
     
-        //await browser.close();
-    
-        return cookies;
+        return result;
     }
     
   } catch ( err ) {
