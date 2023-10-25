@@ -1,0 +1,255 @@
+Consent-O-Matic-ScrapeAutoTesting/.DS_Store
+Consent-O-Matic-ScrapeAutoTesting/.gitignore
+Consent-O-Matic-ScrapeAutoTesting/LICENSE
+Consent-O-Matic-ScrapeAutoTesting/README.md
+Consent-O-Matic-ScrapeAutoTesting/rules-list.json
+Consent-O-Matic-ScrapeAutoTesting/Rules.json
+Consent-O-Matic-ScrapeAutoTesting/rules.schema.json
+Consent-O-Matic-ScrapeAutoTesting/.vscode/settings.json
+Consent-O-Matic-ScrapeAutoTesting/.vscode/tasks.json
+Consent-O-Matic-ScrapeAutoTesting/Extension/Action.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/auto.html
+Consent-O-Matic-ScrapeAutoTesting/Extension/AutomaticDetection.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/background.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/CMP.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/Consent.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/ConsentEngine.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/content.css
+Consent-O-Matic-ScrapeAutoTesting/Extension/contentScript.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/Detector.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/GDPRConfig.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/hide.svg
+Consent-O-Matic-ScrapeAutoTesting/Extension/icon_48.png
+Consent-O-Matic-ScrapeAutoTesting/Extension/icon_96.png
+Consent-O-Matic-ScrapeAutoTesting/Extension/icon_128.png
+Consent-O-Matic-ScrapeAutoTesting/Extension/icon_1024.png
+Consent-O-Matic-ScrapeAutoTesting/Extension/language.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/logo.svg
+Consent-O-Matic-ScrapeAutoTesting/Extension/manifest.json
+Consent-O-Matic-ScrapeAutoTesting/Extension/Matcher.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/minimize.svg
+Consent-O-Matic-ScrapeAutoTesting/Extension/options.html
+Consent-O-Matic-ScrapeAutoTesting/Extension/options.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/popup.html
+Consent-O-Matic-ScrapeAutoTesting/Extension/popup.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/Tools.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/index.html
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/templates.html
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/css/main.css
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/css/main.css.map
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/js/app.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/js/domParser.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/js/draggable.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/js/jsonParser.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/js/utils.js
+Consent-O-Matic-ScrapeAutoTesting/Extension/editor/scss/main.scss
+Consent-O-Matic-ScrapeAutoTesting/rules/admiral.json
+Consent-O-Matic-ScrapeAutoTesting/rules/affinity.json
+Consent-O-Matic-ScrapeAutoTesting/rules/airbnb.json
+Consent-O-Matic-ScrapeAutoTesting/rules/alandsbanken.json
+Consent-O-Matic-ScrapeAutoTesting/rules/almacmpv2.json
+Consent-O-Matic-ScrapeAutoTesting/rules/asus.json
+Consent-O-Matic-ScrapeAutoTesting/rules/autodesk.json
+Consent-O-Matic-ScrapeAutoTesting/rules/azofreeware.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/bankofscotland.json
+Consent-O-Matic-ScrapeAutoTesting/rules/bauhaus.cz.json
+Consent-O-Matic-ScrapeAutoTesting/rules/bbc_fc.json
+Consent-O-Matic-ScrapeAutoTesting/rules/begadi.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/benq.json
+Consent-O-Matic-ScrapeAutoTesting/rules/bing.json
+Consent-O-Matic-ScrapeAutoTesting/rules/bol.json
+Consent-O-Matic-ScrapeAutoTesting/rules/borlabs.json
+Consent-O-Matic-ScrapeAutoTesting/rules/britishairways.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cassie.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cdiscount.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cdiscountopen.json
+Consent-O-Matic-ScrapeAutoTesting/rules/chandago.json
+Consent-O-Matic-ScrapeAutoTesting/rules/chrysal.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/complianz.io.json
+Consent-O-Matic-ScrapeAutoTesting/rules/consentmanager.net.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cookiebar.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cookiebot.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cookiecontrolcivic.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cookieinformation.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cookielab.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cookiescript.json
+Consent-O-Matic-ScrapeAutoTesting/rules/cookiewow.json
+Consent-O-Matic-ScrapeAutoTesting/rules/dailymotion.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/danskebank.json
+Consent-O-Matic-ScrapeAutoTesting/rules/deepl.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/designilpdpa.json
+Consent-O-Matic-ScrapeAutoTesting/rules/didomi.io.json
+Consent-O-Matic-ScrapeAutoTesting/rules/drcc.json
+Consent-O-Matic-ScrapeAutoTesting/rules/Etsy.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/eurorepar.json
+Consent-O-Matic-ScrapeAutoTesting/rules/evidon_banner.json
+Consent-O-Matic-ScrapeAutoTesting/rules/evidon_iframe.json
+Consent-O-Matic-ScrapeAutoTesting/rules/ez-cookie.json
+Consent-O-Matic-ScrapeAutoTesting/rules/facebook.json
+Consent-O-Matic-ScrapeAutoTesting/rules/fanatical.json
+Consent-O-Matic-ScrapeAutoTesting/rules/fastcmp.json
+Consent-O-Matic-ScrapeAutoTesting/rules/Flightaware.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/flysas.json
+Consent-O-Matic-ScrapeAutoTesting/rules/future.json
+Consent-O-Matic-ScrapeAutoTesting/rules/gfycat.json
+Consent-O-Matic-ScrapeAutoTesting/rules/gfycatopen.json
+Consent-O-Matic-ScrapeAutoTesting/rules/gls.json
+Consent-O-Matic-ScrapeAutoTesting/rules/google_cwiz.json
+Consent-O-Matic-ScrapeAutoTesting/rules/google_popup.json
+Consent-O-Matic-ScrapeAutoTesting/rules/gov.uk.json
+Consent-O-Matic-ScrapeAutoTesting/rules/gov.ukopen.json
+Consent-O-Matic-ScrapeAutoTesting/rules/gravito.json
+Consent-O-Matic-ScrapeAutoTesting/rules/hampshirepolice.json
+Consent-O-Matic-ScrapeAutoTesting/rules/hampshirepoliceopen.json
+Consent-O-Matic-ScrapeAutoTesting/rules/ikea_toast.json
+Consent-O-Matic-ScrapeAutoTesting/rules/instagram.json
+Consent-O-Matic-ScrapeAutoTesting/rules/ionos.json
+Consent-O-Matic-ScrapeAutoTesting/rules/iubuenda.json
+Consent-O-Matic-ScrapeAutoTesting/rules/june.json
+Consent-O-Matic-ScrapeAutoTesting/rules/k-m.de.json
+Consent-O-Matic-ScrapeAutoTesting/rules/kk.dk.json
+Consent-O-Matic-ScrapeAutoTesting/rules/kobo.json
+Consent-O-Matic-ScrapeAutoTesting/rules/koboopen.json
+Consent-O-Matic-ScrapeAutoTesting/rules/ku.dk.json
+Consent-O-Matic-ScrapeAutoTesting/rules/laitapro.json
+Consent-O-Matic-ScrapeAutoTesting/rules/lazyadmin.nl.json
+Consent-O-Matic-ScrapeAutoTesting/rules/lego.json
+Consent-O-Matic-ScrapeAutoTesting/rules/lemonde.fr.2022.json
+Consent-O-Matic-ScrapeAutoTesting/rules/lemonde.fr.json
+Consent-O-Matic-ScrapeAutoTesting/rules/lesatlantes.json
+Consent-O-Matic-ScrapeAutoTesting/rules/licide.json
+Consent-O-Matic-ScrapeAutoTesting/rules/lidl.json
+Consent-O-Matic-ScrapeAutoTesting/rules/linkedin_popup.json
+Consent-O-Matic-ScrapeAutoTesting/rules/marktplaatz.json
+Consent-O-Matic-ScrapeAutoTesting/rules/marktplaatzopen.json
+Consent-O-Matic-ScrapeAutoTesting/rules/metro.dailymail.co.uk.json
+Consent-O-Matic-ScrapeAutoTesting/rules/mindfactory.json
+Consent-O-Matic-ScrapeAutoTesting/rules/mitid.json
+Consent-O-Matic-ScrapeAutoTesting/rules/moneysavingexpert.json
+Consent-O-Matic-ScrapeAutoTesting/rules/mydealz.de.json
+Consent-O-Matic-ScrapeAutoTesting/rules/myfigurecollection.net.json
+Consent-O-Matic-ScrapeAutoTesting/rules/nd.nl.json
+Consent-O-Matic-ScrapeAutoTesting/rules/nordnetdk.json
+Consent-O-Matic-ScrapeAutoTesting/rules/nordpoolgroup.json
+Consent-O-Matic-ScrapeAutoTesting/rules/nordpoolgroupopen.json
+Consent-O-Matic-ScrapeAutoTesting/rules/notion.so.json
+Consent-O-Matic-ScrapeAutoTesting/rules/nouvelobs.json
+Consent-O-Matic-ScrapeAutoTesting/rules/oil.json
+Consent-O-Matic-ScrapeAutoTesting/rules/onetrust_banner.json
+Consent-O-Matic-ScrapeAutoTesting/rules/onetrust_hidden.json
+Consent-O-Matic-ScrapeAutoTesting/rules/onetrust_pcpanel.json
+Consent-O-Matic-ScrapeAutoTesting/rules/onetrust_pctab.json
+Consent-O-Matic-ScrapeAutoTesting/rules/onetrust_stackoverflow.json
+Consent-O-Matic-ScrapeAutoTesting/rules/onetrust.json
+Consent-O-Matic-ScrapeAutoTesting/rules/opensuchenmobile.de.json
+Consent-O-Matic-ScrapeAutoTesting/rules/optanon_alternative.json
+Consent-O-Matic-ScrapeAutoTesting/rules/optanon_springernature.json
+Consent-O-Matic-ScrapeAutoTesting/rules/optanon.json
+Consent-O-Matic-ScrapeAutoTesting/rules/osano.json
+Consent-O-Matic-ScrapeAutoTesting/rules/paypal_banner.json
+Consent-O-Matic-ScrapeAutoTesting/rules/paypal_page.json
+Consent-O-Matic-ScrapeAutoTesting/rules/phpipam.net.json
+Consent-O-Matic-ScrapeAutoTesting/rules/pouch.json
+Consent-O-Matic-ScrapeAutoTesting/rules/pricerunnerdk.json
+Consent-O-Matic-ScrapeAutoTesting/rules/quantcast.json
+Consent-O-Matic-ScrapeAutoTesting/rules/quantcast2.json
+Consent-O-Matic-ScrapeAutoTesting/rules/quantcast2b.json
+Consent-O-Matic-ScrapeAutoTesting/rules/reddit.json
+Consent-O-Matic-ScrapeAutoTesting/rules/riadaljana.json
+Consent-O-Matic-ScrapeAutoTesting/rules/saturn.de.json
+Consent-O-Matic-ScrapeAutoTesting/rules/setonosylius.json
+Consent-O-Matic-ScrapeAutoTesting/rules/sfbx_appconsent.json
+Consent-O-Matic-ScrapeAutoTesting/rules/sfr.json
+Consent-O-Matic-ScrapeAutoTesting/rules/sharethis.json
+Consent-O-Matic-ScrapeAutoTesting/rules/sirdata.json
+Consent-O-Matic-ScrapeAutoTesting/rules/snigel.json
+Consent-O-Matic-ScrapeAutoTesting/rules/sourcepoint_frame_2022.json
+Consent-O-Matic-ScrapeAutoTesting/rules/sourcepoint_frame.json
+Consent-O-Matic-ScrapeAutoTesting/rules/sourcepoint_popup.json
+Consent-O-Matic-ScrapeAutoTesting/rules/sourcepoint.json
+Consent-O-Matic-ScrapeAutoTesting/rules/springer.json
+Consent-O-Matic-ScrapeAutoTesting/rules/suchenmobile.de.json
+Consent-O-Matic-ScrapeAutoTesting/rules/sundhed.dk.json
+Consent-O-Matic-ScrapeAutoTesting/rules/tareaucitron.json
+Consent-O-Matic-ScrapeAutoTesting/rules/tealium.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/thenextweb.json
+Consent-O-Matic-ScrapeAutoTesting/rules/thenextwebopen.json
+Consent-O-Matic-ScrapeAutoTesting/rules/theRegister.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/theVerge.json
+Consent-O-Matic-ScrapeAutoTesting/rules/truendo.json
+Consent-O-Matic-ScrapeAutoTesting/rules/trustarc_bar.json
+Consent-O-Matic-ScrapeAutoTesting/rules/trustarc_frame_2022.json
+Consent-O-Matic-ScrapeAutoTesting/rules/trustarc_frame.json
+Consent-O-Matic-ScrapeAutoTesting/rules/trustarc_popup_hider.json
+Consent-O-Matic-ScrapeAutoTesting/rules/tui.json
+Consent-O-Matic-ScrapeAutoTesting/rules/tumblr.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/tweakers.net.json
+Consent-O-Matic-ScrapeAutoTesting/rules/twitch.tv.json
+Consent-O-Matic-ScrapeAutoTesting/rules/twitter.json
+Consent-O-Matic-ScrapeAutoTesting/rules/ubuntu.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/umf.dk.json
+Consent-O-Matic-ScrapeAutoTesting/rules/uniconsent.json
+Consent-O-Matic-ScrapeAutoTesting/rules/usercentrics.json
+Consent-O-Matic-ScrapeAutoTesting/rules/volkswagen.json
+Consent-O-Matic-ScrapeAutoTesting/rules/webedia.json
+Consent-O-Matic-ScrapeAutoTesting/rules/whatsapp.json
+Consent-O-Matic-ScrapeAutoTesting/rules/wordpress_gdpr.json
+Consent-O-Matic-ScrapeAutoTesting/rules/wshop.com.json
+Consent-O-Matic-ScrapeAutoTesting/rules/yahoo_consent.json
+Consent-O-Matic-ScrapeAutoTesting/rules/yahoo_popup.json
+Consent-O-Matic-ScrapeAutoTesting/rules/yle.fi.json
+Consent-O-Matic-ScrapeAutoTesting/xcode/Consent-O-Matic.xcodeproj/project.pbxproj
+Consent-O-Matic-ScrapeAutoTesting/xcode/Consent-O-Matic.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+Consent-O-Matic-ScrapeAutoTesting/xcode/Consent-O-Matic.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+Consent-O-Matic-ScrapeAutoTesting/xcode/Consent-O-Matic.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/ViewController.swift
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/Contents.json
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AccentColor.colorset/Contents.json
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/consent-o-matic-circle-2.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Contents.json
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-16.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-20.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-29.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-32.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-33.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-40.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-41.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-42.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-58.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-59.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-60.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-64.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-76.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-80.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-81.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-87.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-120.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-121.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-128.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-152.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-167.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-180.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-256.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-257.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-512.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-513.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/AppIcon.appiconset/Icon-1025.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/LargeIcon.imageset/Contents.json
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Assets.xcassets/LargeIcon.imageset/Icon.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Base.lproj/Main.html
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Resources/Icon.png
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Resources/Script.js
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (App)/Resources/Style.css
+Consent-O-Matic-ScrapeAutoTesting/xcode/Shared (Extension)/SafariWebExtensionHandler.swift
+Consent-O-Matic-ScrapeAutoTesting/xcode/iOS (App)/AppDelegate.swift
+Consent-O-Matic-ScrapeAutoTesting/xcode/iOS (App)/Info.plist
+Consent-O-Matic-ScrapeAutoTesting/xcode/iOS (App)/SceneDelegate.swift
+Consent-O-Matic-ScrapeAutoTesting/xcode/iOS (App)/Base.lproj/LaunchScreen.storyboard
+Consent-O-Matic-ScrapeAutoTesting/xcode/iOS (App)/Base.lproj/Main.storyboard
+Consent-O-Matic-ScrapeAutoTesting/xcode/iOS (Extension)/Info.plist
+Consent-O-Matic-ScrapeAutoTesting/xcode/macOS (App)/AppDelegate.swift
+Consent-O-Matic-ScrapeAutoTesting/xcode/macOS (App)/Consent-O-Matic.entitlements
+Consent-O-Matic-ScrapeAutoTesting/xcode/macOS (App)/Info.plist
+Consent-O-Matic-ScrapeAutoTesting/xcode/macOS (App)/Base.lproj/Main.storyboard
+Consent-O-Matic-ScrapeAutoTesting/xcode/macOS (Extension)/Consent-O-Matic.entitlements
+Consent-O-Matic-ScrapeAutoTesting/xcode/macOS (Extension)/Info.plist
