@@ -70,9 +70,13 @@ async function formatCookies( url, cookies ) {
       let cookie_secure = cookies[i]['secure'];
 
       if ( cookies[i]['sameSite'] ) {
-        cookie_same_site = cookies[i]['sameSite'];
+        if ( cookies[i]['sameSite'] == 'None' ) {
+          cookie_same_site = 'no_restriction';
+        } else {
+          cookie_same_site = cookies[i]['sameSite'];
+        }
       } else {
-        cookie_same_site = 'None';
+        cookie_same_site = 'no_restriction';
       }
 
       let input_format = {
