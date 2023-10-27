@@ -15,27 +15,7 @@
         "http_only": false,
         "host_only": true,
         "secure": false,
-        "same_site": "none"
-      }
-    ]
-  },
-  "_ga": {
-    "visit_id": 1,
-    "name": "_ga",
-    "domain": ".hdblog.it",
-    "path": "/",
-    "first_party_domain": "",
-    "label": 0,
-    "cmp_origin": 0,
-    "variable_data": [
-      {
-        "value": "GA1.1.812444123.1698338688",
-        "expiry": 1732898687,
-        "session": false,
-        "http_only": false,
-        "host_only": true,
-        "secure": false,
-        "same_site": "none"
+        "same_site": "no_restriction"
       }
     ]
   },
@@ -49,33 +29,53 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "GS1.1.1698338687.1.0.1698338687.60.0.0",
-        "expiry": 1732898687,
+        "value": "GS1.1.1698342504.1.0.1698342504.60.0.0",
+        "expiry": 1732902504,
         "session": false,
         "http_only": false,
         "host_only": true,
         "secure": false,
-        "same_site": "none"
+        "same_site": "no_restriction"
       }
     ]
   },
-  "IMRID": {
+  "_ga": {
     "visit_id": 1,
-    "name": "IMRID",
-    "domain": ".imrworldwide.com",
+    "name": "_ga",
+    "domain": ".hdblog.it",
     "path": "/",
     "first_party_domain": "",
     "label": 0,
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "fa592090-741e-11ee-9517-0556ac6254ae",
-        "expiry": 1732034689,
+        "value": "GA1.1.867454662.1698342505",
+        "expiry": 1732902504,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1698343405,
         "session": false,
         "http_only": false,
         "host_only": true,
         "secure": true,
-        "same_site": "none"
+        "same_site": "no_restriction"
       }
     ]
   },
@@ -90,12 +90,32 @@
     "variable_data": [
       {
         "value": "1",
-        "expiry": 1701017089,
+        "expiry": 1701020906,
         "session": false,
         "http_only": false,
         "host_only": true,
         "secure": true,
-        "same_site": "none"
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dd5a1900-7427-11ee-b77b-89022ddaa918",
+        "expiry": 1732038506,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
       }
     ]
   },
@@ -109,13 +129,13 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "7221053520104307798",
-        "expiry": 1706114694,
+        "value": "2141361449645863247",
+        "expiry": 1706118509,
         "session": false,
         "http_only": true,
         "host_only": true,
         "secure": true,
-        "same_site": "none"
+        "same_site": "no_restriction"
       }
     ]
   },
@@ -129,13 +149,13 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "1%7C1698338693%7C1698338689236%7C220%7C1700066692846%7C4%7C0%7C0%7C1698338692836%7C1%7C16983386887115562%7C0",
-        "expiry": 1732034689,
+        "value": "1%7C1698342509%7C1698342505818%7C220%7C1700070508641%7C4%7C0%7C0%7C1698342508631%7C1%7C16983425053153644%7C0",
+        "expiry": 1732038505,
         "session": false,
         "http_only": false,
         "host_only": true,
         "secure": true,
-        "same_site": "none"
+        "same_site": "no_restriction"
       }
     ]
   },
@@ -149,33 +169,13 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "CP0SesMP0SeswA_ADAENDcCgAAAAAH_AAAAAJutV_H__bW9r8X7_aft0eY1P9_j77uQxBhfJE-4F3LvW_JwXx2E5NF36tqoKmRoEu3ZBIUNlHJHUTVmwaogVryHsakWcpTNKJ6BkkFMRM2dYCF5vm4tjeQKY5_p_d3fx2D-t_dv839zzz8VHn3c5f-e0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_l_rk2_eT13_pcvr_D--f_87_XW-9-CbgBJhoXEAXZEBITaBhFAgBGFYQEUCgAAAEgaICAFwYFOwMAl1gIgBAigAOCAEIAKMgAQAACQAIRABIEUCAACAQCAAEACAQCABgYABwAWggEAAIDoGKYUACgWECRGREKYEIUCQQEtlQglBUIK4QBFlgRQCI2CgAQBICKwABAWLwGAJASsSCBLqDaAAAgAQCilCoRSfmAIcEzZaq8UTAAAA.YAAAAAAAAAAA",
-        "expiry": 1732034689,
+        "value": "CP0SoAiP0SoA-A_ADAENDcCgAAAAAH_AAAAAJutV_H__bW9r8X7_aft0eY1P9_j77uQxBhfJE-4F3LvW_JwXx2E5NF36tqoKmRoEu3ZBIUNlHJHUTVmwaogVryHsakWcpTNKJ6BkkFMRM2dYCF5vm4tjeQKY5_p_d3fx2D-t_dv839zzz8VHn3c5f-e0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_l_rk2_eT13_pcvr_D--f_87_XW-9-CbgBJhoXEAXZEBITaBhFAgBGFYQEUCgAAAEgaICAFwYFOwMAl1gIgBAigAOCAEIAKMgAQAACQAIRABIEUCAACAQCAAEACAQCABgYABwAWggEAAIDoGKYUACgWECRGREKYEIUCQQEtlQglBUIK4QBFlgRQCI2CgAQBICKwABAWLwGAJASsSCBLqDaAAAgAQCilCoRSfmAIcEzZaq8UTAAAA.YAAAAAAAAAAA",
+        "expiry": 1732038505,
         "session": false,
         "http_only": false,
         "host_only": true,
         "secure": true,
-        "same_site": "none"
-      }
-    ]
-  },
-  "mh1": {
-    "visit_id": 1,
-    "name": "mh1",
-    "domain": ".hdblog.it",
-    "path": "/",
-    "first_party_domain": "",
-    "label": 0,
-    "cmp_origin": 0,
-    "variable_data": [
-      {
-        "value": "1",
-        "expiry": 1732898693,
-        "session": false,
-        "http_only": false,
-        "host_only": true,
-        "secure": false,
-        "same_site": "none"
+        "same_site": "no_restriction"
       }
     ]
   },
@@ -189,13 +189,73 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "ChgIkqsfEAoYAiACKAIwhq_qqQY4AkACSAIQhq_qqQYYAQ..",
-        "expiry": 1706114694,
+        "value": "ChgIkqsfEAoYAiACKAIw7czqqQY4AkACSAIQ7czqqQYYAQ..",
+        "expiry": 1706118509,
         "session": false,
         "http_only": true,
         "host_only": true,
         "secure": true,
-        "same_site": "none"
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tc_cj_v2": {
+    "visit_id": 1,
+    "name": "tc_cj_v2",
+    "domain": ".ovh.commander1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "~%24.%2B%27%7B4ZZZ5%20%7C%20.%2F%2A%21ZZZKPSRMNLOJSJJJZZZpc_q",
+        "expiry": 1729878509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tc_cj_v2_cmp": {
+    "visit_id": 1,
+    "name": "tc_cj_v2_cmp",
+    "domain": ".ovh.commander1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%24%2Fy%24%29%2FyLJLMy%2A1%23y%7D%27%2A0~y%7C%7B-%20%28%20%2F%7B%27yt%5Ci%2B-%2A.%2By.%7B%27%20y%7B%7D%2C0%24.%24%2F%24%2A%29",
+        "expiry": 1729878509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TCID": {
+    "visit_id": 1,
+    "name": "TCID",
+    "domain": ".commander1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2023102619482910516300473",
+        "expiry": 1729878509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
       }
     ]
   }
