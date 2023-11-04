@@ -32,10 +32,26 @@ if [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
   exit 0
 fi
 
+# Save URL in var
 url="$1"
 
-echo "START DETECTION ON $url"
+# Assign value to params
+if [ "$2" = "no_interaction" ]; then
+  consent0="no_interaction"
+else
+  consent0="${2:- -1}"
+fi
 
-node cookies_downloader.js "$url" 0
+consent1="${3:- -1}"
+consent2="${4:- -1}"
+consent3="${5:- -1}"
+
+echo "START DETECTION ON $url"
+echo $consent0
+echo $consent1
+echo $consent2
+echo $consent3
+
+node cookies_downloader.js "$url" "$consent0" "$consent1" "$consent2" "$consent3"
 
 exit 0

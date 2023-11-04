@@ -22,6 +22,10 @@ async function parseArgsAndSetup() {
       consents_array.push(arguments[i]);
     }
   }
+  
+  // PRINT FOR DEBUG PURPOSES
+  //console.log( "Consent arrays ");
+  //console.log( consents_array );
 
   return [url, consents_array];
 }
