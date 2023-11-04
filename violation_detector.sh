@@ -36,4 +36,6 @@ url="$1"
 
 echo "START DETECTION ON $url"
 
+node cookies_downloader.js "$url" 0
+
 exit 0

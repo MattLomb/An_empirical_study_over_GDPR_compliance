@@ -29,8 +29,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "GS1.1.1698342504.1.0.1698342504.60.0.0",
-        "expiry": 1732902504,
+        "value": "GS1.1.1699134886.1.0.1699134886.60.0.0",
+        "expiry": 1733694886,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -49,32 +49,12 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "GA1.1.867454662.1698342505",
-        "expiry": 1732902504,
+        "value": "GA1.1.1962783390.1699134887",
+        "expiry": 1733694886,
         "session": false,
         "http_only": false,
         "host_only": true,
         "secure": false,
-        "same_site": "no_restriction"
-      }
-    ]
-  },
-  "test_cookie": {
-    "visit_id": 1,
-    "name": "test_cookie",
-    "domain": ".doubleclick.net",
-    "path": "/",
-    "first_party_domain": "",
-    "label": 0,
-    "cmp_origin": 0,
-    "variable_data": [
-      {
-        "value": "CheckForPermission",
-        "expiry": 1698343405,
-        "session": false,
-        "http_only": false,
-        "host_only": true,
-        "secure": true,
         "same_site": "no_restriction"
       }
     ]
@@ -90,7 +70,7 @@
     "variable_data": [
       {
         "value": "1",
-        "expiry": 1701020906,
+        "expiry": 1701726887,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -109,8 +89,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "dd5a1900-7427-11ee-b77b-89022ddaa918",
-        "expiry": 1732038506,
+        "value": "c5848c70-7b5c-11ee-bac9-93e756298fc9",
+        "expiry": 1732830887,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -129,8 +109,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "2141361449645863247",
-        "expiry": 1706118509,
+        "value": "1450395578984878864",
+        "expiry": 1706910892,
         "session": false,
         "http_only": true,
         "host_only": true,
@@ -149,8 +129,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "1%7C1698342509%7C1698342505818%7C220%7C1700070508641%7C4%7C0%7C0%7C1698342508631%7C1%7C16983425053153644%7C0",
-        "expiry": 1732038505,
+        "value": "1%7C1699134890%7C1699134887308%7C222%7C1700862889652%7C4%7C0%7C0%7C1699134889639%7C1%7C16991348869727548%7C0",
+        "expiry": 1732830887,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -169,12 +149,32 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "CP0SoAiP0SoA-A_ADAENDcCgAAAAAH_AAAAAJutV_H__bW9r8X7_aft0eY1P9_j77uQxBhfJE-4F3LvW_JwXx2E5NF36tqoKmRoEu3ZBIUNlHJHUTVmwaogVryHsakWcpTNKJ6BkkFMRM2dYCF5vm4tjeQKY5_p_d3fx2D-t_dv839zzz8VHn3c5f-e0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_l_rk2_eT13_pcvr_D--f_87_XW-9-CbgBJhoXEAXZEBITaBhFAgBGFYQEUCgAAAEgaICAFwYFOwMAl1gIgBAigAOCAEIAKMgAQAACQAIRABIEUCAACAQCAAEACAQCABgYABwAWggEAAIDoGKYUACgWECRGREKYEIUCQQEtlQglBUIK4QBFlgRQCI2CgAQBICKwABAWLwGAJASsSCBLqDaAAAgAQCilCoRSfmAIcEzZaq8UTAAAA.YAAAAAAAAAAA",
-        "expiry": 1732038505,
+        "value": "CP0w2iJP0w2igA_ADAENDeCgAAAAAH_AAAAAJvNV_H__bW9r8X7_aft0eY1P9_j77sQxBhfJE-4F3LvW_JwXx2E5NF36tqoKmRoEu3ZBIUNlHJHUTVmwaogVryHsakWcpTNKJ6BkkFMRM2dYCF5vm4tjeQKY5_p_d3fx2D-t_dv839zzz8VHn3c5f-e0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_l_rk2_eT13_pcvr_D--f_87_XW-9_BN8Asw0LiALsiAkJtAwigQAjCsICKBAAAACQNEBAC4MCnYGAS6wkQAgRQAHBACEAFGQAIAABIAEIgAkCKBAABAIBAACABAIBAAwMAA4ALQQCAAEB0DFMKABQLCBIjIiFMCEKBIICWygQSgqEFcIAiywIoBEbBQAIAkBFYAAgLF4DAEgJWJBAl1BtAAAQAIBRShUIpPzAEOCZstVeKJsAAA.YAAAAAAAAAAA",
+        "expiry": 1732830887,
         "session": false,
         "http_only": false,
         "host_only": true,
         "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mh1": {
+    "visit_id": 1,
+    "name": "mh1",
+    "domain": ".hdblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1733694890,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
         "same_site": "no_restriction"
       }
     ]
@@ -189,8 +189,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "ChgIkqsfEAoYAiACKAIw7czqqQY4AkACSAIQ7czqqQYYAQ..",
-        "expiry": 1706118509,
+        "value": "ChgIkqsfEAoYAiACKAIwqvuaqgY4AkACSAIQqvuaqgYYAQ..",
+        "expiry": 1706910890,
         "session": false,
         "http_only": true,
         "host_only": true,
@@ -199,18 +199,18 @@
       }
     ]
   },
-  "tc_cj_v2": {
+  "APC": {
     "visit_id": 1,
-    "name": "tc_cj_v2",
-    "domain": ".ovh.commander1.com",
+    "name": "APC",
+    "domain": ".doubleclick.net",
     "path": "/",
     "first_party_domain": "",
     "label": 0,
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "~%24.%2B%27%7B4ZZZ5%20%7C%20.%2F%2A%21ZZZKPSRMNLOJSJJJZZZpc_q",
-        "expiry": 1729878509,
+        "value": "AfxxVi54sssJcS3LiZ03V9I4iTtS-EJAycCJuiKP3ZEj_zu1nV93yw",
+        "expiry": 1714686890,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -219,40 +219,20 @@
       }
     ]
   },
-  "tc_cj_v2_cmp": {
+  "test_cookie": {
     "visit_id": 1,
-    "name": "tc_cj_v2_cmp",
-    "domain": ".ovh.commander1.com",
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
     "path": "/",
     "first_party_domain": "",
     "label": 0,
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "%24%2Fy%24%29%2FyLJLMy%2A1%23y%7D%27%2A0~y%7C%7B-%20%28%20%2F%7B%27yt%5Ci%2B-%2A.%2By.%7B%27%20y%7B%7D%2C0%24.%24%2F%24%2A%29",
-        "expiry": 1729878509,
+        "value": "CheckForPermission",
+        "expiry": 1699135790,
         "session": false,
-        "http_only": false,
-        "host_only": true,
-        "secure": true,
-        "same_site": "no_restriction"
-      }
-    ]
-  },
-  "TCID": {
-    "visit_id": 1,
-    "name": "TCID",
-    "domain": ".commander1.com",
-    "path": "/",
-    "first_party_domain": "",
-    "label": 0,
-    "cmp_origin": 0,
-    "variable_data": [
-      {
-        "value": "2023102619482910516300473",
-        "expiry": 1729878509,
-        "session": false,
-        "http_only": false,
+        "http_only": true,
         "host_only": true,
         "secure": true,
         "same_site": "no_restriction"
