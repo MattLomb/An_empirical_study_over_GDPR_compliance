@@ -32,8 +32,14 @@ if [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
   exit 0
 fi
 
+# Save current directory
+current_directory=$(pwd)
+
 # Save URL in var
 url="$1"
+
+# Save JSON out path
+json_out=$url".json"
 
 # Assign value to params
 if [ "$2" = "no_interaction" ]; then
@@ -53,5 +59,24 @@ echo $consent2
 echo $consent3
 
 node cookies_downloader.js "$url" "$consent0" "$consent1" "$consent2" "$consent3"
+
+echo "COOKIES DOWNLOAD COMPLETED: saved in "$json_out
+
+# Variables for CookieBlock execution
+cookie_block_folder_path="/Users/matteolombardi/Desktop/tesi/CookieBlock-Consent-Classifier"
+cookie_block_predict_class_script="predict_class.py"
+cookie_block_model="models/xgbmodel_full_20210517_204300.xgb"
+
+cd "$cookie_block_folder_path"
+
+python3 "$cookie_block_predict_class_script" "$cookie_block_model" "$json_out"
+
+echo "PREDICTION COMPLETED"
+
+# Return in current directory and execute the report script
+cd "$current_directory"
+predictions="/Users/matteolombardi/Desktop/tesi/CookieBlock-Consent-Classifier/predictions.json"
+
+node violation_report.js "$predictions"
 
 exit 0
