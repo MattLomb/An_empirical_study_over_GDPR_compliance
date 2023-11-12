@@ -77,6 +77,6 @@ echo "PREDICTION COMPLETED"
 cd "$current_directory"
 predictions="/Users/matteolombardi/Desktop/tesi/CookieBlock-Consent-Classifier/predictions.json"
 
-node violation_report.js "$predictions"
+node violation_report.js "$url" "$predictions" "$consent0" "$consent1" "$consent2" "$consent3"
 
 exit 0

@@ -2,18 +2,18 @@ const fs = require('fs');
 const { isEmpty } = require('lodash');
 
 // Check number of args passed to the script
-if (process.argv.length < 4) {
-  console.log( 'USAGE: node violation_report.js <predictions_file.json> <list_of_consents>' );
+if (process.argv.length < 5) {
+  console.log( 'USAGE: node violation_report.js <url> <predictions_file.json> <list_of_consents>' );
   console.log( 'CONSENTS can be:\n no_interactions -> cookies downloaded without any interaction with the CMP \n 0 -> necessary cookies \n 1 -> functional cookies \n 2 -> analytics cookies\n 3 -> advertising cookies' ); 
   console.log( 'EXAMPLE: node violation_report.js <predictions.json> 0 1 2' );
   process.exit(1);
 }
 
 // Take filename from command line
-const jsonFilename = process.argv[2];
+const jsonFilename = process.argv[3];
 
 // Create consents array to double check the violation
-var arguments = process.argv.slice(2);
+var arguments = process.argv.slice(3);
   arguments.forEach((value, index) => {
     //console.log(index, value);
   });

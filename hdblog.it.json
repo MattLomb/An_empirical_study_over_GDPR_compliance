@@ -29,8 +29,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "GS1.1.1699287309.1.0.1699287309.60.0.0",
-        "expiry": 1733847309,
+        "value": "GS1.1.1699814276.1.0.1699814276.60.0.0",
+        "expiry": 1734374276,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -49,8 +49,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "GA1.1.647968569.1699287310",
-        "expiry": 1733847309,
+        "value": "GA1.1.208460343.1699814277",
+        "expiry": 1734374276,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -69,8 +69,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "a8d05f50-7cbf-11ee-b568-9fa78a6cb74a",
-        "expiry": 1732983310,
+        "value": "99b2b5c0-818a-11ee-aee0-f9c026040ac5",
+        "expiry": 1733510277,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -90,7 +90,7 @@
     "variable_data": [
       {
         "value": "1",
-        "expiry": 1701879310,
+        "expiry": 1702406277,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -109,8 +109,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "2929622322389381265",
-        "expiry": 1707063314,
+        "value": "5414976786786865228",
+        "expiry": 1707590282,
         "session": false,
         "http_only": true,
         "host_only": true,
@@ -129,8 +129,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "1%7C1699287313%7C1699287310619%7C222%7C1701015312895%7C4%7C0%7C0%7C1699287312885%7C1%7C16992873102184920%7C0",
-        "expiry": 1732983310,
+        "value": "1%7C1699814280%7C1699814277738%7C223%7C1701542280397%7C4%7C0%7C0%7C1699814280387%7C1%7C16998142772725754%7C0",
+        "expiry": 1733510277,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -149,8 +149,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "CP02qqSP02qqpA_ADAENDeCgAAAAAH_AAAAAJvNV_H__bW9r8X7_aft0eY1P9_j77sQxBhfJE-4F3LvW_JwXx2E5NF36tqoKmRoEu3ZBIUNlHJHUTVmwaogVryHsakWcpTNKJ6BkkFMRM2dYCF5vm4tjeQKY5_p_d3fx2D-t_dv839zzz8VHn3c5f-e0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_l_rk2_eT13_pcvr_D--f_87_XW-9_BN8Asw0LiALsiAkJtAwigQAjCsICKBAAAACQNEBAC4MCnYGAS6wkQAgRQAHBACEAFGQAIAABIAEIgAkCKBAABAIBAACABAIBAAwMAA4ALQQCAAEB0DFMKABQLCBIjIiFMCEKBIICWygQSgqEFcIAiywIoBEbBQAIAkBFYAAgLF4DAEgJWJBAl1BtAAAQAIBRShUIpPzAEOCZstVeKJsAAA.YAAAAAAAAAAA",
-        "expiry": 1732983310,
+        "value": "CP1KxM5P1KxNUA_ADAENDfCgAAAAAH_AAAAAJwtV_H__bW9r8X7_aft0eY1P9_j77sQxBhfJE-4F3LvW_JwXx2E5NF36tqoKmRoEu3ZBIUNlHJHUTVmwaogVryHsakWcpTNKJ6BkkFMRM2dYCF5vm4tjeQKY5_p_d3fx2D-t_dv839zzz8VHn3e5f-e0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_l_rk2_eT13_pcvr_D--f_87_XW-9_YJwgFmGhcQBdkSEhNoGEUCAEYVhARQIAAAASBogIAXBgU7AwCXWEiAECKAA4IAQgAoyABAAAJAAhEAEgRQIAAIBAIAAQAIBAIAGBgAHABaCAQAAgOgYphQAKBYQJEZEQpgQhQJBAS2UCCUFQgrhAEWWBFAIjYKABAEgIrAAEBYvAYAkBKxIIEuoNoAACABAKKUKhFJ-YAhwTNlqrxRNoAA.YAAAAAAAAAAA",
+        "expiry": 1733510277,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -170,31 +170,11 @@
     "variable_data": [
       {
         "value": "1",
-        "expiry": 1733847313,
+        "expiry": 1734374281,
         "session": false,
         "http_only": false,
         "host_only": true,
         "secure": false,
-        "same_site": "no_restriction"
-      }
-    ]
-  },
-  "anj": {
-    "visit_id": 1,
-    "name": "anj",
-    "domain": ".adnxs.com",
-    "path": "/",
-    "first_party_domain": "",
-    "label": 0,
-    "cmp_origin": 0,
-    "variable_data": [
-      {
-        "value": "dTM7k!M4/8CxrEQF']wIg2GVOfKHI3!]tbP6j2F-XstGt!@D_S$l@<O",
-        "expiry": 1707063313,
-        "session": false,
-        "http_only": true,
-        "host_only": true,
-        "secure": true,
         "same_site": "no_restriction"
       }
     ]
@@ -209,8 +189,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "ChgIkqsfEAoYAiACKAIwkaKkqgY4AkACSAIQkaKkqgYYAQ..",
-        "expiry": 1707063313,
+        "value": "ChgIkqsfEAoYAiACKAIwibfEqgY4AkACSAIQibfEqgYYAQ..",
+        "expiry": 1707590281,
         "session": false,
         "http_only": true,
         "host_only": true,
@@ -229,8 +209,8 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "AfxxVi4jYkN_dIDOhcJ_yDZGpKK4BP2QnxTLMmVPIO85MP-tQqY8Ag",
-        "expiry": 1714839313,
+        "value": "AfxxVi5a-ZJPozu-ma0NxBKw_3zfufwkbYcWMqlzBRZspFBfAUy4jA",
+        "expiry": 1715366281,
         "session": false,
         "http_only": false,
         "host_only": true,
@@ -239,9 +219,9 @@
       }
     ]
   },
-  "IDE": {
+  "test_cookie": {
     "visit_id": 1,
-    "name": "IDE",
+    "name": "test_cookie",
     "domain": ".doubleclick.net",
     "path": "/",
     "first_party_domain": "",
@@ -249,70 +229,10 @@
     "cmp_origin": 0,
     "variable_data": [
       {
-        "value": "AHWqTUknVUAKZC_0220_MM1nxt_8Y7nictH4lCdNEvnSD1iyGtgYUoq956OWQgehZ5k",
-        "expiry": 1732983313,
+        "value": "CheckForPermission",
+        "expiry": 1699815181,
         "session": false,
         "http_only": true,
-        "host_only": true,
-        "secure": true,
-        "same_site": "no_restriction"
-      }
-    ]
-  },
-  "t": {
-    "visit_id": 1,
-    "name": "t",
-    "domain": ".datafront.co",
-    "path": "/",
-    "first_party_domain": "",
-    "label": 0,
-    "cmp_origin": 0,
-    "variable_data": [
-      {
-        "value": "k8DAwA==",
-        "expiry": 1701879314,
-        "session": false,
-        "http_only": false,
-        "host_only": true,
-        "secure": true,
-        "same_site": "no_restriction"
-      }
-    ]
-  },
-  "e": {
-    "visit_id": 1,
-    "name": "e",
-    "domain": ".datafront.co",
-    "path": "/",
-    "first_party_domain": "",
-    "label": 0,
-    "cmp_origin": 0,
-    "variable_data": [
-      {
-        "value": "AQA6xblWkbNCZgAAAYulaq7c",
-        "expiry": 1730823314,
-        "session": false,
-        "http_only": false,
-        "host_only": true,
-        "secure": true,
-        "same_site": "no_restriction"
-      }
-    ]
-  },
-  "p": {
-    "visit_id": 1,
-    "name": "p",
-    "domain": ".datafront.co",
-    "path": "/",
-    "first_party_domain": "",
-    "label": 0,
-    "cmp_origin": 0,
-    "variable_data": [
-      {
-        "value": "ATrFuVaRs0JmAAAAAAAPAAABi/KqEtwAB2RlZmF1bHQ=",
-        "expiry": 1700583314,
-        "session": false,
-        "http_only": false,
         "host_only": true,
         "secure": true,
         "same_site": "no_restriction"
