@@ -1,19 +1,44 @@
 const fs = require('fs');
+const { isEmpty } = require('lodash');
 
 // Check number of args passed to the script
-if (process.argv.length < 3) {
-  console.log('USAGE: node violation_report.js <predictions_file.json>');
+if (process.argv.length < 4) {
+  console.log( 'USAGE: node violation_report.js <predictions_file.json> <list_of_consents>' );
+  console.log( 'CONSENTS can be:\n no_interactions -> cookies downloaded without any interaction with the CMP \n 0 -> necessary cookies \n 1 -> functional cookies \n 2 -> analytics cookies\n 3 -> advertising cookies' ); 
+  console.log( 'EXAMPLE: node violation_report.js <predictions.json> 0 1 2' );
   process.exit(1);
 }
 
 // Take filename from command line
 const jsonFilename = process.argv[2];
 
+// Create consents array to double check the violation
+var arguments = process.argv.slice(2);
+  arguments.forEach((value, index) => {
+    //console.log(index, value);
+  });
+
+const consents_array = [];
+let i = 0;
+for (i; i < arguments.length; i++) {
+  if (i > 0) {
+    if ( arguments[i] == 'no_consents' ) {
+      consents_array.push(0);
+    } else {
+      consents_array.push( parseInt( arguments[i] ) );
+    }
+    
+  }
+}
+
+//console.log( consents_array ); 
+
 // Report arrays
 const necessary = [];
 const functional = [];
 const analytics = [];
 const advertising = [];
+const report = [ necessary, functional, analytics, advertising ];
 
 // Read JSON content and parse it
 fs.readFile(jsonFilename, 'utf-8', (error, data) => {
@@ -38,15 +63,77 @@ fs.readFile(jsonFilename, 'utf-8', (error, data) => {
         }
       }
 
-      console.log("FINAL REPORT");
+      writeFinalReport( report, consents_array );
 
-      console.log( "NECESSARY COOKIES = " + necessary );
-      console.log( "FUNCTIONAL COOKIES = " + functional );
-      console.log( "ANALYTICS COOKIES = " + analytics );
-      console.log( "ADVERTISING COOKIES = " + advertising );
+      return;
 
     } catch (parseError) {
       console.error('Error while parsing the JSON file:', parseError);
     }
   }
 });
+
+// This function is the one that performs the report
+function writeFinalReport( report, consents_array ) {
+
+  var violation = false;
+
+  console.log("FINAL REPORT");
+
+  console.log( "NECESSARY COOKIES = " + report[0] );
+  console.log( "FUNCTIONAL COOKIES = " + report[1] );
+  console.log( "ANALYTICS COOKIES = " + report[2] );
+  console.log( "ADVERTISING COOKIES = " + report[3] );
+
+  // Perform the comparison between the consent array and the report array
+  const all_consents = [0, 1, 2, 3];
+  const difference = 
+      all_consents.filter((element) => !consents_array.includes(element)); 
+  //console.log(difference);
+
+  if ( isEmpty(difference) ) {
+    console.log("ALL PERMISSIONS GIVEN");
+  } else {
+    difference.forEach( function (elem) {
+      if ( !isEmpty( report[elem] ) ) {
+        //console.log("COOKIES WITH NO CONSENT FOUND!");
+        violation = true;
+      }
+    });
+  }
+
+  if ( violation == true ) {
+    console.log( "VIOLATION FOUND: the consents given have not been respected " );
+    var given_consents = "GIVEN CONSENTS FOR: ";
+    consents_array.forEach( function(elem) {
+      if ( elem == 0 ) {
+        given_consents += "Necessary ";
+      } else if ( elem == 1 ) {
+        given_consents += "Functional ";
+      } else if ( elem == 2 ) {
+        given_consents +=  "Analytics "; 
+      } else if ( elem == 3 ) {
+        given_consents += "Advertising ";
+      }
+    });
+    console.log( given_consents + "cookies" );
+
+    var violation_string = "FOUND CONSENTS ALSO FOR: ";
+    difference.forEach( function(elem) {
+      if ( elem == 0 && !isEmpty(report[0]) ) {
+        violation_string += "Necessary ";
+      } else if ( elem == 1 && !isEmpty(report[1]) ) {
+        violation_string += "Functional ";
+      } else if ( elem == 2 && !isEmpty(report[2]) ) {
+        violation_string +=  "Analytics "; 
+      } else if ( elem == 3 && !isEmpty(report[3]) ) {
+        violation_string += "Advertising ";
+      }
+    });
+    console.log( violation_string + "cookies" );
+
+  } else {
+    console.log( "NO VIOLATION FOUND");
+  }
+
+}
