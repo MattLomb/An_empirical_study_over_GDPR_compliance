@@ -19,6 +19,7 @@
   "dependencies": {
     "@chcaa/web-extractor": "^1.4.2",
     "await-lock": "^2.2.2",
+    "axios": "^1.6.1",
     "commander": "^4.1.1",
     "delay": "^5.0.0",
     "filenamify-url": "^2.1.2",
