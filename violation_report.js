@@ -1,5 +1,9 @@
 const fs = require('fs');
 const { isEmpty } = require('lodash');
+const path = require('path');
+
+// Enhance when the Cookiepedia classifier will be completed
+const model = "xgb";
 
 // Check number of args passed to the script
 if (process.argv.length < 5) {
@@ -11,6 +15,8 @@ if (process.argv.length < 5) {
 
 // Take filename from command line
 const jsonFilename = process.argv[3];
+
+const url = process.argv[2];
 
 // Create consents array to double check the violation
 var arguments = process.argv.slice(3);
@@ -132,8 +138,42 @@ function writeFinalReport( report, consents_array ) {
     });
     console.log( violation_string + "cookies" );
 
+    writeWebsiteWithViolationInOutput( model, url );
+
   } else {
     console.log( "NO VIOLATION FOUND");
   }
 
+}
+
+function writeWebsiteWithViolationInOutput( model, url ) {
+
+  // Create folder if it doesn't exists
+  const violationsFolderPath = path.join(__dirname, 'violations');
+  if (!fs.existsSync(violationsFolderPath)) {
+    fs.mkdirSync(violationsFolderPath);
+  }
+
+  // Create model file for output
+  const modelFilePath = path.join(violationsFolderPath, `${model}.txt`);
+
+  // Check if the file exists, otherwise create it
+  if (!fs.existsSync(modelFilePath)) {
+    // Se il file non esiste, crealo
+    fs.writeFileSync(modelFilePath, '');
+  }
+
+  // Read file content
+  const currentContent = fs.readFileSync(modelFilePath, 'utf-8');
+  var content = url + "\n";
+
+  fs.appendFile(modelFilePath, content, { flag: 'a+' }, (err) => {
+    if (err) {
+      console.log( err );
+      return;
+    } else {
+      console.log(`URL "${url}" aggiunto al file "${model}.txt".`);; 
+    }
+  });
+  
 }
