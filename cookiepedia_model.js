@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-async function getRequest(param) {
+async function getCookiepediaClassification(param) {
   try {
     var ret;
     const url = 'https://cookiepedia.co.uk/cookies';
@@ -72,6 +72,6 @@ async function getRequest(param) {
 // Esempio di utilizzo della funzione
 const parameterValue = 'azdbfdbdfb';
 
-getRequest(parameterValue).then( result => console.log(result));
+getCookiepediaClassification(parameterValue).then( result => console.log(result));
 */
-module.exports = formatCookies;
+module.exports = getCookiepediaClassification;
