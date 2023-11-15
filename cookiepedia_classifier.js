@@ -22,18 +22,9 @@ async function readAndParseJson(filePath) {
             });
         }
     }
-/*
-    // Stampa il contenuto di ogni oggetto JSON
-    jsonData.forEach((object, index) => {
-      console.log(`Object ${index + 1}:`, object);
-    });
-
-    // Restituisci l'oggetto JSON
-    return jsonData;
-    */
    console.log( cookies_names );
    console.log( cookies_predictions );
-   await writeCookiepediaPredictions( 'hdblog.it', cookies_names, cookies_predictions );
+   await writeCookiepediaPredictions( url, cookies_names, cookies_predictions );
   } catch (error) {
     console.error('Error reading/parsing JSON file:', error.message);
     return null;
@@ -61,8 +52,11 @@ async function writeCookiepediaPredictions( fileName, names, predictions ) {
 var cookies_names = [];
 var cookies_predictions = [];
 
+// URL PARAMETER IS USED TO RETRIEVE THE JSON FILE
+var url = process.argv[2];
+
 // Esempio di utilizzo
-const jsonFilePath = './hdblog.it.json';
+const jsonFilePath = './' + url + '.json';
 const parsedData = readAndParseJson(jsonFilePath);
 
 if (parsedData) {
