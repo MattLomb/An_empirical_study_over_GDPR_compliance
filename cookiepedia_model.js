@@ -1,7 +1,9 @@
 const axios = require('axios');
 
-async function getRequest(url, param) {
+async function getRequest(param) {
   try {
+    var ret;
+    const url = 'https://cookiepedia.co.uk/cookies';
     // Aggiungi il parametro alla URL (se necessario)
     const apiUrl = param ? `${url}/${param}` : url;
 
@@ -22,22 +24,54 @@ async function getRequest(url, param) {
       const regex = /The main purpose of this cookie is:\s*<strong>(.*)<\/strong>/;
       const match = response.data.match(regex);
 
-      if (match) {
+      if ( match ) {
         cookiepediaCategory = match[1];
-      }
+        switch ( cookiepediaCategory ) {
+          case 'Strictly Necessary':
+            ret = 0;
+            break;
+          case 'Functionality':
+            ret = 1;
+            break;
+          case 'Performance':
+            ret = 2;
+            break;
+          case 'Targeting/Advertising':
+            ret = 3;
+            break;
+          case 'Unknown':
+            ret = -1;
+            break;
+          case 'Not Found':
+            ret = -1;
+            break;
+          case 'Match Failed':
+            ret = -1;
+            break;
+        }
+     }
     } else {
       cookiepediaCategory = 'Connection Failed';
+      ret = -1;
     }
 
     console.log(cookiepediaCategory);
+    if ( cookiepediaCategory == 'Not Found' ) {
+      ret = -1;
+    }
+    return ret;
   } catch (error) {
     // Gestisci gli errori
     console.error('Error during GET request:', error.message);
+    ret = -1;
+    return ret;
   }
 }
 
+/*
 // Esempio di utilizzo della funzione
-const targetUrl = 'https://cookiepedia.co.uk/cookies';
-const parameterValue = '_GA';
+const parameterValue = 'azdbfdbdfb';
 
-getRequest(targetUrl, parameterValue);
+getRequest(parameterValue).then( result => console.log(result));
+*/
+module.exports = formatCookies;
