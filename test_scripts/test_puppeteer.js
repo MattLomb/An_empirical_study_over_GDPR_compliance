@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer-extra');
 const path = require('path');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
-const readFileLines = require( './fileReader' );
+const readFileLines = require( '../fileReader' );
 
 (async () => {
 

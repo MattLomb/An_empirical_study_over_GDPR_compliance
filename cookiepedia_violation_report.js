@@ -3,13 +3,13 @@ const { isEmpty } = require('lodash');
 const path = require('path');
 
 // Enhance when the Cookiepedia classifier will be completed
-const model = "xgb";
+const model = "cookiepedia";
 
 // Check number of args passed to the script
 if (process.argv.length < 5) {
-  console.log( 'USAGE: node violation_report.js <url> <predictions_file.json> <list_of_consents>' );
+  console.log( 'USAGE: node cookiepedia_violation_report.js <url> <predictions_file.json> <list_of_consents>' );
   console.log( 'CONSENTS can be:\n no_interactions -> cookies downloaded without any interaction with the CMP \n 0 -> necessary cookies \n 1 -> functional cookies \n 2 -> analytics cookies\n 3 -> advertising cookies' ); 
-  console.log( 'EXAMPLE: node violation_report.js hdblog.it predictions.json 0 1 2' );
+  console.log( 'EXAMPLE: node cookiepedia_violation_report.js hdblog.it predictions.json 0 1 2' );
   process.exit(1);
 }
 
@@ -44,7 +44,8 @@ const necessary = [];
 const functional = [];
 const analytics = [];
 const advertising = [];
-const report = [ necessary, functional, analytics, advertising ];
+const undefined = [];
+const report = [ necessary, functional, analytics, advertising, undefined ];
 
 // Read JSON content and parse it
 fs.readFile(jsonFilename, 'utf-8', (error, data) => {
@@ -66,6 +67,8 @@ fs.readFile(jsonFilename, 'utf-8', (error, data) => {
             analytics.push( key );
         } else if ( jsonData[key] == 3 ) {
             advertising.push( key );
+        } else if ( jsonData[key] == -1 ) {
+            undefined.push( key );
         }
       }
 
@@ -90,6 +93,7 @@ function writeFinalReport( report, consents_array ) {
   console.log( "FUNCTIONAL COOKIES = " + report[1] );
   console.log( "ANALYTICS COOKIES = " + report[2] );
   console.log( "ADVERTISING COOKIES = " + report[3] );
+  console.log( "UNDEFINED COOKIES: " + report[4] );
 
   // Perform the comparison between the consent array and the report array
   const all_consents = [0, 1, 2, 3];
@@ -137,6 +141,7 @@ function writeFinalReport( report, consents_array ) {
       }
     });
     console.log( violation_string + "cookies" );
+    console.log( "Cookiepedia has not been able to classify those cookies: " + report[4] );
 
     writeWebsiteWithViolationInOutput( model, url );
 

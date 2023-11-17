@@ -98,7 +98,7 @@ async function parseArgsAndSetup() {
 
         await browser.close();
 
-        await formatCookies( 'hdblog.it', all_browser_cookies );
+        await formatCookies( arguments[0], all_browser_cookies );
     
         return result;
     }
