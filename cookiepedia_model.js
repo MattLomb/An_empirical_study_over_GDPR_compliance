@@ -1,3 +1,16 @@
+/******
+ * COOKIEPEDIA MODEL
+ * This script contains the functions related to the implementation of the Cookiepedia model.
+ * How it works?
+ * It takes the cookie name and passes it to the cookiepedia url that returns in output the cookie category.
+ * Then, parsing HTML, the script takes the cookie category and converts it into an integer (like for the CookieBlock model):
+ * 0 -> Necessary
+ * 1 -> Functionality
+ * 2 -> Performance
+ * 3 -> Targeting/Advertising
+ * -1 -> Undefined
+ */
+
 const axios = require('axios');
 
 async function getCookiepediaClassification(param) {
@@ -55,7 +68,7 @@ async function getCookiepediaClassification(param) {
       ret = -1;
     }
 
-    console.log(cookiepediaCategory);
+    //console.log(cookiepediaCategory);
     if ( cookiepediaCategory == 'Not Found' ) {
       ret = -1;
     }

@@ -1,8 +1,13 @@
+/******
+ * Script that produces the report of the violation for a given website.
+ * It works by comparing the consents given by the user and the cookies categories setted during the navigation.
+ * The model used here is the Cookiepedia Model
+ */
+
 const fs = require('fs');
 const { isEmpty } = require('lodash');
 const path = require('path');
 
-// Enhance when the Cookiepedia classifier will be completed
 const model = "cookiepedia";
 
 // Check number of args passed to the script
@@ -53,9 +58,10 @@ fs.readFile(jsonFilename, 'utf-8', (error, data) => {
     console.error('Error while reading the JSON file:', error);
   } else {
     try {
-      // Prova a convertire il contenuto del file in un oggetto JavaScript
+      // Convert the content of the JSON file into a JSON object
       const jsonData = JSON.parse(data);
 
+      // Add each cookie in the related array based on its category
       for ( key in jsonData ) {
         /*console.log("KEY: " + key );
         console.log("VALUE: " + jsonData[key]);*/
@@ -87,8 +93,7 @@ function writeFinalReport( report, consents_array ) {
 
   var violation = false;
 
-  console.log("FINAL REPORT");
-
+  console.log("\n\nCOOKIEPEDIA REPORT OVER WEBSITE: " + url +" \n\n");
   console.log( "NECESSARY COOKIES = " + report[0] );
   console.log( "FUNCTIONAL COOKIES = " + report[1] );
   console.log( "ANALYTICS COOKIES = " + report[2] );
@@ -113,7 +118,7 @@ function writeFinalReport( report, consents_array ) {
   }
 
   if ( violation == true ) {
-    console.log( "VIOLATION FOUND: the consents given have not been respected " );
+    console.log( "\n\n⚠️VIOLATION FOUND: the consents given have not been respected⚠️" );
     var given_consents = "GIVEN CONSENTS FOR: ";
     consents_array.forEach( function(elem) {
       if ( elem == 0 ) {
@@ -146,7 +151,7 @@ function writeFinalReport( report, consents_array ) {
     writeWebsiteWithViolationInOutput( model, url );
 
   } else {
-    console.log( "NO VIOLATION FOUND");
+    console.log( "NO VIOLATION FOUND FOR: " + url );
   }
 
 }
@@ -154,7 +159,7 @@ function writeFinalReport( report, consents_array ) {
 function writeWebsiteWithViolationInOutput( model, url ) {
 
   // Create folder if it doesn't exists
-  const violationsFolderPath = path.join(__dirname, 'violations');
+  const violationsFolderPath = path.join(__dirname, 'violations/cookiepedia');
   if (!fs.existsSync(violationsFolderPath)) {
     fs.mkdirSync(violationsFolderPath);
   }
@@ -174,10 +179,10 @@ function writeWebsiteWithViolationInOutput( model, url ) {
 
   fs.appendFile(modelFilePath, content, { flag: 'a+' }, (err) => {
     if (err) {
-      console.log( err );
+      //console.log( err );
       return;
     } else {
-      console.log(`URL "${url}" aggiunto al file "${model}.txt".`);; 
+      //console.log(`URL "${url}" aggiunto al file "${model}.txt".`);; 
     }
   });
   

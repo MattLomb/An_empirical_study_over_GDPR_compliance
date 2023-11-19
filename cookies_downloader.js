@@ -4,7 +4,11 @@ const cookiesFormatter = require( './cookiesFormatter' );
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const formatCookies = require('./cookiesFormatter');
 
-/****** PARSE INPUT -> get the url and the arguments to pass as input to CoM Custom Event ******/
+/****** 
+ * PARSE INPUT
+ * Get the URL to contact
+ * Get the arguments to pass as input to CoM Custom Event
+******/
 
 async function parseArgsAndSetup() {
 
@@ -30,14 +34,15 @@ async function parseArgsAndSetup() {
   return [url, consents_array];
 }
 
-
+/***** MAIN  ******/
 (async () => {
 
+  // Get args
   const args = await parseArgsAndSetup();
-
   const url = args[0];
   const consents_array = args[1];
 
+  // Launch Puppeteer with Consent-O-Matic extension
   const pathToExtension = path.join(process.cwd(), './Consent-O-Matic-ScrapeAutoTesting/Extension');
   const browser = await puppeteer
   .use(StealthPlugin())
@@ -53,29 +58,34 @@ async function parseArgsAndSetup() {
   try {
     const page = await browser.newPage();
 
-    // SET ITALIAN LANGUAGE
+    // Set Italian Language
     await page.setExtraHTTPHeaders({
       'Accept-Language': 'it-IT'
     });
   
+    // Wait until network requests have been completed
     const navigation = await page.goto(url, {
         waitUntil: 'networkidle2'
     });
 
-    /* THIS CODE IS THE ONE IN CHARGE OF CREATING A PARTICULAR SESSION FOR CHROMIUM THAT ALLOWS TO DOWNLOAD ALL THE COOKIES SETTED */
+    /* Create a Chromium based Developer Session
+    * Only in this way it is possible to download all cookies, also third party cookies, setted over the browser!
+    */
     const client = await page.target().createCDPSession();
 
-    console.log( 'URL VISITATO ' + url );
+    //console.log( 'URL VISITATO ' + url );
+    //console.log( navigation.status().toString() );
 
-    console.log( navigation.status().toString() );
-
+    /****** DOWNLOAD:
+     * If the website we are contacting doesn't return OK as navigation status, break!
+     ******/
     if ( navigation.status().toString() != '200' ) {
         console.log( "ERROR DURING NAVIGATION ON  " + url + "\nERROR CODE/RESPONSE STATUS: " + navigation.status().toString() );
     } else {
         //Inject the code of Consent-O-Matic
         let promise = new Promise((resolve)=>{
             page.exposeFunction("publishCoMResult", (result)=>{
-                console.log(result);
+                //console.log(result);
                 resolve(result);
             });
             //page.screenshot({ path: url + '.png', fullPage: true });
@@ -83,21 +93,22 @@ async function parseArgsAndSetup() {
     
         // Start executing the script for the interaction with the CMP
         await page.evaluate( (consents_array)=>{
-            var test = consents_array.join();
-            window.dispatchEvent(new CustomEvent("startCOM", { detail: test }));
+            var consents_values = consents_array.join();
+            window.dispatchEvent(new CustomEvent("startCOM", { detail: consents_values }));
         }, consents_array);
     
         let result = await promise;
 
-        // WAIT FOR ALL COOKIES BEING SETTED FROM THE CMP AND FROM THE THIRD PARTY SERVICES
+        // Wait untile all cookies have been setted (8s is the amount of time required to complete all network activities)
         await new Promise(resolve => setTimeout(resolve, 8000));
 
-        console.log("------ COOKIES RETRIEVED ------");
+        //console.log("------ COOKIES RETRIEVED ------");
         const all_browser_cookies = (await client.send('Storage.getCookies')).cookies;
         //console.log(all_browser_cookies);
 
         await browser.close();
 
+        // Format cookies retrieved in the required input format for CookieBlock
         await formatCookies( arguments[0], all_browser_cookies );
     
         return result;
@@ -106,7 +117,6 @@ async function parseArgsAndSetup() {
   } catch ( err ) {
     console.log( "Error: " + err );
   }
-
   
 })();
 

@@ -28,7 +28,7 @@ function writeUrlToErrors(url, filePath) {
       });
 }
 
-// Funzione per scrivere un array di oggetti JSON in file specifici
+// Function that takes in input the JSON returned by Consent-O-Matic and that writes the name of the URL in the CMP file.
 async function writeJsonArrayToFiles(jsonArray, directoryPath) {
   try {
     // Assicurati che la directory esista, altrimenti creala
@@ -49,6 +49,7 @@ async function writeJsonArrayToFiles(jsonArray, directoryPath) {
   }
 }
 
+// Function that writes domains names in the txt file containing errors.
 async function writeErrorsToFiles(errorsList, directoryPath) {
     try {
         // Assicurati che la directory esista, altrimenti creala

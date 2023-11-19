@@ -1,3 +1,11 @@
+/*
+This module is the one that formats the cookies as the CookieBlock model requires.
+INPUT:
+  - cookies: list of cookies downloaded by the 'cookies_downloader.js' script
+OUTPUT:
+  - it writes in a JSON file the cookies in the CookieBlock format
+*/
+
 const fs = require('fs');
 const path = require('path');
 
@@ -49,7 +57,7 @@ async function compileCookie( cookie ) {
   });
 }
 
-// Funzione per leggere un file riga per riga e cookietituire le righe come un array
+
 async function formatCookies( url, cookies ) {
   return new Promise((cookieolve, reject) => {
     //const fileName = url.replace(/[^a-zA-Z0-9]/g, '_') + '.json';
@@ -106,8 +114,8 @@ async function formatCookies( url, cookies ) {
       // Scrivi i cookies nel file
       writeCookiesInOutput( filePath, names, formatted_cookies );
 
-      console.log(formatted_cookies);
-      console.log(names);
+      //console.log(formatted_cookies);
+      //console.log(names);
     });
 }
 
