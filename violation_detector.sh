@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to the Violation Detector tool! \n The tool will perform the detection of the GDRP violation over the website given in input. \n At the end it will print a report using the detection model CookieBlock and then Cookiepedia."
+printf "Welcome to the Violation Detector tool! \nThe tool will perform the detection of the GDRP violation over the website given in input. \nAt the end it will print a report using the detection model CookieBlock and then Cookiepedia.\n"
 
 print_usage() {
     echo "Usage: $0 <URL> [consents_value]"
@@ -39,7 +39,7 @@ current_directory=$(pwd)
 url="$1"
 
 # Save JSON out path
-json_out="cookies_formatted/"$url".json"
+json_out=$url".json"
 
 # Assign value to params
 if [ "$2" = "no_interaction" ]; then
@@ -67,17 +67,29 @@ cookie_block_folder_path="/Users/matteolombardi/Desktop/tesi/CookieBlock-Consent
 cookie_block_predict_class_script="predict_class.py"
 cookie_block_model="models/xgbmodel_full_20210517_204300.xgb"
 
+echo "COOKIEBLOCK PREDICTION START"
+
 cd "$cookie_block_folder_path"
 
-python3 "$cookie_block_predict_class_script" "$cookie_block_model" "$json_out"
+cp "$current_directory""/cookies_formatted/""$json_out" "./cookies_formatted/""$json_out"
+
+python3 "$cookie_block_predict_class_script" "$cookie_block_model" "./cookies_formatted/""$json_out"
 
 echo "COOKIEBLOCK PREDICTION COMPLETED"
-echo "COOKIEBLOCK REPORT"
 
 # Return in current directory and execute the report script
 cd "$current_directory"
 predictions="/Users/matteolombardi/Desktop/tesi/CookieBlock-Consent-Classifier/predictions.json"
 
 node violation_report.js "$url" "$predictions" "$consent0" "$consent1" "$consent2" "$consent3"
+
+# Variables for Cookiepedia model and classifier
+printf "\n\nCOOKIEPEDIA PREDICTION START"
+
+node cookiepedia_classifier.js "$url"
+
+cookiepedia_predictions="./cookiepedia_json/cookiepedia_"$url".json"
+
+node cookiepedia_violation_report.js "$url" "$cookiepedia_predictions" "$consent0" "$consent1" "$consent2" "$consent3"
 
 exit 0

@@ -93,7 +93,7 @@ function writeFinalReport( report, consents_array ) {
 
   var violation = false;
 
-  console.log("\n\nCOOKIEPEDIA REPORT OVER WEBSITE: " + url +" \n\n");
+  console.log("\n\nCOOKIEPEDIA REPORT OVER WEBSITE: " + url + " \n");
   console.log( "NECESSARY COOKIES = " + report[0] );
   console.log( "FUNCTIONAL COOKIES = " + report[1] );
   console.log( "ANALYTICS COOKIES = " + report[2] );
@@ -118,7 +118,7 @@ function writeFinalReport( report, consents_array ) {
   }
 
   if ( violation == true ) {
-    console.log( "\n\n⚠️\tVIOLATION FOUND: the consents given have not been respected\t⚠️" );
+    console.log( "\n⚠️\tVIOLATION FOUND: the consents given have not been respected\t⚠️" );
     var given_consents = "GIVEN CONSENTS FOR: ";
     consents_array.forEach( function(elem) {
       if ( elem == 0 ) {
