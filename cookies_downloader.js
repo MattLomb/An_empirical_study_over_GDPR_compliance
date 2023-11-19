@@ -3,6 +3,7 @@ const path = require('path');
 const cookiesFormatter = require( './cookiesFormatter' );
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const formatCookies = require('./cookiesFormatter');
+const { arguments } = require('commander');
 
 /****** 
  * PARSE INPUT
@@ -14,7 +15,7 @@ async function parseArgsAndSetup() {
 
   var arguments = process.argv.slice(2);
   arguments.forEach((value, index) => {
-    console.log(index, value);
+    //console.log(index, value);
   });
 
   const url = 'https://' + arguments[0];
@@ -27,11 +28,12 @@ async function parseArgsAndSetup() {
     }
   }
   
+  const url_file_name = arguments[0];
   // PRINT FOR DEBUG PURPOSES
   //console.log( "Consent arrays ");
   //console.log( consents_array );
 
-  return [url, consents_array];
+  return [url, consents_array, url_file_name];
 }
 
 /***** MAIN  ******/
@@ -41,6 +43,7 @@ async function parseArgsAndSetup() {
   const args = await parseArgsAndSetup();
   const url = args[0];
   const consents_array = args[1];
+  const url_file_name = args[2];
 
   // Launch Puppeteer with Consent-O-Matic extension
   const pathToExtension = path.join(process.cwd(), './Consent-O-Matic-ScrapeAutoTesting/Extension');
@@ -109,7 +112,7 @@ async function parseArgsAndSetup() {
         await browser.close();
 
         // Format cookies retrieved in the required input format for CookieBlock
-        await formatCookies( arguments[0], all_browser_cookies );
+        await formatCookies( url_file_name, all_browser_cookies );
     
         return result;
     }

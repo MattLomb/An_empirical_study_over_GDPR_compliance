@@ -60,8 +60,9 @@ async function compileCookie( cookie ) {
 
 async function formatCookies( url, cookies ) {
   return new Promise((cookieolve, reject) => {
+    console.log( url );
     //const fileName = url.replace(/[^a-zA-Z0-9]/g, '_') + '.json';
-    const fileName = url + '.json';
+    const fileName = 'cookies_formatted/' + url + '.json';
     const filePath = path.join(__dirname, fileName);
 
     var i = 0;
@@ -123,7 +124,7 @@ async function formatCookies( url, cookies ) {
 
 async function writeCookiesInOutput( filePath, names, formatted_cookies ) {
   const jsonOutput = {};
-  console.log(formatted_cookies);
+  //console.log(formatted_cookies);
 
   for (let i = 0; i < names.length; i++) {
     const key = `${names[i]}`;

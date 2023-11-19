@@ -118,7 +118,7 @@ function writeFinalReport( report, consents_array ) {
   }
 
   if ( violation == true ) {
-    console.log( "\n\n⚠️VIOLATION FOUND: the consents given have not been respected⚠️" );
+    console.log( "\n\n⚠️\tVIOLATION FOUND: the consents given have not been respected\t⚠️" );
     var given_consents = "GIVEN CONSENTS FOR: ";
     consents_array.forEach( function(elem) {
       if ( elem == 0 ) {

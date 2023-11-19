@@ -68,7 +68,7 @@ var url = process.argv[2];
 
 
 // MAIN //
-const jsonFilePath = './' + url + '.json';
+const jsonFilePath = './cookies_formatted/' + url + '.json';
 const parsedData = readAndParseJson(jsonFilePath);
 
 if (parsedData) {

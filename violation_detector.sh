@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Welcome to the Violation Detector tool!"
+echo "Welcome to the Violation Detector tool! \n The tool will perform the detection of the GDRP violation over the website given in input. \n At the end it will print a report using the detection model CookieBlock and then Cookiepedia."
 
 print_usage() {
     echo "Usage: $0 <URL> [consents_value]"
@@ -39,7 +39,7 @@ current_directory=$(pwd)
 url="$1"
 
 # Save JSON out path
-json_out=$url".json"
+json_out="cookies_formatted/"$url".json"
 
 # Assign value to params
 if [ "$2" = "no_interaction" ]; then
@@ -53,10 +53,10 @@ consent2="${4:- -1}"
 consent3="${5:- -1}"
 
 echo "START DETECTION ON $url"
-echo $consent0
-echo $consent1
-echo $consent2
-echo $consent3
+#echo $consent0
+#echo $consent1
+#echo $consent2
+#echo $consent3
 
 node cookies_downloader.js "$url" "$consent0" "$consent1" "$consent2" "$consent3"
 
@@ -71,7 +71,8 @@ cd "$cookie_block_folder_path"
 
 python3 "$cookie_block_predict_class_script" "$cookie_block_model" "$json_out"
 
-echo "PREDICTION COMPLETED"
+echo "COOKIEBLOCK PREDICTION COMPLETED"
+echo "COOKIEBLOCK REPORT"
 
 # Return in current directory and execute the report script
 cd "$current_directory"
