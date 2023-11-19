@@ -72,5 +72,5 @@ const jsonFilePath = './cookies_formatted/' + url + '.json';
 const parsedData = readAndParseJson(jsonFilePath);
 
 if (parsedData) {
-  console.log('Parsed JSON data:', parsedData);
+  //console.log('Parsed JSON data:', parsedData);
 }
