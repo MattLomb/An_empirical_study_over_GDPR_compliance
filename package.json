@@ -18,6 +18,7 @@
   ],
   "dependencies": {
     "@chcaa/web-extractor": "^1.4.2",
+    "@iabtcf/core": "^1.5.6",
     "await-lock": "^2.2.2",
     "axios": "^1.6.1",
     "commander": "^4.1.1",
