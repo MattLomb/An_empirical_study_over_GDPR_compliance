@@ -70,7 +70,37 @@ async function writeErrorsToFiles(errorsList, directoryPath) {
       }
 }
 
+function writeUrlToIAB(url, filePath) {
+  return new Promise((resolve, reject) => {
+      var stringToWrite = url + '\n';
+      fs.appendFile(filePath, stringToWrite, { flag: 'a+' }, (err) => {
+        if (err) {
+          reject(err);
+          return;
+        }
+        resolve();
+      });
+    });
+}
+
+async function writeWebsiteToCMPIdFolder( cmpID, website_name, directoryPath ) {
+  try {
+    // Assicurati che la directory esista, altrimenti creala
+    if (!fs.existsSync(directoryPath)) {
+      fs.mkdirSync(directoryPath, { recursive: true });
+    }
+    const fileName = cmpID + '.txt';
+    console.log( cmpID );
+    console.log(fileName);
+    const filePath = path.join(directoryPath, fileName);
+    await writeUrlToIAB( website_name, filePath);
+  } catch (err) {
+    throw err;
+  }
+}
+
 module.exports = {
     writeJsonArrayToFiles,
-    writeErrorsToFiles
+    writeErrorsToFiles,
+    writeWebsiteToCMPIdFolder
 };

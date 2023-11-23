@@ -1,9 +1,8 @@
 const puppeteer = require('puppeteer-extra');
 const path = require('path');
-const cookiesFormatter = require( './cookiesFormatter' );
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
-const formatCookies = require('./cookiesFormatter');
 const { arguments } = require('commander');
+const { writeJsonArrayToFiles, writeErrorsToFiles, writeWebsiteToCMPIdFolder } = require('./writeOutput');
 
 /****** 
  * PARSE INPUT
@@ -24,7 +23,7 @@ async function parseArgsAndSetup() {
   //console.log( "Consent arrays ");
   //console.log( consents_array );
 
-  return [url];
+  return [url, arguments[0]];
 }
 
 /***** MAIN  ******/
@@ -33,6 +32,7 @@ async function parseArgsAndSetup() {
   // Get args
   const args = await parseArgsAndSetup();
   const url = args[0];
+  const website_name = args[1];
 
   // Launch Puppeteer with Consent-O-Matic extension
   const pathToExtension = path.join(process.cwd(), './Consent-O-Matic-ScrapeAutoTesting/Extension');
@@ -90,26 +90,30 @@ async function parseArgsAndSetup() {
           
         if (!isTcfapiAvailable) {
             console.log("TCF API NOT AVAILABLE");
+            var directoryResult = './results/IAB';
+            await writeWebsiteToCMPIdFolder( 'no_cmp', website_name, directoryResult );
             await browser.close();
             return;
+        } else {
+          // Esegui il codice nella console del browser
+          const pingReturn = await page.evaluate(() => {
+              return new Promise(resolve => {
+                  __tcfapi('ping', 2, pingReturn => {
+                      resolve(pingReturn);
+                  });
+              });
+          });
+
+          var directoryResult = './results/IAB';
+          await writeWebsiteToCMPIdFolder( pingReturn.cmpId, website_name, directoryResult );
+
+          console.log(pingReturn);
+          console.log( pingReturn.cmpId );
+          await browser.close();
+          return;
         }
 
-        // Esegui il codice nella console del browser
-        const pingReturn = await page.evaluate(() => {
-            return new Promise(resolve => {
-                __tcfapi('ping', 2, pingReturn => {
-                    resolve(pingReturn);
-                });
-            });
-        });
-
-        console.log(pingReturn);
-
-        console.log( pingReturn.id );
-
-        await browser.close();
-    
-        return;
+        
     }
     
   } catch ( err ) {

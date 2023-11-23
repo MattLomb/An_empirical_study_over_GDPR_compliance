@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer-extra');
 const path = require('path');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const readFileLines = require( './fileReader' );
-const { writeJsonArrayToFiles, writeErrorsToFiles } = require('./writeOutput'); // Assicurati che il percorso sia corretto
+const { writeJsonArrayToFiles, writeErrorsToFiles } = require('./writeOutput');
 
 const pathToExtension = path.join(process.cwd(), './Consent-O-Matic-ScrapeAutoTesting/Extension');
 const directoryResult = './results';
