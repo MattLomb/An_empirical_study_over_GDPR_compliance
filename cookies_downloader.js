@@ -1,3 +1,18 @@
+/******
+ * Input:
+ * - url to visit
+ * - consents
+ * Output: cookies downloaded and formatted from the website passed as input. 
+ * 
+ * Usage example: "node cookies_downloader.js site.it 0 1 2"
+ * 
+ * How it works?
+ * The script opens a puppeteer based instance browser and start a Developer Session over the website passed as input.
+ * At this point it executes the Consent-O-Matic extension using the consents passed as input to interact with the CMP installed over the website.
+ * It waits for the interaction and downloads all cookies setted.
+ * The cookies downloaded are passed into the cookiesFormatted module that formats them into the desired format required by CookieBlock project.
+ */
+
 const puppeteer = require('puppeteer-extra');
 const path = require('path');
 const cookiesFormatter = require( './cookiesFormatter' );

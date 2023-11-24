@@ -13,7 +13,7 @@ const fs = require('fs');
 const cookiepedia_model = require('./cookiepedia_model');
 const getCookiepediaClassification = require('./cookiepedia_model');
 
-async function readAndParseJson(filePath) {
+async function readAndParseJsonForCookiepedia(filePath) {
   try {
     // Leggi il contenuto del file
     const fileContent = fs.readFileSync(filePath, 'utf-8');
@@ -69,7 +69,7 @@ var url = process.argv[2];
 
 // MAIN //
 const jsonFilePath = './cookies_formatted/' + url + '.json';
-const parsedData = readAndParseJson(jsonFilePath);
+const parsedData = readAndParseJsonForCookiepedia(jsonFilePath);
 
 if (parsedData) {
   //console.log('Parsed JSON data:', parsedData);
