@@ -1,3 +1,17 @@
+/******
+ * Input:
+ * - none
+ * Output: Detection of the cmp installed over the websites contained inside the input_url.txt file. 
+ * 
+ * Usage example: "node cmp_detector.js"
+ * 
+ * How it works?
+ * The script opens a puppeteer based instance browser and start a Developer Session over the website passed as input.
+ * At this point it executes the Consent-O-Matic extension using the consents passed as input to check which CMP is installed over the website under examination.
+ * Then it stores the results into certain data structures and at the end it registers the result into the result folder. 
+ * The result folder contains different files named as the CMP: each file contains the website with this cmp installed.
+ */
+
 const puppeteer = require('puppeteer-extra');
 const path = require('path');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');

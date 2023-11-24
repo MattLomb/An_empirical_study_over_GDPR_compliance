@@ -25,7 +25,6 @@ const { arguments } = require('commander');
  * Get the URL to contact
  * Get the arguments to pass as input to CoM Custom Event
 ******/
-
 async function parseArgsAndSetup() {
 
   var arguments = process.argv.slice(2);
