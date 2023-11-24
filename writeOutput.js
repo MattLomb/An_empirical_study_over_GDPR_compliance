@@ -90,8 +90,6 @@ async function writeWebsiteToCMPIdFolder( cmpID, website_name, directoryPath ) {
       fs.mkdirSync(directoryPath, { recursive: true });
     }
     const fileName = cmpID + '.txt';
-    console.log( cmpID );
-    console.log(fileName);
     const filePath = path.join(directoryPath, fileName);
     await writeUrlToIAB( website_name, filePath);
   } catch (err) {

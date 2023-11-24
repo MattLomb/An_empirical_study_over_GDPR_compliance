@@ -2,6 +2,7 @@ const puppeteer = require('puppeteer-extra');
 const path = require('path');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const { arguments } = require('commander');
+const readFileLines = require( './fileReader' );
 const { writeJsonArrayToFiles, writeErrorsToFiles, writeWebsiteToCMPIdFolder } = require('./writeOutput');
 
 /****** 
@@ -9,7 +10,6 @@ const { writeJsonArrayToFiles, writeErrorsToFiles, writeWebsiteToCMPIdFolder } =
  * Get the URL to contact
  * Get the arguments to pass as input to CoM Custom Event
 ******/
-
 async function parseArgsAndSetup() {
 
   var arguments = process.argv.slice(2);
@@ -17,13 +17,14 @@ async function parseArgsAndSetup() {
     //console.log(index, value);
   });
 
-  const url = 'https://www.' + arguments[0];
+  // Get file name
+  var input_file = arguments[0];
 
   // PRINT FOR DEBUG PURPOSES
   //console.log( "Consent arrays ");
   //console.log( consents_array );
 
-  return [url, arguments[0]];
+  return [input_file];
 }
 
 /***** MAIN  ******/
@@ -31,95 +32,92 @@ async function parseArgsAndSetup() {
 
   // Get args
   const args = await parseArgsAndSetup();
-  const url = args[0];
-  const website_name = args[1];
+  const input_file = args[0];
+  //console.log(input_file);
 
-  // Launch Puppeteer with Consent-O-Matic extension
-  const pathToExtension = path.join(process.cwd(), './Consent-O-Matic-ScrapeAutoTesting/Extension');
-  const browser = await puppeteer
-  .use(StealthPlugin())
-  .launch({
-    headless: false,
-    args: [
-      `--disable-extensions-except=${pathToExtension}`,
-      `--load-extension=${pathToExtension}`,
-      '--disable-web-security' // Disabilita la sicurezza web per consentire i cookies di terze parti
-    ],
-  });
+  // Read file in input containing the urls and take the first one to crawl
+  var urlList = await readFileLines( input_file );
 
-  try {
-    const page = await browser.newPage();
-
-    // Set Italian Language
-    await page.setExtraHTTPHeaders({
-      'Accept-Language': 'it-IT'
+  for ( const url of urlList ) {
+    // Create a new instance of puppeteer
+    const browser = await puppeteer
+    .use(StealthPlugin())
+    .launch({
+      headless: 'new'
     });
+
+    console.log( "Checking IAB Compliance on website: " + url );
+
+    try {
+      const page = await browser.newPage();
   
-    // Wait until network requests have been completed
-    const navigation = await page.goto(url, {
-        waitUntil: 'networkidle2'
-    });
-
-    /* Create a Chromium based Developer Session
-    * Only in this way it is possible to download all cookies, also third party cookies, setted over the browser!
-    */
-    const client = await page.target().createCDPSession();
-
-    //console.log( 'URL VISITATO ' + url );
-    //console.log( navigation.status().toString() );
-
-    /****** DOWNLOAD:
-     * If the website we are contacting doesn't return OK as navigation status, break!
-     ******/
-    if ( navigation.status().toString() != '200' ) {
-        console.log( "ERROR DURING NAVIGATION ON  " + url + "\nERROR CODE/RESPONSE STATUS: " + navigation.status().toString() );
-    } else {
-        // Start executing the script for the interaction with the CMP
-        // Aspetta che la funzione __tcfapi sia disponibile
-        const isTcfapiAvailable = await page.evaluate(async () => {
-            const startTime = Date.now();
-            while (typeof __tcfapi !== 'function') {
-                if (Date.now() - startTime > 5000) {
-                    // Timeout after 5 seconds
-                    return false;
-                }
-                await new Promise(resolve => setTimeout(resolve, 100));
-            }
-            return true;
-        });
-          
-        if (!isTcfapiAvailable) {
-            console.log("TCF API NOT AVAILABLE");
-            var directoryResult = './results/IAB';
-            await writeWebsiteToCMPIdFolder( 'no_cmp', website_name, directoryResult );
-            await browser.close();
-            return;
-        } else {
-          // Esegui il codice nella console del browser
-          const pingReturn = await page.evaluate(() => {
-              return new Promise(resolve => {
-                  __tcfapi('ping', 2, pingReturn => {
-                      resolve(pingReturn);
-                  });
-              });
-          });
-
-          var directoryResult = './results/IAB';
-          await writeWebsiteToCMPIdFolder( pingReturn.cmpId, website_name, directoryResult );
-
-          console.log(pingReturn);
-          console.log( pingReturn.cmpId );
-          await browser.close();
-          return;
-        }
-
-        
-    }
+      // Set Italian Language
+      await page.setExtraHTTPHeaders({
+        'Accept-Language': 'it-IT'
+      });
     
-  } catch ( err ) {
-    console.log( "Error: " + err );
-  }
+      // Wait until network requests have been completed
+      const navigation = await page.goto(url, {
+          waitUntil: 'networkidle2'
+      });
+
+      
+      // If the website we are contacting doesn't return OK as navigation status, break!
+      
+      if ( navigation.status().toString() != '200' ) {
+          console.log( "ERROR DURING NAVIGATION ON  " + url + "\nERROR CODE/RESPONSE STATUS: " + navigation.status().toString() );
+      } else {
+          // Start executing the script for the interaction with the CMP
+          // Wait until the _tcfcmp function is not available
+          const isTcfapiAvailable = await page.evaluate(async () => {
+              const startTime = Date.now();
+              while (typeof __tcfapi !== 'function') {
+                  if (Date.now() - startTime > 5000) {
+                      // Timeout after 5 seconds
+                      return false;
+                  }
+                  await new Promise(resolve => setTimeout(resolve, 100));
+              }
+              return true;
+          });
+            
+          if (!isTcfapiAvailable) {
+              // Write result inside related file
+              console.log("TCF API NOT AVAILABLE \n");
+              var directoryResult = './results/IAB';
+              await writeWebsiteToCMPIdFolder( 'no_cmp', url, directoryResult );
+              await browser.close();
+          } else {
+            // Execute the tcfapi function over the page
+            const pingReturn = await page.evaluate(() => {
+                return new Promise(resolve => {
+                    __tcfapi('ping', 2, pingReturn => {
+                        resolve(pingReturn);
+                    });
+                });
+            });
   
+            // Write result inside related file.
+            var directoryResult = './results/IAB';
+            await writeWebsiteToCMPIdFolder( pingReturn.cmpId, url, directoryResult );
+  
+            console.log(pingReturn);
+            console.log( '\n' );
+            //console.log( pingReturn.cmpId );
+            await browser.close();
+          }
+  
+      }
+      
+    } catch ( err ) {
+      console.log( "Error: " + err );
+    }
+
+  }
+
+  console.log( "Process completed" );
+  return 0;
+
 })();
 
 
