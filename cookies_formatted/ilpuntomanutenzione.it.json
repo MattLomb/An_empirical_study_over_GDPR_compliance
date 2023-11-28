@@ -1,0 +1,122 @@
+{
+  "CookieScriptConsent": {
+    "visit_id": 1,
+    "name": "CookieScriptConsent",
+    "domain": "ilpuntomanutenzione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"bannershown\":1}",
+        "expiry": 1703783263,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cf_clearance": {
+    "visit_id": 1,
+    "name": "cf_clearance",
+    "domain": ".ilpuntomanutenzione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "QTUun3B_aExHaYNcw7PEMbFSmeVSXdF1rPLvIklKTwk-1701191263-0-1-9cf14eca.602315eb.c510360f-0.2.1701191263",
+        "expiry": 1732727263,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_MMER2CQZTG": {
+    "visit_id": 1,
+    "name": "_ga_MMER2CQZTG",
+    "domain": ".ilpuntomanutenzione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1701191263.1.0.1701191263.60.0.0",
+        "expiry": 1735751263,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ilpuntomanutenzione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1961744239.1701191264",
+        "expiry": 1735751263,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".ilpuntomanutenzione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.486844609.1701191264",
+        "expiry": 1701277663,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_173589370_1": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_173589370_1",
+    "domain": ".ilpuntomanutenzione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1701191323,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}
