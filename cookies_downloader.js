@@ -79,16 +79,26 @@ async function parseArgsAndSetup() {
     await page.setExtraHTTPHeaders({
       'Accept-Language': 'it-IT'
     });
+
+    /* Create a Chromium based Developer Session
+    * Only in this way it is possible to download all cookies, also third party cookies, setted over the browser!
+    * Clean cookies setted to be sure that third parties cookies are related to page interaction.
+    */
+    const client = await page.target().createCDPSession();
+    await client.send('Network.clearBrowserCookies');
   
+    /*
+    console.log("------ COOKIES AT STARTUP ------");
+    const cookies_startup = (await client.send('Storage.getCookies')).cookies;
+    console.log(cookies_startup);
+    */
+
     // Wait until network requests have been completed
     const navigation = await page.goto(url, {
         waitUntil: 'networkidle2'
     });
 
-    /* Create a Chromium based Developer Session
-    * Only in this way it is possible to download all cookies, also third party cookies, setted over the browser!
-    */
-    const client = await page.target().createCDPSession();
+    
 
     //console.log( 'URL VISITATO ' + url );
     //console.log( navigation.status().toString() );
