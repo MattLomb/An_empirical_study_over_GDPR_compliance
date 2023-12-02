@@ -375,3 +375,7 @@ www.phoneclick.it
 www.lvmh.com
 www.wolterskluwer.com
 www.timfin.it
+privati.vodafone.it
+www.simest.it
+www.gaviscon.it
+app.flowcode.com
