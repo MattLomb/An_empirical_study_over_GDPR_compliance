@@ -85,16 +85,34 @@ async function parseArgsAndSetup() {
               // Write result inside related file
               console.log("TCF API NOT AVAILABLE \n");
               var directoryResult = './results/IAB';
-              await writeWebsiteToCMPIdFolder( 'no_cmp', url, directoryResult );
+              await writeWebsiteToCMPIdFolder( 'no_tcf_api', url, directoryResult );
               await browser.close();
           } else {
             // Execute the tcfapi function over the page
-            const pingReturn = await page.evaluate(() => {
-                return new Promise(resolve => {
+            const pingReturn = await page.evaluate(async () => {
+              return new Promise(async resolve => {
+                let result;
+            
+                // Funzione ricorsiva per aspettare che cmpLoaded diventi true
+                const waitForCmpLoaded = async () => {
+                  result = await new Promise(cmpResolve => {
                     __tcfapi('ping', 2, pingReturn => {
-                        resolve(pingReturn);
+                      cmpResolve( pingReturn );
                     });
-                });
+                  });
+            
+                  if (!result || !result.cmpLoaded) {
+                    // Attendi un po' prima di ricontrollare
+                    setTimeout(waitForCmpLoaded, 100);
+                  } else {
+                    // Resolve quando cmpLoaded è true
+                    resolve(result);
+                  }
+                };
+            
+                // Avvia il processo di attesa
+                await waitForCmpLoaded();
+              });
             });
   
             // Write result inside related file.
@@ -104,19 +122,21 @@ async function parseArgsAndSetup() {
             console.log(pingReturn);
             console.log( '\n' );
             //console.log( pingReturn.cmpId );
-            await browser.close();
           }
   
       }
+
+      await browser.close();
       
     } catch ( err ) {
       console.log( "Error: " + err );
+      let directory_null = './results/IAB';
+      await writeWebsiteToCMPIdFolder( 'errors', url, directory_null );
     }
 
   }
 
   console.log( "Process completed" );
-  return 0;
 
 })();
 
