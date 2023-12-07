@@ -86,7 +86,7 @@ async function parseArgsAndSetup() {
               console.log("TCF API NOT AVAILABLE \n");
               var directoryResult = './results/IAB';
               await writeWebsiteToCMPIdFolder( 'no_tcf_api', url, directoryResult );
-              await browser.close();
+              //await browser.close();
           } else {
             // Execute the tcfapi function over the page
             const pingReturn = await page.evaluate(async () => {
@@ -126,13 +126,16 @@ async function parseArgsAndSetup() {
   
       }
 
-      await browser.close();
+      //await browser.close();
       
     } catch ( err ) {
       console.log( "Error: " + err );
       let directory_null = './results/IAB';
       await writeWebsiteToCMPIdFolder( 'errors', url, directory_null );
     }
+
+    await browser.close();
+
 
   }
 
