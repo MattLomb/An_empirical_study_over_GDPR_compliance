@@ -35,7 +35,7 @@ var errors = [];
     const browser = await puppeteer
     .use(StealthPlugin())
     .launch({
-      headless: false,
+      headless: 'new',
       args: [
         `--disable-extensions-except=${pathToExtension}`,
         `--load-extension=${pathToExtension}`
