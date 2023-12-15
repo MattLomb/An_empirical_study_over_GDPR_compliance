@@ -75,3 +75,6 @@ www.doctolib.it
 wamiz.it
 www.tuttosport.com
 www.idealista.it
+ADD FROM IAB
+https://infojobs.it
+https://zankyou.it

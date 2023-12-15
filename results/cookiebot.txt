@@ -745,3 +745,11 @@ www.whiteready.com
 www.inetworking.it
 www.turisanda.it
 www.aligroup.com
+CMP NAME: cookiebot ADD FROM IAB
+https://windtre.it
+https://windtre.it
+https://windtre.it
+https://windtrebusiness.it
+https://acquariodigenova.it
+https://ordinearchitettivarese.it
+https://villacarlotta.it

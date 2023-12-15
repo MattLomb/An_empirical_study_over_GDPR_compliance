@@ -1,4 +1,3 @@
-CMP NAME = LIVERAMP
 https://autouncle.it
 https://amando.it
 https://annuncianimali.it

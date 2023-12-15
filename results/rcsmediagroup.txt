@@ -1,4 +1,4 @@
-CMP NAME: RCS Mediagroup Spa
+CMP NAME: RCS Mediagroup Spa ADD FROM IAB
 https://la7.it
 https://youreporter.it
 https://leitv.it
