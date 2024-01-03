@@ -144,14 +144,20 @@ function writeFinalReport( report, consents_array ) {
     });
     console.log( violation_string + "cookies" );
 
+    // Write website with violation in output to perform statistical analysis at the end
     writeWebsiteWithViolationInOutput( model, url );
+
+    // Write report in output
+    writeViolationReportInOutput( model, url, report, given_consents, violation_string );
 
   } else {
     console.log( "NO VIOLATION FOUND");
+    writeWebsiteWithoutViolationInOutput( model, url );
   }
 
 }
 
+// Function that records the name of the website under examination inside the folder with all the violations
 function writeWebsiteWithViolationInOutput( model, url ) {
 
   // Create folder if it doesn't exists
@@ -182,4 +188,77 @@ function writeWebsiteWithViolationInOutput( model, url ) {
     }
   });
   
+}
+
+// Function that creates the report for the website under examination.
+function writeViolationReportInOutput( model, url, report, given_consents, violation_string ) {
+
+  // Create folder if it doesn't exists
+  const violationsFolderPath = path.join(__dirname, 'violations/CookieBlockXGB/reports');
+  if (!fs.existsSync(violationsFolderPath)) {
+    fs.mkdirSync(violationsFolderPath);
+  }
+
+  // Create model file for output
+  const modelFilePath = path.join(violationsFolderPath, `${url}.txt`);
+
+  // Check if the file exists, otherwise create it
+  if (!fs.existsSync(modelFilePath)) {
+    // Se il file non esiste, crealo
+    fs.writeFileSync(modelFilePath, '');
+  }
+
+  // Generate content for the output file
+  var content = "";
+  content = "CookieBlockXGB model FINAL REPORT OVER WEBSITE: " + url + " \n";
+  content += "NECESSARY COOKIES = " + report[0] + "\n";
+  content += "FUNCTIONAL COOKIES = " + report[1] + "\n";
+  content += "ANALYTICS COOKIES = " + report[2] + "\n";
+  content += "ADVERTISING COOKIES = " + report[3] + "\n";
+
+  content += "\n⚠️\tVIOLATION FOUND: the consents given have not been respected\t⚠️\n";
+  content += given_consents + " cookies\n";
+
+  content += violation_string + " cookies";
+
+  fs.appendFile(modelFilePath, content, { flag: 'a+' }, (err) => {
+    if (err) {
+      console.log( err );
+      return;
+    } else {
+      console.log(`Report for "${url}" written.`);; 
+    }
+  });
+  
+}
+
+// Function that records the name of the website that has no violation.
+function writeWebsiteWithoutViolationInOutput( model, url ) {
+  // Create folder if it doesn't exists
+  const violationsFolderPath = path.join(__dirname, 'violations/CookieBlockXGB/NO_VIOLATIONS/');
+  if (!fs.existsSync(violationsFolderPath)) {
+    fs.mkdirSync(violationsFolderPath);
+  }
+
+  // Create model file for output
+  const modelFilePath = path.join(violationsFolderPath, `${model}.txt`);
+
+  // Check if the file exists, otherwise create it
+  if (!fs.existsSync(modelFilePath)) {
+    // Se il file non esiste, crealo
+    fs.writeFileSync(modelFilePath, '');
+  }
+
+  // Read file content
+  const currentContent = fs.readFileSync(modelFilePath, 'utf-8');
+  var content = url + "\n";
+
+  fs.appendFile(modelFilePath, content, { flag: 'a+' }, (err) => {
+    if (err) {
+      console.log( err );
+      return;
+    } else {
+      console.log(`URL "${url}" added to file "NO_VIOLATIONS/${model}.txt".`);; 
+    }
+  });
 }

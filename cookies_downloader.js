@@ -112,7 +112,7 @@ async function parseArgsAndSetup() {
         //Inject the code of Consent-O-Matic
         let promise = new Promise((resolve)=>{
             page.exposeFunction("publishCoMResult", (result)=>{
-                //console.log(result);
+                console.log(result);
                 resolve(result);
             });
             //page.screenshot({ path: url + '.png', fullPage: true });
