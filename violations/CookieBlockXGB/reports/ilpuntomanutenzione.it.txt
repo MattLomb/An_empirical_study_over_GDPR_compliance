@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilpuntomanutenzione.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = cf_clearance,CookieScriptConsent,_gat_gtag_UA_173589370_1
+FUNCTIONAL COOKIES = _ga_MMER2CQZTG,_ga,_gid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

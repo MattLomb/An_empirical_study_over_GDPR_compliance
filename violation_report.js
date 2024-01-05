@@ -10,10 +10,12 @@ const path = require('path');
 
 const model = "cookie_block.xgb";
 
+var no_interaction = false;
+
 // Check number of args passed to the script
 if (process.argv.length < 5) {
   console.log( 'USAGE: node violation_report.js <url> <predictions_file.json> <list_of_consents>' );
-  console.log( 'CONSENTS can be:\n no_interactions -> cookies downloaded without any interaction with the CMP \n 0 -> necessary cookies \n 1 -> functional cookies \n 2 -> analytics cookies\n 3 -> advertising cookies' ); 
+  console.log( 'CONSENTS can be:\n no_interaction -> cookies downloaded without any interaction with the CMP \n no_consents -> cookies downloaded after hiding the CMP with COM \n 0 -> necessary cookies \n 1 -> functional cookies \n 2 -> analytics cookies\n 3 -> advertising cookies' ); 
   console.log( 'EXAMPLE: node violation_report.js hdblog.it predictions.json 0 1 2' );
   process.exit(1);
 }
@@ -35,6 +37,9 @@ for (i; i < arguments.length; i++) {
   if (i > 0) {
     if ( arguments[i] == 'no_consents' ) {
       consents_array.push(0);
+    } else if ( arguments[i] == 'no_interaction' ) {
+      consents_array.push(0);
+      no_interaction = true;
     } else {
       consents_array.push( parseInt( arguments[i] ) );
     }
@@ -85,7 +90,7 @@ fs.readFile(jsonFilename, 'utf-8', (error, data) => {
   }
 });
 
-// This function is the one that performs the report
+// This function is the one that performs the report on the console.
 function writeFinalReport( report, consents_array ) {
 
   var violation = false;
@@ -116,6 +121,9 @@ function writeFinalReport( report, consents_array ) {
 
   if ( violation == true ) {
     console.log( "\n⚠️\tVIOLATION FOUND: the consents given have not been respected\t⚠️" );
+    if ( no_interaction ) {
+      console.log( "NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET \n" );
+    }
     var given_consents = "GIVEN CONSENTS FOR: ";
     consents_array.forEach( function(elem) {
       if ( elem == 0 ) {
@@ -211,15 +219,18 @@ function writeViolationReportInOutput( model, url, report, given_consents, viola
   // Generate content for the output file
   var content = "";
   content = "CookieBlockXGB model FINAL REPORT OVER WEBSITE: " + url + " \n";
+  if ( no_interaction ) {
+    content += "NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET \n";
+  }
   content += "NECESSARY COOKIES = " + report[0] + "\n";
   content += "FUNCTIONAL COOKIES = " + report[1] + "\n";
   content += "ANALYTICS COOKIES = " + report[2] + "\n";
   content += "ADVERTISING COOKIES = " + report[3] + "\n";
 
   content += "\n⚠️\tVIOLATION FOUND: the consents given have not been respected\t⚠️\n";
-  content += given_consents + " cookies\n";
-
-  content += violation_string + " cookies";
+  content += given_consents + "cookies\n";
+  
+  content += violation_string + "cookies";
 
   fs.appendFile(modelFilePath, content, { flag: 'a+' }, (err) => {
     if (err) {

@@ -3,11 +3,13 @@
 printf "Welcome to the Violation Detector tool! \nThe tool will perform the detection of the GDRP violation over the website contained in the input file. \nAt the end it will print a report for each website using the detection model CookieBlock and then Cookiepedia.\n"
 
 print_usage() {
-    echo "Usage: $0 <input_file.txt> [consents_value]"
+    echo "Usage: $0 <INPUT FILE> [consents_value]"
     shift
-    echo "<input_file.txt> = TXT file containing the URLs on which perform the detection."
+    echo "<INPUT FILE> = TXT file containing the target of the violation detector tool."
     shift
-    echo "[no_interaction] = perform the detection of violations with no interaction with the CMP banner -> this can be used to perform the detection of COOKIES SETTED AT STARTUP"
+    echo "[no_consents] = perform the detection of violations with no interaction with the CMP banner -> this can be used to perform the detection of COOKIES SETTED AT STARTUP"
+    shift
+    echo "[no_interaction] = perform the detection of violations by only loading the website -> this can be used to perform the detection of COOKIES SETTED AT STARTUP WITHOUT ANY INTERACTION"
     shift
     echo "[0] = Use 0 if you want to give consent for NECESSARY cookies"
     shift
@@ -17,7 +19,7 @@ print_usage() {
     shift
     echo "[3] = Use 3 if you want to give consent for ADVERTISING cookies"
     shift
-    echo "EXAMPLE: ./violation_detector.sh input_file.txt 0 1 2"
+    echo "EXAMPLE: ./violation_detector.sh hdblog.it 0 1 2"
 }
 
 # Check if all parameters have been passed (URL is mandatory)
@@ -50,10 +52,12 @@ while IFS= read -r url; do
     json_out=$url".json"
 
     # Assign value to params
-    if [ "$2" = "no_interaction" ]; then
-    consent0="no_interaction"
+    if [ "$2" = "no_consents" ]; then
+      consent0="no_consents"
+    elif [ "$2" = "no_interaction" ]; then
+      consent0="no_interaction"
     else
-    consent0="${2:- -1}"
+      consent0="${2:- -1}"
     fi
 
     consent1="${3:- -1}"
@@ -66,7 +70,11 @@ while IFS= read -r url; do
     #echo $consent2
     #echo $consent3
 
-    node cookies_downloader.js "$url" "$consent0" "$consent1" "$consent2" "$consent3"
+    if [ "$2" = "no_interaction" ]; then
+      node cookies_downloader_no_interaction.js "$url"
+    else
+      node cookies_downloader.js "$url" "$consent0" "$consent1" "$consent2" "$consent3"
+    fi
 
     echo "COOKIES DOWNLOAD COMPLETED: saved in "$json_out
 

@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilpuntomanutenzione.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = cf_clearance
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gat_gtag_UA_173589370_1
+UNCLASSIFIED COOKIES = CookieScriptConsent,_ga_MMER2CQZTG
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

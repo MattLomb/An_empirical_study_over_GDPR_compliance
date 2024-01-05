@@ -7,7 +7,9 @@ print_usage() {
     shift
     echo "<URL> = URL on which perform the violation detection"
     shift
-    echo "[no_interaction] = perform the detection of violations with no interaction with the CMP banner -> this can be used to perform the detection of COOKIES SETTED AT STARTUP"
+    echo "[no_consents] = perform the detection of violations with no interaction with the CMP banner -> this can be used to perform the detection of COOKIES SETTED AT STARTUP"
+    shift
+    echo "[no_interaction] = perform the detection of violations by only loading the website -> this can be used to perform the detection of COOKIES SETTED AT STARTUP WITHOUT ANY INTERACTION"
     shift
     echo "[0] = Use 0 if you want to give consent for NECESSARY cookies"
     shift
@@ -42,7 +44,9 @@ url="$1"
 json_out=$url".json"
 
 # Assign value to params
-if [ "$2" = "no_interaction" ]; then
+if [ "$2" = "no_consents" ]; then
+  consent0="no_consents"
+elif [ "$2" = "no_interaction" ]; then
   consent0="no_interaction"
 else
   consent0="${2:- -1}"
@@ -58,7 +62,13 @@ echo "START DETECTION ON $url"
 #echo $consent2
 #echo $consent3
 
-node cookies_downloader.js "$url" "$consent0" "$consent1" "$consent2" "$consent3"
+
+if [ "$2" = "no_interaction" ]; then
+  node cookies_downloader_no_interaction.js "$url"
+else
+  node cookies_downloader.js "$url" "$consent0" "$consent1" "$consent2" "$consent3"
+fi
+
 
 echo "COOKIES DOWNLOAD COMPLETED: saved in "$json_out
 
