@@ -68,7 +68,7 @@ async function parseArgsAndSetup() {
     args: [
       `--disable-extensions-except=${pathToExtension}`,
       `--load-extension=${pathToExtension}`,
-      '--disable-web-security' // Disabilita la sicurezza web per consentire i cookies di terze parti
+      '--disable-web-security' // Disable security to allow third-party cookies
     ],
   });
 
