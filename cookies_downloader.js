@@ -119,6 +119,7 @@ async function parseArgsAndSetup() {
         });
     
         // Start executing the script for the interaction with the CMP
+        // Consents_values are passed as parameters to the CustomEvent startCOM
         await page.evaluate( (consents_array)=>{
             var consents_values = consents_array.join();
             window.dispatchEvent(new CustomEvent("startCOM", { detail: consents_values }));
