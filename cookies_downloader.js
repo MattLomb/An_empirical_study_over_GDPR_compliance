@@ -144,6 +144,7 @@ async function parseArgsAndSetup() {
     
   } catch ( err ) {
     console.log( "Error: " + err );
+    return 0;
   }
   
 })();

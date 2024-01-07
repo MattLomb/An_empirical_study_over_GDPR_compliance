@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: universitaeuropeadiroma.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gcl_au,uuid,_fbp,test_cookie,_gat_UA-70266152-1
+UNCLASSIFIED COOKIES = pbid,pys_session_limit,pys_start_session,__cf_bm,sib_cuid,pys_first_visit,pysTrafficSource,pys_landing_page,last_pysTrafficSource,last_pys_landing_page,_ga_NGK7JD37NS,_ttp,_tt_enable_cookie
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

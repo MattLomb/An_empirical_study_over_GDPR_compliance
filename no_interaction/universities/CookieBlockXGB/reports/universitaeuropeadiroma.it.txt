@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: universitaeuropeadiroma.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = pbid,pys_session_limit,pys_start_session,__cf_bm,_gcl_au,uuid,pys_first_visit,pysTrafficSource,pys_landing_page,last_pysTrafficSource,last_pys_landing_page,test_cookie,_gat_UA-70266152-1,_tt_enable_cookie
+FUNCTIONAL COOKIES = sib_cuid,_ga_NGK7JD37NS,_ga,_gid,_ttp
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unibet.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = _sp_ses.ff41,_sp_id.ff41
+ANALYTICS COOKIES = optimizelyEndUserId,s_nr
+ADVERTISING COOKIES = sp,uuid2
+UNCLASSIFIED COOKIES = USESSIONID,INGRESSCOOKIE_APIGATEWAY,cms_tomcat,INGRESSCOOKIE_CMS,clientId,affiliate_params,currentVidDisplay,XANDR_PANID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

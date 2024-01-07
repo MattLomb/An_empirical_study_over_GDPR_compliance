@@ -18,6 +18,7 @@ const cookiesFormatter = require( './cookiesFormatter' );
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const formatCookies = require('./cookiesFormatter');
 const { arguments } = require('commander');
+const { writeJsonArrayToFiles, writeErrorsToFiles } = require('./writeOutput');
 
 /****** 
  * PARSE INPUT
@@ -40,6 +41,9 @@ async function parseArgsAndSetup() {
 
   return [url, url_file_name];
 }
+
+const directoryResultErrors = './violations/errors';
+var errors = [];
 
 /***** MAIN  ******/
 (async () => {
@@ -96,6 +100,13 @@ async function parseArgsAndSetup() {
      ******/
     if ( navigation.status().toString() != '200' ) {
         console.log( "ERROR DURING NAVIGATION ON  " + url + "\nERROR CODE/RESPONSE STATUS: " + navigation.status().toString() );
+        await browser.close();
+        errors.push( url );
+        await writeErrorsToFiles(errors, directoryResultErrors)
+        .then(() => {
+          console.log('Scrittura errori completata.');
+        })
+        process.exit(1);
     } else {
     
         // Wait untile all cookies have been setted (8s is the amount of time required to complete all network activities)
@@ -116,7 +127,15 @@ async function parseArgsAndSetup() {
     
   } catch ( err ) {
     console.log( "Error: " + err );
+    await browser.close();
+    errors.push( url );
+    await writeErrorsToFiles(errors, directoryResultErrors)
+    .then(() => {
+      console.log('Scrittura errori completata.');
+    })
+    process.exit(1);
   }
+  
   
 })();
 

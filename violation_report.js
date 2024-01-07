@@ -56,39 +56,44 @@ const analytics = [];
 const advertising = [];
 const report = [ necessary, functional, analytics, advertising ];
 
-// Read JSON content and parse it
-fs.readFile(jsonFilename, 'utf-8', (error, data) => {
-  if (error) {
-    console.error('Error while reading the JSON file:', error);
-  } else {
-    try {
-      // Convert the content of the JSON file into a JSON object
-      const jsonData = JSON.parse(data);
+if ( !urlIsError( url ) ) {
+  // Read JSON content and parse it
+  fs.readFile(jsonFilename, 'utf-8', (error, data) => {
+    if (error) {
+      console.error('Error while reading the JSON file:', error);
+    } else {
+      try {
+        // Convert the content of the JSON file into a JSON object
+        const jsonData = JSON.parse(data);
 
-      // Add each cookie in the related array based on its category
-      for ( key in jsonData ) {
-        /*console.log("KEY: " + key );
-        console.log("VALUE: " + jsonData[key]);*/
-        if ( jsonData[key] == 0 ) {
-            necessary.push( key );
-        } else if ( jsonData[key] == 1 ) {
-            functional.push( key );
-        } else if ( jsonData[key] == 2 ) {
-            analytics.push( key );
-        } else if ( jsonData[key] == 3 ) {
-            advertising.push( key );
+        // Add each cookie in the related array based on its category
+        for ( key in jsonData ) {
+          /*console.log("KEY: " + key );
+          console.log("VALUE: " + jsonData[key]);*/
+          if ( jsonData[key] == 0 ) {
+              necessary.push( key );
+          } else if ( jsonData[key] == 1 ) {
+              functional.push( key );
+          } else if ( jsonData[key] == 2 ) {
+              analytics.push( key );
+          } else if ( jsonData[key] == 3 ) {
+              advertising.push( key );
+          }
         }
+
+        writeFinalReport( report, consents_array );
+
+        return;
+
+      } catch (parseError) {
+        console.error('Error while parsing the JSON file:', parseError);
       }
-
-      writeFinalReport( report, consents_array );
-
-      return;
-
-    } catch (parseError) {
-      console.error('Error while parsing the JSON file:', parseError);
     }
-  }
-});
+  });
+} else {
+  console.log( "COOKIEBLOCK PREDICTION NOT EXECUTE BECAUSE " + url + " CONTAINS ERRORS" );
+}
+
 
 // This function is the one that performs the report on the console.
 function writeFinalReport( report, consents_array ) {
@@ -272,4 +277,21 @@ function writeWebsiteWithoutViolationInOutput( model, url ) {
       console.log(`URL "${url}" added to file "NO_VIOLATIONS/${model}.txt".`);; 
     }
   });
+}
+
+function urlIsError( url ) {
+  const errorsFilePath = './violations/errors/errors.txt';
+  try {
+    const fileContent = fs.readFileSync(errorsFilePath, 'utf-8');
+    const errorUrls = fileContent.split('\n').map(line => line.trim());
+    //console.log( errorUrls );
+    //console.log(errorUrls.includes( "https://" + url ));
+    return errorUrls.includes( "https://" + url);
+
+  } catch (error) {
+
+    console.error(`Error reading file ${errorsFilePath}: ${error.message}`);
+    return false;
+
+  }
 }
