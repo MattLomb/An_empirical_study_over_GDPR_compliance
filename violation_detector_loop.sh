@@ -64,7 +64,7 @@ while IFS= read -r url; do
     consent2="${4:- -1}"
     consent3="${5:- -1}"
 
-    echo "START DETECTION ON $url"
+    printf "\n\n START DETECTION ON $url \n"
     #echo $consent0
     #echo $consent1
     #echo $consent2
@@ -100,7 +100,7 @@ while IFS= read -r url; do
     node violation_report.js "$url" "$predictions" "$consent0" "$consent1" "$consent2" "$consent3"
 
     # Variables for Cookiepedia model and classifier
-    printf "\n\nCOOKIEPEDIA PREDICTION START"
+    printf "\n\nCOOKIEPEDIA PREDICTION START\n"
 
     node cookiepedia_classifier.js "$url"
 

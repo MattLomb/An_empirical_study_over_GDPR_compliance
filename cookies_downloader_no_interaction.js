@@ -115,7 +115,7 @@ var errors = [];
         //console.log("------ COOKIES RETRIEVED ------");
         //console.log("------ COOKIES DOWNLOADED ------");
         const all_browser_cookies = (await client.send('Storage.getCookies')).cookies;
-        //console.log(all_browser_cookies);
+        console.log(all_browser_cookies);
 
         await browser.close();
 

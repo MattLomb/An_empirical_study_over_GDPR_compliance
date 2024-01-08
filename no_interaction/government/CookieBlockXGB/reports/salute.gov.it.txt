@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: salute.gov.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = cookiesession1,NGMDS_PORTN,rxVisitor,dtSa,_pk_id.Gwgp9gg0De.179f,_pk_ses.Gwgp9gg0De.179f,dtCookie
+FUNCTIONAL COOKIES = rxvt,dtPC
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

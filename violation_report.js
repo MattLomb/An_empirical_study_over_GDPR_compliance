@@ -25,6 +25,8 @@ const jsonFilename = process.argv[3];
 
 const url = process.argv[2];
 
+const cookieDowloadedJsonPath = "./cookies_formatted/" + url +  ".json";
+
 // Create consents array to double check the violation
 var arguments = process.argv.slice(3);
   arguments.forEach((value, index) => {
@@ -57,6 +59,8 @@ const advertising = [];
 const report = [ necessary, functional, analytics, advertising ];
 
 if ( !urlIsError( url ) ) {
+
+  if ( !isJsonEmptyFromFile( cookieDowloadedJsonPath ) ) {
   // Read JSON content and parse it
   fs.readFile(jsonFilename, 'utf-8', (error, data) => {
     if (error) {
@@ -90,6 +94,10 @@ if ( !urlIsError( url ) ) {
       }
     }
   });
+  } else {
+    console.log( "NO COOKIE SET WHILE INTERACTING");
+    writeWebsiteWithoutViolationInOutput( model, url );
+  }
 } else {
   console.log( "COOKIEBLOCK PREDICTION NOT EXECUTE BECAUSE " + url + " CONTAINS ERRORS" );
 }
@@ -293,5 +301,22 @@ function urlIsError( url ) {
     console.error(`Error reading file ${errorsFilePath}: ${error.message}`);
     return false;
 
+  }
+}
+
+function isJsonEmptyFromFile( filePath ) {
+  try {
+    const jsonData = fs.readFileSync(filePath, 'utf-8');
+    
+    // Converte il contenuto in un oggetto JavaScript
+    const jsonObject = JSON.parse(jsonData);
+
+    //console.log( Object.keys(jsonObject).length === 0 && jsonObject.constructor === Object );
+    // Verifica se l'oggetto è vuoto
+    return Object.keys(jsonObject).length === 0 && jsonObject.constructor === Object;
+  } catch (error) {
+      // Gestisci eventuali errori nella lettura del file o nel parsing del JSON
+      console.error('Errore durante la lettura o il parsing del file JSON:', error);
+      return false;
   }
 }

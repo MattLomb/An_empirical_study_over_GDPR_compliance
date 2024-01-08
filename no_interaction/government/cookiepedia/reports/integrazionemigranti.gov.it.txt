@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: integrazionemigranti.gov.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = .ASPXANONYMOUS
+FUNCTIONAL COOKIES = language
+ANALYTICS COOKIES = _pk_id.aW3g4mlpDR.7f1d,_pk_ses.aW3g4mlpDR.7f1d
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = dnn_IsMobile
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics cookies
