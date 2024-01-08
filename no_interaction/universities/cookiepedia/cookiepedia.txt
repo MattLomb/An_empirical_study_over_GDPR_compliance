@@ -16,7 +16,6 @@ uniurb.it
 unipegaso.it
 unimc.it
 uniecampus.it
-unipolsai.it
 unicusano.it
 unirc.it
 unimarconi.it
@@ -30,9 +29,7 @@ unita.it
 unitelematiche.it
 unicampania.it
 unisalute.it
-unicef.it
 unicri.it
 uniroma5.it
-unibet.it
 universitaeuropeadiroma.it
 unimagnagrecia.it
