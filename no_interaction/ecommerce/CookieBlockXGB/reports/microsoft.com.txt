@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: microsoft.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = AEMDC,akacd_OneRF,MicrosoftApplicationsTelemetryDeviceId,ai_session,at_check,uaid,MSPRequ,OParams,mbox,MC1,MSFPC
+FUNCTIONAL COOKIES = MUID,ak_bmsc,fptctx2,MS0
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

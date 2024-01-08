@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: manomano.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = mm_ab_test_version,mm_ab_tests,mm_flags,__cf_bm,request_uri,referer_id,ab_testing_theme,multireferer_id,PHPSESSID
+FUNCTIONAL COOKIES = mm_visitor_id,didomi_token,OAuth_Token_Request_State,cf_clearance
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = mm_flags_version
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

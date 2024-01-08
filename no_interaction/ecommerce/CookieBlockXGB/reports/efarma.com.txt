@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: efarma.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = PHPSESSID,_ALGOLIA,baqend-speedkit-config,baqend-speedkit-user-id,form_key,mage-banners-cache-storage,mage-cache-storage,mage-cache-storage-section-invalidation,mage-cache-sessid,mage-messages,recently_viewed_product,recently_viewed_product_previous,recently_compared_product,recently_compared_product_previous,product_data_storage,_smvs,ab_split_test_section,ab_split_test_active,__cfruid,_cfuvid
+FUNCTIONAL COOKIES = smvr,smuuid,smcfds
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

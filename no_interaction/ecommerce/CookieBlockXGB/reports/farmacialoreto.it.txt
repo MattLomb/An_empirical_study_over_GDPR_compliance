@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: farmacialoreto.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = OCSESSID,language,currency,kk_leadtag,__cf_bm,__trx,oct8ne-active-tab-id,oct8ne-first-enter,CLID,__trx_uid,_clck,ar_debug,LANG,enforce_policy,x-pp-s,tsrce,nsid,l7_az,ts,ts_c,IDE,MR,CMPS,CMPRO,SM,ANONCHK,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,criteo,opt_out,_kuid_
+FUNCTIONAL COOKIES = cto_bundle,_clsk,MUID,SRM_B,XANDR_PANID,anj,ayl_visitor,demdex,dpm,tvid,tv_UICR
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uid,visitor-id,data-c-ts,data-c,uuid2,CMID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

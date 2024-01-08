@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: sephora.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = dw_dnt,sid,dwsid,bm_mi,bm_sv,ak_bmsc
+FUNCTIONAL COOKIES = rxVisitor,__cq_dnt
+ANALYTICS COOKIES = dtSa,rxvt,RT,dtPC
+ADVERTISING COOKIES = _gcl_au,dwanonymous_9ba7b620ffc5ebb782d1bef0c6819ea7,test_cookie
+UNCLASSIFIED COOKIES = akacd_Sephora_IT_PR,tc_compteur_page,CYB,_abck,bm_sz,TCPID,akavpau_vpwaitingroom,dtCookie
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

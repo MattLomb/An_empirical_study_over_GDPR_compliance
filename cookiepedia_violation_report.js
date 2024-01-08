@@ -284,10 +284,10 @@ function writeWebsiteWithoutViolationInOutput( model, url ) {
 function urlIsError( url ) {
   const errorsFilePath = './violations/errors/errors.txt';
   try {
-    //console.log( url );
     const fileContent = fs.readFileSync(errorsFilePath, 'utf-8');
-    const errorUrls = fileContent.split('\n').map(line =>  line.trim());
-    //console.log(errorUrls.includes( "https://" + url));
+    const errorUrls = fileContent.split('\n').map(line => line.trim());
+    //console.log( errorUrls );
+    //console.log(errorUrls.includes( "https://" + url ));
     return errorUrls.includes( "https://" + url);
 
   } catch (error) {

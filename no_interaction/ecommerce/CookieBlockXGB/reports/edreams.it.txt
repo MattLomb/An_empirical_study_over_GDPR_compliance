@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: edreams.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = device,HOME2JSESSIONID,locale,tduid,TestTokenSpace,viI,FeatureContextSeed,tc_cj_v2_cmp,tc_cj_v2_med,IDE,_gaActiveSession,didomi_cookies,OF1JSESSIONID,RT,FeatureContext
+FUNCTIONAL COOKIES = mktTrack,userDevice,ak_bmsc,bm_sz,_ga,_gid,_abck,XANDR_PANID,tc_cj_v2,didomi_token,WID,_ga_0F2PG8WMQ1,bm_sv
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uuid2,TCID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

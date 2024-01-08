@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: asos.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = idsvr.session,idsrv,ak_bmsc,asos-ts121,asos-lan999,OptanonConsent,bm_sv
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = s_ecid,s_pers,s_cc,RT,_ga
+ADVERTISING COOKIES = geocountry,demdex,AMCVS_C0137F6A52DEAFCC0A490D4C%40AdobeOrg,everest_g_v2,dpm,AMCV_C0137F6A52DEAFCC0A490D4C%40AdobeOrg,asos,_cs_mk_aa,_cs_c,_cs_id,_cs_s
+UNCLASSIFIED COOKIES = bm_sz,siteChromeVersion,keyStoreDataversion,browseCountry,browseCurrency,browseLanguage,browseSizeSchema,storeCode,currency,stc-welcome-message,featuresId,asos-b-sdv629,asos-cou998,asos-sto997,asos-anon12,asos-perx,_s_fpv,_abck,_ga_1JR0QCFRSY,FPID,FPLC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

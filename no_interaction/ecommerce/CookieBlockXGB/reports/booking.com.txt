@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: booking.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = X-AB,_GRECAPTCHA,px_init,pcm_consent,cors_js,BJS,_gat,bkng_sso_ses,bkng_sso_session,bkng_ap_sso_session,lastSeen,bkng_prue,ar_debug,IDE,sc_at,FPID,_pin_unauth
+FUNCTIONAL COOKIES = bkng_sso_auth,_gid,OptanonConsent,_ga_FPD6YLJCJ7,_ga,_ga_A12345,_scid,_scid_r,FPLC,_pinterest_ct_ua,bkng
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,_uetsid,_uetvid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

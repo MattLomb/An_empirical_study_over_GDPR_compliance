@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: italian.alibaba.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = __itrace_wid,NetWorkGrade,sca,XSRF-TOKEN,_tb_token_,xman_us_f,xman_t,icbu_s_tag,ug_se_c,xlly_s,l,isg,ali_apache_track,ali_apache_tracktmp,i,yandexuid,_ym_uid,_ym_d,yabs-sid,_ym_isad,u,ts,yuidss,ar_debug,IDE,yashr,CMPS,CMPRO,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,criteo,opt_out,_kuid_,dc,ss
+FUNCTIONAL COOKIES = ali_apache_id,sc_g_cfg_f,atpsida,t,acs_usuc_t,xman_f,cookie2,cbc,umdata_,x5secdata,tfstk,ymex,bh,g,c,demdex,XANDR_PANID,anj,dpm,ayl_visitor,tvid,tv_UICR,UID,tuuid,ut
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = cna,uid,visitor-id,data-c-ts,data-c,uuid2,CMID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

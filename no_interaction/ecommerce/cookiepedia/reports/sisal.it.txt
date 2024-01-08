@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: sisal.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = utag_main,ak_bmsc,OptanonConsent,bm_sv
+FUNCTIONAL COOKIES = rxVisitor
+ANALYTICS COOKIES = dtSa,_gid,_ga,s_fid,s_nr,s_lv,s_lv_s,s_vnc365,s_ivc,rxvt,dtPC
+ADVERTISING COOKIES = demdex,AMCV_45974CD958010CB40A495E7C%40AdobeOrg
+UNCLASSIFIED COOKIES = bm_sz,provParameter,akaalb_betting_it,_ga_2F7HDG66KD,gvsC,cm,s_channelStack,SC_LINKS_S,s_gpv_pn,kndctr_45974CD958010CB40A495E7C_AdobeOrg_cluster,kndctr_45974CD958010CB40A495E7C_AdobeOrg_identity,s_dur,_abck,dtCookie,akaalb_www
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

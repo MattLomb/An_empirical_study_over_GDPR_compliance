@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: vinted.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = OptanonConsent
+FUNCTIONAL COOKIES = cf_clearance
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = anon_id
+UNCLASSIFIED COOKIES = __cf_bm,v_sid,v_udt,anonymous-locale,viewport_size,ab.optOut,datadome,_vinted_fr_session,_pbjs_userid_consent_data,_dd_s
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

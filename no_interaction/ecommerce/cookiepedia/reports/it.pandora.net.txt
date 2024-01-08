@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: it.pandora.net 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = dwsid,sid,dw_dnt,utag_main,OptanonConsent
+FUNCTIONAL COOKIES = __cq_dnt
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = dwanonymous_80efcf1733043fb25eee91aefed491c2
+UNCLASSIFIED COOKIES = __cf_bm,TAPID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

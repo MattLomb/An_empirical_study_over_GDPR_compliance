@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: instant-gaming.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ig_tz,__cf_bm,_gcl_au,ig_location,PHPSESSID,ig_pid,_dc_gtm_UA-32010245-2,test_cookie,_tt_enable_cookie
+FUNCTIONAL COOKIES = _ga_GQL10ZG0DF,_rdt_uuid,_ga,_gid,_ttp,MUID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _uetsid,_uetvid,_fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

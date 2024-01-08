@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: starcasino.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = OBG-MARKET,OBG-LOBBY,Acquisition_Status_Current,Start_Acquisition,Client_Status_Current,Start_Client_Status,Customer_Level,Initdone,_gcl_au,TrafficType,AffCookie,LoadAll,Orientation,__amonsulfp,__amonsulid
+FUNCTIONAL COOKIES = cwr_u,OBG-SEEN-ELEMENTS,_ga,_ga_H1K0C6P76Y,_gid,OptanonConsent,cwr_s
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

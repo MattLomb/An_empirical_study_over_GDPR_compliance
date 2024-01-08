@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ibs.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ASP.NET_SessionId,__RequestVerificationToken,ARRAffinity,ai_user,OptanonConsent
+FUNCTIONAL COOKIES = CLID,SRM_B
+ANALYTICS COOKIES = ai_session,_ga,_gid,_clsk,MR,SM
+ADVERTISING COOKIES = MUID,ANONCHK
+UNCLASSIFIED COOKIES = useMobileVersion,Node,_ALGOLIA,n,mvtid,s,trackerBot,mvtdebug,uc,_ga_R0W58PJ2ZT,rr_rcs,_clck,lantern
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

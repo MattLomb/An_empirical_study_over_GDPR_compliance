@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: hp.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = bm_mi,bm_sv,ak_bmsc,OptanonConsent
+FUNCTIONAL COOKIES = ajs_anonymous_id,lang
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = aka_client_code,bm_sz,www_hp_com_locale,cc,dcm_s,_abck,hpeuck_prefs,hpeuck_answ
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

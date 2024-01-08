@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: garmin.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = utag_main,SERVERID
+FUNCTIONAL COOKIES = cf_clearance
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = __cf_bm,_cfuvid,TAsessionID,notice_behavior,CONSENTMGR
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

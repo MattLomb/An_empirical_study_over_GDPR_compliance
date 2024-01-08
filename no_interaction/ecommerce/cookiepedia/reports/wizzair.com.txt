@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: wizzair.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ak_bmsc,ASP.NET_SessionId,bm_sv,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _gid,_ga
+ADVERTISING COOKIES = _fbp,_gat_gtag_UA_2629375_25,_gcl_au,IDE
+UNCLASSIFIED COOKIES = bm_sz,RequestVerificationToken,akacd_onewizz_AB_backend_production,_abck,ewizz-origin,_ga_G2EKSJBE0J,ar_debug
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

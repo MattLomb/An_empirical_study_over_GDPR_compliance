@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unipolsai.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = _cls_cfgver,_GRECAPTCHA,dtCookie,TS01ab60da,rxVisitor,dtSa,check,everest_g_v2,mbox,mboxEdgeCluster,s_cc,ext_page_name_prev,mdLogger,kampyle_userid,kampyleUserSession,kampyleUserSessionsCount,ROUTEID,BIGipServerBC~Pool_uxmetrics.unipolsai.it_80,utag_main,kampyleSessionPageCounter
+FUNCTIONAL COOKIES = _cls_v,_cls_s,TS015a2447,demdex,s_ecid,dpm,rxvt,dtPC
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = AMCVS_E344E271567ABA6C7F000101%40AdobeOrg,AMCV_E344E271567ABA6C7F000101%40AdobeOrg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

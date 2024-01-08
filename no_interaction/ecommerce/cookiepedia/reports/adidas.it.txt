@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: adidas.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ak_bmsc,utag_main
+FUNCTIONAL COOKIES = wishlist
+ANALYTICS COOKIES = AKA_A2,s_pers,s_cc,RT
+ADVERTISING COOKIES = geo_country,demdex,AMCVS_7ADA401053CCF9130A490D4C%40AdobeOrg,AMCV_7ADA401053CCF9130A490D4C%40AdobeOrg
+UNCLASSIFIED COOKIES = geo_ip,onesite_country,geo_coordinates,akacd_generic_prod_grayling_adidas,bm_sz,akacd_plp_prod_adidas_grayling,x-original-host,x-site-locale,mt.v,akacd_acc_frontend_prd,ab_inp,sbsd,_abck
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

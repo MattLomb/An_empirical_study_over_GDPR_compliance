@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: flixbus.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = _sp_ses.ca26,_sp_id.ca26
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = sp
+UNCLASSIFIED COOKIES = ab_bucket,affiliate,atbpdid,atbgdid,_dd_s
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

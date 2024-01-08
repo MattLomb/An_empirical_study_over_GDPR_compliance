@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lenovo.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = bm_sv,ak_bmsc
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = AKA_A2,RT,s_tslv,s_inv,s_vnc365,s_ivc
+ADVERTISING COOKIES = demdex,AMCV_F6171253512D2B8C0A490D45%40AdobeOrg,IDE,dpm
+UNCLASSIFIED COOKIES = Path,bm_sz,_page_type_,kndctr_F6171253512D2B8C0A490D45_AdobeOrg_cluster,leid,searchabran,_abck,aamtest1,akavpau_WaitingRoomController,s_dur,kndctr_F6171253512D2B8C0A490D45_AdobeOrg_identity,has_consent_cookie,inside-eu2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

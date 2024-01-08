@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ibs.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ASP.NET_SessionId,useMobileVersion,__RequestVerificationToken,ARRAffinity,Node,ai_user,_ALGOLIA,ai_session,n,mvtid,s,trackerBot,mvtdebug,uc,CLID,rr_rcs,_clck,MR,SM,ANONCHK
+FUNCTIONAL COOKIES = OptanonConsent,_ga_R0W58PJ2ZT,_ga,_gid,lantern,_clsk,MUID,SRM_B
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

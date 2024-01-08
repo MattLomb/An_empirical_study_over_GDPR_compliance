@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: gamestop.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = .ASPXANONYMOUS,unique_id,unique_id_durable,notice_behavior,ga__15_abel-ssn,KP_UIDZ_1-ssn,JSESSIONID,KP_UIDz-ssn
+FUNCTIONAL COOKIES = ak_bmsc,bm_sz,server_session_id,TAsessionID,_abck,bm_sv,experiment_overrides,api_token
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = referrer_url
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

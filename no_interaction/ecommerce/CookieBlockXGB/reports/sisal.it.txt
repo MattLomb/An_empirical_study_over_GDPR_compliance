@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: sisal.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = rxVisitor,dtSa,utag_main,provParameter,akaalb_betting_it,s_nr,s_lv,s_lv_s,gvsC,cm,SC_LINKS_S,s_gpv_pn,kndctr_45974CD958010CB40A495E7C_AdobeOrg_cluster,kndctr_45974CD958010CB40A495E7C_AdobeOrg_identity,s_dur,s_vnc365,s_ivc,dtCookie,akaalb_www
+FUNCTIONAL COOKIES = bm_sz,_gid,_ga_2F7HDG66KD,_ga,ak_bmsc,s_fid,s_channelStack,OptanonConsent,demdex,AMCV_45974CD958010CB40A495E7C%40AdobeOrg,_abck,rxvt,dtPC,bm_sv
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

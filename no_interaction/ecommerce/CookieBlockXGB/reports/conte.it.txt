@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: conte.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = AWSALB,AWSALBCORS,visid_incap_2651378,previousPath,FPID2,_hjFirstSeen,_hjIncludedInSessionSample_1974272,_hjAbsoluteSessionInProgress
+FUNCTIONAL COOKIES = dtCookie,nlbi_2651378,incap_ses_1574_2651378,_ga_B6B1B9P16J,_ga,OptanonConsent,FPLC,_hjSessionUser_1974272,_hjSession_1974272
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: panini.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = PHPSESSID,gig_canary,gig_bootstrap_3_64HIdqvaCxGW567wRYQTu_wMjE0U6GFub8FRVaM6JkUlUB5o_7c_snmk_u7XmhC-
+FUNCTIONAL COOKIES = form_key,mage-cache-storage,mage-cache-storage-section-invalidation
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = recordID,dmSessionID,NID
+UNCLASSIFIED COOKIES = mage-cache-sessid,recently_viewed_product,recently_viewed_product_previous,recently_compared_product,recently_compared_product_previous,product_data_storage,mage-messages,Queue-it-9cc040f8-4d89-414d-992e-3b4ee9f4c549,Queue-it,__cf_bm,QueueITAccepted-SDFrts345E-V3_paniniitaly,Queue-it-token,Queue-it-4bb2c9b0-506b-4437-b130-9702060417f1,mg,gig_canary_ver,apiDomain_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My,gmid,ucid,hasGmid,gig_canary_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My,gig_canary_ver_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

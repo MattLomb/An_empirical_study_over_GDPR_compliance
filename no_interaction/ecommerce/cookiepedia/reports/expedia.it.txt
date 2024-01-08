@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: expedia.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ak_bmsc,AWSELB,bm_sv
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = s_ppv,s_ips,s_tp,s_ecid
+ADVERTISING COOKIES = demdex,AMCVS_C00802BE5330A8350A490D4C%40AdobeOrg,AMCV_C00802BE5330A8350A490D4C%40AdobeOrg
+UNCLASSIFIED COOKIES = linfo,CRQSS,CRQS,currency,iEAPID,tpid,HMS,MC1,DUAID,OIP,_abck,bm_sz,s_ppn,session_id,page_name,cesc,EG_SESSIONTOKEN,akacd_pr_20,hav,ha-device-id,has,xdid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

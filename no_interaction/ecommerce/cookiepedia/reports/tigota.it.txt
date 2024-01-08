@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: tigota.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = PHPSESSID
+FUNCTIONAL COOKIES = form_key,mage-cache-storage,mage-cache-storage-section-invalidation
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = sbt_i,sbt_p
+UNCLASSIFIED COOKIES = mage-cache-sessid,mage-messages,recently_viewed_product,recently_viewed_product_previous,recently_compared_product,recently_compared_product_previous,product_data_storage,sbss_23881041-dd3d-49d9-a468-a543caeae63d
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

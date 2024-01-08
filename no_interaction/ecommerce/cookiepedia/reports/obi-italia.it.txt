@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: obi-italia.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = JSESSIONID
+FUNCTIONAL COOKIES = i18next
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = Obi_PrudsysID,_csrf,lastVisitedPages,device,device_backend,os_backend,INGRESSCOOKIE,cart_id,sdgvlhr,sdgvlhr-ro,kameleoonVisitorCode
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

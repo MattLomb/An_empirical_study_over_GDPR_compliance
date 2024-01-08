@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: microsoft.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ak_bmsc
+FUNCTIONAL COOKIES = at_check,uaid,MSPRequ,mbox
+ANALYTICS COOKIES = ai_session
+ADVERTISING COOKIES = MUID
+UNCLASSIFIED COOKIES = AEMDC,akacd_OneRF,MicrosoftApplicationsTelemetryDeviceId,fptctx2,OParams,MC1,MS0,MSFPC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

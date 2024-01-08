@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: efarma.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = PHPSESSID,__cfruid
+FUNCTIONAL COOKIES = form_key,mage-cache-storage,mage-cache-storage-section-invalidation
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ALGOLIA,baqend-speedkit-config,baqend-speedkit-user-id,mage-banners-cache-storage,mage-cache-sessid,mage-messages,recently_viewed_product,recently_viewed_product_previous,recently_compared_product,recently_compared_product_previous,product_data_storage,smvr,smuuid,_smvs,ab_split_test_section,ab_split_test_active,_cfuvid,smcfds
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

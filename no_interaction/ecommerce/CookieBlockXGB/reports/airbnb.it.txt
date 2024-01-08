@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: airbnb.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = previousTab,jitney_client_session_created_at,frmfctr,cfrmfctr,jitney_client_session_updated_at,_user_attributes
+FUNCTIONAL COOKIES = bev,everest_cookie,ak_bmsc,jitney_client_session_id,bm_sv
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

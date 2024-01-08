@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: libraccio.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ASP.NET_SessionId,ARRAffinity,ai_user,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,ai_session,RT,_ga,_gid
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ALGOLIA,n,mvtid,s,mvtdebug,uc,rr_rcs,trackerBot,_ga_1J1S9MZJDY,clires
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

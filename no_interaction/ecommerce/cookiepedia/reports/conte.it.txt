@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: conte.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = AWSALB,AWSALBCORS,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_hjSessionUser_1974272,_hjFirstSeen,_hjSession_1974272,_hjAbsoluteSessionInProgress
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = dtCookie,visid_incap_2651378,nlbi_2651378,incap_ses_1574_2651378,previousPath,_ga_B6B1B9P16J,FPID2,FPLC,_hjIncludedInSessionSample_1974272
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

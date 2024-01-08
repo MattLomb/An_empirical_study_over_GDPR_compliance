@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: douglas.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = bm_mi,ak_bmsc,bm_sv,utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = s_ecid,ROUTE
+ADVERTISING COOKIES = demdex,AMCVS_CE025F3E56F292177F000101%40AdobeOrg,AMCV_CE025F3E56F292177F000101%40AdobeOrg
+UNCLASSIFIED COOKIES = ncx,bm_sz,PIM-SESSION-ID,akacd_PIM-prd_ah_rollout,_abck,_teal_perf,_teal_stateVar,akavpau_VP-IT,TAPID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

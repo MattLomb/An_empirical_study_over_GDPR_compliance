@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: farmasave.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = __session:0.3967967156873913:,akcwv,_gcl_au,utms,utmm,utmcm,utmct,pgr,pgurl,apay-session-set,FPID,ar_debug,IDE,CMPS,CMPRO,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,criteo,opt_out,_kuid_
+FUNCTIONAL COOKIES = cto_bundle,_gid,_ga,_ga_DYW85VJEDY,FPLC,XANDR_PANID,anj,ayl_visitor,demdex,dpm,tvid,tv_UICR
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uid,visitor-id,data-c-ts,data-c,uuid2,CMID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

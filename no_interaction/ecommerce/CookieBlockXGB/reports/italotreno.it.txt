@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: italotreno.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = AKA_A2,italotreno#lang,Culture,rxVisitor,dtSa,AcceptCookie,_hjFirstSeen,_hjIncludedInSessionSample_1418311,_hjAbsoluteSessionInProgress,FPID,ARRAffinity,ARRAffinitySameSite,dtCookie
+FUNCTIONAL COOKIES = bm_sz,_abck,didomi_token,_ga_KGDSYWDJH0,_ga,_hjSessionUser_1418311,_hjSession_1418311,ak_bmsc,rxvt,RT,dtPC,FPLC,bm_sv
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

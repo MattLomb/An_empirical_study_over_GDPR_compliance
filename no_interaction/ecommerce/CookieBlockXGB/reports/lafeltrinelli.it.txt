@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: lafeltrinelli.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ASP.NET_SessionId,useMobileVersion,__RequestVerificationToken,ARRAffinity,Node,RT,_ALGOLIA,ai_user,n,mvtid,s,mvtdebug,uc,__utmzzses,trackerBot,rr_rcs,ai_session,session,CLID,_clck,MR,SM,ANONCHK
+FUNCTIONAL COOKIES = OptanonConsent,initialTrafficSource,_ga_N0TYM9H37L,_ga,_gid,_clsk,MUID,SRM_B
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

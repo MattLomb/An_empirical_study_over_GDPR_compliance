@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: costacrociere.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = AKA_A2,s_dfa,countryCode,continentCode,CostaPersistent,_abck,test_cookie,__utmzzses,AWSALB,AWSALBCORS,_aeaid,aelastsite,aelreadersettings
+FUNCTIONAL COOKIES = bm_sz,_ga,_gid,initialTrafficSource,ak_bmsc,OSPESESSID,RT,bm_sv
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

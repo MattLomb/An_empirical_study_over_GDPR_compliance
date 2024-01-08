@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: vivaticket.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = visid_incap_2282435,Queue-it-token,Queue-it-e7797b3b-e285-46ea-b86f-7a6dc11bef3c
+FUNCTIONAL COOKIES = incap_ses_1574_2282435,nlbi_2282435,Queue-it,QueueITAccepted-SDFrts345E-V3_vivaticketstore,VivaSession
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

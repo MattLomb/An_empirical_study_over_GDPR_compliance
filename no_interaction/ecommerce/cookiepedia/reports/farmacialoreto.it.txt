@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: farmacialoreto.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = language,CLID,LANG,x-pp-s,tsrce,ts,SRM_B
+ANALYTICS COOKIES = uid,_clsk,MR,SM
+ADVERTISING COOKIES = uuid2,IDE,MUID,anj,CMID,CMPS,CMPRO,ayl_visitor,ANONCHK,criteo,demdex,dpm,_kuid_
+UNCLASSIFIED COOKIES = OCSESSID,currency,kk_leadtag,__cf_bm,__trx,cto_bundle,oct8ne-active-tab-id,oct8ne-first-enter,__trx_uid,_clck,ar_debug,enforce_policy,nsid,l7_az,ts_c,visitor-id,data-c-ts,data-c,XANDR_PANID,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,opt_out,tvid,tv_UICR
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

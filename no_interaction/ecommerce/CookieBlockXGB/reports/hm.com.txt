@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: hm.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = HMCORP_locale,HMCOUNTRY_name,bm_sz,AKA_A2,akainst,akavpau_www2_it_it,INGRESSCOOKIE,JSESSIONID,userCookie,akamref,utag_main,HMCORP_locale_autoassigned
+FUNCTIONAL COOKIES = bm_sv,RT,dep_sid,dep_exp,OptanonConsent,ak_bmsc,_abck
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies
