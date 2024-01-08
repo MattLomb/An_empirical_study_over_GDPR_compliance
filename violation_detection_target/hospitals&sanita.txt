@@ -51,7 +51,6 @@ asl17.it
 asl18.it
 portale.asl.at.it
 aslal.it/
-aslcittaditorino.it
 ausl.vda.it
 asl.milano.it
 asl.como.it
@@ -88,13 +87,9 @@ uslsudest.toscana.it
 aslumbria1.it 
 aslumbria2.it
 asur.marche.it
-asur.marche.it
-asur.marche.it
 asur.marche4.it
-asur.marche.it
 asl.rieti.it
 ausl.latina.it
-aslroma1.it
 aslroma3.it
 aslroma4.it
 aslroma5.it
@@ -141,7 +136,6 @@ mauriziano.it/home
 grupposandonato.it/strutture/policlinico-san-donato
 asdaa.it/it/osp-bolzano.asp
 asst-monza.it/ospedale-san-gerardo
-aou.mo.it/home.html
 operapadrepio.it/it/ospedale.html
 aulss3.veneto.it/index.cfm?action=mys.page&content_id=630
 sanita.puglia.it/web/ospedalegiovannixxiii
@@ -172,19 +166,16 @@ http://portale.asl.at.it/Apps/portaleasl.nsf/index.htm
 policlinicoumberto1.it
 ausl.pc.it/ospedali/areeospedaliere/areaospedaliera_piacenza.asp
 auslromagna.it/luoghi/ospedali/ospedale-infermi-di-rimini
-icsmaugeri.it
 aulss7.veneto.it/azienda/ospedali/ospedale-san-bassiano
 ospedalesantandrea.it
 policlinicocampusbiomedico.it
 ospedale.perugia.it
 scamilloforlanini.rm.it
 ospedale-cannizzaro.it
-aslcn2.it
 uslnordovest.toscana.it/ospedali/47-unico-versilia
 asst-lariana.it
 ospedale.al.it
 asst-bgovest.it/395.asp
-aslbi.piemonte.it
 ospedale.cuneo.it
 ospedalimarchenord.it/cerca-reparti-e-servizi/elenco-reparti-e-servizi
 sanluigi.piemonte.it
@@ -200,4 +191,3 @@ ausl.latina.it/gs-serviziospedalieri/gs-presidionord/gs-goretti
 ulss16.padova.it/it/ospedale-s-antonio
 ao-siena.toscana.it
 aospterni.it
-ausl.pe.it
