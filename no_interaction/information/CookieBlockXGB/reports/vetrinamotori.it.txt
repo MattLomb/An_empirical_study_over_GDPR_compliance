@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: vetrinamotori.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = __RequestVerificationToken,_dc_gtm_UA-58482142-1,CLID,_clck,_pbjs_userid_consent_data,MR,SM,ANONCHK,12331dcr-g,12593dcr-g,12594dcr-g,12595dcr-g,12940dcr-g,13127dcr-g
+FUNCTIONAL COOKIES = _ga_5370FJJ421,UID,_gid,_clsk,MUID,SRM_B,_ga_S74FMJ1YRE,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

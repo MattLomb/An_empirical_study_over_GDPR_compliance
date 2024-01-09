@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: turistipercaso.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = YSC,_ga,uid
+ADVERTISING COOKIES = _gcl_au,_fbp,VISITOR_INFO1_LIVE,IDE,uuid,mt_mop
+UNCLASSIFIED COOKIES = _ga_XQ2DN0FMYD,C,cProfile,cOptout,cP,mt_misc,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

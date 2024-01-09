@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: bankier.pl 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = _pbjs_userid_consent_data,Gtest,__utmzzses,_smvs,_gat_UA-325086-1,Gdyn,_gat_onn_tracker,CLID,_clck,MR,SM,ANONCHK
+FUNCTIONAL COOKIES = _sharedID,__gfp_64b,APC,smvr,smuuid,initialTrafficSource,OptanonConsent,_gid,_ga_ZK415J09PQ,Gdynp,IDE,_ga,_ga_6WDH9ZFQ0J,_clsk,MUID,SRM_B
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

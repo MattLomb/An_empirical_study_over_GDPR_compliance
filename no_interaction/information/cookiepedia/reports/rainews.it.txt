@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: rainews.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = bm_sv,ak_bmsc
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID
+ADVERTISING COOKIES = wt_nbg_Q3,IMRID
+UNCLASSIFIED COOKIES = wtsid_602039762736393,wteid_602039762736393,rn-weather-prov,ws_jwt,ws_basepath,wt_rla,b_id
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

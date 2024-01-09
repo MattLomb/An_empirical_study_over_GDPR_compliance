@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: fcinternews.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = clever-last-tracker-71175,clever-counter-71175,_ga,_gid,__Host-logged-out-session,locale,gvc,__Host-js_csrf,vido_visitor_id,session,__cf_bm,uc_session,C,pd,uid,sa-user-id,sa-user-id-v2,uid-bp-30833,bito,bitoIsSecure,uid-bp-26913,A3
+FUNCTIONAL COOKIES = _ga_HBRVQME30L,_ga_NE0M2NZ0BX,UID,Affiliates,pstk,i,viewer_token,sa-user-id-v3,_uid,uid-bp-36033,MRM_UID,IDE,uid-bp-159,uid-bp-717
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = t,sst,ssid,khaos,audit
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

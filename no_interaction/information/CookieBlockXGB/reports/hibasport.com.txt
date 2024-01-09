@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: hibasport.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = __cf_bm,_gat_gtag_UA_39779553_1,test_cookie,__gpi
+FUNCTIONAL COOKIES = _ga_QZYDL5779F,_ga,_gid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __gads
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

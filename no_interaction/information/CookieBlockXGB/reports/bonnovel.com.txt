@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: bonnovel.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = thirdparty,_pbjs_userid_consent_data,CT,amdt_t,apuid,c,tuuid_lu,_kuid_,ssh,imid_secure,imid_created_secure,IDE,UserID1,SERVERID,u,ts,bito,bitoIsSecure,CMPS,CMPRO,MR,hsk_1600,d,pid,uid,_rxuuid,outbrain
+FUNCTIONAL COOKIES = _ga_52TQHZXGTL,_ga,_sharedid,7thMile,amuid2,cto_bundle,cto_bidid,XANDR_PANID,ab,tuuid,pxrc,demdex,dpm,rlas3,g,EE,i,ud,MUID,mc,UID,ut-112-0,ut-0-112,iqm.retarget.uid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = E,uuid2,obsessionid-p178258,obuid,recs_bc2668592a1992fa1e679601cb19fb77,vmuid,a733849,a307558,a297253,zuid,CMID,INGRESSCOOKIE
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

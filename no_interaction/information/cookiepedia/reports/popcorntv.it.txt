@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: popcorntv.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = XSRF-TOKEN
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _gcl_au,test_cookie
+UNCLASSIFIED COOKIES = laravel_session,_ga_YFBDE20G2J,_ga_EXK7YBW3W8,SSID_PopcornTv,SV_PopcornTv,SSC_PopcornTv,SN_PopcornTv,SSCN_N_PopcornTv,SSCN_UG_PopcornTv,SSCN_UW_PopcornTv,SSCN_UM_PopcornTv
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

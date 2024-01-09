@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: tabuloid.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = quads_browser_width,_gat_gtag_UA_886456_59,yabs-sid,_ym_uid,_ym_d,sync_cookie_csrf,_ym_isad,sync_cookie_ok,test_cookie,i,yandexuid,yuidss,_ym_visorc
+FUNCTIONAL COOKIES = _ga_6CCBVKVRFM,_ga,_gid,bh,yp,ymex
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

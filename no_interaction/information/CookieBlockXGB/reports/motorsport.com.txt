@@ -1,0 +1,19 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: motorsport.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ms_touch,abtestv2,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,pageviewSession,Sessions7days,Sessions30days,adblfree,_dc_gtm_UA-5127509-1,_cb,_chartbeat2,_cb_svref,ucountry,ustate,opt_out,ntvSession,FPID
+FUNCTIONAL COOKIES = Sessions7daysExpires,Sessions30daysExpires,_gid,FPLC,_ga_PVMXPYS8TW,_ga,OptanonConsent,_fbp
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookiesCookieBlockXGB model FINAL REPORT OVER WEBSITE: motorsport.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ms_touch,abtestv2,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,pageviewSession,Sessions7days,Sessions30days,_dc_gtm_UA-5127509-1,adblfree,_cb,_chartbeat2,_cb_svref,opt_out,ntvSession,ucountry,ustate,FPID
+FUNCTIONAL COOKIES = Sessions7daysExpires,Sessions30daysExpires,_gid,FPLC,_ga_PVMXPYS8TW,_ga,OptanonConsent,_fbp
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

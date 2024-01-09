@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilrestodelcarlino.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = AWSALBCORS,_k5a,__adblocker,__cf_bm,_gcl_au,__pnahc,__tbc,__pat,cX_P
+FUNCTIONAL COOKIES = IMRID,_pctx,_pcid,_pcus,_ga,__pvi,xbc,_ga_1QY0VE6NXY,IDE,cX_G
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = gckp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

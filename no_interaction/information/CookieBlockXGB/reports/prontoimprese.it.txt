@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: prontoimprese.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = SSID_prontoimprese,SV_prontoimprese,SSC_prontoimprese,SN_prontoimprese,_gat_UA-13179473-1,cf_clearance,__gpi,IDE,ar_debug,CMPS,CMPRO,wfivefivec,everest_g_v2,matchgoogle,tc_cj_v2_cmp,TC_CHECK_COOKIES_SUPPORT,ANON_ID,TCID,CAID,SSA
+FUNCTIONAL COOKIES = _ga,_gid,UID,_ga_MEM1RMF4YH,IMRID,XANDR_PANID,anj,tc_cj_v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __gads,CMID,uuid2,suid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

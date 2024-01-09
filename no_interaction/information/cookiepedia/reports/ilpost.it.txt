@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilpost.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,_ga
+ADVERTISING COOKIES = IMRID,wt_nbg_Q3
+UNCLASSIFIED COOKIES = wtstp_nv,wtstp_nv_s,wtstp_rla,_ce.irv,cebs,_ce.clock_event,wt_mcp_sid,_ga_2T31DE0K8K,_ce.clock_data,cebsp_,_ce.s,FPID,FPLC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

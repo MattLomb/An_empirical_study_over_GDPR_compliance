@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: pianetamamma.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = AWSALB,AWSALBCORS,trackTimeDistribution,wtstp_sid,wtstp_eid,wtstp_cdbeid,wt_nbg_Q3,_hjFirstSeen,_hjIncludedInSessionSample_2493117,_hjAbsoluteSessionInProgress,_ga,_gat_gtag_UA_746038_9,push_notification_viewed
+FUNCTIONAL COOKIES = wtstp_rla,_hjSessionUser_2493117,_hjSession_2493117,_gid,IMRID,_ga_P324T0KMEY
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

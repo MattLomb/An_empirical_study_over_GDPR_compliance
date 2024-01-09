@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: paesionline.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ASP.NET_SessionId
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,uid
+ADVERTISING COOKIES = NID,_fbp,IDE,uuid,mt_mop
+UNCLASSIFIED COOKIES = ans,_ga_52FNHMXS3R,pmtimesig,C,cP,cOptout,mt_misc,cProfile,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: motor1.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = cookie_supported,m1_touch,abtest,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,Sessions7days,Sessions30days,cookie_accept,_dc_gtm_UA-65598278-1,__browsiSessionID,ucountry,FPID,_cb,PHPSESSID,ue_v20,pageviewSession,_chartbeat2,_cb_svref,is_logged_in,_pbjs_userid_consent_data
+FUNCTIONAL COOKIES = Sessions7daysExpires,Sessions30daysExpires,_gid,__browsiUID,FPLC,_fbp,_ga_TKMB81YMJ6,_ga,OptanonConsent,XANDR_PANID,icu
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uuid2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

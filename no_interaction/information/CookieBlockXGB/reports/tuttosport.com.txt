@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: tuttosport.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = _gcl_au,AwinCookie,sptnet_adunit_limit_intro,ar_debug,_gat_gtag_UA_2135082_1,C,receive-cookie-deprecation,uid,CM,CMPS,CMPRO,uid-bp-617,SERVERID,SEUNCY,pxrc
+FUNCTIONAL COOKIES = _gid,IDE,didomi_token,_ga_EXFQRFB44E,_ga,FCNEC,CM14,UID,rlas3,EE,ud
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,CMID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

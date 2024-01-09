@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ubitennis.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ak_bmsc
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = __utma,__utmc,__utmz,__utmt,__utmb,_ga
+ADVERTISING COOKIES = _fbp
+UNCLASSIFIED COOKIES = __cf_bm,mrf-client-id,_ga_0PVTQTBY79,_abck,bm_sz
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

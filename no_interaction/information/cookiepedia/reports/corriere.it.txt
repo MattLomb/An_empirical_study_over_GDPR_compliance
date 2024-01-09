@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: corriere.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = LANG
+ANALYTICS COOKIES = s_fid,s_nr,s_ips,s_tp,s_ppv,s_cc,_chartbeat2
+ADVERTISING COOKIES = demdex,AMCVS_AA5673AE52E15B730A490D4C%40AdobeOrg,IMRID,everest_g_v2,dpm,AMCV_AA5673AE52E15B730A490D4C%40AdobeOrg
+UNCLASSIFIED COOKIES = __GDPRcorriere_ct,__CPcorriere_ct,apw_cache,apw_browser,PermutiveRandomInt,rcsMeteo,TSstop,uuidv4,s_fid_old,s_fbsr,OMN_LNK_CR,UESeg,_pctx,FP_PRVT_USER,FP_PRVT_USER_LSTLGN,_pcid,FP_PRVT_USER_NPM,__chkVLST,_pc_cpwall,__cf_bm,__tbc,__pat,__pvi,xbc,_pcus,_pc_ltsscore,_pc_rcsad_abbonato,cX_P,pnespsdk_ssn,pnespsdk_visitor,LANG_CHANGED,gckp,cX_G,_cb
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

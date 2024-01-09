@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: motorionline.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = __cf_bm,SSID_motorionlinecom,SV_motorionlinecom,SSC_motorionlinecom,SN_motorionlinecom,SSCN_N_motorionlinecom,SSCN_UG_motorionlinecom,SSCN_UW_motorionlinecom,SSCN_UM_motorionlinecom,IDE,__gpi,ar_debug,_tracker,uid,CMPS,CMPRO,gid_CAESENYwRI6-jqJqrMWLVOpEm68,cid_43189bc37ef84fcc9f8a8563c67b2786,UserID1,_rxuuid,ANON_ID
+FUNCTIONAL COOKIES = _ga,_ga_5LVD7D0EXE,APC,anj,XANDR_PANID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __gads,CMID,uuid2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

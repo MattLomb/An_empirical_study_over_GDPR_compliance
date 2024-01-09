@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ricettedellanonna.net 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = IDE,C,uid,mt_misc,mt_mop,CMPS,CMPRO,HAPLB8G,SEUNCY
+FUNCTIONAL COOKIES = _ga_XKCC7LWP7S,_ga,uuid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,cProfile,cOptout,cP,tr,CMID,TapAd_TS,TapAd_DID,TapAd_3WAY_SYNCS
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

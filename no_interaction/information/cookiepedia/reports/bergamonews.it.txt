@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: bergamonews.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID
+ADVERTISING COOKIES = _fbp
+UNCLASSIFIED COOKIES = LSW_WEB,SSID_Bergamonewsit,SV_Bergamonewsit,SSC_Bergamonewsit,SN_Bergamonewsit
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

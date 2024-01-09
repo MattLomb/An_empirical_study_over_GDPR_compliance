@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: corriereadriatico.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _hjSessionUser_2268976,_hjFirstSeen,_hjSession_2268976,_hjAbsoluteSessionInProgress
+ADVERTISING COOKIES = IMRID
+UNCLASSIFIED COOKIES = __cf_bm,_hjIncludedInSessionSample_2268976
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

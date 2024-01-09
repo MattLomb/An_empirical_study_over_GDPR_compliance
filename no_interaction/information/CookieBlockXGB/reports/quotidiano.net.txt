@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: quotidiano.net 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = __cf_bm,AWSALB,AWSALBCORS,__adblocker,_k5a,_pctx,__pnahc,SSID_qnet,SV_qnet,SSC_qnet,SN_qnet,SSCN_N_qnet,SSCN_UG_qnet,SSCN_UW_qnet,SSCN_UM_qnet,__tbc,__pat,__pvi,cX_P
+FUNCTIONAL COOKIES = _ga,_pcid,_pcus,IMRID,xbc,_ga_KH6BFYQJML,IDE,cX_G
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,gckp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

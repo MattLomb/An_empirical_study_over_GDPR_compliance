@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: multiplayer.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = test_cookie
+UNCLASSIFIED COOKIES = color-scheme,_ga_BW3X5D4E38,server_session_id,unique_id,unique_id_durable,referrer_url,experiment_overrides,api_token,ga__15_abel-ssn,KP_UIDZ_1-ssn,KP_UIDz-ssn
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

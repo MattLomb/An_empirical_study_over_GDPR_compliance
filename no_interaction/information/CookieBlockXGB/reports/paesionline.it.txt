@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: paesionline.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ans,ASP.NET_SessionId,pmtimesig,C,uid,mt_misc,mt_mop
+FUNCTIONAL COOKIES = NID,_ga_52FNHMXS3R,_ga,IDE,uuid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,cP,cOptout,cProfile,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

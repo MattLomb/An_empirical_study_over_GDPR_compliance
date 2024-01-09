@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: dailyfx.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = bm_mi,ak_bmsc,bm_sv
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _gcl_au,_fbp,_cs_ex,_cs_c,IDE
+UNCLASSIFIED COOKIES = dfx-cookies-level,_ga_D138CJ93S1,ar_debug
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

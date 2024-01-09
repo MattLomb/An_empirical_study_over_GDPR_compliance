@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: rideapart.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = cookie_supported,m1_touch,abtest,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,pageviewSession,Sessions7days,Sessions30days,cookie_accept,_dc_gtm_UA-38230919-1,__browsiSessionID,_cb,_chartbeat2,_cb_svref,FPID,PHPSESSID,is_logged_in,ucountry,CMPS,CMPRO,_Amc_b,_pbjs_userid_consent_data,HAPLB8G
+FUNCTIONAL COOKIES = Sessions7daysExpires,Sessions30daysExpires,_gid,__browsiUID,_ga,_ga_QMSTTFT3DK,FPLC,_fbp,OptanonConsent,ktcid,icu,CONSUMABLEID,XANDR_PANID,demdex,dpm
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uuid2,_usd_rideapart.com,__uis,CMID,INGRESSCOOKIE
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

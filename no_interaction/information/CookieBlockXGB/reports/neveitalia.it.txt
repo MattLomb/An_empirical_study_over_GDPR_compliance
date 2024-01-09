@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: neveitalia.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = trend,TSstop,s_fbsr,s_nr,tiq_gpv_pn,tiq_gpv_sect,TIQ_SC_LNK_GZ,s_ips,s_cc,everest_g_v2,s_tp
+FUNCTIONAL COOKIES = lang,demdex,_ga_2WH6TCLRF3,_ga,s_fid,s_fid_old,s_ppv,OptanonConsent,UESeg,dpm,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = AMCVS_AA5673AE52E15B730A490D4C%40AdobeOrg,AMCV_AA5673AE52E15B730A490D4C%40AdobeOrg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

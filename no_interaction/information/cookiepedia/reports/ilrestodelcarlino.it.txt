@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilrestodelcarlino.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = AWSALBCORS
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = IMRID,_gcl_au,IDE
+UNCLASSIFIED COOKIES = _k5a,__adblocker,__cf_bm,_pctx,_pcid,_pcus,__pnahc,__tbc,__pat,__pvi,xbc,_ga_1QY0VE6NXY,cX_P,cX_G,gckp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

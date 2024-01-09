@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: business.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = __cf_bm,1362_u,1362_s,1362_lv,1362_ut,_gid,_gat_UA-72811897-1,receive-cookie-deprecation
+FUNCTIONAL COOKIES = ___nrbic,___nrbi,compass_uid,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = ljt_reader
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

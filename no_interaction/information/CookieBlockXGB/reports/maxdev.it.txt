@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: maxdev.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = yabs-sid,_gat_gtag_UA_9666295_3,_ym_uid,_ym_d,i,yandexuid,_ym_isad,sync_cookie_csrf,test_cookie,sync_cookie_ok,yuidss,_ym_visorc
+FUNCTIONAL COOKIES = _ga_LEPNDVSYW5,bh,_ga,_gid,yp,ymex
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

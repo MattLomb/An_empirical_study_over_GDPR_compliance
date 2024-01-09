@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: turistipercaso.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = C,uid,mt_misc,mt_mop
+FUNCTIONAL COOKIES = _ga_XQ2DN0FMYD,_ga,IDE,uuid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,_fbp,YSC,VISITOR_INFO1_LIVE,cProfile,cOptout,cP,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

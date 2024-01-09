@@ -186,7 +186,6 @@ agriturismo.it
 camperonline.it
 turistipercaso.it
 arte.it
-travelfool.it
 trueriders.it
 altranotizia.it
 amoreaquattrozampe.it
@@ -285,7 +284,6 @@ virgilio.it
 bankier.pl
 onboardicafe.com
 quora.com
-hibasport.com
 fcinternews.it
 germancarforum.com
 famiboards.com
@@ -294,7 +292,4 @@ bonnovel.com
 rainews.it
 magicolane.com
 milannews.it
-toonily.com
-dailyfx.com
 treccani.it
-formulapassion.it

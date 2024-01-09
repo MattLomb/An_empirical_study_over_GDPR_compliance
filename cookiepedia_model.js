@@ -15,6 +15,14 @@ const axios = require('axios');
 
 async function getCookiepediaClassification(param) {
   try {
+    function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    // Aggiungi un timeout casuale tra 0 e 3 secondi
+    const randomTimeout = getRandomInt(0, 3000);
+    await new Promise(resolve => setTimeout(resolve, randomTimeout));
+
     var ret;
     const url = 'https://cookiepedia.co.uk/cookies';
     // Aggiungi il parametro alla URL (se necessario)

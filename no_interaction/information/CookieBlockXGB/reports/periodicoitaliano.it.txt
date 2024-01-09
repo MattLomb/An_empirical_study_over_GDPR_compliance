@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: periodicoitaliano.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = quads_browser_width,_gat_gtag_UA_886456_47,yabs-sid,i,yandexuid,yuidss,ymex,_ym_uid,_ym_d,_ym_isad,sync_cookie_csrf,sync_cookie_ok,_ym_visorc
+FUNCTIONAL COOKIES = _ga_HHNMNKLHC0,UID,_ga,_gid,bh,yp
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

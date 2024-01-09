@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lastampa.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = gig_canary,gig_bootstrap_3_NRyswxWbjIiyFbMR7CVy22QhKZj_bheNs1ZLXzWapUkdgEo01A2p0lKMqocvvOPO
+FUNCTIONAL COOKIES = _cb_svref
+ANALYTICS COOKIES = _chartbeat2,_ga,_gid
+ADVERTISING COOKIES = IMRID,NID
+UNCLASSIFIED COOKIES = kw_1pc_enableds,kw_dllimio_logdebugger,kw_prevUsrSts,froomle-frm-internal-abtest,kw_debug_1px,gig_canary_ver,gmid,ucid,hasGmid,gig_canary_3_2oQ0Rw41QlhvMLmUtCqjJUkf3Vou3hkxjQGQBHWIc9REFlNZdsQ6Nhgf1lcRZARv,gig_canary_ver_3_2oQ0Rw41QlhvMLmUtCqjJUkf3Vou3hkxjQGQBHWIc9REFlNZdsQ6Nhgf1lcRZARv,_cb,_ga_C8JFY7ZLC1
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

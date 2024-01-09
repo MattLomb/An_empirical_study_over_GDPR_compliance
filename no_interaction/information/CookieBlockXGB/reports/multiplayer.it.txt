@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: multiplayer.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = color-scheme,unique_id,unique_id_durable,test_cookie,referrer_url,ga__15_abel-ssn,KP_UIDZ_1-ssn,KP_UIDz-ssn
+FUNCTIONAL COOKIES = _ga,_ga_BW3X5D4E38,server_session_id,experiment_overrides,api_token
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

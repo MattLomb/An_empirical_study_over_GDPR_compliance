@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: corriere.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = __GDPRcorriere_ct,__CPcorriere_ct,apw_cache,apw_browser,PermutiveRandomInt,rcsMeteo,TSstop,s_fbsr,s_nr,OMN_LNK_CR,s_ips,s_tp,s_ppv,s_cc,everest_g_v2,FP_PRVT_USER,FP_PRVT_USER_LSTLGN,FP_PRVT_USER_NPM,__chkVLST,_pc_cpwall,__cf_bm,__tbc,__pat,_pc_ltsscore,_pc_rcsad_abbonato,cX_P,pnespsdk_ssn,pnespsdk_visitor,LANG,LANG_CHANGED,_cb,_chartbeat2
+FUNCTIONAL COOKIES = uuidv4,demdex,IMRID,s_fid,s_fid_old,UESeg,_pctx,_pcid,dpm,__pvi,xbc,_pcus,cX_G
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = AMCVS_AA5673AE52E15B730A490D4C%40AdobeOrg,AMCV_AA5673AE52E15B730A490D4C%40AdobeOrg,gckp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

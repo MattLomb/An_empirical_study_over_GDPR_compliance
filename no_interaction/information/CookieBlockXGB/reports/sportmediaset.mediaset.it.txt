@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: sportmediaset.mediaset.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = wteid_769396664005295,wtsid_769396664005295,__mx_log,daily_pixel_synch_last_fired,gig_canary,gig_canary_ver,apiDomain_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM,gmid,ucid,hasGmid,gig_bootstrap_3_8Yg2MsJLzz90-_RPaltT_DKNNUKaS-ibqyREib5FA2uktLJzxcyfjdHOEdqFXWrm,gig_canary_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM,gig_canary_ver_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM,utag_main,wt_nbg_Q3
+FUNCTIONAL COOKIES = IMRID,wtstp_rla
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

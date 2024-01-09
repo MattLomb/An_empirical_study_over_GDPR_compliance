@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilsole24ore.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = utag_main,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,RT,uid
+ADVERTISING COOKIES = IMRID,wt_nbg_Q3
+UNCLASSIFIED COOKIES = wtsid_988195797407130,wteid_988195797407130,nohupMeteo,_k5a,TAPID,wt_cdbeid,wt_rla,cto_bundle,_OptanonConsentOld,SoleCookieAccept,wt_gdpr_988195797407130,wt_cookiecontrol,FCNEC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

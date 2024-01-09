@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: rideapart.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = _dc_gtm_UA-38230919-1,PHPSESSID,OptanonConsent
+FUNCTIONAL COOKIES = _cb_svref
+ANALYTICS COOKIES = _gid,_ga,_chartbeat2
+ADVERTISING COOKIES = _fbp,icu,uuid2,__uis,CMID,CMPS,CMPRO,demdex,dpm
+UNCLASSIFIED COOKIES = cookie_supported,m1_touch,abtest,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,pageviewSession,Sessions7daysExpires,Sessions7days,Sessions30daysExpires,Sessions30days,cookie_accept,__browsiSessionID,__browsiUID,_ga_QMSTTFT3DK,_cb,FPID,FPLC,is_logged_in,ucountry,ktcid,_usd_rideapart.com,CONSUMABLEID,XANDR_PANID,_Amc_b,INGRESSCOOKIE,_pbjs_userid_consent_data,HAPLB8G
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

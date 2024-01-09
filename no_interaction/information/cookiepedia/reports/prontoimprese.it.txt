@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: prontoimprese.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = cf_clearance
+ANALYTICS COOKIES = _ga,_gid,UID
+ADVERTISING COOKIES = _gat_UA-13179473-1,IMRID,__gads,__gpi,IDE,CMID,CMPS,CMPRO,anj,uuid2,wfivefivec,everest_g_v2,matchgoogle,ANON_ID
+UNCLASSIFIED COOKIES = SSID_prontoimprese,SV_prontoimprese,SSC_prontoimprese,SN_prontoimprese,_ga_MEM1RMF4YH,ar_debug,XANDR_PANID,suid,tc_cj_v2,tc_cj_v2_cmp,TC_CHECK_COOKIES_SUPPORT,TCID,CAID,SSA
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

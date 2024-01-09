@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: bonnovel.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = SERVERID
+FUNCTIONAL COOKIES = recs_bc2668592a1992fa1e679601cb19fb77,vmuid,ts,pid
+ANALYTICS COOKIES = _ga,MR,UID,uid
+ADVERTISING COOKIES = uuid2,obuid,ab,tuuid,tuuid_lu,pxrc,demdex,_kuid_,dpm,IDE,UserID1,rlas3,g,bito,CMID,CMPS,CMPRO,EE,ud,MUID,d,mc,_rxuuid
+UNCLASSIFIED COOKIES = thirdparty,_ga_52TQHZXGTL,_pbjs_userid_consent_data,_sharedid,7thMile,CT,E,amdt_t,amuid2,cto_bundle,cto_bidid,apuid,obsessionid-p178258,a733849,a307558,a297253,XANDR_PANID,c,ssh,imid_secure,imid_created_secure,u,zuid,bitoIsSecure,i,hsk_1600,INGRESSCOOKIE,ut-112-0,ut-0-112,outbrain,iqm.retarget.uid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: agriturismo.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = cookiePolicy,backLocation,_gat_gtag_UA_8889691_1,__gpi,IDE,ipe_s,ipe.4696.pageViewedCount,ipe.4696.pageViewedDay,ipe_4696_fov,IPE22795,iperceptions.com
+FUNCTIONAL COOKIES = MUID,_ga_QW473961LR,_ga,_gid,_ga_4XWRPKX83W
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _uetsid,_uetvid,_fbp,__gads
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

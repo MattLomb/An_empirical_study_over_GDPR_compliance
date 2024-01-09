@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ansa.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = CLID,SRM_B
+ANALYTICS COOKIES = _ga,MR,SM,_clsk
+ADVERTISING COOKIES = IMRID,MUID,ANONCHK
+UNCLASSIFIED COOKIES = __cf_bm,_ga_M79NL4FRK3,_pprv,__pid,_clck,__tbc,_pctx,xbc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

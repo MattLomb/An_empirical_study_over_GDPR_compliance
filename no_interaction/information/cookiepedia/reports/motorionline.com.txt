@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: motorionline.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,uid
+ADVERTISING COOKIES = IDE,__gads,__gpi,CMPS,CMID,CMPRO,anj,uuid2,UserID1,_rxuuid,ANON_ID
+UNCLASSIFIED COOKIES = __cf_bm,SSID_motorionlinecom,SV_motorionlinecom,SSC_motorionlinecom,SN_motorionlinecom,SSCN_N_motorionlinecom,SSCN_UG_motorionlinecom,SSCN_UW_motorionlinecom,SSCN_UM_motorionlinecom,_ga_5LVD7D0EXE,ar_debug,APC,_tracker,XANDR_PANID,gid_CAESENYwRI6-jqJqrMWLVOpEm68,cid_43189bc37ef84fcc9f8a8563c67b2786
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

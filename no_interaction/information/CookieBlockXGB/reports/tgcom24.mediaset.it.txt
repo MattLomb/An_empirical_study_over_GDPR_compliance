@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: tgcom24.mediaset.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = wteid_769396664005295,wtsid_769396664005295,__mx_log,gig_canary,gig_canary_ver,apiDomain_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM,gmid,ucid,hasGmid,gig_bootstrap_3_Q2YR3-An4K_pslqTk0mxn7NXhotIqAGEa4K9oWWuhB8terc3cQk5GVAX3AIeVTlt,gig_canary_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM,gig_canary_ver_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM,wt_nbg_Q3,utag_main,daily_pixel_synch_last_fired
+FUNCTIONAL COOKIES = UID,wtstp_rla,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

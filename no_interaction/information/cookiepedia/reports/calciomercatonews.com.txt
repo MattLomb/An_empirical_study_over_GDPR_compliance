@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: calciomercatonews.com 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,OAID,UID,uid
+ADVERTISING COOKIES = OAGEO,test_cookie,__gads,__gpi,khaos,anj,icu,uuid2,tuuid,tuuid_lu
+UNCLASSIFIED COOKIES = quads_browser_width,_ga_EDSG4ZJZ0M,audit,ad_simply_viewer,profiler,simply_new_fc,C,XANDR_PANID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

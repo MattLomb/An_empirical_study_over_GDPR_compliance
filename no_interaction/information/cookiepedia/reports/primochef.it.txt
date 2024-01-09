@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: primochef.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = at_gd
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _gcl_au
+UNCLASSIFIED COOKIES = __cf_bm,_ga_YSZ5SR0HB6,_ga_EXK7YBW3W8
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

@@ -1,0 +1,19 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: travelfool.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = SameSite,XSRF-TOKEN,travelfool_session,_gat_gtag_UA_96911900_1,C,uid,mt_misc,mt_mop
+FUNCTIONAL COOKIES = _ga_G9HJSZHTTQ,_ga_0NW5KZNKT6,_ga,_gid,IDE,uuid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE,cP,cOptout,cProfile,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookiesCookieBlockXGB model FINAL REPORT OVER WEBSITE: travelfool.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = SameSite,XSRF-TOKEN,travelfool_session,_gat_gtag_UA_96911900_1,C,uid,mt_misc,mt_mop
+FUNCTIONAL COOKIES = _gid,_ga_0NW5KZNKT6,_ga,_ga_G9HJSZHTTQ,uuid,IDE
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE,cProfile,cP,cOptout,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

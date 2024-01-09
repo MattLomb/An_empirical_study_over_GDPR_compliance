@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: agriturismo.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = ipe_s
+ANALYTICS COOKIES = _uetvid,_ga,_gid
+ADVERTISING COOKIES = _uetsid,MUID,_fbp,_gat_gtag_UA_8889691_1,__gads,__gpi,IDE
+UNCLASSIFIED COOKIES = cookiePolicy,backLocation,_ga_QW473961LR,_ga_4XWRPKX83W,ipe.4696.pageViewedCount,ipe.4696.pageViewedDay,ipe_4696_fov,IPE22795,iperceptions.com
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies
