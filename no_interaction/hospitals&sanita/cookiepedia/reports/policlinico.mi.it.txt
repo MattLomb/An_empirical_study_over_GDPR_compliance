@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: policlinico.mi.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = ci_session
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,_gat
+ADVERTISING COOKIES = _fbp
+UNCLASSIFIED COOKIES = fom_csrf_cookie,_ga_M1F5R5EH3Q
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

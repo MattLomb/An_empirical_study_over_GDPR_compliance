@@ -1,0 +1,10 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: humanitas.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = visid_incap_2471768,cookielawinfo-checkbox-necessary,cookielawinfo-checkbox-functional,cookielawinfo-checkbox-analytics,__kla_id,visid_incap_2352612,test_cookie,_gat_UA-169898263-1,_gat_UA-8080307-3,_gat_UA-168209962-3,_gat_UA-168209962-1
+FUNCTIONAL COOKIES = incap_ses_472_2471768,incap_ses_1574_2471768,incap_ses_1574_2352612,_ga_82CNG99M6T,_ga_BWYJ44G370,_ga,_gid,_ga_93VBWTCD7Z
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,_fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,11 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: humanitas.it 
+NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = __kla_id,_gcl_au,test_cookie,_gat_UA-169898263-1,_gat_UA-8080307-3,_gat_UA-168209962-3,_gat_UA-168209962-1,_fbp
+UNCLASSIFIED COOKIES = visid_incap_2471768,incap_ses_472_2471768,incap_ses_1574_2471768,cookielawinfo-checkbox-necessary,cookielawinfo-checkbox-functional,cookielawinfo-checkbox-analytics,visid_incap_2352612,incap_ses_1574_2352612,_ga_82CNG99M6T,_ga_BWYJ44G370,_ga_93VBWTCD7Z
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies
