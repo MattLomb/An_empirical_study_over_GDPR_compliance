@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: spid.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.XkJ3ZGKpLy.ac43,_pk_ses.XkJ3ZGKpLy.ac43
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

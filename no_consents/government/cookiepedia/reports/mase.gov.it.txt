@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: mase.gov.it 
+NECESSARY COOKIES = CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = YSC,_pk_id.6.c860,_pk_ses.6.c860
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

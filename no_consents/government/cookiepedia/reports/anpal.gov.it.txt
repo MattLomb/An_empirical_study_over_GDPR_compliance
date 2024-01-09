@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: anpal.gov.it 
+NECESSARY COOKIES = JSESSIONID
+FUNCTIONAL COOKIES = GUEST_LANGUAGE_ID,rxVisitor
+ANALYTICS COOKIES = dtSa,_pk_id.Po0nVjK0wJ.e68f,_pk_ses.Po0nVjK0wJ.e68f,rxvt,dtPC
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = anpalPortalePRD,dtCookie,COOKIE_SUPPORT,LFR_SESSION_STATE_20103
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics cookies

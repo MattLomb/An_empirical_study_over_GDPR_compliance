@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: interno.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = cookie-agreed
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = cookie-agreed-version,cookie-agreed-categories
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

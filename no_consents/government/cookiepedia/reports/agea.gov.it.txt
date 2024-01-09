@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: agea.gov.it 
+NECESSARY COOKIES = JSESSIONID
+FUNCTIONAL COOKIES = rxVisitor
+ANALYTICS COOKIES = _pk_id.78qrJl2qQX.937c,_pk_ses.78qrJl2qQX.937c,dtSa,rxvt,dtPC,route
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = AUTH_SESSION_ID,AUTH_SESSION_ID_LEGACY,dtCookie
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics cookies

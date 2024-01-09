@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: perlapa.gov.it 
+NECESSARY COOKIES = _d494d,_pk_ses.46.d2d5
+FUNCTIONAL COOKIES = _pk_id.46.d2d5
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

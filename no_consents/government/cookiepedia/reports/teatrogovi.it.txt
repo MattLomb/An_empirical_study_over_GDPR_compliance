@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: teatrogovi.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = ts
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = tk_or,tk_r3d,tk_lr,cookielawinfo-checkbox-necessary,cookielawinfo-checkbox-functional,cookielawinfo-checkbox-performance,cookielawinfo-checkbox-analytics,cookielawinfo-checkbox-advertisement,cookielawinfo-checkbox-others,ts_c
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

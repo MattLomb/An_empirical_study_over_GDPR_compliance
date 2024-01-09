@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: inpa.gov.it 
+NECESSARY COOKIES = cookiesession1,_pk_ses.72.5fd1,cookielawinfo-checkbox-necessary,cookielawinfo-checkbox-functional,cookielawinfo-checkbox-performance,cookielawinfo-checkbox-analytics,cookielawinfo-checkbox-advertisement,cookielawinfo-checkbox-others,XSRF-TOKEN
+FUNCTIONAL COOKIES = _pk_id.72.5fd1
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

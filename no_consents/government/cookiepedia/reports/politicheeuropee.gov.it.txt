@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: politicheeuropee.gov.it 
+NECESSARY COOKIES = SERVERID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,_gat,_pk_id.43.2b5d,_pk_ses.43.2b5d
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_ZCCWWRY00W,cc_d_p_e
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

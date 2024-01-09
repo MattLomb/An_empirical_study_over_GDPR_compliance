@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: lineaamica.gov.it 
+NECESSARY COOKIES = ASP.NET_SessionId,ARRAffinity,ARRAffinitySameSite,sf-prs-ss,sf-prs-lu,_gat_gtag_UA_320690_4,CookieConsent
+FUNCTIONAL COOKIES = _ga_1K3FMS8HRN
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

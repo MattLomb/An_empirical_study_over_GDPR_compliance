@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: anpal.gov.it 
+NECESSARY COOKIES = anpalPortalePRD,dtCookie,JSESSIONID,COOKIE_SUPPORT,GUEST_LANGUAGE_ID,rxVisitor,dtSa,_pk_id.Po0nVjK0wJ.e68f,_pk_ses.Po0nVjK0wJ.e68f,LFR_SESSION_STATE_20103
+FUNCTIONAL COOKIES = rxvt,dtPC
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

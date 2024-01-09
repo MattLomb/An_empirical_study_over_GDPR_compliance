@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: istruzioneveneto.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.1.545a,_pk_ses.1.545a,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_HD9Y8QES78,cookie_notice_accepted
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

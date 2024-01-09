@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: informazioneeditoria.gov.it 
+NECESSARY COOKIES = SERVERID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,_gat
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_012FJBMCBQ,cc_cookie
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

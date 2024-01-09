@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ministeroturismo.gov.it 
+NECESSARY COOKIES = CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.5WpwmAz0lK.c8c6,_pk_ses.5WpwmAz0lK.c8c6
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

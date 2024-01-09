@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: agid.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.RjLp6G7qWQ.3f02,_pk_ses.RjLp6G7qWQ.3f02
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

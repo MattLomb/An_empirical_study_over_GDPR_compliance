@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: governo.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = has_js
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

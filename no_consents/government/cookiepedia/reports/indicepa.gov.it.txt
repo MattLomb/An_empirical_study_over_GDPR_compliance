@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: indicepa.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.LgV3jWYpAE.6130,_pk_ses.LgV3jWYpAE.6130
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = cookiesession1
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

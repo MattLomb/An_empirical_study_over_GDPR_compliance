@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: opencoesione.gov.it 
+NECESSARY COOKIES = _cfuvid,_pk_ses.64.5b56
+FUNCTIONAL COOKIES = _pk_id.64.5b56,cc_cookie
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

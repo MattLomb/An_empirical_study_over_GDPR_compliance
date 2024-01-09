@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: mit.gov.it 
+NECESSARY COOKIES = cookiesession1,mit,_pk_id.9aW3g4mpDR.fab7,_pk_ses.9aW3g4mpDR.fab7
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

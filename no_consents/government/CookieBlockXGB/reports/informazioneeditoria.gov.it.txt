@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: informazioneeditoria.gov.it 
+NECESSARY COOKIES = SERVERID,_gat
+FUNCTIONAL COOKIES = _ga,_gid,_ga_012FJBMCBQ,cc_cookie
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

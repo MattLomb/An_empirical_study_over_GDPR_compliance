@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: padigitale2026.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.R9pxNNv0Xm.5984,_pk_ses.R9pxNNv0Xm.5984
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

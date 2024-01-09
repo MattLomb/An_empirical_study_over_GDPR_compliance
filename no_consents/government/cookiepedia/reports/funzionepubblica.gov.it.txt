@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: funzionepubblica.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = has_js
+ANALYTICS COOKIES = _ga,_gid,_gat,_pk_id.9.8c61,_pk_ses.9.8c61
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_8YXCCQSRF0
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics cookies

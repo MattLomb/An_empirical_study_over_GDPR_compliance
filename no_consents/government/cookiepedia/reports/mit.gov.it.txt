@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: mit.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = YSC,_pk_id.9aW3g4mpDR.fab7,_pk_ses.9aW3g4mpDR.fab7
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE
+UNCLASSIFIED COOKIES = cookiesession1,mit
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

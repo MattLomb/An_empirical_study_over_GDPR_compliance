@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: innovazione.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.WR9px4MpXm.91f2,_pk_ses.WR9px4MpXm.91f2
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies
