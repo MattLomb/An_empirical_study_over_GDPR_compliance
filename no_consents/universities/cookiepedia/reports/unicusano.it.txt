@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unicusano.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _GRECAPTCHA,__wpdm_client,_ga_5NDBR3N0H6,_iub_cs-77904571
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

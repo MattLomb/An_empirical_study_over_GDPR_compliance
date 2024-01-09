@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unisal.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = YSC,_ga,_gid
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE,_gat_gtag_UA_148934404_1
+UNCLASSIFIED COOKIES = _ga_8X9L0M0Y39
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

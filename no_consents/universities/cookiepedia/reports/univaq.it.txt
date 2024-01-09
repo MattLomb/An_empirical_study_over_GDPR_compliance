@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: univaq.it 
+NECESSARY COOKIES = PHPSESSID,AWSALBCORS,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.6vqExX7pQO.dd47,_pk_ses.6vqExX7pQO.dd47,nmstat
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unicri.it 
+NECESSARY COOKIES = __cf_bm,_gat_gtag_UA_234798435_1
+FUNCTIONAL COOKIES = _ga_WT83RXLDV8,_ga_XDRL165CR6,_ga,_gid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE,player,vuid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

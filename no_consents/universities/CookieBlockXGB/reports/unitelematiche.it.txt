@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unitelematiche.it 
+NECESSARY COOKIES = __cf_bm
+FUNCTIONAL COOKIES = _ga_3Y5MCG9C68,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

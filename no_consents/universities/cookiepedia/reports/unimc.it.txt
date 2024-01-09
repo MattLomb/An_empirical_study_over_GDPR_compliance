@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unimc.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.bXKqJ25qYR.9fea,_pk_ses.bXKqJ25qYR.9fea
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = I18N_LANGUAGE,cc_accepted_providers,cc_hide_prompt
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

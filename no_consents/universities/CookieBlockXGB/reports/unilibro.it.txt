@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unilibro.it 
+NECESSARY COOKIES = frzbt.session
+FUNCTIONAL COOKIES = visid_incap_1099613,incap_ses_629_1099613,frzbt.user
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: univadis.it 
+NECESSARY COOKIES = JSESSIONID,mednet,__cfruid,med_session,PHPSESSID,lrt_wrk,_gcl_au,test_cookie,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = medpermgl,_ga,_ga_BR3MV9G8Q9,eupubconsent-v2,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unita.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = __cf_bm,_ga_4GWZJGZF1W,euconsent-v2,addtl_consent,_pbjs_userid_consent_data,aniC,_lr_retry_request,_lr_env_src_ats,pbjs-unifiedid,panoramaId_expiry
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

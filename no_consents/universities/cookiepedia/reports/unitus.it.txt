@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unitus.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = wp-wpml_current_language,_ga_SSVC8N6RWB
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

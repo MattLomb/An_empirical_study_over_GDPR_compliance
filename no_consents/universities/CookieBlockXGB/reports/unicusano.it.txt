@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unicusano.it 
+NECESSARY COOKIES = _GRECAPTCHA,AWSALB,AWSALBCORS,__wpdm_client,_iub_cs-77904571
+FUNCTIONAL COOKIES = _ga,_ga_5NDBR3N0H6
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

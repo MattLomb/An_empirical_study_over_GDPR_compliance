@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unimagnagrecia.it 
+NECESSARY COOKIES = 177dd1e56e5f231f64bd13e7ebd61b92,test_cookie
+FUNCTIONAL COOKIES = NID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

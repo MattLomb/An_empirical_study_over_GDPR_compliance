@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: uniecampus.it 
+NECESSARY COOKIES = __cf_bm,ar_debug,CookieConsent
+FUNCTIONAL COOKIES = NID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

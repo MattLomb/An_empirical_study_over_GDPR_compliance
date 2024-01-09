@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unisalute.it 
+NECESSARY COOKIES = dtCookie,rxVisitor,dtSa,gpv_Page,s_cc,everest_g_v2,s_sq,utag_main
+FUNCTIONAL COOKIES = demdex,dpm,rxvt,dtPC
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE,AMCVS_A69A372A60E55C2A0A495FA6%40AdobeOrg,AMCV_A69A372A60E55C2A0A495FA6%40AdobeOrg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

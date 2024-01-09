@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unimol.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.kjpRKxPq1y.bce4,_pk_ses.kjpRKxPq1y.bce4
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = X-Oracle-BMC-LBS-Route
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

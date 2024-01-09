@@ -19,6 +19,8 @@ const cookiesFormatter = require( './cookiesFormatter' );
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const formatCookies = require('./cookiesFormatter');
 const { arguments } = require('commander');
+const { writeJsonArrayToFiles, writeErrorsToFiles } = require('./writeOutput');
+
 
 /****** 
  * PARSE INPUT
@@ -50,6 +52,9 @@ async function parseArgsAndSetup() {
   return [url, consents_array, url_file_name];
 }
 
+const directoryResultErrors = './violations/errors';
+var errors = [];
+
 /***** MAIN  ******/
 (async () => {
 
@@ -64,7 +69,7 @@ async function parseArgsAndSetup() {
   const browser = await puppeteer
   .use(StealthPlugin())
   .launch({
-    headless: 'new',
+    headless: false,
     args: [
       `--disable-extensions-except=${pathToExtension}`,
       `--load-extension=${pathToExtension}`,
@@ -108,6 +113,13 @@ async function parseArgsAndSetup() {
      ******/
     if ( navigation.status().toString() != '200' ) {
         console.log( "ERROR DURING NAVIGATION ON  " + url + "\nERROR CODE/RESPONSE STATUS: " + navigation.status().toString() );
+        await browser.close();
+        errors.push( url );
+        await writeErrorsToFiles(errors, directoryResultErrors)
+        .then(() => {
+          console.log('Scrittura errori completata.');
+        })
+        process.exit(1);
     } else {
         //Inject the code of Consent-O-Matic
         let promise = new Promise((resolve)=>{
@@ -132,7 +144,7 @@ async function parseArgsAndSetup() {
 
         //console.log("------ COOKIES RETRIEVED ------");
         const all_browser_cookies = (await client.send('Storage.getCookies')).cookies;
-        //console.log(all_browser_cookies);
+        console.log(all_browser_cookies);
 
         await browser.close();
 
@@ -144,7 +156,13 @@ async function parseArgsAndSetup() {
     
   } catch ( err ) {
     console.log( "Error: " + err );
-    return 0;
+    await browser.close();
+    errors.push( url );
+    await writeErrorsToFiles(errors, directoryResultErrors)
+    .then(() => {
+      console.log('Scrittura errori completata.');
+    })
+    process.exit(1);
   }
   
 })();

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unita.it 
+NECESSARY COOKIES = __cf_bm,euconsent-v2,addtl_consent,_pbjs_userid_consent_data,_lr_retry_request,_lr_env_src_ats,pbjs-unifiedid,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga,_ga_4GWZJGZF1W,UID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = aniC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

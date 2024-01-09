@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unipegaso.it 
+NECESSARY COOKIES = unipegasoit_session,CRM_campaign,CRM_id,CRM_term,CRM_gclid
+FUNCTIONAL COOKIES = _ga_8FG3GL5FQK,_ga,_gid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

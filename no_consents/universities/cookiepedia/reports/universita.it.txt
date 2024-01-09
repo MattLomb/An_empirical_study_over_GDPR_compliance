@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: universita.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_hjSessionUser_1006039,_hjFirstSeen,_hjSession_1006039,_hjAbsoluteSessionInProgress
+ADVERTISING COOKIES = _fbp
+UNCLASSIFIED COOKIES = advanced_ads_browser_width,_hjIncludedInSessionSample_1006039,_ga_3JJX0YKE7Z,euconsent-v2,_iub_cs-85871419
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,19 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unifi.it 
+NECESSARY COOKIES = cb-enabled
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.E1e0G2bq6l.56f1,_pk_ses.E1e0G2bq6l.56f1
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = MDPROSID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookiesCookiepedia model FINAL REPORT OVER WEBSITE: unifi.it 
+NECESSARY COOKIES = cb-enabled
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.E1e0G2bq6l.56f1,_pk_ses.E1e0G2bq6l.56f1
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = MDPROSID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies
