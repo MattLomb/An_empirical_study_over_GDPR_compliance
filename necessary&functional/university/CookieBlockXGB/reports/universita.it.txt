@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: universita.it 
+NECESSARY COOKIES = advanced_ads_browser_width,_hjFirstSeen,_hjIncludedInSessionSample_1006039,_hjAbsoluteSessionInProgress,euconsent-v2,_iub_cs-85871419
+FUNCTIONAL COOKIES = _hjSessionUser_1006039,_hjSession_1006039,_ga,_ga_3JJX0YKE7Z
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

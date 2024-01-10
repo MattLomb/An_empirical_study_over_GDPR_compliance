@@ -1,0 +1,82 @@
+{
+  "MDPROSID": {
+    "visit_id": 1,
+    "name": "MDPROSID",
+    "domain": "www.unifi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "kf4lg4suej37gvq161n108r401",
+        "expiry": 1704994403,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cb-enabled": {
+    "visit_id": 1,
+    "name": "cb-enabled",
+    "domain": "www.unifi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "enabled",
+        "expiry": 1736444003,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.E1e0G2bq6l.56f1": {
+    "visit_id": 1,
+    "name": "_pk_id.E1e0G2bq6l.56f1",
+    "domain": "www.unifi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3f744e518da6ebcd.1704908004.",
+        "expiry": 1738863204,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.E1e0G2bq6l.56f1": {
+    "visit_id": 1,
+    "name": "_pk_ses.E1e0G2bq6l.56f1",
+    "domain": "www.unifi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704909803,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

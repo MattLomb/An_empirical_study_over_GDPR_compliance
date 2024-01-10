@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unisalute.it 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = rxVisitor
+ANALYTICS COOKIES = dtSa,YSC,s_cc,rxvt,dtPC,s_sq
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE,demdex,AMCVS_A69A372A60E55C2A0A495FA6%40AdobeOrg,everest_g_v2,dpm
+UNCLASSIFIED COOKIES = dtCookie,gpv_Page,AMCV_A69A372A60E55C2A0A495FA6%40AdobeOrg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

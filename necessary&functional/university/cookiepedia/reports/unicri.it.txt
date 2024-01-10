@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unicri.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = vuid
+ANALYTICS COOKIES = YSC,_gid,_ga
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE,_gat_gtag_UA_234798435_1
+UNCLASSIFIED COOKIES = __cf_bm,_ga_WT83RXLDV8,_ga_XDRL165CR6,player
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

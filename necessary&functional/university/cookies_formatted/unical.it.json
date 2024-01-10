@@ -1,0 +1,62 @@
+{
+  "sessionid": {
+    "visit_id": 1,
+    "name": "sessionid",
+    "domain": ".unical.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "25u1icg8xyb0n7zu48p7m58fdxmu4c5q",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_id.bm93LeJpxR.dfa0": {
+    "visit_id": 1,
+    "name": "_pk_id.bm93LeJpxR.dfa0",
+    "domain": "www.unical.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3c35a1419bf65d84.1704908587.",
+        "expiry": 1738863787,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.bm93LeJpxR.dfa0": {
+    "visit_id": 1,
+    "name": "_pk_ses.bm93LeJpxR.dfa0",
+    "domain": "www.unical.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704910386,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

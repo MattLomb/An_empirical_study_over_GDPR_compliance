@@ -1,0 +1,62 @@
+{
+  "177dd1e56e5f231f64bd13e7ebd61b92": {
+    "visit_id": 1,
+    "name": "177dd1e56e5f231f64bd13e7ebd61b92",
+    "domain": "www.unimagnagrecia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "p38qvkbl6hjd1at2nsfojmufed",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704911214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NID": {
+    "visit_id": 1,
+    "name": "NID",
+    "domain": ".google.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "511=Ls9fg45nEJQZYEkgvT2uCylI6gv_1WQIRVzhA6haadclPwEI7VYHBwFVc8377h6aC2F2ZDuVJuUUTYrTD1g7OgWIwTf3y7zbdXWsGn4Ridv-XdKUwPjXutuVRffRwgPnuJG0GQTLaoj6HHmuRF4q46t0Ens6JUGzvK5CunvzCak",
+        "expiry": 1720721515,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

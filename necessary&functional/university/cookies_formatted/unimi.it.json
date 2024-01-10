@@ -1,0 +1,42 @@
+{
+  "_pk_id.GrypyEVpQo.cccc": {
+    "visit_id": 1,
+    "name": "_pk_id.GrypyEVpQo.cccc",
+    "domain": "www.unimi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2f9bcad078262f24.1704907985.",
+        "expiry": 1738863185,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.GrypyEVpQo.cccc": {
+    "visit_id": 1,
+    "name": "_pk_ses.GrypyEVpQo.cccc",
+    "domain": "www.unimi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704909784,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

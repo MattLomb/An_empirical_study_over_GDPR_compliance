@@ -1,0 +1,82 @@
+{
+  "cookie-agreed-version": {
+    "visit_id": 1,
+    "name": "cookie-agreed-version",
+    "domain": "www.unipd.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.0.0",
+        "expiry": 1713544367,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ttp": {
+    "visit_id": 1,
+    "name": "_ttp",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2alzTyhJ7r5mMyxdN34uAWWE66d",
+        "expiry": 1738603964,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie-agreed-categories": {
+    "visit_id": 1,
+    "name": "cookie-agreed-categories",
+    "domain": "www.unipd.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%22tecnici%22%5D",
+        "expiry": 1713544367,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie-agreed": {
+    "visit_id": 1,
+    "name": "cookie-agreed",
+    "domain": "www.unipd.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1713544367,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

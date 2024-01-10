@@ -1,0 +1,42 @@
+{
+  "FluentLocale": {
+    "visit_id": 1,
+    "name": "FluentLocale",
+    "domain": "www.unibz.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en_GB",
+        "expiry": 1712684794,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "www.unibz.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%27Mxn7oLj+7IicjbUm5GM4mc24Ncq297tSLyCScWEVn4CuDA5USNhcSA==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704908797850%2Cregion:%27it%27}",
+        "expiry": 1736531197,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

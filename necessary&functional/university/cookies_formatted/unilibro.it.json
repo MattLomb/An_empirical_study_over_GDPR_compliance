@@ -1,0 +1,82 @@
+{
+  "visid_incap_1099613": {
+    "visit_id": 1,
+    "name": "visid_incap_1099613",
+    "domain": ".unilibro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "N/mt+TDiQxe+I2Oy7sVEyuHcnmUAAAAAQUIPAAAAAADlhwGz+hw4G+chXQKVFTSD",
+        "expiry": 1736443407,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "incap_ses_629_1099613": {
+    "visit_id": 1,
+    "name": "incap_ses_629_1099613",
+    "domain": ".unilibro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "iuJjIKxZQmZiHOrHham6COHcnmUAAAAAH5sTN5xdmXIfNoswyaUQ8w==",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "frzbt.session": {
+    "visit_id": 1,
+    "name": "frzbt.session",
+    "domain": ".unilibro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22session_id%22%3A%22241dbe1f-ccc2-46ea-8977-409f9f2c1672%22%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "frzbt.user": {
+    "visit_id": 1,
+    "name": "frzbt.user",
+    "domain": ".unilibro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22properties%22%3A%7B%22createdAt%22%3A1704910050350%7D%2C%22anonymous_id%22%3A%22ae6877b1-d426-4aa3-a12a-5a8dd3a9228f%22%2C%22distinct_id%22%3A%22ae6877b1-d426-4aa3-a12a-5a8dd3a9228f%22%7D",
+        "expiry": 1736446050,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

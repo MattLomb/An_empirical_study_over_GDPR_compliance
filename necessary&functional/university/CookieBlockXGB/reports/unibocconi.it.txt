@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unibocconi.it 
+NECESSARY COOKIES = _gat_UA-3418288-3,_iub_cs-35827700
+FUNCTIONAL COOKIES = _ga_XQMMSNBRKK,_ga,_gid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

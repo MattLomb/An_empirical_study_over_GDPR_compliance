@@ -1,0 +1,222 @@
+{
+  "advanced_ads_browser_width": {
+    "visit_id": 1,
+    "name": "advanced_ads_browser_width",
+    "domain": "www.universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1185",
+        "expiry": 1707501175,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSessionUser_1006039": {
+    "visit_id": 1,
+    "name": "_hjSessionUser_1006039",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6ImY5NzQ3MjlkLTkwMWYtNTlhYS1hYTBhLTJmOWZkNzRiYjU3MSIsImNyZWF0ZWQiOjE3MDQ5MDkxNzYxNzUsImV4aXN0aW5nIjpmYWxzZX0=",
+        "expiry": 1736445176,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjFirstSeen": {
+    "visit_id": 1,
+    "name": "_hjFirstSeen",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704910976,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjIncludedInSessionSample_1006039": {
+    "visit_id": 1,
+    "name": "_hjIncludedInSessionSample_1006039",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704910976,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSession_1006039": {
+    "visit_id": 1,
+    "name": "_hjSession_1006039",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6ImUzNjJmNTUwLTlhNzktNDc4NC1hNzRlLTA2ZGVlZjJmZWI3YiIsImMiOjE3MDQ5MDkxNzYxNzYsInMiOjAsInIiOjAsInNiIjowfQ==",
+        "expiry": 1704910976,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjAbsoluteSessionInProgress": {
+    "visit_id": 1,
+    "name": "_hjAbsoluteSessionInProgress",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704910976,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.609936497.1704909176",
+        "expiry": 1739469176,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_3JJX0YKE7Z": {
+    "visit_id": 1,
+    "name": "_ga_3JJX0YKE7Z",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704909176.1.0.1704909176.0.0.0",
+        "expiry": 1739469176,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704909176399.398929043",
+        "expiry": 1712685180,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAB7E7CITAiEgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUABQkFsABAAC4AKAAqABwADwAIIAXgBhADIANQAeABEACYAFUAMwAbwA9AB-AEJAIYAiQBHACWAE0AMAAYcAygDLAGyAOeAdwB3wD2APiAfYB-wD_AQAAikBFwEYAI1ASIBJQCUwE_AUGAqACrgFzAL0AYoA0QBtADcAHEgR6BIoCdgFDgKPAUiApsBbAC5AF3gLzAYMAw2BkYGSAMnAZmAzmBq4GsgNvAbmA3UBwQDkwHLgPHAfSBBMCDAEIYIWghcBDmCHoIfgRxgj6CP4EigJIQSYBJkCWAEswJbgS-AmABMwCZwE3AJzATpAncOg4AALgAoACoAHAAQQAuADUAHgARAAmABVgC4ALoAYgAzABvAD0AH6AQwBEgCWAE0AJwAUYAwABhgDKAGiANkAc8A7gDvAHtAPsA_QB_wEUARiAjoCSgEpgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB1AD7AIvgR6BIoCVAEyAJ2AUPAo8CkIFNAU2AqwBYoCyoFsAWyAt0BcAC5AF2gLvAXmAvoBgwDDQGPQMjAyQBk4DKgGWAMzAZyA0QBpoDVYGrgawA28BuoDiwHJgOXAeOA8kB9ID6wH3AP7AgCBBgCFsEOQQ6Ah6BHECO0EfQR_AkUBJACTIEqAJYASzAl0BL4CYAEzAJnATcAm8BOECcwE6YJ2gncQgcAALAAoAC4AGIANQAmABTACqAFwAMQAbwA9ACOAGAAOeAdwB3gD_AIoASkAoMBUQFXALmAYoA2gB1AEegJUAU0AqwBYoCygFogLgAXIAyMBk4DOQGiANVAcAA8cB9ID-wIMAQoAhaBDoCHoEcQJFASQAkyBLoCZwE5gJ3EoG4ACAAFgAUAA5ADAAMQAeABEACYAFUALgAYoBDAESAI4AUYAwABsgDvAH5AVEBVwC5gGKAOoAiYBF8CPQJFAUeApoBYoCygFsALzgZGBkgDJwGcgNYAbeA4AB9IEAQIHgQYAhCBD0COIEigJIASZAl0BL4CZgEzgJuAThAnMBO4pBXAAXABQAFQAOAAggBgAGoAPAAiABMACkAFUAMQAZgA_QCGAIkAUYAwABlADRAGyAOcAd8A_AD9AIsARiAjoCSgEpAKDAVEBVwC5gF5AMUAbQA3AB1AD2gH2ARMAi-BHoEigJ2AUOApCBTQFNgKsAWKAtgBcAC5AF2gLzAX0Aw2BkYGSAMnAZYAzmBrAGsgNvAbqA4IByYDlwHigPHAfSA_sCCYEGAIQgQtAhnBDkEOgI4gR2gj6CP4EigJIQSYBJkCWYEugJfATAAmYBM4CbwE5gJ3AA",
+        "expiry": 1736013180,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-85871419": {
+    "visit_id": 1,
+    "name": "_iub_cs-85871419",
+    "domain": ".universita.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T17%3A53%3A00.592Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%222%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A%2285871419%22%2C%22cons%22%3A%7B%22rand%22%3A%229423a5%22%7D%7D",
+        "expiry": 1736445180,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

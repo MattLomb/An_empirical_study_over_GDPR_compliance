@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: univadis.it 
+NECESSARY COOKIES = JSESSIONID,__cfruid,PHPSESSID,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _gcl_au,test_cookie
+UNCLASSIFIED COOKIES = mednet,medpermgl,med_session,lrt_wrk,_ga_BR3MV9G8Q9,eupubconsent-v2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

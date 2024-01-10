@@ -1,0 +1,22 @@
+{
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "web.unicz.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%273wGMI5DXh8fItztYsdkOueE57QzKCAasguo7rYiUz7XLbfFuCA8MWQ==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704909216151%2Cregion:%27it%27}",
+        "expiry": 1736531616,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

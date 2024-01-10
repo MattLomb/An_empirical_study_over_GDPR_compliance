@@ -1,0 +1,62 @@
+{
+  "fbda5622fb9ac35a7a2cac8b29cde6b7": {
+    "visit_id": 1,
+    "name": "fbda5622fb9ac35a7a2cac8b29cde6b7",
+    "domain": "unicampania.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "n9sruhdhof76ndfq7e2il3lf3i",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.Kj0dMvL3nL.f7fe": {
+    "visit_id": 1,
+    "name": "_pk_id.Kj0dMvL3nL.f7fe",
+    "domain": "unicampania.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1c6c41f22231e326.1704909316.",
+        "expiry": 1738864516,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.Kj0dMvL3nL.f7fe": {
+    "visit_id": 1,
+    "name": "_pk_ses.Kj0dMvL3nL.f7fe",
+    "domain": "unicampania.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704911115,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "I18N_LANGUAGE": {
+    "visit_id": 1,
+    "name": "I18N_LANGUAGE",
+    "domain": "www.uniud.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cc_uniud": {
+    "visit_id": 1,
+    "name": "cc_uniud",
+    "domain": ".www.uniud.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"categories\":[\"necessary\"],\"level\":[\"necessary\"],\"revision\":5,\"data\":null,\"rfc_cookie\":false,\"consent_date\":\"2024-01-10T17:43:33.794Z\",\"consent_uuid\":\"3cfd279e-70e0-4e0b-85bb-1dca207a28b8\",\"last_consent_update\":\"2024-01-10T17:43:33.794Z\"}",
+        "expiry": 1720633413,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

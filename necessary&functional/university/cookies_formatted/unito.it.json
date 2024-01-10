@@ -1,0 +1,82 @@
+{
+  "a7ff9e2580aa0a3d3625280e5526277a": {
+    "visit_id": 1,
+    "name": "a7ff9e2580aa0a3d3625280e5526277a",
+    "domain": "static.cineca.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0de51cbc5052441dcae8c9a1a2bfa950",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.eO35bbMpon.bdf3": {
+    "visit_id": 1,
+    "name": "_pk_id.eO35bbMpon.bdf3",
+    "domain": "www.unito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ad0e972dd29a6800.1704908031.",
+        "expiry": 1738863231,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.eO35bbMpon.bdf3": {
+    "visit_id": 1,
+    "name": "_pk_ses.eO35bbMpon.bdf3",
+    "domain": "www.unito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704909831,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cookie-agreed-version": {
+    "visit_id": 1,
+    "name": "cookie-agreed-version",
+    "domain": "www.unito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.0.0",
+        "expiry": 1713544433,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

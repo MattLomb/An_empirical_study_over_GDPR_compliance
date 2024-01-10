@@ -1,0 +1,22 @@
+{
+  "a3bb6d1205c961c39042aa9e6eeafb42": {
+    "visit_id": 1,
+    "name": "a3bb6d1205c961c39042aa9e6eeafb42",
+    "domain": "www.unipg.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6jlsub46ua3liril8rrn1vl6td",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  }
+}

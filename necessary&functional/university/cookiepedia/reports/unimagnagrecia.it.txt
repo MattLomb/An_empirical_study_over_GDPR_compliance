@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unimagnagrecia.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = test_cookie,NID
+UNCLASSIFIED COOKIES = 177dd1e56e5f231f64bd13e7ebd61b92
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

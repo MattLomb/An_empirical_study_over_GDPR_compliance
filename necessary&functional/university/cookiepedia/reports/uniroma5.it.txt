@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: uniroma5.it 
+NECESSARY COOKIES = XSRF-TOKEN
+FUNCTIONAL COOKIES = hubspotutk
+ANALYTICS COOKIES = _ga,_gid,__hstc,__hssrc,__hssc
+ADVERTISING COOKIES = _gcl_au,_fbp,_gat_gtag_UA_69824688_1,IDE
+UNCLASSIFIED COOKIES = uniroma5_session,_ga_PRFQ9GJYS2,__cf_bm,_cfuvid,CRM_campaign,CRM_id,CRM_term,CRM_gclid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

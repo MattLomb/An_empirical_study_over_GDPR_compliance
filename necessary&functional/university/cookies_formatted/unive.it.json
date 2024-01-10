@@ -1,0 +1,102 @@
+{
+  "_pk_id.1.62fd": {
+    "visit_id": 1,
+    "name": "_pk_id.1.62fd",
+    "domain": "unive.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d82cf789d5599234.1704908183.",
+        "expiry": 1738863383,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.1.62fd": {
+    "visit_id": 1,
+    "name": "_pk_ses.1.62fd",
+    "domain": "unive.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704909983,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_id.3.62fd": {
+    "visit_id": 1,
+    "name": "_pk_id.3.62fd",
+    "domain": "unive.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ded48d22aee82288.1704908183.",
+        "expiry": 1738863383,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.3.62fd": {
+    "visit_id": 1,
+    "name": "_pk_ses.3.62fd",
+    "domain": "unive.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704909983,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "www.unive.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "42h5gk3631t00vs253jqco6ai3",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

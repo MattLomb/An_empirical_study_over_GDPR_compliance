@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: uniroma5.it 
+NECESSARY COOKIES = XSRF-TOKEN,uniroma5_session,__cf_bm,_cfuvid,_gat_gtag_UA_69824688_1,CRM_campaign,CRM_id,CRM_term,CRM_gclid,__hstc,__hssrc,__hssc
+FUNCTIONAL COOKIES = _ga_PRFQ9GJYS2,_ga,_gid,IDE,hubspotutk
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,_fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

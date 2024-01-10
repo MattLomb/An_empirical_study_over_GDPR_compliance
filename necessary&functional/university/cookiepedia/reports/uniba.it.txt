@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: uniba.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.5.4783,_pk_ses.5.4783
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = I18N_LANGUAGE,cc_accepted_providers,cc_hide_prompt
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

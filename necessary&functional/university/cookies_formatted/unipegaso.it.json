@@ -1,0 +1,162 @@
+{
+  "unipegasoit_session": {
+    "visit_id": 1,
+    "name": "unipegasoit_session",
+    "domain": "www.unipegaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpdiI6IkZnTjZBbjRIUkVCemQraktqMUl5cnc9PSIsInZhbHVlIjoiUHJlTVQ1Zy9odkthSVZIUUY4cjFseHBMZyt0NEZhYkVhd3FkSUhNNzhpRFZCWHQxajUxUVNsTm5PTWZTeUNwVTY1R1psRm1neGgwaEhVdHgzY0lSUFpYQTJ1RlczYTNtRWh0OU9uRDhsZC9jU3VIRFFGeFkvdmU3RXhFMXBIUzMiLCJtYWMiOiI2NDc2NjgxNmY2ZmM2OGRkYjBiYTA2MTc2ZTlmMTBjZGQwMjBlYzFjMDM3MTQ3NDA2ZDM3OTc2NDM1N2ZiNTgyIiwidGFnIjoiIn0%3D",
+        "expiry": 1704915881,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "CRM_campaign": {
+    "visit_id": 1,
+    "name": "CRM_campaign",
+    "domain": ".unipegaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "direct",
+        "expiry": 1736444682,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CRM_id": {
+    "visit_id": 1,
+    "name": "CRM_id",
+    "domain": ".unipegaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"gaid\":null,\"gclid\":null,\"hubspotutk\":null}",
+        "expiry": 1736444682,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CRM_term": {
+    "visit_id": 1,
+    "name": "CRM_term",
+    "domain": ".unipegaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1736444682,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CRM_gclid": {
+    "visit_id": 1,
+    "name": "CRM_gclid",
+    "domain": ".unipegaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1736444682,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_8FG3GL5FQK": {
+    "visit_id": 1,
+    "name": "_ga_8FG3GL5FQK",
+    "domain": ".unipegaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704908682.1.0.1704908682.0.0.2035859817",
+        "expiry": 1739468683,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".unipegaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1374464676.1704908683",
+        "expiry": 1739468683,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".unipegaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1395414632.1704908683",
+        "expiry": 1704995083,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

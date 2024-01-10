@@ -1,0 +1,122 @@
+{
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".unibocconi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1462592663.1704908490",
+        "expiry": 1712684489,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_XQMMSNBRKK": {
+    "visit_id": 1,
+    "name": "_ga_XQMMSNBRKK",
+    "domain": ".unibocconi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704908490.1.0.1704908490.60.0.0",
+        "expiry": 1739468490,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".unibocconi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.466265510.1704908490",
+        "expiry": 1739468490,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".unibocconi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1650963621.1704908490",
+        "expiry": 1704994890,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_UA-3418288-3": {
+    "visit_id": 1,
+    "name": "_gat_UA-3418288-3",
+    "domain": ".unibocconi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704908550,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-35827700": {
+    "visit_id": 1,
+    "name": "_iub_cs-35827700",
+    "domain": ".unibocconi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T17%3A41%3A33.730Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%222%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A35827700%7D",
+        "expiry": 1736444493,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

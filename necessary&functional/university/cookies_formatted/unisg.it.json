@@ -1,0 +1,62 @@
+{
+  "pbid": {
+    "visit_id": 1,
+    "name": "pbid",
+    "domain": "unisg.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "705446f4c8f8eae0e7f7a20a133e50c08eadd481fc9feab56855301700264275",
+        "expiry": 1720462120,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "www.unisg.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e33ddcd99fafbaa6c481922a22bc26cb",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieScriptConsent": {
+    "visit_id": 1,
+    "name": "CookieScriptConsent",
+    "domain": "www.unisg.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"googleconsentmap\":{\"ad_storage\":\"targeting\",\"analytics_storage\":\"functionality\",\"ad_personalization\":\"targeting\",\"ad_user_data\":\"targeting\",\"functionality_storage\":\"functionality\",\"personalization_storage\":\"functionality\",\"security_storage\":\"functionality\"},\"bannershown\":1}",
+        "expiry": 1720462122,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

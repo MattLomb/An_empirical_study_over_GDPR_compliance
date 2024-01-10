@@ -1,0 +1,82 @@
+{
+  "MXP_TRACKINGID": {
+    "visit_id": 1,
+    "name": "MXP_TRACKINGID",
+    "domain": "www.unigre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2BB0511D-563A-4163-A656701E44B2DF22",
+        "expiry": 1739469048,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mobileFormat": {
+    "visit_id": 1,
+    "name": "mobileFormat",
+    "domain": "www.unigre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1739469048,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cfid": {
+    "visit_id": 1,
+    "name": "cfid",
+    "domain": "www.unigre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "38249452-0310-47b8-92d4-4cf8859bccf1",
+        "expiry": 1739469048,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cftoken": {
+    "visit_id": 1,
+    "name": "cftoken",
+    "domain": "www.unigre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739469048,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

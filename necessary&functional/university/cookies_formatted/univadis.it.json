@@ -1,0 +1,282 @@
+{
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "login.medscape.com",
+    "path": "/login",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "C7876A2F2BA0198F6189EC4AFAC42DAE",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mednet": {
+    "visit_id": 1,
+    "name": "mednet",
+    "domain": ".medscape.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"/08SiBZLXs9laPguR2ctbXk9li6TNVQs0lbJb4PEGcwN7Dv//lcUsr5kv4AEP+Xd1nzs7LzHK34Eues1XwrpJw==\"",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "medpermgl": {
+    "visit_id": 1,
+    "name": "medpermgl",
+    "domain": ".medscape.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"HYUp5VQneupGdkHh7QjNfU/VQxuhioJi51I4aHzLrkrdb4z7Hp3pjM0G8Yi5PCh7x1jrX76I89zkC2FQxPqoBb3CYGbHRqwB7QNbnRgMQyaQxdOZDlsHVTJiFdn/DdIRfnCqmUpCtk6Y1yRyBxkOp8+CVaFrh4jfBC067Yk4WHglm0KaIkFtwJ+fGPJjqVhDi8OhkBB2jsXAWMfoGNUbmA==\"",
+        "expiry": 1739468949,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cfruid": {
+    "visit_id": 1,
+    "name": "__cfruid",
+    "domain": ".medscape.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ed2a26d60a04155f0cd31c63129d090425829a5e-1704908949",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "med_session": {
+    "visit_id": 1,
+    "name": "med_session",
+    "domain": ".univadis.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "zFFywVbUvR7VyEzXLPQXumdORA%2F5XEC0a%2BAJfUQNDo3hTQnM8zA99mPLQzkbgB0NoH%2BDQ1xwohqiRw8IawgNCyOXtVVzBdZ17nRaoPRikoLYazR0dkRmrK6VtjbIB3epTNWPwOjY%2Fz9iipPso%2FWo2qV90jy6nzsYFDRzawcS6Pyr0g1Gvl6ihSwVHwTPtlb7BDtBO6szZXnokBjXprSf18DJ6zq%2FHTy0Okoh5w%2Fh7OK8nE9a5Y1wcEbFW3xCw2w%2BYTp5o0hrRmcZ27RqQFsqNEVV6hoP%2BTtLgwSOGBJpzRnnQOqOuAQCQhNSIW4wSo3HcA5CHpY9Es79K50gctLD0VH1CCJ3n3Ed%2FlTTYz%2FBtY0gB9KHzKuwTJbkwqxiOkO7awigXq%2FV5pPZz0kT%2FABZgR2%2Bc8An4f%2FIojjqrkF9q4Q%3D",
+        "expiry": 1707500950,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "www.univadis.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a5c7cm10vjml7p3t533q2ci976",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".univadis.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.879006064.1704908951",
+        "expiry": 1712684951,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704909851,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lrt_wrk": {
+    "visit_id": 1,
+    "name": "lrt_wrk",
+    "domain": ".univadis.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "lrt_medscape_router_3.23.1_0K_2023-12-13_15:53:44_gec:0:ecroute:0_cookiestrip_false_ec:0:k8s_resp:k8s:200_OT:true:GDPR_gtS:62:htmsrc:k8sso",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".univadis.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1193921468.1704908952",
+        "expiry": 1739468951,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_BR3MV9G8Q9": {
+    "visit_id": 1,
+    "name": "_ga_BR3MV9G8Q9",
+    "domain": ".univadis.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704908951.1.0.1704908951.60.0.0",
+        "expiry": 1739468951,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".univadis.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T17:49:14.611Z",
+        "expiry": 1738604954,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".univadis.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEgAAAAAEPgACiQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkgFMRM2dYCF5vmYtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdQ58tDfn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQagCzDQqIA-yJCQi0HCKBACIKwgIoEAAAAJA0QEAJgwKdgYBLrCRACBFAAMEAIAAUZAAgAAEgAQiACQAoEAAEAgEAAAAAAgEADAwADgAtBAIAAQHQMUwoAFAsIEjMiIUwIQoEggJbKBBICgQVwgCLHAigERMFAAgCQAVgAAAsVgMQSAlYkECWEG0AABAAgFFKFQik6MAQwJmy1U4om0ZWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAA.YAAACHwAAAAA",
+        "expiry": 1738604954,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".univadis.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+18%3A49%3A14+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202311.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3909ced-dac7-4252-9c43-070ca88912f7&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A1%2CV2STACK42%3A0&iType=6",
+        "expiry": 1738604954,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

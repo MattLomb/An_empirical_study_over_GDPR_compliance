@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unibocconi.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gcl_au,_gat_UA-3418288-3
+UNCLASSIFIED COOKIES = _ga_XQMMSNBRKK,_iub_cs-35827700
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,22 @@
+{
+  "877be510f08800a9e2f3cbd3efee1c4e": {
+    "visit_id": 1,
+    "name": "877be510f08800a9e2f3cbd3efee1c4e",
+    "domain": "unina2.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "gi94q3h9mv5io2d7agtn2gcslh",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": "unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_6_sn_K6B8OMCM9TAVIHARFJHAAT550J5K1VCD_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxVisitor": {
+    "visit_id": 1,
+    "name": "rxVisitor",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704909342009UO2B1HLK2RCSIGPNIBK836BHA5ROOCLL",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtSa": {
+    "visit_id": 1,
+    "name": "dtSa",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "YSC": {
+    "visit_id": 1,
+    "name": "YSC",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "50ndgEqG4Pw",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "VISITOR_INFO1_LIVE": {
+    "visit_id": 1,
+    "name": "VISITOR_INFO1_LIVE",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3nDfYlRTtlY",
+        "expiry": 1720461342,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "23205070603456548591270261726976342247",
+        "expiry": 1720461343,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCVS_A69A372A60E55C2A0A495FA6%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCVS_A69A372A60E55C2A0A495FA6%40AdobeOrg",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gpv_Page": {
+    "visit_id": 1,
+    "name": "gpv_Page",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "home",
+        "expiry": 1704911146,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_cc": {
+    "visit_id": 1,
+    "name": "s_cc",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "everest_g_v2": {
+    "visit_id": 1,
+    "name": "everest_g_v2",
+    "domain": ".everesttech.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "g_surferid~ZZ7aHwAAAN9rUwOJ",
+        "expiry": 1736445343,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "23205070603456548591270261726976342247",
+        "expiry": 1720461343,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_A69A372A60E55C2A0A495FA6%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_A69A372A60E55C2A0A495FA6%40AdobeOrg",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-1124106680%7CMCIDTS%7C19733%7CMCMID%7C31297360301169102271944419216356450879%7CMCAAMLH-1705514142%7C6%7CMCAAMB-1705514142%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1704916543s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19740%7CvVersion%7C5.2.0",
+        "expiry": 1739469343,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxvt": {
+    "visit_id": 1,
+    "name": "rxvt",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704911143822|1704909342010",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtPC": {
+    "visit_id": 1,
+    "name": "dtPC",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-68$309342007_271h-vPWAIKOGDTHTPLMDOAWVCTUHUFWHAAWBF-0e0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_sq": {
+    "visit_id": 1,
+    "name": "s_sq",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "unisalute.prod%3D%2526c.%2526a.%2526activitymap.%2526page%253Dhome%2526link%253DSALVA%252520E%252520CONTINUA%2526region%253Donetrust-pc-sdk%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253Dhome%2526pidt%253D1%2526oid%253DSALVA%252520E%252520CONTINUA%2526oidt%253D3%2526ot%253DSUBMIT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".unisalute.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf484065300445fd7d148956005075001506d009dc$_sn:1$_se:3$_ss:0$_st:1704911146056$ses_id:1704909342292%3Bexp-session$_pn:1%3Bexp-session$_prevpage:home%3Bexp-1704912946058$vapi_domain:unisalute.it",
+        "expiry": 1736445346,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

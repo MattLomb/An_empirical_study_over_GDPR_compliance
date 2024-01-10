@@ -1,0 +1,102 @@
+{
+  "3795b766e34dcfea29d414e981529804": {
+    "visit_id": 1,
+    "name": "3795b766e34dcfea29d414e981529804",
+    "domain": "www.unipi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8e1f774a6055c2184cc5e2b01c407423",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.4.8aa2": {
+    "visit_id": 1,
+    "name": "_pk_id.4.8aa2",
+    "domain": "www.unipi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d9c2e860ca9496b6.1704908065.",
+        "expiry": 1738863265,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.4.8aa2": {
+    "visit_id": 1,
+    "name": "_pk_ses.4.8aa2",
+    "domain": "www.unipi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704909865,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_id.geO35953on.8aa2": {
+    "visit_id": 1,
+    "name": "_pk_id.geO35953on.8aa2",
+    "domain": "www.unipi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9c4d2e3706f35f6a.1704908065.",
+        "expiry": 1738863265,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.geO35953on.8aa2": {
+    "visit_id": 1,
+    "name": "_pk_ses.geO35953on.8aa2",
+    "domain": "www.unipi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704909865,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

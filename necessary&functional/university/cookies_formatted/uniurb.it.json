@@ -1,0 +1,102 @@
+{
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "uniurb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "trm7e8ale291tc60jn8hfkoe68",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.EN0V4xmprl.09ce": {
+    "visit_id": 1,
+    "name": "_pk_id.EN0V4xmprl.09ce",
+    "domain": "uniurb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3b34d1e42f33c4fd.1704908656.",
+        "expiry": 1738863856,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.EN0V4xmprl.09ce": {
+    "visit_id": 1,
+    "name": "_pk_ses.EN0V4xmprl.09ce",
+    "domain": "uniurb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704910456,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704909556,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "uniurb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%27h2MzgM+b7SWalSb0GKLqGrIsGpmsxKHikK1U5OjW0AjAsp5d/71qmw==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704908660021%2Cregion:%27it%27}",
+        "expiry": 1707587060,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

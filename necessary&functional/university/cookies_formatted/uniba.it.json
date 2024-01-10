@@ -1,0 +1,102 @@
+{
+  "I18N_LANGUAGE": {
+    "visit_id": 1,
+    "name": "I18N_LANGUAGE",
+    "domain": "www.uniba.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.5.4783": {
+    "visit_id": 1,
+    "name": "_pk_id.5.4783",
+    "domain": "www.uniba.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "38ddc8415d7f1cc5.1704908135.",
+        "expiry": 1738863335,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.5.4783": {
+    "visit_id": 1,
+    "name": "_pk_ses.5.4783",
+    "domain": "www.uniba.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704909934,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cc_accepted_providers": {
+    "visit_id": 1,
+    "name": "cc_accepted_providers",
+    "domain": ".www.uniba.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "techcookies",
+        "expiry": 1720460138,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cc_hide_prompt": {
+    "visit_id": 1,
+    "name": "cc_hide_prompt",
+    "domain": ".www.uniba.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1720460138,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

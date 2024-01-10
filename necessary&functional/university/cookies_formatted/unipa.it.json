@@ -1,0 +1,102 @@
+{
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.unipa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D4CB4A59AC8C4DC15FBE9650618A398A",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BNES_JSESSIONID": {
+    "visit_id": 1,
+    "name": "BNES_JSESSIONID",
+    "domain": "www.unipa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3ilmFGWjRgTRAwE+6Ff81K+y/FSsMxEFQu1T3JEVLsPeAEjNp+NQxm2jMcVK/QC4gvVZjkWdPz3xFXb2gB6Fb8n0165TBG7uvpG2Wle73yQ=",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.gV3j9dB0AE.4a7b": {
+    "visit_id": 1,
+    "name": "_pk_id.gV3j9dB0AE.4a7b",
+    "domain": "www.unipa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a02505667a91dde5.1704908457.",
+        "expiry": 1738863657,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.gV3j9dB0AE.4a7b": {
+    "visit_id": 1,
+    "name": "_pk_ses.gV3j9dB0AE.4a7b",
+    "domain": "www.unipa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704910257,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "BNI_a3_persist": {
+    "visit_id": 1,
+    "name": "BNI_a3_persist",
+    "domain": ".a3.unipa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "RlzG6zFlmiwzpwNEtw-f_t71Eyp11Pp_1kZo0pvWbHP3EU8Ob7OAA3XHOpbJvLekRFRu8EA3rvu1cv1af_LmEQ==",
+        "expiry": 1706636457,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

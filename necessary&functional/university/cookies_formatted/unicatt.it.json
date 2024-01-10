@@ -1,0 +1,82 @@
+{
+  "LBLSESSIONID": {
+    "visit_id": 1,
+    "name": "LBLSESSIONID",
+    "domain": "www.unicatt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704715042207",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "affinity": {
+    "visit_id": 1,
+    "name": "affinity",
+    "domain": "www.unicatt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"07cfee1b6d86cafe\"",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".unicatt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T17:42:00.999Z",
+        "expiry": 1720460520,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".unicatt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+18%3A42%3A01+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202302.1.0&isIABGlobal=false&hosts=&consentId=3eb704bc-10fd-4756-9872-48b98b623635&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0",
+        "expiry": 1720460521,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}
