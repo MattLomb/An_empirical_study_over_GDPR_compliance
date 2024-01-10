@@ -1,0 +1,262 @@
+{
+  "pdt": {
+    "visit_id": 1,
+    "name": "pdt",
+    "domain": "www.thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7fb30fc2-c462-4492-aace-7d3d36511180",
+        "expiry": 1736417208,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pref_lang": {
+    "visit_id": 1,
+    "name": "pref_lang",
+    "domain": "www.thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en-us",
+        "expiry": 1739441208,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "customerUserCountry": {
+    "visit_id": 1,
+    "name": "customerUserCountry",
+    "domain": "www.thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tl_sid": {
+    "visit_id": 1,
+    "name": "tl_sid",
+    "domain": ".thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "s%3A5b641d77-8f4f-4bc5-b12a-c42798e3485e.ooCsBMqatfnABFtbT6z4m9yOFPea%2Bl0c6lBDmwL4Kco",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "context_id": {
+    "visit_id": 1,
+    "name": "context_id",
+    "domain": "www.thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7bdfba3c-b2f9-4aee-a0b9-93698bf72436",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "currency_code": {
+    "visit_id": 1,
+    "name": "currency_code",
+    "domain": "www.thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EUR",
+        "expiry": 1707559608,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ravelinDeviceId": {
+    "visit_id": 1,
+    "name": "ravelinDeviceId",
+    "domain": "www.thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "rjs-80267f47-bed9-4f52-b6ff-da9a30f6e8df",
+        "expiry": 1736417219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ravelinSessionId": {
+    "visit_id": 1,
+    "name": "ravelinSessionId",
+    "domain": "www.thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "rjs-80267f47-bed9-4f52-b6ff-da9a30f6e8df:e238ea25-813f-4d6e-899d-d6cb1f9aa48e",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+11%3A06%3A52+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa81de2e-1cb0-495d-85b3-b29e59b32a49&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0008%3A0",
+        "expiry": 1736417212,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T10%3A06%3A52.641Z",
+        "expiry": 1736503612,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TLCookieConsent": {
+    "visit_id": 1,
+    "name": "TLCookieConsent",
+    "domain": ".thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled%3D0%26datestamp%3DWed%2BJan%2B10%2B2024%2B11%3A06%3A52%2BGMT%2B0100%2B(Ora%2Bstandard%2Bdell%E2%80%99Europa%2Bcentrale)%26version%3D202310.2.0%26browserGpcFlag%3D0%26isIABGlobal%3Dfalse%26hosts%3D%26consentId%3Daa81de2e-1cb0-495d-85b3-b29e59b32a49%26interactionCount%3D1%26landingPath%3DNotLandingPage%26groups%3DC0001%3A1%2CC0002%3A0%2CC0008%3A0%23tl-cookie-expires%3DFri%20Jan%2010%202025%2011%3A06%3A52%20GMT%2B0100%20(Ora%20standard%20dell%E2%80%99Europa%20centrale)",
+        "expiry": 1736503612,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TLCookieConsentTCF2": {
+    "visit_id": 1,
+    "name": "TLCookieConsentTCF2",
+    "domain": ".thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%23tl-cookie-expires%3DFri%20Jan%2010%202025%2011%3A06%3A52%20GMT%2B0100%20(Ora%20standard%20dell%E2%80%99Europa%20centrale)",
+        "expiry": 1736503612,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "datadome": {
+    "visit_id": 1,
+    "name": "datadome",
+    "domain": ".thetrainline.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1frU40tPjqYhNNX~iL4iLBXoDRikWcwS7FsqRqcAV6xMtUKTkCZcsjMC0oOMPllViosWjvQI3Z~AN9EZPexgvSgpfADrl6kzP2kXkDCS6LaYrd_sMRjtylzcVRd0psBU",
+        "expiry": 1736417220,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

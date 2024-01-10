@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: corrieredellosport.it 
+NECESSARY COOKIES = AwinCookie,_hjFirstSeen,_hjIncludedInSessionSample_3416860,_hjAbsoluteSessionInProgress,_gat_gtag_UA_2120790_1,ar_debug,IDE,C,receive-cookie-deprecation,uid,CM,CMPS,CMPRO,uid-bp-617,UID,SEUNCY,SERVERID,cm_uid,_kuid_,DID,IDT,cookie_ver,block_reset,permanent,bku,bkpa,arcki2,UserID1,idt,wfivefivec,matchadform,AFFICHE_W,cache0
+FUNCTIONAL COOKIES = didomi_token,_hjSessionUser_3416860,_hjSession_3416860,_ga_FGBR2QGYP1,_ga,_gid,CM14,rlas3,EE,pxrc,ud,ab,XANDR_PANID,anj,demdex,dpm,arcki2_adform,arcki2_ddp2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,_fbp,CMID,ct_uid,ct_did,ct_idt,uuid2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

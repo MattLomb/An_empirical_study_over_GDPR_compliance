@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: 888casino.it 
+NECESSARY COOKIES = 888Attribution,888Cookie,888TestData,lastproduct,_cs_c,_cs_id,_cs_s,_cs_id___4367,_cs_s___4367,_ga,FPID,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = _gid,_ga_1YFG8LJ90F,FPLC,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

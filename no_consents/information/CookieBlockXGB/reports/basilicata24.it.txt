@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: basilicata24.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_PCT-basilicata2,SV_PCT-basilicata2,SSC_PCT-basilicata2,SN_PCT-basilicata2,addtl_consent,_OASCAP[13553],_OABLOCK[13553]
+FUNCTIONAL COOKIES = euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

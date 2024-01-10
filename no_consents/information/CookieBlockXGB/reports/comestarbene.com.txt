@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: comestarbene.com 
+NECESSARY COOKIES = _gat_gtag_UA_211731478_1,_iub_cs-13472312-granular,_iub_cs-13472312,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_G9T8QDWCHN,_ga_WMJPMEZ4BD,_ga,_gid,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

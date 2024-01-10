@@ -1,0 +1,362 @@
+{
+  "ncx": {
+    "visit_id": 1,
+    "name": "ncx",
+    "domain": "www.douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "tc2fI5takWTj8FTjkeLXwzXtIS5mJQ55bZmvUxqdYao",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2263C04094F665A42F9454BF1385C880~YAAQHH16XJOXkWaMAQAAo8x78xbzhvafWDW9qeqTPeFoqfidXOq7m8iZfDlBSk4GcGygorSApeWDSUVqFdHV/qE/y2NmnJ3utcSAWaL6TM51iXbICUZJaLs1no1gjevHEEEZUw2brNwI5tOT6YSl/JN3aDEPIbKSllOh1S9E7fNsr/pYQWXlFTN5/j5XJ3wv8I5G2mWjm9CbS8BGnaJExoP7DYdlUis45Vctx2gOHhkD5mdN0QP1BkacRtUlx0+0eTVWLtwY+YQTvWy5WAvuelW52PHadODJaFg7z8H9+Kt4ngI=~4604727~3356464",
+        "expiry": 1704906424,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_mi": {
+    "visit_id": 1,
+    "name": "bm_mi",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "21C94F60AE0CEF54BA4B77305DB362C5~YAAQHH16XJ2XkWaMAQAAEc578xZpGEJPXb+iMyY2TRkR2L6IY/0BCNhsMuq6wvjEewjb5bFFljl/GPGxjokhudn36bSQ9NYv6qsPgpIwFwLUItHMWwLoicapF604Ns9jUIrru7/B2tIjFbf4N1t4nss93Etug04z+T1h+esZaWYPAtco3KTHlV1cvvb+Ktv9ich+f9drj/yVIvqt9yBX9az3W7/7PNZJY45vKdB0RptSZUDsmMhPUPgEPJPgVRDsbOoAuiIs16+AiXWUTpSrNXSoJPyjqsimOJGaK0n0Oe739yIB4Yswr48pzYy1~1",
+        "expiry": 1704899225,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "PIM-SESSION-ID": {
+    "visit_id": 1,
+    "name": "PIM-SESSION-ID",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ZtyUf85BKMDmmsby",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "31708273711263447224221547595232812807",
+        "expiry": 1720444026,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCVS_CE025F3E56F292177F000101%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCVS_CE025F3E56F292177F000101%40AdobeOrg",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akacd_PIM-prd_ah_rollout": {
+    "visit_id": 1,
+    "name": "akacd_PIM-prd_ah_rollout",
+    "domain": "p11.techlab-cdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3882344826~rv=97~id=deb2b5ad9bb51c05b1a4c251e2a40318",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ecid": {
+    "visit_id": 1,
+    "name": "s_ecid",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MCMID%7C32118768661501647124181057223385889789",
+        "expiry": 1739452027,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "AMCV_CE025F3E56F292177F000101%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_CE025F3E56F292177F000101%40AdobeOrg",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-1124106680%7CMCMID%7C32118768661501647124181057223385889789%7CMCAAMLH-1705496826%7C6%7CMCAAMB-1705496826%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1704899227s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.2.0",
+        "expiry": 1739452027,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A71F7FA384416777790CF605E404DADE~000000000000000000000000000000~YAAQHH16XMCXkWaMAQAAT9J78xaiJaYSci+RvFSPMcK43Sp7l350RkURcrwnss4QfCP40L/ZfxsheGUpwJPaeqphpYZxWAGiZbLHdxQd6Sp4llD7FQL2yJwQ2KBWncuJODqtvGV0+s78X149fAYKL4XrR+slUOPWkKM0hMj3Chjp0YmS7X+4FbOrI/U6sp7zzM3aCfpSoF8/svNmS8ZSvGNGvKvebRN/5lUT9L+4u1PYN3oKHQlcJ8eSne3/Cd1xqUDTYoFhAaCX2tgV/KYtuRBxyrZFoOFMx4cmwKveXmmekHTkuOIPIP8TjlDF+9+hslxqJ3wv8eCE4zx757jjoPlbzmzaSNhqBwD4PtvwE3RWoj/7/HABo+/tQcz5Lw/ZnzCSYvRrMGBTS+9VOdTc3WS2zUS+tqoNKeQehI5lwgm5VUgmx0+cTsU/h4r1VQhuHqjV7UzR80swGJdUIlvDGxRLMnU3Hayd7npjKmd6Pw8dhqsm6V136CwdkH4LXtl9XLV4Vpf+uC46QP0f5WLm",
+        "expiry": 1704899225,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ROUTE": {
+    "visit_id": 1,
+    "name": "ROUTE",
+    "domain": "www.douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": ".accstorefront-864f995f45-wfs2f",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0C99A6FEF65832CBA44B439785371E68~YAAQHH16XMOXkWaMAQAAzdJ78xYzl9DM1ng79Tw/H+9O3rP7t+xqIRFrj26H7c4MSG9fIJwdwCmuozbV79ZGFhJTWac7HFpMCN9AeXCC35U8Z1cYHQlN6cfOZ/dxAwcsM33h7393m5Txps3MFj3AJzLxKL/bFT92EObRLJOZz/0kSFSehCPJsBdh32PxP3OLdr89aRGleogBmz9VjuUoEFcqg3vvomHXmcNLK3QJQw4FttMXM2pWrHoBb9dpWT+N~1",
+        "expiry": 1704899226,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akavpau_VP-IT": {
+    "visit_id": 1,
+    "name": "akavpau_VP-IT",
+    "domain": "www.douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704892328~id=0f55dc307fe86a4a036ecc91a6a02a08",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4835411724464994BCBBDE48871B9385~-1~YAAQHH16XPCXkWaMAQAAqNR78wt6L9G4srAGw/5NOVooWd3m+CSw8/6pefLOVZ7YNpbzCw7vFM4s6CZgthloNG+P8xo8+C2Opc16eNeJSUBlgR6ik0fbVV1G3Xr3tuMX+EuZ7WXM1SxX++Zk4foMvzW6V8dUKCfGwDYqTbi/Q96IL1UPl+VboEv9XR0H4+x4KQNS03B3yvOqpi0qtoUs7RatYgM9waeEai12Vdom9LXiuAThwUacSl/aFi48Fso9uee0EQi4Puch7Xz2uCMa1C3iKYxlt9roQ+INNPcgJMAArQ5CJNfn1Zc0hEucjMoxnsQJbdT6P5sgTnX8HpzZZOAx7OoFedqIwNE9OjUKKgb3Y8bx2wtvRp4JOquDVJeHtO1AQC3i1dFSyw==~-1~-1~-1",
+        "expiry": 1736428027,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_teal_perf": {
+    "visit_id": 1,
+    "name": "_teal_perf",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "W10=",
+        "expiry": 1704893828,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_teal_stateVar": {
+    "visit_id": 1,
+    "name": "_teal_stateVar",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJjb250ZW50X2lkIjoiSG9tZXBhZ2UiLCJjb250ZW50X2lkX2xldmVsX2FsbCI6IkhvbWVwYWdlIiwicGFnZV91cmxfaG9zdHBhdGgiOiJ3d3cuZG91Z2xhcy5pdC9pdCIsInBhZ2VfdXJsX3NlYXJjaCI6IiIsInBhZ2VfdXJsX2Z1bGxjbGVhbmVkIjoiaHR0cHM6Ly93d3cuZG91Z2xhcy5pdC9pdCIsInBhZ2VfdXJsIjoiaHR0cHM6Ly93d3cuZG91Z2xhcy5pdC9pdCIsImxvZ2luX3N0YXR1cyI6IkxvZ2dlZCBPdXQiLCJzaXRlZ3JvdXAiOiJTdGFydCJ9",
+        "expiry": 1704893828,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAPID": {
+    "visit_id": 1,
+    "name": "TAPID",
+    "domain": ".tccd.douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "douglas/www-douglas-at>018cf37bd129000a8bde5809b53d05075001906d009dc|",
+        "expiry": 1736428028,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".douglas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf37bd129000a8bde5809b53d05075001906d009dc$_sn:1$_se:1$_ss:1$_st:1704893827178$ses_id:1704892027178%3Bexp-session$_pn:1%3Bexp-session$adobe_mcid:32118768661501647124181057223385889789%3Bexp-1768005932690$dc_visit:1$dc_event:1%3Bexp-session$dc_region:eu-central-1%3Bexp-session",
+        "expiry": 1736428028,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

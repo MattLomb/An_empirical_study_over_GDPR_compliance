@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: portale.asl.at.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.1.1628,_pk_ses.1.1628
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = cookielawinfo-checkbox-necessary,cookielawinfo-checkbox-funzionali,cookielawinfo-checkbox-performance,cookielawinfo-checkbox-analitici,cookielawinfo-checkbox-pubblicitari,cookielawinfo-checkbox-altri
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: eprice.it 
+NECESSARY COOKIES = _ALGOLIA,test_cookie,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = RT,eupubconsent-v2,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

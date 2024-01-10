@@ -1,0 +1,162 @@
+{
+  "cookielawinfo-checkbox-necessary": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-necessary",
+    "domain": "aslbi.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yes",
+        "expiry": 1736412099,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-functional": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-functional",
+    "domain": "aslbi.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412099,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-performance": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-performance",
+    "domain": "aslbi.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412099,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-analytics": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-analytics",
+    "domain": "aslbi.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412099,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-advertisement": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-advertisement",
+    "domain": "aslbi.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412099,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-others": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-others",
+    "domain": "aslbi.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412099,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.K23zWakp6X.11b9": {
+    "visit_id": 1,
+    "name": "_pk_id.K23zWakp6X.11b9",
+    "domain": "aslbi.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eadd070a5e86df38.1704876100.",
+        "expiry": 1738831300,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.K23zWakp6X.11b9": {
+    "visit_id": 1,
+    "name": "_pk_ses.K23zWakp6X.11b9",
+    "domain": "aslbi.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704877899,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ebay.it 
+NECESSARY COOKIES = s,ebay,__uzmb,__uzmc,__uzmd,__uzme,__uzmf,test_cookie,__ssds,__ssuzjsr2,__uzmbj2,__uzmcj2,__uzmdj2,dp1,nonsession
+FUNCTIONAL COOKIES = ak_bmsc,__uzma,bm_sv,__uzmaj2,__deba
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

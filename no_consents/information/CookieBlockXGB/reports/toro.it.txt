@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: toro.it 
+NECESSARY COOKIES = __cf_bm,evntuid,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = _ga_5YT1E7GK54,_ga,_ga_ZJG7Q8JQZ5,IMRID,MUID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

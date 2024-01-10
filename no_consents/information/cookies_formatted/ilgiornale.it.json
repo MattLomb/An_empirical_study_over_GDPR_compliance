@@ -1,0 +1,442 @@
+{
+  "wteid_769396664005295": {
+    "visit_id": 1,
+    "name": "wteid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170486375500610020",
+        "expiry": 1720415755,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtsid_769396664005295": {
+    "visit_id": 1,
+    "name": "wtsid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ARRAffinity": {
+    "visit_id": 1,
+    "name": "ARRAffinity",
+    "domain": ".www.ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "989b5dd445bb66c2fde92cedda53ff90638d99486a38df9e314088412fe4945f",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ARRAffinitySameSite": {
+    "visit_id": 1,
+    "name": "ARRAffinitySameSite",
+    "domain": ".www.ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "989b5dd445bb66c2fde92cedda53ff90638d99486a38df9e314088412fe4945f",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".aidemsrv.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FRyiPlbdinXgD7cuqWl4TisqV5c7.cvJ7lLXvCLxUiA-1704863760-1-AWO/Nh79yYyQUQjoHymiE9EgxCeWZmkXlg0hdutj/IREaThOEDQ4hkfjfx2EqtRma2i98nF/2jvBxzZEuWvPrG8=",
+        "expiry": 1704865560,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ilg_mr__home": {
+    "visit_id": 1,
+    "name": "ilg_mr__home",
+    "domain": "www.ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704863755403",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!YL+NnbCZPei3+r08AP7SORvNY+Kz1PHHf9i8hBRt64ETbnbjhbbri1V/ETD+viDLsMYxkX8j3mNkeg==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".ads.stickyadstv.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a6cd5bf879e1956e9b9042a0ffd8369d",
+        "expiry": 1707455761,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1707856495.1704863756",
+        "expiry": 1739423755,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_NQVT6E5YKL": {
+    "visit_id": 1,
+    "name": "_ga_NQVT6E5YKL",
+    "domain": ".ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704863755.1.0.1704863755.0.0.0",
+        "expiry": 1739423755,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_ENZ2GEXW4Y": {
+    "visit_id": 1,
+    "name": "_ga_ENZ2GEXW4Y",
+    "domain": ".ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704863755.1.0.1704863755.0.0.0",
+        "expiry": 1739423755,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_EJCFTZ7CV7": {
+    "visit_id": 1,
+    "name": "_ga_EJCFTZ7CV7",
+    "domain": ".ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704863755.1.0.1704863755.0.0.0",
+        "expiry": 1739423755,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_R163K4Y084": {
+    "visit_id": 1,
+    "name": "_ga_R163K4Y084",
+    "domain": ".ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704863755.1.0.1704863755.0.0.0",
+        "expiry": 1739423755,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "553dda31-af77-11ee-9614-67878a71df35",
+        "expiry": 1738559756,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".www.ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAAKAyBITDgCgAAAAAEPAABCYAABBqALMNC4gC7IkJCbQMIoEAIgrCAigQAAAAkDRAQAuDAp2BgEusJEAIEUABwQAhABRkACAAASABCIAJAigQAAQCAQAAgAQCAQAMDAAOAC0EAgABAdAxTCgAUCwgSIyIhTAhCgSCAlsoEEoKhBXCAIsMCKARGwUACAJARWAAICxeAwBICViQQJdQbQAAEACAUUoVCKT8wBDgmbLVXiibQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAA.YAAAAAAAAAAA",
+        "expiry": 1738559759,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "addtl_consent": {
+    "visit_id": 1,
+    "name": "addtl_consent",
+    "domain": ".www.ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~",
+        "expiry": 1738559759,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_mediamond_UID": {
+    "visit_id": 1,
+    "name": "_mediamond_UID",
+    "domain": "www.ilgiornale.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "69zyX65y1x36eIX5kkE1704863759893",
+        "expiry": 1720584959,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "c": {
+    "visit_id": 1,
+    "name": "c",
+    "domain": "fa.aidemsrv.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0_19308206_qEPW",
+        "expiry": 1739423761,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bito": {
+    "visit_id": 1,
+    "name": "bito",
+    "domain": ".bidr.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AADueE7LPFAAABLCTCajgg",
+        "expiry": 1738973761,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bitoIsSecure": {
+    "visit_id": 1,
+    "name": "bitoIsSecure",
+    "domain": ".bidr.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ok",
+        "expiry": 1738973761,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "aniC": {
+    "visit_id": 1,
+    "name": "aniC",
+    "domain": ".aniview.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704863761065-172025122237-000154-000-003408",
+        "expiry": 1706591761,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "": {
+    "visit_id": 1,
+    "name": "",
+    "domain": ".connectad.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cadsync",
+        "expiry": 1704863768,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

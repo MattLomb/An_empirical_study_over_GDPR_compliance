@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: fandom.com 
+NECESSARY COOKIES = Geo,optimizelyEndUserId,AMP_MKTG_6765a55f49,tracking-opt-in-status,euconsent-v2,_ga,_gat_fandomProd,_gat_wikiSampledProd,_gat_wikiUnsampledProd,wikia_beacon_id,pvNumber,pvNumberGlobal,nol_fpid,_parsely_session,_parsely_visitor
+FUNCTIONAL COOKIES = AMP_6765a55f49,_gid,sessionId,IMRID
+ANALYTICS COOKIES = tracking-opt-in-version
+ADVERTISING COOKIES = addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

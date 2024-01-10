@@ -1,0 +1,182 @@
+{
+  "ab_first_visit": {
+    "visit_id": 1,
+    "name": "ab_first_visit",
+    "domain": ".catawiki.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "absmartly_id": {
+    "visit_id": 1,
+    "name": "absmartly_id",
+    "domain": "www.catawiki.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f3838b65-247d-4941-a99f-ab4cc0d7642a",
+        "expiry": 1720438844,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cw_ab": {
+    "visit_id": 1,
+    "name": "cw_ab",
+    "domain": ".catawiki.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "E6UrZ/s3RLSbdSTgvH05owAB",
+        "expiry": 1739450444,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "previousPageType": {
+    "visit_id": 1,
+    "name": "previousPageType",
+    "domain": ".catawiki.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "HomePage",
+        "expiry": 1704976844,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_M822ES1M07": {
+    "visit_id": 1,
+    "name": "_ga_M822ES1M07",
+    "domain": ".catawiki.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704890444.1.0.1704890444.0.0.0",
+        "expiry": 1739450444,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".catawiki.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.758617010.1704890444",
+        "expiry": 1739450456,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".catawiki.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1989571802.1704890444",
+        "expiry": 1704976856,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cw_sid": {
+    "visit_id": 1,
+    "name": "cw_sid",
+    "domain": ".catawiki.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6cc8888a3894f19708b78d11954b8cf04a0401d1a911b859640f8a46dab5d995",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_N14JY514FR": {
+    "visit_id": 1,
+    "name": "_ga_N14JY514FR",
+    "domain": ".catawiki.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704890444.1.0.1704890456.0.0.0",
+        "expiry": 1739450456,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

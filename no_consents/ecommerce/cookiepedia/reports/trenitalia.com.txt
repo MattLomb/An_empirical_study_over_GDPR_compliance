@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: trenitalia.com 
+NECESSARY COOKIES = ak_bmsc,bm_sv,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = YSC,s_cc,s_nr,s_sq
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE,AMCVS_0D5215F354E6C24C0A4C98A4%40AdobeOrg,AMCV_0D5215F354E6C24C0A4C98A4%40AdobeOrg,IDE
+UNCLASSIFIED COOKIES = trainSearchList,gds_s,s_ppn,s_vs,gds,eupubconsent-v2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ultimouomo.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,_gat,s_ecid,s_cc
+ADVERTISING COOKIES = demdex,AMCVS_1A124673527853290A490D45%40AdobeOrg,_fbp,AMCV_1A124673527853290A490D45%40AdobeOrg
+UNCLASSIFIED COOKIES = gpv_pn,cookie_consent_level,_ga_7NFZPHB9QD
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: today.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gat_local,khaos
+UNCLASSIFIED COOKIES = OXID,audit,_iub_cs-72889361-granular,euconsent-v2,_iub_cs-72889361
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

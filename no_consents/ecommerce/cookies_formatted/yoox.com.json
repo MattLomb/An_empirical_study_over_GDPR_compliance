@@ -1,0 +1,622 @@
+{
+  "VISIT": {
+    "visit_id": 1,
+    "name": "VISIT",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "TSKAY=6383154F&NAZIONE=ITALY&ID%5FNAZIONE=2&ID%5FMERCATO=2&SIGLA%5FVALUTA=EUR&CURRENCYCODE=EUR&REFERENCE%5FCURRENCYCODE=EUR&ID%5FMERCATO%5FPER%5FLISTINO=2&MERCATO%5FPATH=%2fit%2f&VALUTA%5FID=2&DYN%5FPATH=%2fit%2f&SITE%5FCODE=YOOX_IT&ANONYMOUS%5FCHECKOUT=True&NAZIONE%5FISO=IT&WAREHOUSES=2715%2c2805%2c4800%2c7534%2c21140%2c271&TWOLETTERISOCODE=IT&LASTQUERY=",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "USERINFO": {
+    "visit_id": 1,
+    "name": "USERINFO",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "SESSO=D&SESSOBAMBINO=D",
+        "expiry": 1739451509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ABTEST": {
+    "visit_id": 1,
+    "name": "ABTEST",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7b%22AbTests%22%3a%5b%7b%22Name%22%3a%22SmsMultiChannel%22%2c%22Mode%22%3a%22Auto%22%2c%22Enabled%22%3a%22on%22%2c%22Threshold%22%3a%22100%22%7d%2c%7b%22Name%22%3a%22myooxNew%22%2c%22Mode%22%3a%22Auto%22%2c%22Enabled%22%3a%22on%22%2c%22Threshold%22%3a%22100%22%7d%2c%7b%22Name%22%3a%22Omnibus%22%2c%22Mode%22%3a%22Auto%22%2c%22Enabled%22%3a%22on%22%2c%22Threshold%22%3a%22100%22%7d%2c%7b%22Name%22%3a%22typNew%22%2c%22Mode%22%3a%22Auto%22%2c%22Enabled%22%3a%22on%22%2c%22Threshold%22%3a%22100%22%7d%5d%2c%22Reloaded%22%3afalse%2c%22ReloadedTime%22%3anull%7d",
+        "expiry": 1707483509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FEATURE_DISABLED_BAYNOTE": {
+    "visit_id": 1,
+    "name": "FEATURE_DISABLED_BAYNOTE",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1704977909,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OLDVISIT": {
+    "visit_id": 1,
+    "name": "OLDVISIT",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1739451508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SESSIONS": {
+    "visit_id": 1,
+    "name": "SESSIONS",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FIRSTTIMEUSER=1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "YEDGESESSION": {
+    "visit_id": 1,
+    "name": "YEDGESESSION",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5d5f7a5c908e270074949e653c03000019c10600",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AKA_A2": {
+    "visit_id": 1,
+    "name": "AKA_A2",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A",
+        "expiry": 1704895108,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "18848ED170F556DA38F7FF0084528602~YAAQXV96XK4vzsuMAQAAXOhz8xbhupeyxaOgckOgJtMOaghW4lstiiGkw6m0HbU9+fM0hCm3XBC1AtjyzfDIwuBTwZJ395DjYsYGb6CIydgZljk1q5UX7ssT49jc6pbiOtzJYBafwGG7xXKSxE5FoxnogJd2GuiNLYoBONRxpcsdajhwsfBpxn645XUdjcwFs1Yc9ZG0/ifHWqkrxatwnMZg64+SiFOOAob194xhptoP2lfPjlgrvWbH4DJq7vROxf1P6LNwNjrjAt/hEDNiHYaoPJvv+ydF6Tqg0EZOhJqG~3753281~4342852",
+        "expiry": 1704905908,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_mi": {
+    "visit_id": 1,
+    "name": "bm_mi",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9B6B8A77AE6650F9B6B90B2C18E02A2F~YAAQXV96XLAvzsuMAQAAyuhz8xZElBUvb9umcINwvvIy1MzXjsKFr+bYuwkYR0UfeM3MsGFMYjGiyagLdYq8miglnLH+N2jWOpeRD3L87ulwelcfTgnyn4f6bJ8StU9Qy/RSyH2Jg7o03ByMlznLUgcocrOAWuytSWAdZywZpZrKG0Lf5j1uC4kgbF73uwgB3j/y1mrF+2enJB83DcY5LjeS8g4hrLs66wTtKb2NxBlSHyKuaFKA9N3apgVAfixVtX3dilczz/wFi7CSkfvg4zdPYy3uAClUfIoX8h+BIey4wV+qo9JB/k2v1Q==~1",
+        "expiry": 1704898708,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "PIM-SESSION-ID": {
+    "visit_id": 1,
+    "name": "PIM-SESSION-ID",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "vOj7JUIkZ1gUYfSS",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxVisitor": {
+    "visit_id": 1,
+    "name": "rxVisitor",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704891509394ED4P4KAFFPIS4T4BMMUU27863T4UTLCL",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtSa": {
+    "visit_id": 1,
+    "name": "dtSa",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "GENERIC_USER_ID": {
+    "visit_id": 1,
+    "name": "GENERIC_USER_ID",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1875d227-77d8-4c20-b752-dd80ad3c02c7",
+        "expiry": 1705755509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "LAYERFIRSTVISIT": {
+    "visit_id": 1,
+    "name": "LAYERFIRSTVISIT",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LAYERFIRSTVISIT=True",
+        "expiry": 1712667509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "optimizelyEndUserId": {
+    "visit_id": 1,
+    "name": "optimizelyEndUserId",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "oeu1704891509749r0.030552046106278485",
+        "expiry": 1720443509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tc_YAB_test": {
+    "visit_id": 1,
+    "name": "tc_YAB_test",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "UpgradeV1vsV2_A",
+        "expiry": 1712667509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "B8D5BAFE9AFDADD91BA1A9B99852339B~YAAQXV96XNUvzsuMAQAAk+xz8xaKihYvl9jUZ0dxro4bOoX9Mx9B7l22SRhOPMT9nxCwE/SOcPdmmZsifYYPV3YD/f9bbJquryEzN/tliFHCP6xfNngKXupe/CZcCB6ysGuYaQkywePgU3xjZpDXKL83PAcP+3xA+0x46MjtQcXlBMBzeqjI23YD4yH4AMqPsKLXnBr5B4kgjIZGnn5p0ARJuUExuH0NqUEQj4aIm5mX6wblNk/Ke5mYf9sWJA==~1",
+        "expiry": 1704898708,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "isp": {
+    "visit_id": 1,
+    "name": "isp",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "vodafone",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "akacd_PIM-prd_ah_rollout": {
+    "visit_id": 1,
+    "name": "akacd_PIM-prd_ah_rollout",
+    "domain": "p11.techlab-cdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3882344308~rv=57~id=bcf70019a39b52750bbe167ea24eb8bb",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_JPNZR0P362": {
+    "visit_id": 1,
+    "name": "_ga_JPNZR0P362",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704891510.1.0.1704891510.60.0.0",
+        "expiry": 1739451510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TCPID": {
+    "visit_id": 1,
+    "name": "TCPID",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "124131358305628871225",
+        "expiry": 1738846710,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "38137B337B8BD9B1FDBA438A61C4E776~000000000000000000000000000000~YAAQXV96XN4vzsuMAQAAT+5z8xbKaoVxvC2Eergwl8IhUErNjxZkziMBllqpOMio8+GimCfdvliA7MvEHsVJVt4+GNePADDEU7WN0jZrUcOzrVKy0wwdzrm+UMxqAv5wkMDPwjDSUBmAgB8tCDafH+IA2G04ZothYeGGveIO8UCGWq4mq3FTqz13GphPxs66PcnmV3rqt0j1Htd7T9DWPdwphSRD6zozjeHzEZliQKEsXGQ3lpHaXvXM7/DPU7NctSNovJFGrbaHycAXn/LvGaduPI3/TTJ5csx/KrfBeNXZXxLOsnsI04RdbPPdstQwIDFtAtyFzvIxoLeuOmjEsG1d39CjIu6fuwvbys8L/Qd129Fx45VUlKNo1JZ/QRXhswDkqAUVsvUi0kgEQQhZR3+eBJAE3itXiPBie7KiymVNoFi+Rp7iZhDn6Ni0Aqes529/PhlLN9rCzRJ7jjlmOM83PPcIACeM92tzp0yxX+GNhEx3S5EgAD7efaZ1XuO84t0oChrxM1Mc45We4Q==",
+        "expiry": 1704898708,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1647641579.1704891510",
+        "expiry": 1739451510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.82131612.1704891510",
+        "expiry": 1704977910,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_4532215_2": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_4532215_2",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704891570,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=yoox.com&si=ae3dd59d-8964-4091-8fa0-47a5e3355626&ss=lr7sduzq&sl=1&tt=1qx&bcn=%2F%2F684dd312.akstat.io%2F&ld=1qz\"",
+        "expiry": 1705496310,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "rxvt": {
+    "visit_id": 1,
+    "name": "rxvt",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704893310761|1704891509395",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "88E1AFE79C31600490690BA5587B1361~-1~YAAQXV96XOcvzsuMAQAAe/Bz8wuylwow74togO1FB/Tx8o7C+hdqhJ9/rh4VRn1bjJ+tiXFp12qTeMpvaOZ28q6jMUMour4bnC/gEZSmKPyAICKrTg9NQ+CMqeo2F3TUT1/47p9yaSAOrF3D0c3MyT9e4HrsnTjJ8JY3/TS7GHC/O2JqP4ImDVrKJSMP2RkKC6lnSmeVXDl6L754KDfuqFrR+lskmSXM14UEuYKyps9/lxyvJ2a/XvsX4mETOqpPyQk+u0oYEBxkJOZS7Ut+zg4D/jVZXQ2vJmc2WUE8uRCYvxRGSMuCOivC679T9SgrDsxA4LiG2H7KzNpclpFt95O9i+YxvOxgusCozF5N/dVs38WU+ThgiXeXp8Ad6A3tv6kyaLx9H3Y=~-1~-1~1704895078",
+        "expiry": 1736427510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtPC": {
+    "visit_id": 1,
+    "name": "dtPC",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "21$291509393_47h-vRHORIFAOPRRATJROMSAAKOORNSTAPTQP-0e0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": ".yoox.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_21_sn_D518CCAF055196F0EC6D42041756AE3C_app-3A8caa4d99ff5d944a_1_ol_0_perc_100000_mul_1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

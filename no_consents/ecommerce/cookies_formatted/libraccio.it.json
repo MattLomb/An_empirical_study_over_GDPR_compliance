@@ -1,0 +1,382 @@
+{
+  "ASP.NET_SessionId": {
+    "visit_id": 1,
+    "name": "ASP.NET_SessionId",
+    "domain": "www.libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1pl3rw1klcgz2vkbyhri0bp3",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": "www.libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8HJJ5IBFDRL1KCIEMMFGU0EM06",
+        "expiry": 1712748690,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ARRAffinity": {
+    "visit_id": 1,
+    "name": "ARRAffinity",
+    "domain": ".www.libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a65b8ded552b2959098bd94be0e2ade630d55ebf0bba88350614f6cf0e9585ce",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ALGOLIA": {
+    "visit_id": 1,
+    "name": "_ALGOLIA",
+    "domain": "www.libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "anonymous-1caad275-6715-48f9-835a-2dc49f9f4b87",
+        "expiry": 1720441890,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ai_user": {
+    "visit_id": 1,
+    "name": "ai_user",
+    "domain": "www.libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9j8SyNldsF/JCsskGtLtJW|2024-01-10T12:31:30.961Z",
+        "expiry": 1736425890,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "n": {
+    "visit_id": 1,
+    "name": "n",
+    "domain": "recs.richrelevance.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736425891,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mvtid": {
+    "visit_id": 1,
+    "name": "mvtid",
+    "domain": ".richrelevance.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1802-1-1",
+        "expiry": 1736425891,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s": {
+    "visit_id": 1,
+    "name": "s",
+    "domain": "recs.richrelevance.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b28414831.28414831",
+        "expiry": 1704891691,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mvtdebug": {
+    "visit_id": 1,
+    "name": "mvtdebug",
+    "domain": ".richrelevance.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1802-1704889891225-1--1",
+        "expiry": 1736425891,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uc": {
+    "visit_id": 1,
+    "name": "uc",
+    "domain": "recs.richrelevance.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b75ff2b2-d614-45dd-6aab-b0633cd68bf0",
+        "expiry": 1736425891,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rr_rcs": {
+    "visit_id": 1,
+    "name": "rr_rcs",
+    "domain": ".libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eF5jYSlN9kgyN01LM0oy0k0xMzTRNTFNSdE1S0xM0k0yMDM2Tk4xs0hKM-DKLSvJTBEwtDAw0jXUNQQArOYO5w",
+        "expiry": 1736339491,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ai_session": {
+    "visit_id": 1,
+    "name": "ai_session",
+    "domain": "www.libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Iokn4PVZcXlLNg7lK0jvtq|1704889891241|1704889891241",
+        "expiry": 1704891691,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "trackerBot": {
+    "visit_id": 1,
+    "name": "trackerBot",
+    "domain": "www.libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739449891,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "clires": {
+    "visit_id": 1,
+    "name": "clires",
+    "domain": "www.libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1185x725",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1413347477.1704889892",
+        "expiry": 1739449891,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.364508025.1704889892",
+        "expiry": 1704976291,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T12:31:34.113Z",
+        "expiry": 1736425894,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+13%3A31%3A34+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.37.0&isIABGlobal=false&hosts=&consentId=e7fda99b-6995-4f49-b79c-0cc73caa5fce&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0%2CC0005%3A0",
+        "expiry": 1736425894,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_1J1S9MZJDY": {
+    "visit_id": 1,
+    "name": "_ga_1J1S9MZJDY",
+    "domain": ".libraccio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704889891.1.1.1704889894.0.0.0",
+        "expiry": 1739449894,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

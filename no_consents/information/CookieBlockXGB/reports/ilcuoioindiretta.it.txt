@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilcuoioindiretta.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_PCT-ilcuoioindirettait,SV_PCT-ilcuoioindirettait,SSC_PCT-ilcuoioindirettait,SN_PCT-ilcuoioindirettait,addtl_consent,_OASCAP[13564],_OABLOCK[13564]
+FUNCTIONAL COOKIES = _ga_TTEHDKH11F,_ga,_ga_FR20SCSXTH,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

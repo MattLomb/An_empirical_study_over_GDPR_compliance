@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lg.com 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent,AWSALBCORS
+FUNCTIONAL COOKIES = private_content_version
+ANALYTICS COOKIES = AKA_A2
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LGGP1_CartID,IT_LGCOM_ANALYSIS_OF_SITE,IT_LGCOM_IMPROVEMENTS,IT_LGCOM_ADVERTISING,SCOUTER,affinity
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics cookies

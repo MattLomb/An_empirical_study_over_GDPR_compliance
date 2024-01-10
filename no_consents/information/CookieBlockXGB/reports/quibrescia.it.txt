@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: quibrescia.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_quibrescia,SV_quibrescia,SSC_quibrescia,SN_quibrescia,addtl_consent,_OASCAP[13583],_OABLOCK[13583]
+FUNCTIONAL COOKIES = _ga,_ga_3XM1YW12C1,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

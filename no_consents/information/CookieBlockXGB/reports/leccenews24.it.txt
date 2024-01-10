@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: leccenews24.it 
+NECESSARY COOKIES = __cf_bm,SSID_SS-18321393-bf698,SV_SS-18321393-bf698,SSC_SS-18321393-bf698,SN_SS-18321393-bf698,_gat_UA-36651871-4,pubtech-cmp-pcstring
+FUNCTIONAL COOKIES = UID,_ga,_gid,_ga_SXHDPC2KLY,IMRID,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

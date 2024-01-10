@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: hovogliadidolce.it 
+NECESSARY COOKIES = _gat_gtag_UA_33651231_1,gtag_ga,_iub_cs-45545933-granular,_iub_cs-45545933,lotame_domain_check,connectId,panoramaId_expiry,IDE,__gpi,ar_debug
+FUNCTIONAL COOKIES = _gid,_ga_G526318YYP,_ga,IMRID,av_tcstr1689438,gtag_ga_R5PDW0TTSP
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE,__gads
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

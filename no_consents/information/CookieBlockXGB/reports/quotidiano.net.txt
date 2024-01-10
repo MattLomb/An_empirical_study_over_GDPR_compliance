@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: quotidiano.net 
+NECESSARY COOKIES = __cf_bm,AWSALB,AWSALBCORS,_k5a,__adblocker,_gcl_au,_pctx,__pnahc,SSID_qnet,SV_qnet,SSC_qnet,SN_qnet,SSCN_N_qnet,SSCN_UG_qnet,SSCN_UW_qnet,SSCN_UM_qnet,test_cookie,__tbc,__pat,__pvi,cX_P,_pbjs_userid_consent_data,ptechsdepth,pubtech-cmp-pcstring,pubtech-unifiedid
+FUNCTIONAL COOKIES = _ga,_pcid,_pcus,IMRID,xbc,_ga_KH6BFYQJML,cX_G,_pubCommonId,pt1-ppid-v2,euconsent-v2,_pubCommonId_last
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = gckp,dmvk,ts,v1st,usprivacy
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,142 @@
+{
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".tuttojuve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf1c1a8480010f04a1f9e757905075001a06d009dc$_sn:1$_se:1$_ss:1$_st:1704864849800$ses_id:1704863049800%3Bexp-session$_pn:1%3Bexp-session",
+        "expiry": 1736399049,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OAID": {
+    "visit_id": 1,
+    "name": "OAID",
+    "domain": ".adswizz.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "589fc81308eb2abaec911384f3c3e975",
+        "expiry": 1712639050,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_YT2MLX1FN3": {
+    "visit_id": 1,
+    "name": "_ga_YT2MLX1FN3",
+    "domain": ".tuttojuve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704863050.1.0.1704863050.0.0.0",
+        "expiry": 1739423050,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".tuttojuve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.40468183.1704863051",
+        "expiry": 1739423050,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".tuttojuve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1902205036.1704863051",
+        "expiry": 1704949450,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__kuid": {
+    "visit_id": 1,
+    "name": "__kuid",
+    "domain": ".adsby.bidtheatre.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4db6270d-bda3-48ef-aafe-cf4e19107b0e.474077051",
+        "expiry": 1705467851,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".turn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4323387351718439551",
+        "expiry": 1720415051,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

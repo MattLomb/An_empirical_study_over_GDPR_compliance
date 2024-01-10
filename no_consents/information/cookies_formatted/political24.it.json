@@ -1,0 +1,62 @@
+{
+  "_ga_2X3TPC14K5": {
+    "visit_id": 1,
+    "name": "_ga_2X3TPC14K5",
+    "domain": ".political24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704861358.1.0.1704861358.0.0.0",
+        "expiry": 1739421358,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".political24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1515928420.1704861359",
+        "expiry": 1739421358,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "12Ca387b146729d04d3d2c01704861359",
+        "expiry": 1739421359,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

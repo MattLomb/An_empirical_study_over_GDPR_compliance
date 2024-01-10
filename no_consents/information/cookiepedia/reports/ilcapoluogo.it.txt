@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilcapoluogo.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,YSC,_ga
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE
+UNCLASSIFIED COOKIES = LSW_WEB,SSID_ilCapoluogoit,SV_ilCapoluogoit,SSC_ilCapoluogoit,SN_ilCapoluogoit,_ga_7DVX3WS1X5,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

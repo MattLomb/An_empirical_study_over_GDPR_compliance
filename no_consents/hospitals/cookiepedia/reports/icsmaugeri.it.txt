@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: icsmaugeri.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = cookie-agreed
+ANALYTICS COOKIES = YSC
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE
+UNCLASSIFIED COOKIES = cookie-agreed-version,cookie-agreed-categories
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

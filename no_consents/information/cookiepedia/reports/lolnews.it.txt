@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lolnews.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.2.8984,_pk_ses.2.8984,_ga
+ADVERTISING COOKIES = mc,__qca,_fbp,IMRID
+UNCLASSIFIED COOKIES = _ga_F1DY1J3R5P,euconsent-v2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

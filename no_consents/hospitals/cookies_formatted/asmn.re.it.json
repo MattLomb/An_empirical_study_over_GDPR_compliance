@@ -1,0 +1,62 @@
+{
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.ausl.re.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5B3813A72EDFF15E51F34D708337B0BD.tomcat_1",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.jLp6ybY3WQ.db60": {
+    "visit_id": 1,
+    "name": "_pk_id.jLp6ybY3WQ.db60",
+    "domain": "www.ausl.re.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0dc416ed19788e75.1704877288.",
+        "expiry": 1738832488,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.jLp6ybY3WQ.db60": {
+    "visit_id": 1,
+    "name": "_pk_ses.jLp6ybY3WQ.db60",
+    "domain": "www.ausl.re.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704879088,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

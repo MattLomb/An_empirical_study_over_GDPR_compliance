@@ -1,0 +1,382 @@
+{
+  "AWSALB": {
+    "visit_id": 1,
+    "name": "AWSALB",
+    "domain": "pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "PXvcSr8CBNlgb6cd9KsQ/BKhkTVcZyEjL3+Qx+X7T5tusu/jKi6dbJ3CP4ruhNC2rSA/Gnm4mCEASVpB4PeWWPe1Myn3Et8rW8cqCATwWHXfMh+Q6X9oZ1t+2DuY",
+        "expiry": 1705461466,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "PXvcSr8CBNlgb6cd9KsQ/BKhkTVcZyEjL3+Qx+X7T5tusu/jKi6dbJ3CP4ruhNC2rSA/Gnm4mCEASVpB4PeWWPe1Myn3Et8rW8cqCATwWHXfMh+Q6X9oZ1t+2DuY",
+        "expiry": 1705461466,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "trackTimeDistribution": {
+    "visit_id": 1,
+    "name": "trackTimeDistribution",
+    "domain": "www.pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704943066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_sid": {
+    "visit_id": 1,
+    "name": "wtstp_sid",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_eid": {
+    "visit_id": 1,
+    "name": "wtstp_eid",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2170485666689684057",
+        "expiry": 1720408666,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_cdbeid": {
+    "visit_id": 1,
+    "name": "wtstp_cdbeid",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704857566,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_rla": {
+    "visit_id": 1,
+    "name": "wtstp_rla",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "769396664005295%2C1%2C1704856666577",
+        "expiry": 1710040666,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!fr9oAa77aGyzEGc8AP7SORvNY+Kz1FUyuq18mbnbJL8vhQQW0ceQph7ygXX/s8Q5D3UxJWEmM9RHIg==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSessionUser_2493117": {
+    "visit_id": 1,
+    "name": "_hjSessionUser_2493117",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6ImQ3Y2E4OGYzLTMzYzAtNTdjZC1hMDQzLTZjZGEzMWY1OWY5NiIsImNyZWF0ZWQiOjE3MDQ4NTY2NjY5MzksImV4aXN0aW5nIjpmYWxzZX0=",
+        "expiry": 1736392666,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjFirstSeen": {
+    "visit_id": 1,
+    "name": "_hjFirstSeen",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704858466,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjIncludedInSessionSample_2493117": {
+    "visit_id": 1,
+    "name": "_hjIncludedInSessionSample_2493117",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704858466,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSession_2493117": {
+    "visit_id": 1,
+    "name": "_hjSession_2493117",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6IjIyMWUzNTY1LWY4NDAtNDI0ZC04NDcxLTFhNjNiMzQyNDExMyIsImMiOjE3MDQ4NTY2NjY5MzksInMiOjAsInIiOjAsInNiIjowfQ==",
+        "expiry": 1704858466,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjAbsoluteSessionInProgress": {
+    "visit_id": 1,
+    "name": "_hjAbsoluteSessionInProgress",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704858466,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1313172580.1704856667",
+        "expiry": 1739416666,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1921624676.1704856667",
+        "expiry": 1704943066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_746038_9": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_746038_9",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704856726,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d3ee0320-af66-11ee-9614-67878a71df35",
+        "expiry": 1738552667,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "push_notification_viewed": {
+    "visit_id": 1,
+    "name": "push_notification_viewed",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704943071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_P324T0KMEY": {
+    "visit_id": 1,
+    "name": "_ga_P324T0KMEY",
+    "domain": ".pianetamamma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704856666.1.0.1704856681.0.0.0",
+        "expiry": 1739416681,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0e306b40-af76-11ee-b34c-a9db96ae2f6e",
+        "expiry": 1738559207,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".tuttomercatoweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1931926855.1704863208",
+        "expiry": 1739423207,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FCNEC": {
+    "visit_id": 1,
+    "name": "FCNEC",
+    "domain": ".tuttomercatoweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5B%22AKsRol8_tkVFZ3qHuoaLMm-0kWk6LB0RPc4P4tDK2QX6PY5ighVqfGFlu8BZB5aR8upXfXh8ZNXbXUqcyp2ZFKAcPC9jc--PrXoXXNX5qT79pude8Kv6wrLp9ukctPLIkqZ6CSamsycvYV5ucJ2nw2IFLq-4gI__ZA%3D%3D%22%5D%2Cnull%2C%5B%5B5%2C%22908%22%5D%5D%5D",
+        "expiry": 1736399209,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2",
+    "domain": ".tuttomercatoweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%7C1704863211%7C1704844800000%7C34%7C1706591210530%7C4%7C0%7C0%7C1704844800000%7C1%7C17048632074507472%7C0%7C172",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2_daisybit": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2_daisybit",
+    "domain": ".tuttomercatoweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAA_AEAENAiEgAAAAAEPgAAAAINJB7D7FbWFCwHphYLsQMAgDRMCAQoQAAASBAGABQAKQIAQCgkAQBASgBAACAAAAICRBIQAECAAAAEAAQAAAIAEEAAAAAAAIAAAAgAAAAAAIAAACAIAAAAAIAAIAEAAAmAgAAAIAGEAAhAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQNVADEFCIgAKAgJCCQUIgAAAgiAAAgQAAAAkCAAAAgAAgQAgEIIAAAAEAAAAAAAAAQEACAAAQAAAAAIAAgAAAQAAAAAAAAAAQAAAAAAAAAAAAAAAEAQAAAAAAAAQAAAABAhCAAAAAMIAAAAAAQAAAAA.YAAAAAAAAAAA",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "o": {
+    "visit_id": 1,
+    "name": "o",
+    "domain": ".datafront.co",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "kaR0cnVl",
+        "expiry": 1710047210,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_5QENE0CSQF": {
+    "visit_id": 1,
+    "name": "_ga_5QENE0CSQF",
+    "domain": ".tuttomercatoweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704863207.1.0.1704863211.0.0.0",
+        "expiry": 1739423211,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

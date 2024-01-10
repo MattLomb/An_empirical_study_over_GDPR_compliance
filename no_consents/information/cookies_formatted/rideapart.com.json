@@ -1,0 +1,982 @@
+{
+  "cookie_supported": {
+    "visit_id": 1,
+    "name": "cookie_supported",
+    "domain": "www.rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704940613,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m1_touch": {
+    "visit_id": 1,
+    "name": "m1_touch",
+    "domain": "www.rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no-touch",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "abtest": {
+    "visit_id": 1,
+    "name": "abtest",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Auto-v1.4",
+        "expiry": 1724854214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_PianoABtestv2": {
+    "visit_id": 1,
+    "name": "_pc_PianoABtestv2",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7",
+        "expiry": 1724854214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_20ABtestv2": {
+    "visit_id": 1,
+    "name": "_pc_20ABtestv2",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "12",
+        "expiry": 1724854214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_20ABtestn2": {
+    "visit_id": 1,
+    "name": "_pc_20ABtestn2",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6",
+        "expiry": 1724854214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pageviewSession": {
+    "visit_id": 1,
+    "name": "pageviewSession",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704855414,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions7daysExpires": {
+    "visit_id": 1,
+    "name": "Sessions7daysExpires",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Wed, 17 Jan 2024 02:36:54 GMT",
+        "expiry": 1705459014,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions7days": {
+    "visit_id": 1,
+    "name": "Sessions7days",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1705459014,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions30daysExpires": {
+    "visit_id": 1,
+    "name": "Sessions30daysExpires",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Fri, 09 Feb 2024 02:36:54 GMT",
+        "expiry": 1707446214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions30days": {
+    "visit_id": 1,
+    "name": "Sessions30days",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707446214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie_accept": {
+    "visit_id": 1,
+    "name": "cookie_accept",
+    "domain": "www.rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736390214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.39285622.1704854214",
+        "expiry": 1704940614,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_dc_gtm_UA-38230919-1": {
+    "visit_id": 1,
+    "name": "_dc_gtm_UA-38230919-1",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704854274,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__browsiSessionID": {
+    "visit_id": 1,
+    "name": "__browsiSessionID",
+    "domain": "www.rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e3bb9d71-868e-4523-a8cf-b1c5120634f2&false&false&DEFAULT&it&desktop-4.22.14&false",
+        "expiry": 1704856014,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__browsiUID": {
+    "visit_id": 1,
+    "name": "__browsiUID",
+    "domain": "www.rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1dc182e8-13c0-4ced-9efa-8322bb7e227a",
+        "expiry": 1736390214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9WtHcsIaFDv7jqAzi%2Fb1Nn%2BxIKlBmaSplK74DzLE8Uk4PaNAen%2F%2FlVPPaEPIFdx%2FfEq%2B5ByI1mZbQhk%2FxZ%2FKIxzU15fPnoFfD8rr04tT4HLPgW5XjGrk3PjLlbUhxQ%3D%3D",
+        "expiry": 1704926214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_QMSTTFT3DK": {
+    "visit_id": 1,
+    "name": "_ga_QMSTTFT3DK",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704854214.1.0.1704854214.0.0.0",
+        "expiry": 1739414214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.712039359.1704854214",
+        "expiry": 1739414214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ucountry": {
+    "visit_id": 1,
+    "name": "ucountry",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": 1707446214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.Wfws7LIRcigPLBIZ7UgdxAjOTAat0rT1I%2FoFYHh1bRg%3D.1704854214",
+        "expiry": 1739414215,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704854214908.1208891311",
+        "expiry": 1712630215,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_cb": {
+    "visit_id": 1,
+    "name": "_cb",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Cjzl18w9KeoB12L7x",
+        "expiry": 1738982215,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_chartbeat2": {
+    "visit_id": 1,
+    "name": "_chartbeat2",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": ".1704854215056.1704854215056.1.DnMsZS8WzIZD6gxxlC2xls8y75Pt.1",
+        "expiry": 1738982215,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cb_svref": {
+    "visit_id": 1,
+    "name": "_cb_svref",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "external",
+        "expiry": 1704856015,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "09cf35c03bdf7500bbea76bd1f2e2ac1",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "is_logged_in": {
+    "visit_id": 1,
+    "name": "is_logged_in",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1736390215,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pbjs_userid_consent_data": {
+    "visit_id": 1,
+    "name": "_pbjs_userid_consent_data",
+    "domain": "www.rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3578376556235240",
+        "expiry": 1707446216,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ktcid": {
+    "visit_id": 1,
+    "name": "ktcid",
+    "domain": ".kargo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cae9ff3a-f6cf-0ea1-1891-33ff4d357f51",
+        "expiry": 1736390220,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_usd_rideapart.com": {
+    "visit_id": 1,
+    "name": "_usd_rideapart.com",
+    "domain": ".go.sonobi.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2d33d9bb-52ed-4097-938d-9ffd73526b35",
+        "expiry": 1704940616,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uis": {
+    "visit_id": 1,
+    "name": "__uis",
+    "domain": ".go.sonobi.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "17ae6453-2b05-417a-90e7-40494c14112b",
+        "expiry": 1707446219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CONSUMABLEID": {
+    "visit_id": 1,
+    "name": "CONSUMABLEID",
+    "domain": ".serverbid.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e7516691e0a44654916691e0a46654b0",
+        "expiry": 1706150220,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T02:36:59.640Z",
+        "expiry": 1733366219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEwAAAAAEPgACiQg1NX_D7dbWFD8Xp3aPs0eYwH11ibIsQAAASBA0ABwAOQcJwGwmAwNASgBgACAQAAoVZBAAEEDIFUAUCAaAAEAQGsIACUgAIIICBAgBEQAgBYCAoCAIAgEACIgAAREwQAmBQISErkGEQABgQAlAQwAAAEAAAQQBMACBn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQaoT4ACIAFAAXAA4ADwAKgAXAA4AB4AEAAJAAZAA0ABwADwAH4ARAAjgBMACgAFIAKsAWwBdADEAGYANAAbwA_ACEAENAIgAiQBHACWAE0AKMAYAAwwBlADNAGiAOQAe0A_AD9gIOAhABEQCKAEWgI4AjoBJQCUgE7ALEAXMAuoBegDFAGfANeAbQA3ABxADpAHUAP-Ai8BHoCRAErAJ2AUOApEBTYCpQFdgLoAXmAvoBggDBgGQwMmAycBlgDTQGpgNVAawA2gBuYDgAHBAOWAdsA8UB48DyQPKAfFA-QD5QH0gPrgfaB90D9gP3Af2BAECAgEDAIHgQRggmCCgEGAINgQhAhQBCuCFoIXAQzghyCHUEPAQ9Ah-BFMCMAEaQI1gRvAjiBHQCOwEewI-gR_AkIBIgCRQEjYJIAkkBJSCTAJMgSjglQCVIEsIJZglpBLcEuIJdAl2BL6CYAJggTDAmKBMcCZMEzATOAmkBNQCbEE2wTcgm8Cb4E4YJygnMBOkCdcE7QTuCCgEGoAAA.YAAACHwAAAAA",
+        "expiry": 1733366219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OTAdditionalConsentString": {
+    "visit_id": 1,
+    "name": "OTAdditionalConsentString",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~46.89.108.228.230.320.938.1067.1092.1166.1205.1421.1703.1962.2008.2039.2074.2135.2213.2322.2328.2465.2501.2569.2958.2999.3028.3099.3136.3219.3222.3223.3225.3226.3227.3228.3230.3231.3234.3235.3236.3237.3238.3240.3244.3245.3250.3251.3253.3257.3260.3268.3270.3272.3281.3288.3290.3292.3293.3296.3299.3300.3306.3307.3314.3315.3316.3318.3324.3327.3328.3330.3331.3531.3731.3831.3931.4131.4531.4631.4731.4831.5031.5231.6931.7031.7235.7831.7931.8931.9731.10231.10631.10831.11031.11531.12831.13632.13731.14237.16831",
+        "expiry": 1733366219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".rideapart.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+03%3A36%3A59+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202311.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=175c8c6e-7911-4ac1-a541-10aba2cb3389&interactionCount=1&landingPath=NotLandingPage&groups=C0005%3A0%2CC0002%3A0%2CC0004%3A0%2CC0001%3A1%2CC0003%3A0%2CC0009%3A0",
+        "expiry": 1733366219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "HAPLB8G": {
+    "visit_id": 1,
+    "name": "HAPLB8G",
+    "domain": ".go.sonobi.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "s8570|ZZ4Cz",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2096409757670679327",
+        "expiry": 1712630220,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uih": {
+    "visit_id": 1,
+    "name": "__uih",
+    "domain": ".go.sonobi.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704854519,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uin_z1": {
+    "visit_id": 1,
+    "name": "__uin_z1",
+    "domain": ".go.sonobi.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704940619,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uir_z1": {
+    "visit_id": 1,
+    "name": "__uir_z1",
+    "domain": ".go.sonobi.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "32319419",
+        "expiry": 1704888779,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_Amc_b": {
+    "visit_id": 1,
+    "name": "_Amc_b",
+    "domain": "prebid.a-mo.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704854520,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "INGRESSCOOKIE": {
+    "visit_id": 1,
+    "name": "INGRESSCOOKIE",
+    "domain": "bh.contextweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "22d902a98dd4f589",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "m-CC6jobSKKFNGlZ2XCkG2O6okp2-pekqOp0w68YWMwDqKA4SSIHgGTHTjRsSdaLmhLvtXcMDbOAvaGmbeK-gLxCnDIZeQ7HSJpTPwLZths.",
+        "expiry": 1739414220,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wrvUserID": {
+    "visit_id": 1,
+    "name": "wrvUserID",
+    "domain": ".yellowblue.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "lqDyPwP-C",
+        "expiry": 1707446220,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "APC": {
+    "visit_id": 1,
+    "name": "APC",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AfxxVi5XUtkmN33HG8l7SyPTeZG5SSC9UlD7hA7gytDA_Q_5brglPQ",
+        "expiry": 1720406220,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704855120,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "17346000317323844064426853445194375902",
+        "expiry": 1720406221,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "17346000317323844064426853445194375902",
+        "expiry": 1720406221,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

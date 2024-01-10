@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: calciomercato.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = pid,lidc
+ANALYTICS COOKIES = _ga,UID,stx_user_id,_gid,uid
+ADVERTISING COOKIES = _cc_dc,_cc_id,IDE,__gads,__gpi,ad-id,ad-privacy,uuid2,khaos,TDID,pd,bito,__uis,TDCPM,bcookie,anj,TapAd_DID,tuuid,tuuid_lu,ljt_reader
+UNCLASSIFIED COOKIES = _Amc_s,_Amc_t,_ga_C2JKXE14LY,__lxG__consent__v2,__lxG__consent__v2_daisybit,__lxG__consent__v2_gdaisybit,lotame_domain_check,_pbjs_userid_consent_data,Adkaora_Shareid,panoramaId_expiry,adk_interstitial,adk_out-of-page-provider,adk_adv_blocking,_au_1d,_au_last_seen_pixels,_au_last_seen_iab_tcf,INGRESSCOOKIE,i,ar_debug,bitoIsSecure,HAPLB8G,C,univ_id,receive-cookie-deprecation,id5,zuid,A3,li_gc,audit,csuuid,uids,_Amc_b,_sv3_7,amuid2,sd_amuid2,TapAd_TS,cnx_userId,SEUNCY,TapAd_3WAY_SYNCS,XANDR_PANID,um,umeh,_ljtrtb_27,3pi
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

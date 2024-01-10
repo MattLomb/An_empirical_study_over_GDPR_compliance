@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: sportnews.eu 
+NECESSARY COOKIES = quads_browser_width,_gat_gtag_UA_51813898_2
+FUNCTIONAL COOKIES = _ga_6RN7EJCFH3,_ga_78BBV28VFL,_ga,_gid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: giallozafferano.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = wt_nbg_Q3,IMRID
+UNCLASSIFIED COOKIES = wteid_769396664005295,wtsid_769396664005295,_ga_BKMXXCDHL5,wt_rla,push_notification_viewed
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

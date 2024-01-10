@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: milannews.it 
+NECESSARY COOKIES = __lxG__consent__v2,__lxG__consent__v2_daisybit,__lxG__consent__v2_gdaisybit,lotame_domain_check,o,C,A3,connectId,_cc_dc,panoramaId_expiry,ad-id,ad-privacy,DotomiTest,__gpi,IDE,ar_debug,receive-cookie-deprecation,TDCPM,bito,bitoIsSecure,_Amc_b,_ljtrtb_80
+FUNCTIONAL COOKIES = IMRID,_ga,FCNEC,_cc_id,i,icu,viewer_token,_ga_S6TSBD5EMN,cto_bundle,XANDR_PANID,TDID,cu
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = khaos,uid,uuid2,__gads,bcookie,li_gc,lidc,csuuid,TapAd_TS,TapAd_DID,ljt_reader,TapAd_3WAY_SYNCS,audit
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

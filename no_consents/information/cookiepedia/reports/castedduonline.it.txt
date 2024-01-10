@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: castedduonline.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,_ga,_gid
+ADVERTISING COOKIES = _gat_UA-108482629-1,_gat_UA-17328356-10,IMRID
+UNCLASSIFIED COOKIES = __cf_bm,_ga_8L0EQ0XLG1,SSID_SS-18321389-25777,SV_SS-18321389-25777,SSC_SS-18321389-25777,SN_SS-18321389-25777,_ga_DMYNRDVQHE,_ga_S6MFK3617S,euconsent-v2,pubtech-cmp-pcstring,__lxNaN_load_cnt,__lxNaN_load_tmr,__lxNaN_load_tmr_pre
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

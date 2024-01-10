@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: garmin.com 
+NECESSARY COOKIES = __cf_bm,_cfuvid,notice_behavior,utag_main,SERVERID
+FUNCTIONAL COOKIES = TAsessionID,cf_clearance,CONSENTMGR
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

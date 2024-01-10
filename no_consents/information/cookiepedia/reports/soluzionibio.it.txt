@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: soluzionibio.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,_gat
+ADVERTISING COOKIES = _fbp
+UNCLASSIFIED COOKIES = __cf_bm,_ga_JRNCRNS1Q2,FCNEC,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

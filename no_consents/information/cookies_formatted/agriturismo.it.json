@@ -1,0 +1,182 @@
+{
+  "MUID": {
+    "visit_id": 1,
+    "name": "MUID",
+    "domain": ".bing.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0E15F605CEA969760921E207CF9E6888",
+        "expiry": 1738555940,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_QW473961LR": {
+    "visit_id": 1,
+    "name": "_ga_QW473961LR",
+    "domain": ".agriturismo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704859939.1.0.1704859939.60.0.0",
+        "expiry": 1739419939,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".agriturismo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1594822925.1704859939",
+        "expiry": 1739419939,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".agriturismo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1513012568.1704859940",
+        "expiry": 1704946339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_4XWRPKX83W": {
+    "visit_id": 1,
+    "name": "_ga_4XWRPKX83W",
+    "domain": ".agriturismo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704859939.1.0.1704859939.60.0.0",
+        "expiry": 1739419939,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_8889691_1": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_8889691_1",
+    "domain": ".agriturismo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704859999,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUkohIQxRhHDta_QDpOyzL5S2EcjRKKbV4RCDYSmLw63x18KqdCi-yvvZp-SZuQ",
+        "expiry": 1738555939,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "iperceptions.com": {
+    "visit_id": 1,
+    "name": "iperceptions.com",
+    "domain": ".universal.iperceptions.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "[{\"id\":\"acd95f53-5212-4635-a9b0-f65f7b6271fe\",\"history\":[],\"visitors\":[{\"id\":\"0366478704\",\"time\":\"2024-01-10T04:12:20.838Z\",\"host\":\"www.agriturismo.it\"}]}]",
+        "expiry": 1712635941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "www.agriturismo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%27Poi4MCk6qYSov2UfBZbcovq2NOXSH6ft/plRWXTpBHtpGZ5pWGJm7A==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704859943671%2Cregion:%27it%27}",
+        "expiry": 1736482343,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

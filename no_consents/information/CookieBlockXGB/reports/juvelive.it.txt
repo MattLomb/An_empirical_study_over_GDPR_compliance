@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: juvelive.it 
+NECESSARY COOKIES = _ga,euconsent-v2,addtl_consent,ar_debug
+FUNCTIONAL COOKIES = UID,_ga_RH8B4CV9LB,APC,IDE
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

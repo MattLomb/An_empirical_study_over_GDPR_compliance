@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: dagospia.com 
+NECESSARY COOKIES = DAGOSPIA_cookie,__cf_bm,_k5a,_dfdrm,RT,_pbjs_userid_consent_data,ptechsdepth,pubtech-cmp-pcstring
+FUNCTIONAL COOKIES = _ga_3K5RFTT45Z,_ga,IMRID,_pubCommonId,_pubCommonId_last,pt1-ppid-v2,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: famiboards.com 
+NECESSARY COOKIES = xf_csrf,__gpi,ar_debug,famifeed_preference
+FUNCTIONAL COOKIES = _ga,_ga_VBC5766HJ8,IDE
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __gads
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

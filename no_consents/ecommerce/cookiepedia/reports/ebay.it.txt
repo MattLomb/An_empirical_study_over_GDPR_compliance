@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ebay.it 
+NECESSARY COOKIES = ak_bmsc,bm_sv
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = test_cookie
+UNCLASSIFIED COOKIES = s,ebay,__uzma,__uzmb,__uzmc,__uzmd,__uzme,__uzmf,__ssds,__ssuzjsr2,__uzmaj2,__uzmbj2,__uzmcj2,__uzmdj2,dp1,nonsession,__deba
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

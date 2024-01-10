@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: milannews.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = lidc
+ANALYTICS COOKIES = _ga,uid
+ADVERTISING COOKIES = IMRID,khaos,_cc_dc,_cc_id,icu,uuid2,ad-id,ad-privacy,DotomiTest,__gads,__gpi,IDE,TDID,TDCPM,bito,bcookie,TapAd_DID,ljt_reader
+UNCLASSIFIED COOKIES = FCNEC,__lxG__consent__v2,__lxG__consent__v2_daisybit,__lxG__consent__v2_gdaisybit,lotame_domain_check,o,C,A3,connectId,panoramaId_expiry,i,viewer_token,_ga_S6TSBD5EMN,ar_debug,cto_bundle,XANDR_PANID,receive-cookie-deprecation,bitoIsSecure,li_gc,csuuid,TapAd_TS,_Amc_b,TapAd_3WAY_SYNCS,_ljtrtb_80,cu,audit
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

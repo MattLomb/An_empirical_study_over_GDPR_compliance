@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: hwupgrade.it 
+NECESSARY COOKIES = ASP.NET_SessionId
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _fbp,NID
+UNCLASSIFIED COOKIES = __io_d,__io_lv,__io,__io_session_id,__io_unique_12762,__io_uh,__io_visit_12762,io_uid6add47a81c3d7c9d86da4836f7496796,io_user_hash,_iub_cs-73170363,euconsent-v2,_iub_cs-73170363-granular,%24SPIDER,__io_nav_state12762,_ga_K0BEN3F8SJ
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

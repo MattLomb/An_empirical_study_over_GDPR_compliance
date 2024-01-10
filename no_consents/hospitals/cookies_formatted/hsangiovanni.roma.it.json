@@ -1,0 +1,42 @@
+{
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "hsangiovanni.roma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "366b197b919272c6c40b15721c80352c",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ut": {
+    "visit_id": 1,
+    "name": "ut",
+    "domain": "hsangiovanni.roma.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a%3A1%3A%7Bs%3A3%3A%22uid%22%3Bs%3A13%3A%22659e5d5fcce6a%22%3B%7D",
+        "expiry": 1704963808,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

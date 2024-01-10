@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: tuttosport.com 
+NECESSARY COOKIES = SERVERID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _gid,_ga,uid,UID
+ADVERTISING COOKIES = _gcl_au,_fbp,IDE,_gat_gtag_UA_2135082_1,CMID,CMPS,CMPRO,rlas3,EE,pxrc,ud,_kuid_,uuid2,ab,demdex,anj,bku,UserID1,dpm,wfivefivec,AFFICHE_W
+UNCLASSIFIED COOKIES = AwinCookie,sptnet_adunit_limit_intro,ar_debug,didomi_token,_ga_EXFQRFB44E,C,receive-cookie-deprecation,CM,CM14,uid-bp-617,SEUNCY,cm_uid,DID,IDT,cookie_ver,block_reset,ct_uid,ct_did,ct_idt,permanent,XANDR_PANID,bkpa,arcki2,arcki2_adform,idt,matchadform,arcki2_ddp2,cache0
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

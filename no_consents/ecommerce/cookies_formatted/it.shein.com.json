@@ -1,0 +1,602 @@
+{
+  "cookieId": {
+    "visit_id": 1,
+    "name": "cookieId",
+    "domain": "it.shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "E4DE5821_A176_6C74_B24A_4F6E156B4CEF",
+        "expiry": 1739448604,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sessionID_shein": {
+    "visit_id": 1,
+    "name": "sessionID_shein",
+    "domain": "it.shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "s%3AKvJwLyppDvpyxr1y0R908mTmyvZN4Noo.2sYMZq%2BIWLKvSOe3iJ3B%2F%2FPBpajqfCmABNLSNqxQQlw",
+        "expiry": 1705018207,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AE3B29D4DD3E435C729D73C7B772C52D~YAAQNV96XCAypO2MAQAAL5dH8xaw8ffQcyM9LqxEg1Cp1AkGc24oIacSxONg/EcgbR3jlLr4fHK7oQOAQWBOSF+K+duvccCs4ziTHktc6XgpFDfgDxIiUnW5PAXvLKDKy5M0/nYIPbJnVTcOWv8w7yje8Qs3qTG69AFTVIQl61+Jl+wf3LA4ms/yhpiOHWEjNMd7va9M4WwCKJ8TnnYjdEkYiVTLRLfSbUHs9KCeD5v1pe05ICuv6PRlpygu2UmGD1BkrPOwe70tsiVMc3Rzkq8CabT1hkDPb1jLxHcRkZJrtQ==~4405059~3420993",
+        "expiry": 1704903004,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cfruid": {
+    "visit_id": 1,
+    "name": "__cfruid",
+    "domain": ".ltwebstatic.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ab809cae2edae9a454ab95d0add26a57e8e9cf47-1704888605",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RESOURCE_ADAPT_WEBP": {
+    "visit_id": 1,
+    "name": "RESOURCE_ADAPT_WEBP",
+    "domain": "it.shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NID": {
+    "visit_id": 1,
+    "name": "NID",
+    "domain": ".google.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "511=guiHHjEjt5rQ9MeOKUiySiW8lCvGfgF4C8lXh3d9FtdjzjTMrQcP04d1pg2G96lwJNmfeYLcUHyeJut-IY0sbBZys7P3_oAjvOzBqQ5BkOD9dMwwTsQZRewBiK0G1UpzwnsKVBL74PlyQz5GFhoBRcoiqSIhA2pNmWVaq1aD6k4",
+        "expiry": 1720699805,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "app_country": {
+    "visit_id": 1,
+    "name": "app_country",
+    "domain": "it.shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": 1704891198,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "212AF96B630A4666A7B017E1DC361138~0~YAAQNV96XEYypO2MAQAANJ5H8wu3W65MtfHPSlnPb6w27dOuRxl/xGaULxgYnXhTqhc9K4WubJFy7zrF6NQAV8cXQp1yDhvKdlZ60V9tDcmQmcBGFXe4Wa5E5L0GE/hCCpCm9YICRmszTwD9ulT7Q8/PZ7meI7sQt3FA+6u+yn/UGBY7ns6S1Pu2rLISdPolsiWix4kfMtgrXflmYbBZTfaR4vI10EmsCKMCMu/hv9syQ2tIct6uRPguQlYHuLedgl+blhavmFqktPaUz2m+povz/GWyLp49CYQtL25CLd+k0KEF67j679TfDQObF/Zc9FBZgc9xA1thq+OYVWAF0s1XYm0E3SYMp9U05kIpx/dhqT6WT0xc9O6iGdgfn/ki8IuyZAJaYEO0X9L3QHHdtB/4q+7Y92Y=~-1~-1~-1",
+        "expiry": 1736424606,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "country": {
+    "visit_id": 1,
+    "name": "country",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": 1707480606,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "countryId": {
+    "visit_id": 1,
+    "name": "countryId",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "106",
+        "expiry": 1707480606,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "smidV2": {
+    "visit_id": 1,
+    "name": "smidV2",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "20240110131006e14188c039d725f7b23b60742b6c918e0000bbbcd78322630",
+        "expiry": 1739448606,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "987722D0F26296D0A1B7318F4EB02828~000000000000000000000000000000~YAAQNV96XFUypO2MAQAArJ9H8xaA/u/207kjZliPaSlCbzLfOlNewu/BYI4Rh04Xx5VaCrNOu5K8HFyldqI7mk6GT9f5t4YHF3KCSRxl8XVdLu3DnJ8lUAphTYZO0O8xfi4oPK1RD025QnJvf1S3TPR4ajvLhiVZpgTLrd5R9H/CS6AvfBmn8+7RbIyrrpG8/4zNq9lNWTrL8Nx8Nd5SOl1U6ri8s15C+BZFBAo29QPSlvXZhj7ENo3I8R/6Yi4PwuFEoXvjzZy6+NJKOA28OSJAKm9UUc+/z651HHLFjLxftsWoPi/y6ovcmZAFh7tSFDHH1f8CRUikN8HzLv8nKbkIclvLMNYWsvz0WXvm79QZzw7CqikgV4Y8ZOyf+G5a4Ougi6TDW9xOIhgWSqEPZy9ineSx9FMY0kt6Y5uYRuhqR28/TCUeGxsRuCJ5a6sbtCHuswHqPJhErrPkzGXDS8AXF8ZJ+uZuoRK1SugvTd/xyfCDKBuBZIru",
+        "expiry": 1704895804,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1560552588.1704888607",
+        "expiry": 1739448606,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1547558004.1704888607",
+        "expiry": 1704975006,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_csrf": {
+    "visit_id": 1,
+    "name": "_csrf",
+    "domain": "it.shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d9M52EaOA5-bmXrjs2k7dXOU",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ftr_blst_1h": {
+    "visit_id": 1,
+    "name": "ftr_blst_1h",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704888607576",
+        "expiry": 1704892927,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lastRskxRun": {
+    "visit_id": 1,
+    "name": "lastRskxRun",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704888607616",
+        "expiry": 1739448607,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rskxRunCookie": {
+    "visit_id": 1,
+    "name": "rskxRunCookie",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739448607,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rCookie": {
+    "visit_id": 1,
+    "name": "rCookie",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ot3shzp58ma8g9gnduchllr7qnou8",
+        "expiry": 1739448608,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_uetsid": {
+    "visit_id": 1,
+    "name": "_uetsid",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "321a0f60afb111ee82a4078f4e2e1863",
+        "expiry": 1704975007,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_uetvid": {
+    "visit_id": 1,
+    "name": "_uetvid",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "321a33b0afb111eea1add1e6a4f3b32c",
+        "expiry": 1738584607,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".pinterest.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736424608,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pin_unauth": {
+    "visit_id": 1,
+    "name": "_pin_unauth",
+    "domain": ".it.shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dWlkPU9UUTNPR1F6WVRJdE16VTJNeTAwTkdFd0xXSm1OVGN0WWpKaE5qSXhNalJoTWpNMQ",
+        "expiry": 1736424608,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pinterest_ct_ua": {
+    "visit_id": 1,
+    "name": "_pinterest_ct_ua",
+    "domain": ".ct.pinterest.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"TWc9PSY4Ykpub3dicWZXZ3lkNU5YdWQzZjFYaGZOcTBTNEs5cDk1eU9kUVVISEZFcDNRWHJoRzkrZkxHWG9FRWtMaitxbVR6K1JrYXFVT25EU3JyOE5IM21IT0ZwOFJqditOT1FNclQ0QmorVlFEND0mM2hicVAwbWViYmZVMDg5bFh2VU40Q3dKa25vPQ==\"",
+        "expiry": 1736424608,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_aimtellSubscriberID": {
+    "visit_id": 1,
+    "name": "_aimtellSubscriberID",
+    "domain": "it.shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ef9c4068-017f-b040-470c-4a637848485b",
+        "expiry": 1736424608,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T12:10:10.700Z",
+        "expiry": 1736424610,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+13%3A10%3A10+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202311.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dbf336a7-f8e3-410c-8c4e-4dddbb98160a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0&iType=6",
+        "expiry": 1736424610,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "inId": {
+    "visit_id": 1,
+    "name": "inId",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "202401101310109952c744741b5da4eed6e98f3c6de06c00647fbddd3a91b30",
+        "expiry": 1739448610,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "88959764AD4965A6190B6680A8FD87EF~YAAQNV96XCIzpO2MAQAAU7BH8xZzTdckXofV8JZtk65Nj9zRDsQT9BDjpf5B+0P5NGM7Muu04JiYxrFoM4GDYVInG2Xu+mveb6LhoAqaYxq4WuOokrn3WMoCL3ru6zUk6aB31EVjE2KDv7DVwrQT6cNDIPYnEPNNO/R00eJ2lNHTi5XPY66YRXQWfv7FPXs3MloPMTeBLCkvtmOyUfR/2Jo4/BI8baP9x0c6XA4XsRDCTCBd3kuOAzjHZO5cS7ha~1",
+        "expiry": 1704895806,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "forterToken": {
+    "visit_id": 1,
+    "name": "forterToken",
+    "domain": ".shein.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "952d4e13062e49899de512d7f129baef_1704888607222__UDF43-mnts-ants-d4_17ck",
+        "expiry": 1739448613,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

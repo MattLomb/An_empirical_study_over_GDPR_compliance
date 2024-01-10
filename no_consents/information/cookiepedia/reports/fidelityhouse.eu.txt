@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: fidelityhouse.eu 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,_ga,_gid
+ADVERTISING COOKIES = _gat_gtag_UA_22535933_14,_gat_gtag_UA_22535933_1
+UNCLASSIFIED COOKIES = _ga_YMSPP280CM,_iub_cs-57110925-granular,euconsent-v2,_iub_cs-57110925
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: starcasino.it 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gcl_au,CONSENT
+UNCLASSIFIED COOKIES = OBG-MARKET,OBG-LOBBY,cwr_u,OBG-SEEN-ELEMENTS,Acquisition_Status_Current,Start_Acquisition,Client_Status_Current,Start_Client_Status,Customer_Level,Initdone,TrafficType,AffCookie,LoadAll,Orientation,_ga_H1K0C6P76Y,__amonsulfp,__amonsulid,cwr_s
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

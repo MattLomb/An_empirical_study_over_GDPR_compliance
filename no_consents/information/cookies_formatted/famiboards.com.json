@@ -1,0 +1,162 @@
+{
+  "xf_csrf": {
+    "visit_id": 1,
+    "name": "xf_csrf",
+    "domain": "famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D35TILSCcYrRGBDY",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1642595327.1704866900",
+        "expiry": 1739426900,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gads": {
+    "visit_id": 1,
+    "name": "__gads",
+    "domain": ".famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ID=06e93d745cd7d880:T=1704866900:RT=1704866900:S=ALNI_MazVgcHPKyabZiw-fWhqp9w7lREUQ",
+        "expiry": 1738562900,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gpi": {
+    "visit_id": 1,
+    "name": "__gpi",
+    "domain": ".famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "UID=00000d3f034a73ca:T=1704866900:RT=1704866900:S=ALNI_MYLHiUvPEgfyOiwEw2iTJ6KtEs8Kg",
+        "expiry": 1738562900,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_VBC5766HJ8": {
+    "visit_id": 1,
+    "name": "_ga_VBC5766HJ8",
+    "domain": ".famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704866900.1.0.1704866901.0.0.0",
+        "expiry": 1739426901,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUk3zUcLi-lSlt9KbY1g12O44uHP2bVOBjwlWscyFEgFI8DmYtctbN-W-xyNLAE",
+        "expiry": 1738562901,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".googleadservices.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1712642901,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "famifeed_preference": {
+    "visit_id": 1,
+    "name": "famifeed_preference",
+    "domain": "famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "off",
+        "expiry": 1704888503,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

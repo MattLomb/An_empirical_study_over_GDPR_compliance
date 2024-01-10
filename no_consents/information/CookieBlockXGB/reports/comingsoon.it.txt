@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: comingsoon.it 
+NECESSARY COOKIES = wteid_769396664005295,wtsid_769396664005295,SV_comingsoonit,SN_comingsoonit,wt_nbg_Q3,euconsent-v2,addtl_consent,_pbjs_userid_consent_data,__cf_bm,bkdc,bku,_lr_retry_request,_lr_env_src_ats,pbjs-unifiedid,panoramaId_expiry,KCCH
+FUNCTIONAL COOKIES = _ga_FYCLQ1S2ZB,_ga,UID,IMRID,_ga_KFG1FQGWKD,bkpa
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

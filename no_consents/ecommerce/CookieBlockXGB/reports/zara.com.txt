@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: zara.com 
+NECESSARY COOKIES = _itxo11y_ses.01fa,cart-was-updated-in-standard,lastRskxRun,rskxRunCookie,dd7d5a6c6e7ff7148a9c5345f0513392,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = bm_sz,bm_mi,ITXSESSIONID,ITXDEVICEID,rid,TS0122c9b6,IDROSTA,bm_sv,ak_bmsc,rCookie,_abck,_itxo11y_id.01fa,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: fotografidigitali.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = hwu_session,__io_uh,__io,io_uid6add47a81c3d7c9d86da4836f7496796,io_user_hash,euconsent-v2,_iub_cs-73170363-granular,_iub_cs-73170363,_ga_K0BEN3F8SJ
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

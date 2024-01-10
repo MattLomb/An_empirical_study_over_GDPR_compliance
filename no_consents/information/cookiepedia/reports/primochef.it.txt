@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: primochef.it 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = at_gd
+ANALYTICS COOKIES = _ga,uid
+ADVERTISING COOKIES = _gcl_au,_fbp,tuuid,tuuid_lu
+UNCLASSIFIED COOKIES = __cf_bm,_ga_EXK7YBW3W8,_ga_YSZ5SR0HB6,st_ssp,gv,__lxG__consent__v2,__lxG__consent__v2_daisybit,st_uid,SSID_TRO-primochefit,SV_TRO-primochefit,SSC_TRO-primochefit,SN_TRO-primochefit,SSA,TAPAD,cProfile,cP,tr,cOptout,OTP,c,C
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

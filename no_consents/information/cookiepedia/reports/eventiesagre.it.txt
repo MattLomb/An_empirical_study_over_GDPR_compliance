@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: eventiesagre.it 
+NECESSARY COOKIES = PHPSESSID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_NVMF3JGS03,_iub_cs-316839-granular,euconsent-v2,_iub_cs-316839
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

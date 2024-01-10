@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: nike.com 
+NECESSARY COOKIES = AKA_A2,audience_segmentation_performed,visitData,RT,ak_bmsc_nke-2.3-ssn,ak_bmsc_nke-2.3,sq,ppd
+FUNCTIONAL COOKIES = AnalysisUserId,geoloc,anonymousId,bm_sz,bm_mi,ak_bmsc,ni_c,bm_sv,_abck
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

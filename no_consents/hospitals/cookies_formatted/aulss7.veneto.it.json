@@ -1,0 +1,62 @@
+{
+  "CFID": {
+    "visit_id": 1,
+    "name": "CFID",
+    "domain": "aulss7.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2933555",
+        "expiry": 1739436528,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CFTOKEN": {
+    "visit_id": 1,
+    "name": "CFTOKEN",
+    "domain": "aulss7.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f4d83687ed6320e9-7998FB2B-BF09-6AF2-E8AC9CB056F6DF9B",
+        "expiry": 1739436528,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiesession1": {
+    "visit_id": 1,
+    "name": "cookiesession1",
+    "domain": "www.aulss7.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "678B286EB38610192C7099BDAD9203C0",
+        "expiry": 1736412528,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

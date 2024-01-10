@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: 3bmeteo.com 
+NECESSARY COOKIES = ci_session,__cflb
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = IMRID
+UNCLASSIFIED COOKIES = sn_v5,euconsent-v2,_iub_cs-817732
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

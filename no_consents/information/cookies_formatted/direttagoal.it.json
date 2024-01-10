@@ -1,0 +1,142 @@
+{
+  "XSRF-TOKEN": {
+    "visit_id": 1,
+    "name": "XSRF-TOKEN",
+    "domain": "www.direttagoal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpdiI6ImpRdlZxcGhoVzR6OUxkQWp6TDNQcVE9PSIsInZhbHVlIjoidklnT0dlNWdieU5oMnZ5T21JemFydGZzbXZhMmRjUW0rSXJWckM2YTZwMHQrOUdheGU1YURkZVhBUWt6dXNCQVY2elhSZmxvR3RtekFabTM3K3JLaFkvcS83YzJlMFAxL1hSWWs4cnQzWHd4NWJqejNIdHE0WWVHeTZMZGxBQ1ciLCJtYWMiOiI2OGY0YWUxNjdjMDNlNjc2MjE1ODQzNGFlZjJlZDI0YTdmMWQ2YzFmZDlkZjdhZGY1NjE5MTMyMzlmNjg0OTRmIn0%3D",
+        "expiry": 1704868001,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "direttagoal_session": {
+    "visit_id": 1,
+    "name": "direttagoal_session",
+    "domain": "www.direttagoal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpdiI6IlZZeWNJSm1rdzM0NUhXWFl0VXl6RUE9PSIsInZhbHVlIjoid0J6VUVVV1FLNUhVTTBQWU5ZR0gzVm1iZmptL0VETzFWbzA3OWRSZkR2TXJmeGp0QU1SUUFOWVhFd2hmNzdKWVBIbU9TcGJVelIxcnFJVmNSZUJUelJxUU5yTlVVTGZIMWxyNHMzM21tbWFpMkV5VE5yRjU4eStwbHBWdWs1SFciLCJtYWMiOiI0MzBlYmMwNGVkNmY3MDNmNjA4Mzg1YWNlZTgzNTViMDkyMjFkYTMyM2Q5MTc1ODVkNjhkYWJkMjM5NDU1NDU3In0%3D",
+        "expiry": 1704868001,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "player_enabled": {
+    "visit_id": 1,
+    "name": "player_enabled",
+    "domain": "www.direttagoal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1704947202,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_JVSPNLGV0W": {
+    "visit_id": 1,
+    "name": "_ga_JVSPNLGV0W",
+    "domain": ".direttagoal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704860802.1.0.1704860802.0.0.0",
+        "expiry": 1739420802,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".direttagoal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1209017407.1704860802",
+        "expiry": 1739420802,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".www.direttagoal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAAKAyBITDgCgAAAAAEPAABCYAABBqALMNC4gC7IkJCbQMIoEAIgrCAigQAAAAkDRAQAuDAp2BgEusJEAIEUABwQAhABRkACAAASABCIAJAigQAAQCAQAAgAQCAQAMDAAOAC0EAgABAdAxTCgAUCwgSIyIhTAhCgSCAlsoEEoKhBXCAIsMCKARGwUACAJARWAAICxeAwBICViQQJdQbQAAEACAUUoVCKT8wBDgmbLVXiibQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAA.YAAAAAAAAAAA",
+        "expiry": 1738556806,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "addtl_consent": {
+    "visit_id": 1,
+    "name": "addtl_consent",
+    "domain": ".www.direttagoal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~",
+        "expiry": 1738556806,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

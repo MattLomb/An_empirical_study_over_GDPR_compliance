@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: lego.com 
+NECESSARY COOKIES = locale,country,__cf_bm,session_cookie_id,gqauth,JSESSIONID,_sp_ses.efcf,search_session
+FUNCTIONAL COOKIES = USER_GUID,_sp_id.efcf,l5_sp
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

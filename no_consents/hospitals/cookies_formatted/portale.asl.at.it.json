@@ -1,0 +1,162 @@
+{
+  "cookielawinfo-checkbox-necessary": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-necessary",
+    "domain": "asl.at.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yes",
+        "expiry": 1736412309,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-funzionali": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-funzionali",
+    "domain": "asl.at.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412309,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-performance": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-performance",
+    "domain": "asl.at.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412309,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-analitici": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-analitici",
+    "domain": "asl.at.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412309,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-pubblicitari": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-pubblicitari",
+    "domain": "asl.at.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412309,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-altri": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-altri",
+    "domain": "asl.at.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736412309,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.1.1628": {
+    "visit_id": 1,
+    "name": "_pk_id.1.1628",
+    "domain": "asl.at.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dba799d9fe09edc8.1704876310.",
+        "expiry": 1738831510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.1.1628": {
+    "visit_id": 1,
+    "name": "_pk_ses.1.1628",
+    "domain": "asl.at.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704878109,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

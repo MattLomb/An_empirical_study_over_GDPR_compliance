@@ -1,0 +1,1042 @@
+{
+  "ali_apache_id": {
+    "visit_id": 1,
+    "name": "ali_apache_id",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "33.27.96.10.1704880865501.541957.1",
+        "expiry": 1739440865,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "intl_common_forever": {
+    "visit_id": 1,
+    "name": "intl_common_forever",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eBR5+cbivQ9SpZLvszrdTiuelwMqyRgajWz2meQFnB7xUsnEzHZI4g==",
+        "expiry": 1739440865,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "intl_locale": {
+    "visit_id": 1,
+    "name": "intl_locale",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it_IT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "xman_f": {
+    "visit_id": 1,
+    "name": "xman_f",
+    "domain": ".aliexpress.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "x2XVceN20/UoXhMIr++KpW1evXUAxWA99kmDn/4dCbhmFycSVxDwB9RyNsuEBQY7",
+        "expiry": 1739440867,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "acs_usuc_t": {
+    "visit_id": 1,
+    "name": "acs_usuc_t",
+    "domain": ".aliexpress.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "acs_rt=8da5b37a3e1f447ea7f0c2da9cf68adc&x_csrf=8fpev_asj0ms",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "xman_t": {
+    "visit_id": 1,
+    "name": "xman_t",
+    "domain": ".aliexpress.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Qx4OyFz1bEHpkh/sjRtCcL3oWDZYBbm+WBQ6s3aXfmz8vo574JsDN0O/123nHrlz",
+        "expiry": 1712656867,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_m_h5_tk": {
+    "visit_id": 1,
+    "name": "_m_h5_tk",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9415facd1bc1eaec915275c072e70c5e_1704883296747",
+        "expiry": 1705485666,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_m_h5_tk_enc": {
+    "visit_id": 1,
+    "name": "_m_h5_tk_enc",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f6dc6722a27e5cbca1d1c513393ad715",
+        "expiry": 1705485666,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "xman_us_f": {
+    "visit_id": 1,
+    "name": "xman_us_f",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "x_l=0&x_locale=it_IT&x_c_chg=0&acs_rt=4ec52c8fafb646169e0c4b6a4e264260",
+        "expiry": 1736416867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "aep_usuc_f": {
+    "visit_id": 1,
+    "name": "aep_usuc_f",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "site=ita&c_tp=EUR&region=IT&b_locale=it_IT&ae_u_p_s=1&ups_u_t=&ups_d=0|0|0|0",
+        "expiry": 1736416867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ali_apache_track": {
+    "visit_id": 1,
+    "name": "ali_apache_track",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1739440866,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ali_apache_tracktmp": {
+    "visit_id": 1,
+    "name": "ali_apache_tracktmp",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "e_id": {
+    "visit_id": 1,
+    "name": "e_id",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "pt80",
+        "expiry": 1739440866,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cna": {
+    "visit_id": 1,
+    "name": "cna",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "41glHqmKRnQCAQVbPaMNtK99",
+        "expiry": 1739440867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cbc": {
+    "visit_id": 1,
+    "name": "cbc",
+    "domain": ".ynuf.aliapp.org",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "G9DE71F1BDA8A18C91FCBE2542F7A54119564481216F40B82C0",
+        "expiry": 1736416871,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "umdata_": {
+    "visit_id": 1,
+    "name": "umdata_",
+    "domain": ".us.ynuf.aliapp.org",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "G297AF73C4292D78A928CD5E4E7D5BCFEED3C868078D2851B4B",
+        "expiry": 1736416869,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "u": {
+    "visit_id": 1,
+    "name": "u",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "iGSvaRzfLxz97DDbI00C",
+        "expiry": 1736416867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "g": {
+    "visit_id": 1,
+    "name": "g",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "iGSvaRzfLxz97DDbI00C_1704880867305",
+        "expiry": 1736416867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "c": {
+    "visit_id": 1,
+    "name": "c",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "iGSvaRzfLxz97DDbI00C_Ss52YF3IAd5cEVfrVcQ0_1704880867305",
+        "expiry": 1736416867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ts": {
+    "visit_id": 1,
+    "name": "ts",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704880867",
+        "expiry": 1736416867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".criteo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fa455c4c-cb6a-4076-8b7b-a7b3d7f44488",
+        "expiry": 1738576867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "receive-cookie-deprecation": {
+    "visit_id": 1,
+    "name": "receive-cookie-deprecation",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1720432867,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cto_bundle": {
+    "visit_id": 1,
+    "name": "cto_bundle",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "vBc94l80R3JkbHVtckdtVElvR1hoS2ZXdENQTVJsRHAxWDRWa21yOHNZNnNwbWdjM0F3QmZNRlJIOW4lMkZjV2V4OWR3QlhUJTJCZDh1JTJGT1ZCYyUyQmJzN0pXclBmcmRkNVZzS3FwNHNrdUh4TDdKTEFyOENpckdPZ2czaktodnFpWFRVaGVrWXBBbDhicXZxNWdyY3lNODVnUUFPM1dRVk9zMHo1VWpDS29SenVyUXdzQUhNa3NZSWdTZGpMSms1N1E5JTJCR1UxYjc1UlhKUVpWTW5Wa0VEaSUyQlNpTGN1RURBJTNEJTNE",
+        "expiry": 1739044867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3699231960436164461",
+        "expiry": 1712656868,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sca": {
+    "visit_id": 1,
+    "name": "sca",
+    "domain": ".mmstat.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5bd708ad",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "atpsida": {
+    "visit_id": 1,
+    "name": "atpsida",
+    "domain": ".mmstat.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6eb4b6842e895c8ac706a088_1704880867_1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": "measurement-api.criteo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "x5secdata": {
+    "visit_id": 1,
+    "name": "x5secdata",
+    "domain": ".taobao.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "xddb161ba89b5276e601db6243441ab48872069d75d14dd9731704880868a-717315356a1993109894abaac3caa__bx__fourier.taobao.com%3A443%2Frp",
+        "expiry": 1704880888,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "xlly_s": {
+    "visit_id": 1,
+    "name": "xlly_s",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1705140068,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "visitor-id": {
+    "visit_id": 1,
+    "name": "visitor-id",
+    "domain": ".media.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3478824686563548000V10",
+        "expiry": 1736416868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "data-c-ts": {
+    "visit_id": 1,
+    "name": "data-c-ts",
+    "domain": ".media.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704880868",
+        "expiry": 1707472868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "data-c": {
+    "visit_id": 1,
+    "name": "data-c",
+    "domain": ".media.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "k-85_jb1uzlCcQWLjzi8qZ3dqhDjHYou-A76_YxQ~~3",
+        "expiry": 1707472868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUlgYoFp7sPp00hmc9iJ-lvDm959CHA6Use2oQ_JoGfgOExmlPrHLnPJZRSIZL4",
+        "expiry": 1738576868,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "kfMO6f7A4M-p4u-hoYiikxDEmw3dKilnPRvejO5ABIuB7Qn_TcJ3_fE04QiEOyVgM33fz63awA1HhR9FqOtWrBLcBUAWMzWSKudwNvkO4lE.",
+        "expiry": 1739440868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "anj": {
+    "visit_id": 1,
+    "name": "anj",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dTM7k!M40*dWIy(ghqdmU(7TVqLdH:#?nG_N:uKeRh0MLZLmlnQ09bcN]'=C]vgF8UE3/Uaon<Sfqar7(_2zpv5pqqWlCmv0!oKK$.gr[^TvjI0Kf+%ekZIYe52Xz+aEK'rn$84U2jEW+#-WkU#f+7E]q^hnOI>DVYc$EDLUQkXFVhs#NVU#.gLHHXs6>JcttH@",
+        "expiry": 1712656868,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMID": {
+    "visit_id": 1,
+    "name": "CMID",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ZZ5q5CQIVAkm5A3TV-J5OQAA",
+        "expiry": 1736416868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPS": {
+    "visit_id": 1,
+    "name": "CMPS",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4509",
+        "expiry": 1712656868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPRO": {
+    "visit_id": 1,
+    "name": "CMPRO",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4509",
+        "expiry": 1712656868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ayl_visitor": {
+    "visit_id": 1,
+    "name": "ayl_visitor",
+    "domain": ".omnitagjs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "522495c90d941c1d868b722fe7129ef8",
+        "expiry": 1707472868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tfstk": {
+    "visit_id": 1,
+    "name": "tfstk",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eS-6HUcJeIKeN0UgOfMeNaSzi5jjLCizl-6vEKEaHGItctCBGiJZIoJAkQJ0bZhGbnOCjH8a01lGcKdPcblr40SMIgjxabySpabAmwX5whoyId2p-KLXI0rXuCNRxUem8uMXEuZgboZgXj0YrkEpAOHGwd1CK9xCCN1RZ6ZYQH615_pN4mEPNWBalJ_uc91rdva0o5WnSHB7IgkPW9XUHvMQzlbOK9_Zdva0CNBhLjkIdzjc.",
+        "expiry": 1720432867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "isg": {
+    "visit_id": 1,
+    "name": "isg",
+    "domain": ".aliexpress.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "BJ2dqvMvpKIhekCOpfFjJiSLrH-XutEMKe6Til9i2fS7Fr1IJwrh3GsEQBIQ7enE",
+        "expiry": 1720432867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mv_tokens": {
+    "visit_id": 1,
+    "name": "mv_tokens",
+    "domain": "exchange.mediavine.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22mv_uuid%22%3A%222d565ec0-af9f-11ee-9dac-83fea0f61055%22%2C%22version%22%3A%22eu-v1%22%7D",
+        "expiry": 1706090468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mv_tokens_eu-v1": {
+    "visit_id": 1,
+    "name": "mv_tokens_eu-v1",
+    "domain": "exchange.mediavine.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22mv_uuid%22%3A%222d565ec0-af9f-11ee-9dac-83fea0f61055%22%2C%22version%22%3A%22eu-v1%22%7D",
+        "expiry": 1706090468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "am_tokens": {
+    "visit_id": 1,
+    "name": "am_tokens",
+    "domain": "exchange.mediavine.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22mv_uuid%22%3A%222d565ec0-af9f-11ee-9dac-83fea0f61055%22%2C%22version%22%3A%22eu-v1%22%7D",
+        "expiry": 1706090468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "am_tokens_eu-v1": {
+    "visit_id": 1,
+    "name": "am_tokens_eu-v1",
+    "domain": "exchange.mediavine.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22mv_uuid%22%3A%222d565ec0-af9f-11ee-9dac-83fea0f61055%22%2C%22version%22%3A%22eu-v1%22%7D",
+        "expiry": 1706090468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "criteo": {
+    "visit_id": 1,
+    "name": "criteo",
+    "domain": "exchange.mediavine.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22id%22%3A%22k-IO1GfVuzlCcQWLjzi8qZ3dqhDjGsG8p405nWyg%22%2C%22version%22%3A%22criteo%22%7D",
+        "expiry": 1706090468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "opt_out": {
+    "visit_id": 1,
+    "name": "opt_out",
+    "domain": ".postrelease.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736416869,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "53225539219498128211721249077030074190",
+        "expiry": 1720432869,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "53225539219498128211721249077030074190",
+        "expiry": 1720432869,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tvid": {
+    "visit_id": 1,
+    "name": "tvid",
+    "domain": ".tremorhub.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3bac921fcd9a479f9fff53845fbb925b",
+        "expiry": 1736437769,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tv_UICR": {
+    "visit_id": 1,
+    "name": "tv_UICR",
+    "domain": ".tremorhub.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "k-VaPCiluzlCcQWLjzi8qZ3dqhDjFJZskdRpifjg",
+        "expiry": 1707472869,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_kuid_": {
+    "visit_id": 1,
+    "name": "_kuid_",
+    "domain": ".krxd.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "QBvJYnqr",
+        "expiry": 1720432869,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

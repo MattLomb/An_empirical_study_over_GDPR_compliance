@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: apss.tn.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.jg7pYNwqvM.1ad5,_pk_ses.jg7pYNwqvM.1ad5
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

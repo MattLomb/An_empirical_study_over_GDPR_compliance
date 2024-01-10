@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: forlinotizie.net 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,_ga_Z6SSRCWY91,_ga_D106RQ6MXJ,SSID_PCT-forlinotizi,SV_PCT-forlinotizi,SSC_PCT-forlinotizi,SN_PCT-forlinotizi,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

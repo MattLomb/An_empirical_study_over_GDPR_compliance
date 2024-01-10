@@ -1,0 +1,122 @@
+{
+  "xf_csrf": {
+    "visit_id": 1,
+    "name": "xf_csrf",
+    "domain": "www.germancarforum.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2hWfDVH4_HV7h78h",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_L4ME4V24LW": {
+    "visit_id": 1,
+    "name": "_ga_L4ME4V24LW",
+    "domain": ".germancarforum.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704865811.1.0.1704865811.0.0.0",
+        "expiry": 1739425811,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".germancarforum.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.460201155.1704865811",
+        "expiry": 1739425811,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".germancarforum.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.174054549.1704865811",
+        "expiry": 1712641811,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704866711,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FCCDCF": {
+    "visit_id": 1,
+    "name": "FCCDCF",
+    "domain": ".germancarforum.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CP4KqwAP4KqwAEsACCENAiEgAAAAAAAAACiQAAAQagVgABgAYABoAEIAMAAyABsAEQAJYATgBQACoAFoAOQAdwBFAEYAJwAUQAvABhADaAHcAPgAgoBFgEYAJMAUIA1AB4gDzAImASYAnoBgADGgGfAQAAjUBLQCvwFvAL3AYmAxkB0IEGgAAA%22%2C%222~~dv.2072.70.89.93.108.122.149.196.2253.2299.259.2357.311.313.317.323.2373.338.358.2415.415.449.2506.2526.482.486.494.495.2568.2571.2575.540.574.2624.609.2677.864.981.1029.1048.1051.1095.1097.1201.1205.1211.1276.1301.1344.1365.1415.1449.1451.1570.1577.1598.1651.1716.1735.1753.1765.1870.1878.1889.1958.1960%22%2C%2268B2BA15-00EF-41FF-9E93-3434C8F32C5A%22%5D%5D",
+        "expiry": 1738561814,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

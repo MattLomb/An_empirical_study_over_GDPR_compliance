@@ -1,0 +1,302 @@
+{
+  "TS01ef6e9e": {
+    "visit_id": 1,
+    "name": "TS01ef6e9e",
+    "domain": "samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0130e8942a726fb39708e22e4c60e89fbe30f33c3b220234bd4c1dbebde8ef015277cdd724854f5855b2590b1a6f426c1a86e71dd9",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "country_region": {
+    "visit_id": 1,
+    "name": "country_region",
+    "domain": "www.samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CA-ON",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_fpid": {
+    "visit_id": 1,
+    "name": "s_fpid",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "725362bc-8adc-4208-9447-f456f743af10",
+        "expiry": 1739439852,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AKA_A2": {
+    "visit_id": 1,
+    "name": "AKA_A2",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A",
+        "expiry": 1704883452,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "country_codes": {
+    "visit_id": 1,
+    "name": "country_codes",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "device_type": {
+    "visit_id": 1,
+    "name": "device_type",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "pc",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__COM_SPEED": {
+    "visit_id": 1,
+    "name": "__COM_SPEED",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "H",
+        "expiry": 1704966252,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie_country": {
+    "visit_id": 1,
+    "name": "cookie_country",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it",
+        "expiry": 1704966252,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_pv": {
+    "visit_id": 1,
+    "name": "s_pv",
+    "domain": "www.samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it%3Ahome",
+        "expiry": 1704881653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "directCallFlAA": {
+    "visit_id": 1,
+    "name": "directCallFlAA",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "undefined",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAsessionID": {
+    "visit_id": 1,
+    "name": "TAsessionID",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "79631719-e124-4a9a-a794-9a8bb1947bb4|NEW",
+        "expiry": 1704881653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "notice_behavior": {
+    "visit_id": 1,
+    "name": "notice_behavior",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "implied,eu",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ppvl": {
+    "visit_id": 1,
+    "name": "s_ppvl",
+    "domain": "www.samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it%253Ahome%2C10%2C10%2C725%2C1200%2C725%2C1512%2C982%2C2%2CP",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ppv": {
+    "visit_id": 1,
+    "name": "s_ppv",
+    "domain": "www.samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it%253Ahome%2C10%2C10%2C725%2C1200%2C725%2C1512%2C982%2C2%2CP",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".samsung.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=samsung.com&si=bd48a0ad-646a-4f31-9aac-a8aa3760cb85&ss=lr7lg01v&sl=1&tt=1z4&bcn=%2F%2F0217991b.akstat.io%2F&ld=1z7\"",
+        "expiry": 1705484653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

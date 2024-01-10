@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: motorionline.com 
+NECESSARY COOKIES = DSID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = IDE,__gads,__gpi,CMID,CMPS,CMPRO,everest_g_v2,_rxuuid,anj,uuid2
+UNCLASSIFIED COOKIES = __cf_bm,SSID_motorionlinecom,SV_motorionlinecom,SSC_motorionlinecom,SN_motorionlinecom,SSCN_N_motorionlinecom,SSCN_UG_motorionlinecom,SSCN_UW_motorionlinecom,SSCN_UM_motorionlinecom,_ga_5LVD7D0EXE,APC,suid,ar_debug,XANDR_PANID,euconsent-v2,pubtech-cmp-pcstring,clinch-sid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: soluzionibio.it 
+NECESSARY COOKIES = __cf_bm,_gat,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = _ga,_gid,_ga_JRNCRNS1Q2,FCNEC
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

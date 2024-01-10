@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: efarma.com 
+NECESSARY COOKIES = PHPSESSID,baqend-speedkit-config,baqend-speedkit-user-id,form_key,mage-banners-cache-storage,mage-cache-storage,mage-cache-storage-section-invalidation,mage-cache-sessid,mage-messages,recently_compared_product,__cfruid,_cfuvid,CookieConsent
+FUNCTIONAL COOKIES = smcfds
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

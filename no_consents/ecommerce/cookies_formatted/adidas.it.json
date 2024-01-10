@@ -1,0 +1,462 @@
+{
+  "geo_ip": {
+    "visit_id": 1,
+    "name": "geo_ip",
+    "domain": "www.adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5.91.61.163",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "geo_country": {
+    "visit_id": 1,
+    "name": "geo_country",
+    "domain": "www.adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "onesite_country": {
+    "visit_id": 1,
+    "name": "onesite_country",
+    "domain": "www.adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "geo_coordinates": {
+    "visit_id": 1,
+    "name": "geo_coordinates",
+    "domain": "www.adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "lat=41.90, long=12.48",
+        "expiry": 1704978834,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AKA_A2": {
+    "visit_id": 1,
+    "name": "AKA_A2",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A",
+        "expiry": 1704896031,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akacd_generic_prod_grayling_adidas": {
+    "visit_id": 1,
+    "name": "akacd_generic_prod_grayling_adidas",
+    "domain": "www.adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3882345230~rv=48~id=eb2e311e3cdd1c70a3ad1e12e42f7e0e",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "50EE95754C5D1C94ABBF98187669A2CA~YAAQqBTfrSLxdluMAQAAK/6B8xZYxZcAcdcP/xCwbl4iAO+TUrOHa0384BMzxJGugU0oAJ9TVzTHsWCLviZB6HrF68ukAaTfC8NLtqMYr8XUTxZtfOnbZ84vUlPuRfB1X9elUzxKpQB8WH/CyaUqoomr8Hl5BjQtqshOhjUn8gHUF9oEuQyCVwgTzYyXyuVJGqjSJCp+t6jLzUxjF0SlQE6abqfwHfAmvtxnssaL8oGTT0bI55a2w6wd+0rCKuvZhL0KlbaAUrY2+LYJqYyLYuWVTUFIlxvww8CVNhQ0xsQii82pSFbL1HY5CywN5y4Wn06LmCCPXneAJudIBdNMJuWKClHS6z2qZx0NxwugD/9RFYraje0kv+4PUsj+tzuRTcl16YZ3W8Sw+To691nSXSu6c2bjlL8mQj4W/lG49vvhC8WQIHH+0L3BAYVJMm3NcjvbitCAfbAwnipNFolzo5k=~3293508~3420210",
+        "expiry": 1704906831,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akacd_plp_prod_adidas_grayling": {
+    "visit_id": 1,
+    "name": "akacd_plp_prod_adidas_grayling",
+    "domain": "www.adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3882345231~rv=22~id=a20d4263fdb9bc5cd789ff4e45ee5510",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "x-original-host": {
+    "visit_id": 1,
+    "name": "x-original-host",
+    "domain": "www.adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "adidas.co.uk",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "x-site-locale": {
+    "visit_id": 1,
+    "name": "x-site-locale",
+    "domain": "www.adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en_GB",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mt.v": {
+    "visit_id": 1,
+    "name": "mt.v",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.144229003.1704892432916",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akacd_acc_frontend_prd": {
+    "visit_id": 1,
+    "name": "akacd_acc_frontend_prd",
+    "domain": "account-frontends.adidas.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3882345232~rv=57~id=3e13d3b916d3490c3cba0fbc691bc78d",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wishlist": {
+    "visit_id": 1,
+    "name": "wishlist",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sbsd": {
+    "visit_id": 1,
+    "name": "sbsd",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "sA5BCtZPzoFLHI1Pa1RHo072Yn9I2fFDTcgSHFCd0l4FXTcHdV8EklyMq+DQYSsZilp5gzUrjd0JWkyN+c4E1ru7wELoaPQOEFNpxoT8UqjzdC09VNQX+JokAQA8fscfOAAjoX0TuDC+Z+JnSo4azAA==",
+        "expiry": 1707570833,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "42534769875839414103208039643271765308",
+        "expiry": 1720444433,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A20912E104DC287C2EEB7A24FB80A2E9~000000000000000000000000000000~YAAQqBTfrYnxdluMAQAAKwaC8xbrOAALOQ/7zFnf+bUsoT4zM/5VDGqhVChPxQzj7SDh3eZnfbyKV0iabCN8RE95b+CdhVSLM1ugKOFMFz8uWlMtBD9aQ7UHDbytccsyIOpMo3R/brLBD8e9kdKkHdmXiT+iblOrIVZUR0hJVnzvA6BK5+YRtDzxvuhRT32uyZchiDHpgRXryJSFlxOFomDNwcHgLYeOjZ6NTzief05mEFoK5JE90QSSNIzKQgor35pKOm6ONl7BbygtsOknBxnGmQ3TyYwJ5C4xSn7zcDs1xHBfZGolRP9rTMxUubDvAHcq3sl0fCISie9XEzeHtbAILh0AIxzj+TJVCsKVx097XNVo5xfncfoKFjISoRD/Q/4Kck3P",
+        "expiry": 1704899631,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCVS_7ADA401053CCF9130A490D4C%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCVS_7ADA401053CCF9130A490D4C%40AdobeOrg",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6FEC5FEB908004F4231073739DB81C1D~-1~YAAQqBTfrY3xdluMAQAAAAeC8wsC1M2BoDOmbVfpTLP3FoHDaNk6H6fKbhwU+7JWzIFX7XDGIu3+9SdaSPiIxpFLv9pr3CDQxItppUIZYe/7d0XA0Hu5Xd7FGoBXc1a0Ox4IxD6MStBXyXNzRoC6PlY1uE7bholHJDf0hzsBcQnyRh1P/M+8x+KNUYKyO0XXlrZoOy4HVWUcxYxKS815snyBeevKwyqo7k/XHplD1wkFi5BNqthnmBY4oVyL/vG3mQ/nDQFzio06iLAlW/KEOFMTSJccDWBSfSH1i9+AmwEcuXwtp/Vw/jyZ8FV018kieGS0CJoKZdPQZEji1RvmmQjHHXVJjRbpKQfSqRRqS+iwAllUQ07NoA3GDCrCpnX2BGhMKI0diinsZyREPdGc+NeTlv4PNyFhHC+ODMologEeg/RmNAa+NSASeg==~-1~-1~1704895984",
+        "expiry": 1705497234,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_7ADA401053CCF9130A490D4C%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_7ADA401053CCF9130A490D4C%40AdobeOrg",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-227196251%7CMCIDTS%7C19733%7CMCMID%7C42826942783732729983237369079989910456%7CMCAAMLH-1705497233%7C6%7CMCAAMB-1705497233%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1704899634s%7CNONE%7CMCAID%7CNONE",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ab_inp": {
+    "visit_id": 1,
+    "name": "ab_inp",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf382023a0001e6028e1a4b4e05075001606d009dc$_sn:1$_se:2%3Bexp-session$_ss:0%3Bexp-session$_st:1704894235451%3Bexp-session$ses_id:1704892432957%3Bexp-session$_pn:1%3Bexp-session$_vpn:1%3Bexp-session$_prevpage:HOME%3Bexp-1704896035346",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_pers": {
+    "visit_id": 1,
+    "name": "s_pers",
+    "domain": ".adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%20s_vnum%3D1706742000354%2526vn%253D1%7C1706742000354%3B%20s_invisit%3Dtrue%7C1704894235483%3B",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".www.adidas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

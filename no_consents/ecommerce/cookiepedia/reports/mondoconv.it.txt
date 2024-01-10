@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: mondoconv.it 
+NECESSARY COOKIES = PHPSESSID,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = private_content_version
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = gqid,_ga_1B4XGV94ZR,FPID,FPLC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics cookies

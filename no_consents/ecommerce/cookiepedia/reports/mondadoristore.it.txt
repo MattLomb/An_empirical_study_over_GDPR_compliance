@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: mondadoristore.it 
+NECESSARY COOKIES = JSESSIONID
+FUNCTIONAL COOKIES = ts
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = g,_kuid_,uuid2,anj,IMRID
+UNCLASSIFIED COOKIES = NOW,HAPSIDMONDSTORE,__rtbh.lid,u,c,ar_debug,receive-cookie-deprecation,XANDR_PANID,_iub_cs-73705257,_ga_T01XDNRG2V
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

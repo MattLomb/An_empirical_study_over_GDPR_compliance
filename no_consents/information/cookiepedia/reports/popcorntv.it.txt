@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: popcorntv.it 
+NECESSARY COOKIES = XSRF-TOKEN
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,OAID,UID,s_ecid,uid
+ADVERTISING COOKIES = _gcl_au,OAGEO,_fbp,khaos,demdex,AMCVS_1A124673527853290A490D45%40AdobeOrg,AMCV_1A124673527853290A490D45%40AdobeOrg,uuid2,IDE,uuid,mt_mop,ad-id,ad-privacy
+UNCLASSIFIED COOKIES = laravel_session,_ga_YFBDE20G2J,_ga_EXK7YBW3W8,SSID_PopcornTv,SV_PopcornTv,SSC_PopcornTv,SN_PopcornTv,SSCN_N_PopcornTv,SSCN_UG_PopcornTv,SSCN_UW_PopcornTv,SSCN_UM_PopcornTv,euconsent-v2,addtl_consent,_pbjs_userid_consent_data,audit,profiler,ad_simply_viewer,know,CC,fcap_v1,CIM,CCL,fourWGuid,xandr,_lr_retry_request,_lr_env_src_ats,aniC,cProfile,cP,cOptout,panoramaId_expiry,pbjs-unifiedid,C,mt_misc,tr,XANDR_PANID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

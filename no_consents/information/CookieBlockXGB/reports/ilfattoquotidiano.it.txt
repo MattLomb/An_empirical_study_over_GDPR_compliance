@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilfattoquotidiano.it 
+NECESSARY COOKIES = wteid_458677892662477,wtsid_458677892662477,G_ENABLED_IDPS,_gat,AMP_TOKEN,__lxG__consent__v2,__lxG__consent__v2_daisybit,TAPAD,wt_nbg_Q3
+FUNCTIONAL COOKIES = NID,_ga_NFF0RV6Y1Z,_ga,_gid,IMRID,wt_rla
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,182 @@
+{
+  "OXID": {
+    "visit_id": 1,
+    "name": "OXID",
+    "domain": ".vda.today.it",
+    "path": "/~vda/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3cc45679f0b3b01ea5adae9350d84365",
+        "expiry": 1736384191,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".today.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.418481451.1704848190",
+        "expiry": 1739408189,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".today.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1140223701.1704848190",
+        "expiry": 1704934589,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_local": {
+    "visit_id": 1,
+    "name": "_gat_local",
+    "domain": ".today.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704848249,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "khaos": {
+    "visit_id": 1,
+    "name": "khaos",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LR72LFA5-O-9FT3",
+        "expiry": 1736384191,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "audit": {
+    "visit_id": 1,
+    "name": "audit",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1|naVuGyos1qpaw5Z+ALYmWuEiJtAJJIXfKy+Yo+7HZzg2MeoQj7rdrP/ymgBnSKmISBx2P3in8zPBydAhTqTD6iKPLRELhl3xIo8tEQuGXfGma+WVcS1g3g==",
+        "expiry": 1736384191,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-72889361-granular": {
+    "visit_id": 1,
+    "name": "_iub_cs-72889361-granular",
+    "domain": ".today.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22gac%22%3A%22MX4%3D%22%7D",
+        "expiry": 1736384195,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".today.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAB7E7CITAiEgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUAAAAA",
+        "expiry": 1735952195,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-72889361": {
+    "visit_id": 1,
+    "name": "_iub_cs-72889361",
+    "domain": ".today.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T00%3A56%3A35.201Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A72889361%2C%22cons%22%3A%7B%22rand%22%3A%22c8be2a%22%7D%7D",
+        "expiry": 1736384195,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

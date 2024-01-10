@@ -1,0 +1,122 @@
+{
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "www.eventiesagre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "hiqit3p1g4lgmtjbenm7r7mdu5",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".eventiesagre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.104355644.1704859839",
+        "expiry": 1739419838,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_NVMF3JGS03": {
+    "visit_id": 1,
+    "name": "_ga_NVMF3JGS03",
+    "domain": ".eventiesagre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704859838.1.0.1704859839.0.0.0",
+        "expiry": 1739419839,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-316839-granular": {
+    "visit_id": 1,
+    "name": "_iub_cs-316839-granular",
+    "domain": ".eventiesagre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22gac%22%3A%22MX4%3D%22%7D",
+        "expiry": 1736395843,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".eventiesagre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAB7E7CITAiEgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUAAAAA",
+        "expiry": 1735963843,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-316839": {
+    "visit_id": 1,
+    "name": "_iub_cs-316839",
+    "domain": ".eventiesagre.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T04%3A10%3A43.122Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A316839%2C%22cons%22%3A%7B%22rand%22%3A%22209bf6%22%7D%7D",
+        "expiry": 1736395843,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

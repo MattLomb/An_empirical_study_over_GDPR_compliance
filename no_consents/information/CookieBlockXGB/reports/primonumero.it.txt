@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: primonumero.it 
+NECESSARY COOKIES = LSW_WEB,SSID_PCT-primonumero,SV_PCT-primonumero,SSC_PCT-primonumero,SN_PCT-primonumero,OAID,addtl_consent,clever-last-tracker-75044,io_token_7c6a6574-f011-4c9a-abdd-9894a102ccef,sessiontime,wsc_account_code,fp_token_7c6a6574-f011-4c9a-abdd-9894a102ccef,IDE
+FUNCTIONAL COOKIES = _ga_35EGW70ZXV,_ga,euconsent-v2,NetRefer_CookieUniTrack_C,SNAI_BTAG,OTP
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

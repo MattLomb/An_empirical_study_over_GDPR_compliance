@@ -1,0 +1,82 @@
+{
+  "ASPSESSIONIDACQCQCTD": {
+    "visit_id": 1,
+    "name": "ASPSESSIONIDACQCQCTD",
+    "domain": "www.asst-bgovest.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "PDFBIJNCLHPMJPLEONAKKNLG",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.2.ed89": {
+    "visit_id": 1,
+    "name": "_pk_id.2.ed89",
+    "domain": "asst-bgovest.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "af69277fea6f869c.1704877718.",
+        "expiry": 1738832918,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.2.ed89": {
+    "visit_id": 1,
+    "name": "_pk_ses.2.ed89",
+    "domain": "asst-bgovest.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704879517,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "asst-bgovest.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%27vT3vFeqLX0NrdGPA6n5DrKpV4tb3oTwvWBzqQtlr/KLIaCGyFpvuXQ==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704877720221%2Cregion:%27it%27}",
+        "expiry": 1736500120,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

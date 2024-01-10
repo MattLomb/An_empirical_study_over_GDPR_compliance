@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: hp.com 
+NECESSARY COOKIES = aka_client_code,www_hp_com_locale,cc,dcm_s,hpeuck_prefs,hpeuck_answ
+FUNCTIONAL COOKIES = bm_sz,bm_mi,bm_sv,ajs_anonymous_id,lang,_abck,ak_bmsc,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = OptanonAlertBoxClosed
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

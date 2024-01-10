@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: focusjunior.it 
+NECESSARY COOKIES = wteid_769396664005295,wtsid_769396664005295,AWSALB,AWSALBCORS,_gat_gtag_UA_2621666_1,wt_nbg_Q3
+FUNCTIONAL COOKIES = _ga_KDJXYW2KGW,_ga,_gid,wt_rla,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

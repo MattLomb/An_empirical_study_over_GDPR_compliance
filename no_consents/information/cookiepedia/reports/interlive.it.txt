@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: interlive.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = IDE
+UNCLASSIFIED COOKIES = euconsent-v2,addtl_consent,__cf_bm,_ga_0TXYTRT4K3,APC,ar_debug
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

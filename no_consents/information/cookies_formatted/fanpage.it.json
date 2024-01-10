@@ -1,0 +1,122 @@
+{
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".fanpage.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1309872601.1704850998",
+        "expiry": 1739410998,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".fanpage.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1633428076.1704850998",
+        "expiry": 1704937398,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_fanpage": {
+    "visit_id": 1,
+    "name": "_gat_fanpage",
+    "domain": ".fanpage.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704851058,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMP_TOKEN": {
+    "visit_id": 1,
+    "name": "AMP_TOKEN",
+    "domain": ".fanpage.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%24NOT_FOUND",
+        "expiry": 1704854598,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_QE4WQDQJ7S": {
+    "visit_id": 1,
+    "name": "_ga_QE4WQDQJ7S",
+    "domain": ".fanpage.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.2.1704850998.1.0.1704850998.0.0.0",
+        "expiry": 1739410998,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a1346620-af59-11ee-82d0-4f4ad2a5969f",
+        "expiry": 1738546998,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

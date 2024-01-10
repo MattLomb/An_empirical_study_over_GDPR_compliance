@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: automotorinews.it 
+NECESSARY COOKIES = PHPSESSID,__lxG__consent__v2
+FUNCTIONAL COOKIES = _ga_DF9EXNW3PS,_ga,UID,__lxG__consent__v2_daisybit
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

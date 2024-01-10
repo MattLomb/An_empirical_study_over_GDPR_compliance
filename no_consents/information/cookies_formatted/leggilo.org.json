@@ -1,0 +1,42 @@
+{
+  "_ga_JVVERGH6J0": {
+    "visit_id": 1,
+    "name": "_ga_JVVERGH6J0",
+    "domain": ".leggilo.org",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704861040.1.0.1704861040.0.0.0",
+        "expiry": 1739421040,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".leggilo.org",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1204673225.1704861040",
+        "expiry": 1739421040,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

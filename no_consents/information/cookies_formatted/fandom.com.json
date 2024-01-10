@@ -1,0 +1,422 @@
+{
+  "Geo": {
+    "visit_id": 1,
+    "name": "Geo",
+    "domain": ".wikia-services.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{%22region%22:%2262%22%2C%22city%22:%22Rome%22%2C%22country_name%22:%22Italy%22%2C%22country%22:%22IT%22%2C%22continent%22:%22EU%22}",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "optimizelyEndUserId": {
+    "visit_id": 1,
+    "name": "optimizelyEndUserId",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "oeu1704863236762r0.5551505420694116",
+        "expiry": 1720415236,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMP_MKTG_6765a55f49": {
+    "visit_id": 1,
+    "name": "AMP_MKTG_6765a55f49",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "JTdCJTdE",
+        "expiry": 1736399236,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "AMP_6765a55f49": {
+    "visit_id": 1,
+    "name": "AMP_6765a55f49",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJmYjdkMjFmYi00Y2E2LTQ1Y2EtODlhYy0xMjVhYjhlN2EzMzUlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzA0ODYzMjM2ODkyJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTcwNDg2MzIzNjg5OCUyQyUyMmxhc3RFdmVudElkJTIyJTNBMyU3RA==",
+        "expiry": 1736399236,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "tracking-opt-in-status": {
+    "visit_id": 1,
+    "name": "tracking-opt-in-status",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "rejected",
+        "expiry": 1707541639,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tracking-opt-in-version": {
+    "visit_id": 1,
+    "name": "tracking-opt-in-version",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7",
+        "expiry": 1707541639,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "addtl_consent": {
+    "visit_id": 1,
+    "name": "addtl_consent",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~",
+        "expiry": 1738559239,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwACNAHAENAdEgAAAAAAAAACiQI1tR_D7NbWFD8Xp1YPs0eY1Hx1DYYkQgAASBAmABQAKQIIwCgkEwJASABAACAAAAIAZBAAAECABUAUAAQAAAIAFAIEAAgQAKIABAgAMRIgBICAIAAIEAEAAIgABREgABmAgIQMKECEwAhAAAAAAAIAAAAAAFAgEAAAAAYAIIAAAAAggAAAgAAAIAAGAAABCCNYAZgoREABQEhIRSBhFAgBEEYQEEAAAAAEgQIAAEAAECAMAhBBIABAgAAAAAAAACAAAQAACAAIRABAAUAAACAAAAAAAAAACAAAQAAAASAAAAAAAACAAAAAAAAAQAAAAYEIQAAAAAhAAAAAACAAAAAAAQAAAAAAAAAAAAAAAAAAAAIAAAAAAAACAAAAAAAAgAAAAA.YAAAAAAAAAAA",
+        "expiry": 1738559239,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.628810786.1704863240",
+        "expiry": 1739423239,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1689215126.1704863240",
+        "expiry": 1704949639,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_fandomProd": {
+    "visit_id": 1,
+    "name": "_gat_fandomProd",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704863299,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_wikiSampledProd": {
+    "visit_id": 1,
+    "name": "_gat_wikiSampledProd",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704863299,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_wikiUnsampledProd": {
+    "visit_id": 1,
+    "name": "_gat_wikiUnsampledProd",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704863299,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wikia_beacon_id": {
+    "visit_id": 1,
+    "name": "wikia_beacon_id",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "utLHnl4BCo",
+        "expiry": 1720415239,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sessionId": {
+    "visit_id": 1,
+    "name": "sessionId",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "79d83c3f-62b0-4664-a8d4-1e673ec87718",
+        "expiry": 1704865039,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pvNumber": {
+    "visit_id": 1,
+    "name": "pvNumber",
+    "domain": ".www.fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704865039,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pvNumberGlobal": {
+    "visit_id": 1,
+    "name": "pvNumberGlobal",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704865039,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "nol_fpid": {
+    "visit_id": 1,
+    "name": "nol_fpid",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bzg9y8bssrmm5ix2kdzbvxyylh5gx1704863239|1704863239931|1704863239931|1704863239931",
+        "expiry": 1720415239,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_parsely_session": {
+    "visit_id": 1,
+    "name": "_parsely_session",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{%22sid%22:1%2C%22surl%22:%22https://www.fandom.com/%22%2C%22sref%22:%22%22%2C%22sts%22:1704863239993%2C%22slts%22:0}",
+        "expiry": 1704865039,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_parsely_visitor": {
+    "visit_id": 1,
+    "name": "_parsely_visitor",
+    "domain": ".fandom.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{%22id%22:%22pid=6715e6655535230e1431b0527cc2642b%22%2C%22session_count%22:1%2C%22last_session_ts%22:1704863239993}",
+        "expiry": 1739027239,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "21d12360-af76-11ee-b1a8-bbf9a06ebda5",
+        "expiry": 1738559240,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

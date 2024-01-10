@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: notino.it 
+NECESSARY COOKIES = USER,_dc_gtm_UA-448588-27
+FUNCTIONAL COOKIES = cf_clearance,ts
+ANALYTICS COOKIES = uid,_uetvid,_gid,_ga
+ADVERTISING COOKIES = MUID,_fbp,g,_uetsid,uuid2,anj,IDE,CMID,CMPS,CMPRO,ayl_visitor,criteo,demdex,dpm,_gcl_au,_gat_UA-12345678-9,_kuid_
+UNCLASSIFIED COOKIES = __cf_bm,source,source45,lastSource,ab80,ab602,grd,npcount,lpv,JavascriptOn,lux_uid,header_infoBarDisplayCount,TS01980276,TS016e3912,db_ui,__rtbh.uid,__rtbh.lid,_ttp,__EX_8e7aa35c300f9b52a4c98dfe15ad872c9f3d8023__,__exponea_etc__,__exponea_time2__,db_uicd,_tt_enable_cookie,u,c,ar_debug,receive-cookie-deprecation,MSPTC,cto_bundle,visitor-id,data-c-ts,data-c,XANDR_PANID,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,opt_out,tvid,tv_UICR,_ga_3Z4X0R9RX0,_ga_6B2YVDQLBK
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

@@ -1,0 +1,62 @@
+{
+  "_ga_1159ELSS54": {
+    "visit_id": 1,
+    "name": "_ga_1159ELSS54",
+    "domain": ".meteoweek.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704861184.1.0.1704861184.0.0.0",
+        "expiry": 1739421184,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".meteoweek.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.178756489.1704861185",
+        "expiry": 1739421184,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "196ba45da62f186493a82ae1704861184",
+        "expiry": 1739421184,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

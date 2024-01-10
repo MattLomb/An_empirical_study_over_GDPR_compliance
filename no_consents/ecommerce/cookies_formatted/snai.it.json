@@ -1,0 +1,242 @@
+{
+  "regUUID": {
+    "visit_id": 1,
+    "name": "regUUID",
+    "domain": ".snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659e725a6597c",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie-analitici_v2": {
+    "visit_id": 1,
+    "name": "cookie-analitici_v2",
+    "domain": ".snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1739442778,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie-tecnici_v2": {
+    "visit_id": 1,
+    "name": "cookie-tecnici_v2",
+    "domain": ".snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1739442778,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SESS4371b8d25743ccb402924601d467f83e": {
+    "visit_id": 1,
+    "name": "SESS4371b8d25743ccb402924601d467f83e",
+    "domain": ".www.snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b0iGwPgvEFXnyX5lY2PaOLyko8Re-2IYemCjV5Z1ylE",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ABBEEA5EED17F4441EAF299012EFAA59~YAAQBn16XOeQqm6MAQAAHLPu8ha4uQ2+2tZRfmTqK46twRYJK0KoTFyRDQn4ZpllBcoLhdtAyfqUjamtlE28hXdC8Oj684xa1vRnwTumHcvEk+zzdwSh+PEiGd5410HZXU2fRsxKv03bo8JKZEFnsloKGa2AcHFlKYpFBXm74zv+FN/DYwLwxVSUD8GTlURv9/PESQFNlD6MEb6Uurcb0FOIsfAVmgmBXc9+XBKty6i9t+5bg2tq8CMQEJ8KC8rAtJ9OewT3DhC9isDXtaJtBNIbB0+rB3QHDJNW0tz8DHo=~4404023~3749170",
+        "expiry": 1704897178,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_mi": {
+    "visit_id": 1,
+    "name": "bm_mi",
+    "domain": ".snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9F19246D7520B1F535A7207DD0AABDDD~YAAQBn16XP6Qqm6MAQAAQrXu8hasqtMYURrNMSs3Pf6cU75O/xFbXH5WniI+762KCroGHXmcPcpQidDF8nV+WaUD3dn6ty0sbD7bxEqxM+efUJl0CA+6gNXjSjkDGwPt6YNqpOlIzF/DkSDfWL1+C4aF8MkWkdQFHaYcSh6kZOKveL3tZseD3LwzSZrUlG6OdHSHx4yo4LlbsBpgviEsLGR5lyYhpUBSmzFjKPfFY1e+qAuDEHnv60alk5yS4MuAH8OQWv7TK3eC9fQwWn9b4ABGpci0MqqRTW6pZl6qf47jr9qm9IQnsQmAAFZTrTO2FugzrU9xhUnXfYasTru0pZOq23w0PCRU8klNwtR4Ae8ebq32n4dKjEXyjzata+djF1NR8zGJ~1",
+        "expiry": 1704889978,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "35F429808B63EBCB338E4EC7996D6A84~YAAQBn16XP+Qqm6MAQAAQrXu8hZjffPlBHdBHIwttBe316DdRV1xl8TBt6yRREEHCcK1kX+JnZZDR8LZ4aEfv5u+SD3Mizqk8DGWpkP8JCOsylZfrfCm+WOkEt9oDDuLKTCjEktOYHnetutHDHFFcXbKA3dTl1zedIbbZAg2NQTIJHzjDob4YhBEeXEHVnJ6hxJpF2NG5f4l21/jf/Jd452hsTG38AuMFG7l/TSbhBAJUtEwULPB/QKrbVDY~1",
+        "expiry": 1704889979,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OTP": {
+    "visit_id": 1,
+    "name": "OTP",
+    "domain": ".onetag-sys.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "vxTXEiPGw2a33Cb9-JLkwKMxo9fbAGxT5vyO7Copes8",
+        "expiry": 1739069477,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUmfEaFhr-uEDfkwL1BYDCg3oZ8fcyh7uoZ8PqlZ-UpLvfHdpKPerCpOVBY5z-c",
+        "expiry": 1738578779,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".www.snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=www.snai.it&si=75226915-b6e0-4321-8fac-902d2dbf47b5&ss=lr7n6qo8&sl=1&tt=1ga&rl=1&ld=1gb\"",
+        "expiry": 1705487579,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "959914F448B36752351962C7BA81D3B1~000000000000000000000000000000~YAAQBn16XAmRqm6MAQAAXrfu8hbmNuzpZ8DPA0fMdx/Y3JcRp3zl6EKxijr/snx4qFgOyAWZHnRgeAUg7GL+fkxsGIkE3bIAPHnmogK3kJVHvfuhftkyk1H97+dn1Qm47u/xwmdn+qEnt9wiulTuhseudotlqkjVSHPWAVhHtq5iAw7IGRgaw3sOjHlmoatwLa+GvtFG0KEuHu52wsqkEsY7y4t4jMVeHZNdQerAKLZNR/ZhFLm3n8Iq+CIMWCTvmeuS/gADYdXqZl7PjSCPhCQLuCtljXU8+9jUCMIGay4oYoL5VuEmxYS0/voNNLEJmzFgFPeoDVxod7vzlntWaeQPezlwaC/4GC7Q6GioEk2J/8XoixwQGUwKNuq45G5IHmABEL3QQbMLz4et2DrCsElyKdXymPMjYS/qpnXOsc0souqUlxTabJwfVeHz4cATqACt9shvLPWraB6rUEv4q6e2Qw7QcXF00Y3ovoS9Q/7cl+zbHBbpW4vp",
+        "expiry": 1704889978,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".snai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "333B6099399A18E4937645274E34CC03~-1~YAAQBn16XBeRqm6MAQAAdLnu8gu8OhHFEBDv+eoRYFXNg/bhRh0s7/OApXMEy6oZ4hCfKIXvCS8OrddtNgS4HnxP9nqw4Z3yRJ9b2brmcSzhpr3fnFKSVM4VjDsOOqPqEwA/PH/VR9tBknNApwgrzYZRgIWHtHcfA7+4n9KkJi9PZ7tHnPbdLfCtdl90DzUUEPRyej+WUKhNVbof1dRVWvRQaiL6rcuCoIs/si0nrjTsHIo2g8d5eSJuBpJqdxgCQ19CxL0zQevxrSEeLhHUk7Tag0NRHGfVLLlVv+2Beami7lJE5DFTLamRa8G3mLH+2AXoqKWwyE6A973ZJdXb63ucWwUHqr/dOzedT2iGKVj60wLFViupuDStSrWDXLi62kfXdJj8CQ==~-1~-1~-1",
+        "expiry": 1736418780,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ivg.it 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+UNCLASSIFIED COOKIES = eupubconsent-v2,Intro
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

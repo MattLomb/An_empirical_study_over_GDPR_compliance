@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: hotcorn.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = YSC
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE,wt_nbg_Q3
+UNCLASSIFIED COOKIES = bp-activity-oldestpage,wt_rla,_iub_cs-83409807
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

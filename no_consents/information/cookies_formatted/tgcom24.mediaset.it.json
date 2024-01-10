@@ -1,0 +1,382 @@
+{
+  "wteid_769396664005295": {
+    "visit_id": 1,
+    "name": "wteid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170485654600780539",
+        "expiry": 1720408551,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtsid_769396664005295": {
+    "visit_id": 1,
+    "name": "wtsid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1F14a9b4f7adbe56e5061a51704856543",
+        "expiry": 1739416548,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__mx_log": {
+    "visit_id": 1,
+    "name": "__mx_log",
+    "domain": "www.tgcom24.mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"__mt_v\":\"0.9.21\",\"__adbk\":\"b\",\"__atop\":\"TBD\",\"__pos\":\"TBD\",\"__zip\":\"TBD\",\"__city\":\"TBD\",\"__country\":\"TBD\",\"__region\":\"TBD\",\"__ip\":\"TBD\"}",
+        "expiry": 1704857749,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary": {
+    "visit_id": 1,
+    "name": "gig_canary",
+    "domain": ".www.tgcom24.mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary_ver": {
+    "visit_id": 1,
+    "name": "gig_canary_ver",
+    "domain": ".www.tgcom24.mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "15686-3-28414260",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gmid": {
+    "visit_id": 1,
+    "name": "gmid",
+    "domain": ".gigya.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "gmid.ver4.AcbHxath7w.F0i7AoSOFb4b2x1Lt0ABSW0S3jAIkz57-TegqhGdGWgRR9XtWWgExxBjrcs0-Srb.Ge_SDauXiT5dXJC8GY2UQLiP4-3kVvQ92HRkLVwgSgXt_V3KFLYYkhFp5cnHnHx4_JWDx6bZAEHnw2nHOF-xIw.sc3",
+        "expiry": 1736478946,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ucid": {
+    "visit_id": 1,
+    "name": "ucid",
+    "domain": ".gigya.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "WxfpOTQlkC5Hb5PpeNcinA",
+        "expiry": 1736478946,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "hasGmid": {
+    "visit_id": 1,
+    "name": "hasGmid",
+    "domain": ".gigya.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ver4",
+        "expiry": 1720577746,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_bootstrap_3_Q2YR3-An4K_pslqTk0mxn7NXhotIqAGEa4K9oWWuhB8terc3cQk5GVAX3AIeVTlt": {
+    "visit_id": 1,
+    "name": "gig_bootstrap_3_Q2YR3-An4K_pslqTk0mxn7NXhotIqAGEa4K9oWWuhB8terc3cQk5GVAX3AIeVTlt",
+    "domain": ".tgcom24.mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "_gigya_ver4",
+        "expiry": 1736392545,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM": {
+    "visit_id": 1,
+    "name": "gig_canary_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM",
+    "domain": ".login.mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736392545,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary_ver_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM": {
+    "visit_id": 1,
+    "name": "gig_canary_ver_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM",
+    "domain": ".login.mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "15686-3-28414260",
+        "expiry": 1736392545,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!jWMTczDBoXeqWag8AP7SORvNY+Kz1EuIaq8fDOCCGA7gd9ya742jk3KGY6VYYSineniR7T9PlQUKpQ==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8cf0f270-af66-11ee-b1a8-bbf9a06ebda5",
+        "expiry": 1738552548,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "daily_pixel_synch_last_fired": {
+    "visit_id": 1,
+    "name": "daily_pixel_synch_last_fired",
+    "domain": "www.tgcom24.mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704856548375",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-40600793": {
+    "visit_id": 1,
+    "name": "_iub_cs-40600793",
+    "domain": ".mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T03%3A15%3A48.332Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A40600793%2C%22cons%22%3A%7B%22rand%22%3A%227bbbca%22%7D%7D",
+        "expiry": 1736392549,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "apiDomain_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM": {
+    "visit_id": 1,
+    "name": "apiDomain_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM",
+    "domain": ".login.mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eu1.gigya.com",
+        "expiry": 1736392549,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf15e600b0001fbc9dead7fa40507500cc06d009dc$_sn:1$_se:27$_ss:0$_st:1704858351540$ses_id:1704856543243%3Bexp-session$_pn:4%3Bexp-session",
+        "expiry": 1736392551,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_rla": {
+    "visit_id": 1,
+    "name": "wtstp_rla",
+    "domain": ".mediaset.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "769396664005295%2C6%2C1704856545725",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

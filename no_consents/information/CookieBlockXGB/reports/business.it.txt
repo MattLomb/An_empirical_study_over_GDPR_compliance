@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: business.it 
+NECESSARY COOKIES = __cf_bm,1362_u,1362_s,1362_lv,1362_ut,_gid,_gat_UA-72811897-1,lotame_domain_check,_iub_cs-26025431,_iub_cs-26025431-granular,panoramaId_expiry
+FUNCTIONAL COOKIES = ___nrbic,___nrbi,compass_uid,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

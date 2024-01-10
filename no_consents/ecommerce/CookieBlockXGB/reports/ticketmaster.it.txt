@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ticketmaster.it 
+NECESSARY COOKIES = language,NDMA,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = eupubconsent-v2,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = BID,SID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: tvtech.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = __utma,__utmc,__utmz,__utmt,__utmb
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = tvtech_session,_iub_cs-73170363,euconsent-v2,_iub_cs-73170363-granular,SSID_hwupgrade,SV_hwupgrade,SSC_hwupgrade,SN_hwupgrade,SSCN_N_hwupgrade,SSCN_UG_hwupgrade,SSCN_UW_hwupgrade,SSCN_UM_hwupgrade,SSID_monrif,SV_monrif,SSC_monrif,SN_monrif,SSCN_N_monrif,SSCN_UG_monrif,SSCN_UW_monrif,SSCN_UM_monrif
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

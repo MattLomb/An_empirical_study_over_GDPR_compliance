@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: primochef.it 
+NECESSARY COOKIES = __cf_bm,utag_main,_gcl_au,gv,__lxG__consent__v2,__lxG__consent__v2_daisybit,SSID_TRO-primochefit,SV_TRO-primochefit,SSC_TRO-primochefit,SN_TRO-primochefit,SSA,TAPAD,c,tuuid_lu,C,uid
+FUNCTIONAL COOKIES = at_gd,_ga_EXK7YBW3W8,_ga,_ga_YSZ5SR0HB6,OTP,tuuid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = st_ssp,st_uid,_fbp,cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

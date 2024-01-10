@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: movieplayer.it 
+NECESSARY COOKIES = _iub_cs-106302-granular,TAPAD,_iub_cs-106302
+FUNCTIONAL COOKIES = _ga_4G841TST0V,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

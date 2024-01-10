@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: motorsport.com 
+NECESSARY COOKIES = ms_touch,abtestv2,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,pageviewSession,Sessions7days,Sessions30days,adblfree,_cb,_chartbeat2,_cb_svref,_dc_gtm_UA-5127509-1,ucountry,ustate,opt_out,ntvSession,FPID,OptanonAlertBoxClosed,eupubconsent-v2,visitor,status,ver,LANG,__cf_bm,__tbc,__pat,__pvi,xbc,cX_P,ch_sid,LANG_CHANGED,JSESSIONID,m
+FUNCTIONAL COOKIES = Sessions7daysExpires,Sessions30daysExpires,_gid,FPLC,_fbp,OTAdditionalConsentString,OptanonConsent,_ga,_ga_PVMXPYS8TW,ktcid,_pctx,_pcid,_pcus,cX_G
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = cs,gckp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

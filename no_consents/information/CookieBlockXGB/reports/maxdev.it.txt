@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: maxdev.it 
+NECESSARY COOKIES = _gat_gtag_UA_9666295_3,yabs-sid,_ym_uid,_ym_d,i,yandexuid,_ym_isad,sync_cookie_csrf,test_cookie,sync_cookie_ok,yuidss,_ym_visorc,_iubenda_rsession
+FUNCTIONAL COOKIES = _ga_LEPNDVSYW5,_ga,_gid,bh,yp,ymex
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

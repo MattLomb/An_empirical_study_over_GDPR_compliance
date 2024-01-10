@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: expedia.it 
+NECESSARY COOKIES = CRQSS,CRQS,currency,iEAPID,tpid,OIP,s_ppn,s_ppv,s_ips,s_tp,session_id,page_name,AWSELB,cesc,akacd_pr_20,hav,ha-device-id,has
+FUNCTIONAL COOKIES = linfo,HMS,MC1,DUAID,_abck,bm_sz,demdex,ak_bmsc,s_ecid,EG_SESSIONTOKEN,xdid,bm_sv
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = AMCVS_C00802BE5330A8350A490D4C%40AdobeOrg,AMCV_C00802BE5330A8350A490D4C%40AdobeOrg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

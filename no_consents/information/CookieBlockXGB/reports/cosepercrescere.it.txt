@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: cosepercrescere.it 
+NECESSARY COOKIES = _pk_id.120248.0c5b,_pk_ses.120248.0c5b,euconsent-v2,addtl_consent,test_cookie,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_D0Z4MDBQ4S,_ga,_gid,MUID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

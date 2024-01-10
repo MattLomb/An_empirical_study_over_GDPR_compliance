@@ -1,0 +1,162 @@
+{
+  "optid": {
+    "visit_id": 1,
+    "name": "optid",
+    "domain": ".mediaworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dd0b2160-6063-4466-820e-ef8c1a268722",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".mediaworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "m6J0n5V.Ggx8Usd7C6OcBB528n6aM9rx4mJxqyGT6WU-1704880169-1-Adf8u/vx9LrMcbZW5Ccuqm2sp0cp0gjyBxqrIDDT4Aw2+6keTHAnNQz1AwuP0oigYFkt2HHmXPM07JN7zphZEbk=",
+        "expiry": 1704881969,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cfuvid": {
+    "visit_id": 1,
+    "name": "_cfuvid",
+    "domain": ".mediaworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FjtQm0ci1JlByFu2lArCLDchcoUWwK0ZA74_GbOOg1A-1704880169352-0-604800000",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ts_id": {
+    "visit_id": 1,
+    "name": "ts_id",
+    "domain": ".mediaworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2d18947a-435b-4237-8f4f-5072687c96c7",
+        "expiry": 1704883770,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "t_fpd": {
+    "visit_id": 1,
+    "name": "t_fpd",
+    "domain": ".mediaworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_msbps": {
+    "visit_id": 1,
+    "name": "_msbps",
+    "domain": ".mediaworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "87",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "a": {
+    "visit_id": 1,
+    "name": "a",
+    "domain": "www.mediaworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im8yc2lnbiJ9.eyJzdWIiOiJmNGEzMjUxZi0zYzNhLTQzNWUtOTdjZS0yYjY2MGFkZDI0ZDQiLCJpc3MiOiJtbXNlIiwiaWF0IjoxNzA0ODgwMTcwLCJleHAiOjE3MDYwODk3NzAsImF1ZCI6IndlYm1vYmlsZSIsInQiOiJ1IiwibyI6NjAwMH0.RsSH-D7nw3Rn5LNF67WxFiV0gPHPyq9pglcbXR3I4pE8jXGmq2c6DFC6nKSUCOqFSwr9HKUI-Rect8dRX2BhtHez_DJ2jvWq4JxmVh_iIciST9pKd-5dfER81-6GpG3Ii85DZiZA2rAUL00_mgZkZqrTfoxweqB9vwO-SeupHqKv1dX9mFN27i0fGw-f-4tIS5S5Igibyp3A4O-cK3Xrpi1jB1oV1V87tl5W2Z5ZJPr2OE-6CSoLrRZtQ3rNsztKb41Lk77NZHxvhE8cWP4Kw1h-Wx7JaTwlxqWI_nrJVQjmXy5LHm9tGI4XYlZ7jhXcVJqJsya6mgYK8YpAtqon7w",
+        "expiry": 1706089770,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "r": {
+    "visit_id": 1,
+    "name": "r",
+    "domain": "www.mediaworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0cjBH+9Abkd6si8LyBBh5UXNFBQCG59aTmYdRftQsh5yXskJ9sjNyFTll90RdHGr",
+        "expiry": 1706089770,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  }
+}

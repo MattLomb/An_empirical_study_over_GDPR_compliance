@@ -1,0 +1,62 @@
+{
+  "sat_track": {
+    "visit_id": 1,
+    "name": "sat_track",
+    "domain": ".allianzdirect.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736517486,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".allianzdirect.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isIABGlobal=false&datestamp=Wed+Jan+10+2024+13%3A58%3A06+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.14.0&landingPath=https%3A%2F%2Fwww.allianzdirect.it%2F&groups=1%3A1%2C4%3A0%2C2%3A0",
+        "expiry": 1736427486,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "pro-edp.apis.allianz.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f+NQKZN3cTRoI8X7uvb88oE/GiRj2O8sG/JUXz4KMC73hgJbM2+rESIYB9JtDCO6+2x+6+9DzNxNdzhEvauVDpsuiSYclbCl4WF4ihV6KaYHgqK3Bin112mDHNrp",
+        "expiry": 1705496287,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

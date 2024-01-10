@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: wizzair.com 
+NECESSARY COOKIES = ASP.NET_SessionId,akacd_onewizz_AB_backend_production,ewizz-origin,_gat_gtag_UA_2629375_25,_ga,ar_debug,IDE,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = bm_sz,ak_bmsc,RequestVerificationToken,_abck,_gid,bm_sv,_ga_G2EKSJBE0J,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,_gcl_au
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

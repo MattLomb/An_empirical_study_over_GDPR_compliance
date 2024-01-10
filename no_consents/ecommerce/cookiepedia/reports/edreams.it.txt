@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: edreams.it 
+NECESSARY COOKIES = userDevice,ak_bmsc,bm_sv
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = uuid2,IDE
+UNCLASSIFIED COOKIES = device,HOME2JSESSIONID,mktTrack,locale,tduid,TestTokenSpace,viI,FeatureContextSeed,bm_sz,tc_cj_v2_cmp,tc_cj_v2_med,_abck,XANDR_PANID,TCID,_gaActiveSession,_ga_0F2PG8WMQ1,tc_cj_v2,didomi_token,didomi_cookies,OF1JSESSIONID,WID,FeatureContext
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: leggo.it 
+NECESSARY COOKIES = _iub_cs-88644770,__cf_bm,_lr_retry_request,_lr_env_src_ats
+FUNCTIONAL COOKIES = IMRID,euconsent-v2,MUID,__mguid_
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

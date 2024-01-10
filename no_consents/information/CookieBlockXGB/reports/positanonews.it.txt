@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: positanonews.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_Positanonews,SV_Positanonews,SSC_Positanonews,SN_Positanonews,addtl_consent,OABLOCK,OASCAP
+FUNCTIONAL COOKIES = _ga_8DL6V1667E,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

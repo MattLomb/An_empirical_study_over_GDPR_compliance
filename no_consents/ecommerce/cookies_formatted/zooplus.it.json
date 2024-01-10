@@ -1,0 +1,182 @@
+{
+  "sid": {
+    "visit_id": 1,
+    "name": "sid",
+    "domain": "www.zooplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "478cb851-f64f-4acb-9bdf-ad4b838e78d5",
+        "expiry": 1739450481,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CHKSESSIONID": {
+    "visit_id": 1,
+    "name": "CHKSESSIONID",
+    "domain": "www.zooplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "94A3B13EB12AB38D7F7CEBFDCF4E4E83",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "chkStickySession": {
+    "visit_id": 1,
+    "name": "chkStickySession",
+    "domain": "www.zooplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"085deaaa5290f9aa\"",
+        "expiry": 1704933682,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kc-sessionid": {
+    "visit_id": 1,
+    "name": "kc-sessionid",
+    "domain": "login.zooplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3a41526f-1f79-448c-9fc6-57aff58be14e",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".zooplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T12:41:25.164Z",
+        "expiry": 1736426485,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".zooplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+13%3A41%3A25+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1d113f64-cabd-4eb0-a9d4-b03305124174&interactionCount=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A0%2C3%3A0%2C4%3A0",
+        "expiry": 1736426485,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OneTrust_PerformanceCookies": {
+    "visit_id": 1,
+    "name": "OneTrust_PerformanceCookies",
+    "domain": ".zooplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "NO",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OneTrust_FunctionalCookies": {
+    "visit_id": 1,
+    "name": "OneTrust_FunctionalCookies",
+    "domain": ".zooplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "NO",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OneTrust_TargetingCookies": {
+    "visit_id": 1,
+    "name": "OneTrust_TargetingCookies",
+    "domain": ".zooplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "NO",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

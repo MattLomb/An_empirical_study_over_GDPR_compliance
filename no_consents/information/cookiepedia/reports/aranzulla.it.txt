@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: aranzulla.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = IMRID,_gcl_au,wt_nbg_Q3,test_cookie
+UNCLASSIFIED COOKIES = wteid_927615140575951,wtsid_927615140575951,wt_rla,_ga_9D6DKK0Y09,_iub_cs-281842-granular,euconsent-v2,_iub_cs-281842
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

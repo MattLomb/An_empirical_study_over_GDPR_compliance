@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilfattoquotidiano.it 
+NECESSARY COOKIES = G_ENABLED_IDPS
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,_gat,AMP_TOKEN
+ADVERTISING COOKIES = NID,IMRID,wt_nbg_Q3
+UNCLASSIFIED COOKIES = wteid_458677892662477,wtsid_458677892662477,_ga_NFF0RV6Y1Z,__lxG__consent__v2,__lxG__consent__v2_daisybit,TAPAD,wt_rla
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

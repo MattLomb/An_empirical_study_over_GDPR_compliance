@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: aslcaserta.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.7lpaarDpvM.d98f,_pk_ses.7lpaarDpvM.d98f
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = pvc_visits[0],cookiesession1,cookielawinfo-checkbox-necessary,cookielawinfo-checkbox-others,cookielawinfo-checkbox-advertisement,cookielawinfo-checkbox-analytics,cookielawinfo-checkbox-functional
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

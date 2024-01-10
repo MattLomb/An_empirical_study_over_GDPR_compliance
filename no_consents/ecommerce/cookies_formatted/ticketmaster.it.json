@@ -1,0 +1,142 @@
+{
+  "language": {
+    "visit_id": 1,
+    "name": "language",
+    "domain": ".ticketmaster.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it-it",
+        "expiry": 1736419642,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NDMA": {
+    "visit_id": 1,
+    "name": "NDMA",
+    "domain": ".ticketmaster.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "913",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BID": {
+    "visit_id": 1,
+    "name": "BID",
+    "domain": ".ticketmaster.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "55fda28ce4f64cb5b581c138",
+        "expiry": 1736419642,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SID": {
+    "visit_id": 1,
+    "name": "SID",
+    "domain": ".ticketmaster.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d5d92225327347af8143c8a2",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".ticketmaster.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T10:47:25.449Z",
+        "expiry": 1736419645,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".ticketmaster.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEgAAAAAAAAACiQAAAAAAHggBoACQA_gDBAIoASoAtIBogDqgIxATMAqsBV4CuwgDMAAIABgAEwAOAA8ADIALAAjgBQACuAFsAP4AiwBLgC-gGoAaoA5wB1gDyAHyAQMAg4BFACOAE0AJ_AUMBRQC7AF8AM4AaIA3gB1QD0AHyAQ3Ai8CMQEegJFASWAlaBMoEzQJsAm0BS4CrwFdgLCgWIBYoC6gF3ALyAYEEgXgAIAAXABQAFQAOAAeABAADCAGQAagA8ACIAEwAKoAbwA9ACEgEMARIAjgBLACaAGGAMsAbIA74B7AHxAPsA_QCAQEXARgAjQBKQCggFQAKuAXMAxQBtADcAHEASIAnYBQ4CjwFIgKbAWwAuQBd4C8wwE0AAIABgAEgAOAAoACKAE4AWAAwgB4AHsAQgBEACOAEwAKgAV4AtgC4AG-AOYA8AB_AEMAIkARYAlwBSACtAGpANkA4ABxgDnAHkAPwAgABFACMAEmAJUAToAooBS4CvAK-AXYAvgBfgDOAGyANsAbwA44BzYDqAOqAdkA9QB8gD9gISAQ2AiqBF4EYgI6gSIBIoCS4EtAS8AmYBNgCdgFCAKJgUiBSQCmwFVgKvgWIBYoC0QFyALoAXcAwIBjIgCaAAEAAwACQAHAAUABFACcALAAYQA8AD2AIQAiABHACYAFcALYAb4A5gDuAH8AQwAiQBFgCXAFIAK0AakA2QDgAHGAOcAeQA-QB-AEAAIoARgAkwBOgCigFLgK8Ar4BdgC-AF-AM4AaIA1ABtgDeAHHAOaAdUA7IB6gD5AH7AQkAhuBF4EYgI7gSIBIoCS4EtAS8AmYBNgCdgFCAKJAUkApsBVYCrwFdwLEAsUBaIC5AF0ALuAYEAxkUAgAASACKAFQAWABCACYAFwAPAAjgBSADUAHAARwAosBXgFfALsAXwAvwBnADeAHNAOqAfsBHoCRQEvAJmATYAq-BYgFigLRAWwAu4YAdAASACKAFQAWABCACYAI4AUgA1ABwAEcAKLAV4BXwC7AF8AL8AZwA3gBzQDqgH7AR6Al4BMwCbAFXgLEAWiAtgBdw4CXAAYACYAHAAeABcADIALAAcwA-AD8AI4ATQAoABXAC2AF0AL4AaAA_gCEAEWAI4AS4ApABZAC-AGEANQAc4A6wB3ADyAHzAQABA4CDgIQAREAigBHACVAE4gJ8An4BRQClgFQAKyAXaAvQC-AGcANEAbwA44B0gDqgHoAPkAhsBEQCKgEegJFASWAlaBMQEzQJsAm0BSACkwFLgKqAVYAq8BXYCxAFlALZgXQBdQC7gF9AMCHQNAAFwAUABUADgAIAAXQAwADUAHgARAAmABVAC4AGIAMwAbwA9QCGAIkASwAmgBRgDDAGUANEAbIA7wB7QD7AP0Af8BFgEYAJSAUEAq4BYgC5gF5AMUAbQA3ABxADqAIvASIAlQBOwChwFHwKaApsBYoC2AFyALtAXeAvMgAjgAQABIAGQAWABNAC-AGgAP4ApABZAC-AGoAOcAigBHACcAE-gKGAooBSwCsgFiALSAXYAvgBvADmgHVAPQAj0BM0CbAJtAUmAsQBdwC8gGBEIDIACwAKAAuABiAEwAKoAXAAxABvAD0AI4Ad4A_wCUgFBAKuAXMAxQBtADqAJUAU0AsUBaIC5CQDEAAwACQAHAAXAAyACwAHIARwAmgBUAC-AGQANoAbwA8ACEAFIALKAagBqgDrAHcAQAAigBHACfQFNAVAArIBaQC7AGiAN4AdUA-QCKgEYgI6AR6AkUBKwCWgEzQJsAm0BSYCqQFVgK7AWIAsoBdxKA0AAgABYAFAAOQAwADEAHgARAAmABVAC4AGKAQwBEgCOAFGANkAd4A_ACrgGKAOoAi8BIgCjwFigLYAXmUAdgAJAAuABkAFgAOQAjgBNACoAF8AMgAbQA3gB4AEIAIsARwAmQBSACyAF8AMKAagBqgDnAHdAPkA-wCAAEUAI4ASIAlQBPgChgFLgKyArYBYoC6gLsAaIA14BvADqgHbAPQAf8BHQCPQEigJLATEAmaBNgE2gKQAU-ArsBYgC6AF3ALyAX0AwIpAnAAXABQAFQAOAAggBgAGoAPAAiABMACkAFUAMQAZoBDAESAKMAZQA0QBsgDvgH4AfoBFgCMAEpAKCAVcAuYBeQDFAG0ANwAi8BIgCdgFDwKaApsBYoC2AFyALtAXmAAA.YAAAAAAAAAAA",
+        "expiry": 1736419645,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".ticketmaster.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+11%3A47%3A25+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dadb80de-4b71-40b9-9638-2298392b4b54&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0%2CV2STACK42%3A0",
+        "expiry": 1736419645,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

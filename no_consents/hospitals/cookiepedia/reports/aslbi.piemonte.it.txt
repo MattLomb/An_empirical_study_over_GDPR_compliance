@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: aslbi.piemonte.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.K23zWakp6X.11b9,_pk_ses.K23zWakp6X.11b9
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = cookielawinfo-checkbox-necessary,cookielawinfo-checkbox-functional,cookielawinfo-checkbox-performance,cookielawinfo-checkbox-analytics,cookielawinfo-checkbox-advertisement,cookielawinfo-checkbox-others
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

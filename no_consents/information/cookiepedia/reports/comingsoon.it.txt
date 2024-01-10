@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: comingsoon.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = wt_nbg_Q3,IMRID,bkdc,bku
+UNCLASSIFIED COOKIES = wteid_769396664005295,wtsid_769396664005295,SV_comingsoonit,SN_comingsoonit,_ga_FYCLQ1S2ZB,euconsent-v2,addtl_consent,_pbjs_userid_consent_data,__cf_bm,_ga_KFG1FQGWKD,bkpa,_lr_retry_request,_lr_env_src_ats,pbjs-unifiedid,panoramaId_expiry,KCCH
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

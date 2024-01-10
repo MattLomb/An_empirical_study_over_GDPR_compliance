@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: immediato.net 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = _uid
+ANALYTICS COOKIES = _ga,_gid,uid,OAID,UID
+ADVERTISING COOKIES = _fbp,_gat_UA-49497943-1,IMRID,uuid2,TapAd_DID,demdex,OAGEO,dpm,IDE,AFFICHE_W,IDSYNC,_kuid_,ab,everest_g_v2,d,mc,ad-id,ad-privacy
+UNCLASSIFIED COOKIES = __cf_bm,_ga_SL1KLWEPTY,SSID_SS-18321391-f80fe,SV_SS-18321391-f80fe,SSC_SS-18321391-f80fe,SN_SS-18321391-f80fe,euconsent-v2,pubtech-cmp-pcstring,zc,zsc,TapAd_TS,C,TapAd_3WAY_SYNCS,cProfile,cP,cOptout,A3,TAPAD,_lr_geo_location_state,_lr_geo_location,tr,uuid-s,XANDR_PANID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

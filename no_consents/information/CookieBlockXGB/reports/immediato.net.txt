@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: immediato.net 
+NECESSARY COOKIES = __cf_bm,SSID_SS-18321391-f80fe,SV_SS-18321391-f80fe,SSC_SS-18321391-f80fe,SN_SS-18321391-f80fe,_ga,_gat_UA-49497943-1,pubtech-cmp-pcstring,C,uid,OAGEO,IDE,AFFICHE_W,OAID,TAPAD,_lr_geo_location_state,_lr_geo_location,IDSYNC,_kuid_,everest_g_v2,d,ad-id,ad-privacy
+FUNCTIONAL COOKIES = _ga_SL1KLWEPTY,_gid,IMRID,euconsent-v2,demdex,dpm,_uid,A3,ab,UID,mc,uuid-s,XANDR_PANID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,zc,zsc,uuid2,TapAd_TS,TapAd_DID,TapAd_3WAY_SYNCS,cProfile,cP,cOptout,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

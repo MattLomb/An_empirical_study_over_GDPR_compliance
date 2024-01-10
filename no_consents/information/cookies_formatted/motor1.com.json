@@ -1,0 +1,862 @@
+{
+  "cookie_supported": {
+    "visit_id": 1,
+    "name": "cookie_supported",
+    "domain": "it.motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704938925,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m1_touch": {
+    "visit_id": 1,
+    "name": "m1_touch",
+    "domain": "it.motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no-touch",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "abtest": {
+    "visit_id": 1,
+    "name": "abtest",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Auto-v1.1",
+        "expiry": 1724852524,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_PianoABtestv2": {
+    "visit_id": 1,
+    "name": "_pc_PianoABtestv2",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1724852524,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_20ABtestv2": {
+    "visit_id": 1,
+    "name": "_pc_20ABtestv2",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "19",
+        "expiry": 1724852524,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_20ABtestn2": {
+    "visit_id": 1,
+    "name": "_pc_20ABtestn2",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "13",
+        "expiry": 1724852524,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions7daysExpires": {
+    "visit_id": 1,
+    "name": "Sessions7daysExpires",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Wed, 17 Jan 2024 02:08:44 GMT",
+        "expiry": 1705457324,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions7days": {
+    "visit_id": 1,
+    "name": "Sessions7days",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1705457324,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions30daysExpires": {
+    "visit_id": 1,
+    "name": "Sessions30daysExpires",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Fri, 09 Feb 2024 02:08:44 GMT",
+        "expiry": 1707444524,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions30days": {
+    "visit_id": 1,
+    "name": "Sessions30days",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707444524,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie_accept": {
+    "visit_id": 1,
+    "name": "cookie_accept",
+    "domain": "it.motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736388525,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1850903385.1704852525",
+        "expiry": 1704938925,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_dc_gtm_UA-65598278-1": {
+    "visit_id": 1,
+    "name": "_dc_gtm_UA-65598278-1",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704852585,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__browsiSessionID": {
+    "visit_id": 1,
+    "name": "__browsiSessionID",
+    "domain": "it.motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7cbdd7c0-2814-47ce-a183-583a855f7d9b&false&false&DEFAULT&it&desktop-4.22.14&false",
+        "expiry": 1704854326,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__browsiUID": {
+    "visit_id": 1,
+    "name": "__browsiUID",
+    "domain": "it.motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3a957aa5-55dd-449d-b346-1059757b10ae",
+        "expiry": 1736388526,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Qj0Ymj8tIkv%2FWTDh3gVgSqUgmIFPHuxm4fXSU5FggH9p5%2BaxNfmP4%2B9zI%2BPn6mecLtWkEyKJ0J0nJjhxXiFo7xAznWL0aPwFSRrVd1aPpI2ofMxTYHp0XWIyDV4vcA%3D%3D",
+        "expiry": 1704924525,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ucountry": {
+    "visit_id": 1,
+    "name": "ucountry",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": 1707444525,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cb": {
+    "visit_id": 1,
+    "name": "_cb",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "B78XV-BhvNFFCMXCGu",
+        "expiry": 1738980526,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.6iKmo%2FGkElkq5qCdtH4oXeDCAH8qQWq0IPS3BVI%2FazU%3D.1704852525",
+        "expiry": 1739412531,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704852525496.1644589725",
+        "expiry": 1712628531,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "daa099d7e1bce86cf18405a3b274e7bd",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ue_v20": {
+    "visit_id": 1,
+    "name": "ue_v20",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it",
+        "expiry": 1736388525,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "pageviewSession": {
+    "visit_id": 1,
+    "name": "pageviewSession",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1704853725,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1516743630.1704852525",
+        "expiry": 1739412525,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_chartbeat2": {
+    "visit_id": 1,
+    "name": "_chartbeat2",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": ".1704852525473.1704852526139.1.CZxQZWBzfLeRCCufOnJ5dg8CNEAot.1",
+        "expiry": 1738980526,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cb_svref": {
+    "visit_id": 1,
+    "name": "_cb_svref",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "https%3A%2F%2Fwww.motor1.com%2F",
+        "expiry": 1704854326,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "is_logged_in": {
+    "visit_id": 1,
+    "name": "is_logged_in",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1736388526,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_TKMB81YMJ6": {
+    "visit_id": 1,
+    "name": "_ga_TKMB81YMJ6",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704852525.1.1.1704852528.0.0.0",
+        "expiry": 1739412528,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T02:08:49.325Z",
+        "expiry": 1733364529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pbjs_userid_consent_data": {
+    "visit_id": 1,
+    "name": "_pbjs_userid_consent_data",
+    "domain": "it.motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1772847098459068",
+        "expiry": 1707444529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEwAAAAAEPgACiQg1NX_D7dbWFD8Xp3aPs0eYwH11ibIsQAAASBA0ABwAOQcJwGwmAwNASgBgACAQAAoVZBAAEEDIFUAUCAaAAEAQGsIACUgAIIICBAgBEQAgBYCAoCAIAgEACIgAAREwQAmBQISErkGEQABgQAlAQwAAAEAAAQQBMACBn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQaoT4ACIAFAAXAA4ADwAKgAXAA4AB4AEAAJAAZAA0ABwADwAH4ARAAjgBMACgAFIAKsAWwBdADEAGYANAAbwA_ACEAENAIgAiQBHACWAE0AKMAYAAwwBlADNAGiAOQAe0A_AD9gIOAhABEQCKAEWgI4AjoBJQCUgE7ALEAXMAuoBegDFAGfANeAbQA3ABxADpAHUAP-Ai8BHoCRAErAJ2AUOApEBTYCpQFdgLoAXmAvoBggDBgGQwMmAycBlgDTQGpgNVAawA2gBuYDgAHBAOWAdsA8UB48DyQPKAfFA-QD5QH0gPrgfaB90D9gP3Af2BAECAgEDAIHgQRggmCCgEGAINgQhAhQBCuCFoIXAQzghyCHUEPAQ9Ah-BFMCMAEaQI1gRvAjiBHQCOwEewI-gR_AkIBIgCRQEjYJIAkkBJSCTAJMgSjglQCVIEsIJZglpBLcEuIJdAl2BL6CYAJggTDAmKBMcCZMEzATOAmkBNQCbEE2wTcgm8Cb4E4YJygnMBOkCdcE7QTuCCgEGoAAA.YAAACHwAAAAA",
+        "expiry": 1733364529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OTAdditionalConsentString": {
+    "visit_id": 1,
+    "name": "OTAdditionalConsentString",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~46.89.108.228.230.320.938.1067.1092.1166.1205.1421.1703.1962.2008.2039.2074.2135.2213.2322.2328.2465.2501.2569.2958.2999.3028.3099.3136.3219.3222.3223.3225.3226.3227.3228.3230.3231.3234.3235.3236.3237.3238.3240.3244.3245.3250.3251.3253.3257.3260.3268.3270.3272.3281.3288.3290.3292.3293.3296.3299.3300.3306.3307.3314.3315.3316.3318.3324.3327.3328.3330.3331.3531.3731.3831.3931.4131.4531.4631.4731.4831.5031.5231.6931.7031.7235.7831.7931.8931.9731.10231.10631.10831.11031.11531.12831.13632.13731.14237.16831",
+        "expiry": 1733364529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".motor1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+03%3A08%3A49+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202311.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5b5be77f-b833-4da0-8f1c-7215a3526be3&interactionCount=2&landingPath=NotLandingPage&groups=C0005%3A0%2CC0002%3A0%2CC0004%3A0%2CC0001%3A1%2CC0003%3A0%2CC0009%3A0&AwaitingReconsent=false",
+        "expiry": 1733364529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".connectad.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "52d17b4903a539f70d67ece71e7fd59aaf7c880e",
+        "expiry": 1707480529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "31fda5b1-af5d-11ee-b34c-a9db96ae2f6e",
+        "expiry": 1738548530,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid": {
+    "visit_id": 1,
+    "name": "tuuid",
+    "domain": ".creative-serving.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7fb71f29-d1ba-4b75-85f1-d51309b1d8f4",
+        "expiry": 1738548533,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "c": {
+    "visit_id": 1,
+    "name": "c",
+    "domain": ".creative-serving.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704852533",
+        "expiry": 1738548533,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid_lu": {
+    "visit_id": 1,
+    "name": "tuuid_lu",
+    "domain": ".creative-serving.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704852533",
+        "expiry": 1738548533,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "u": {
+    "visit_id": 1,
+    "name": "u",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bWAW3fM2mi8Qm98fM8nT",
+        "expiry": 1736388533,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "g": {
+    "visit_id": 1,
+    "name": "g",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bWAW3fM2mi8Qm98fM8nT_1704852533456",
+        "expiry": 1736388533,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ts": {
+    "visit_id": 1,
+    "name": "ts",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704852533",
+        "expiry": 1736388533,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".adx.opera.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "OPU3a470ccbdc3d4495a04db9d962d45a38",
+        "expiry": 1736388533,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "id": {
+    "visit_id": 1,
+    "name": "id",
+    "domain": ".connectad.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpdiI6Im5HU1NCY1d2aVdpTDNBUHcwSFMwTlE9PSIsInZhbHVlIjoiNGd5VlRkRTQxdlVFamdSY0xZN3l2T2tyai9iVGFHWDB0Y3liaUFUVnVycW1kZHVGNTRxbzZsMThxMnZieFdjenV3SEtwWG1XYXVtQVVReVRhb1VIdUZpaDRyeENkZkdmOGxwNzV6dHZONDZrQjgxejlvc1RzdnNickF6bTNZWTl5T2Y0T3pLRTNzL2Q4dTl2eitJODczdDV0T2ZvVko4OVU3YnBwOXZDK2EyUkN6NENGTzVwdXVydXlWNXZxcFBVIiwibWFjIjoiM2NmOGI5ZmQ3ZWMyYjcyYjEwOGZjNzc4Y2UxZjZlN2YyNmZmZTNlNDBiNjIyMGQyYTM4ZWJhODcxYTU1MjkwOCIsInRhZyI6IiJ9",
+        "expiry": 1707444533,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

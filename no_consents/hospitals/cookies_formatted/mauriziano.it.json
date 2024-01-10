@@ -1,0 +1,82 @@
+{
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "www.mauriziano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "48q940q9mmhc8rnjfru7ckfs65",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "fxs": {
+    "visit_id": 1,
+    "name": "fxs",
+    "domain": "www.mauriziano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659e5d462970d3.87059200%3A81249",
+        "expiry": 1736434334,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.Xy7q1JN0lM.3fdc": {
+    "visit_id": 1,
+    "name": "_pk_id.Xy7q1JN0lM.3fdc",
+    "domain": "www.mauriziano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3f2726497bd47c94.1704877383.",
+        "expiry": 1738832583,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.Xy7q1JN0lM.3fdc": {
+    "visit_id": 1,
+    "name": "_pk_ses.Xy7q1JN0lM.3fdc",
+    "domain": "www.mauriziano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704879183,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

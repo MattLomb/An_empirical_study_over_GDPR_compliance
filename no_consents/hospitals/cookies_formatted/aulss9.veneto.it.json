@@ -1,0 +1,102 @@
+{
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.aulss9.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0AF264B900C2A2AC211ECB6BA8A5D175.cfusion",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CFID": {
+    "visit_id": 1,
+    "name": "CFID",
+    "domain": "www.aulss9.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "37898900",
+        "expiry": 1736412572,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CFTOKEN": {
+    "visit_id": 1,
+    "name": "CFTOKEN",
+    "domain": "www.aulss9.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2521ac5f91b5444b-79D86959-5056-AC2E-26E9486DAB948B0C",
+        "expiry": 1736412572,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.5WpwRbQ3lK.ccef": {
+    "visit_id": 1,
+    "name": "_pk_id.5WpwRbQ3lK.ccef",
+    "domain": "www.aulss9.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "315e67f2f056c5e8.1704876574.",
+        "expiry": 1738831774,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.5WpwRbQ3lK.ccef": {
+    "visit_id": 1,
+    "name": "_pk_ses.5WpwRbQ3lK.ccef",
+    "domain": "www.aulss9.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704878374,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

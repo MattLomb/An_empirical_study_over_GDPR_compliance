@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: omnifurgone.it 
+NECESSARY COOKIES = _dc_gtm_UA-314269-13,PHPSESSID,OptanonConsent
+FUNCTIONAL COOKIES = _cb_svref
+ANALYTICS COOKIES = _gid,_ga,_chartbeat2,uid
+ADVERTISING COOKIES = _fbp,khaos,uuid2,icu,IMRID,CMID,CMPS,CMPRO
+UNCLASSIFIED COOKIES = cookie_supported,m1_touch,abtest,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,pageviewSession,Sessions7daysExpires,Sessions7days,Sessions30daysExpires,Sessions30days,cookie_accept,__browsiSessionID,__browsiUID,FPLC,ucountry,FPID,_cb,is_logged_in,audit,XANDR_PANID,_ga_Q5SX626HZZ,OptanonAlertBoxClosed,_pbjs_userid_consent_data,eupubconsent-v2,OTAdditionalConsentString,C
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: fcinternews.it 
+NECESSARY COOKIES = clever-last-tracker-71175,clever-counter-71175,gvc,__Host-js_csrf,_ga,_gid,session,__cf_bm,vido_visitor_id,C,pd,uid,sa-user-id,sa-user-id-v2,euconsent-v2,addtl_consent,lotame_domain_check,panoramaId_expiry,profiler,ad_simply_viewer,CC,CCL,fourWGuid,receive-cookie-deprecation
+FUNCTIONAL COOKIES = _ga_HBRVQME30L,UID,Affiliates,pstk,i,viewer_token,sa-user-id-v3,_ga_NE0M2NZ0BX,IDE,fcap_v1,CIM,anj,icu,XANDR_PANID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = t,khaos,audit,uuid2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

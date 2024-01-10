@@ -1,0 +1,202 @@
+{
+  "_ga_3G5V0GN3VL": {
+    "visit_id": 1,
+    "name": "_ga_3G5V0GN3VL",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704855071.1.0.1704855071.0.0.0",
+        "expiry": 1739415071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.434541321.1704855071",
+        "expiry": 1704941471,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_58731259_1": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_58731259_1",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704855131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_WMJPMEZ4BD": {
+    "visit_id": 1,
+    "name": "_ga_WMJPMEZ4BD",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704855071.1.0.1704855071.0.0.0",
+        "expiry": 1739415071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.408408035.1704855071",
+        "expiry": 1739415071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-81034388-granular": {
+    "visit_id": 1,
+    "name": "_iub_cs-81034388-granular",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22gac%22%3A%22MX4%3D%22%7D",
+        "expiry": 1736391073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAB7E7CITDgCgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUAAAAA",
+        "expiry": 1735959073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-81034388": {
+    "visit_id": 1,
+    "name": "_iub_cs-81034388",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T02%3A51%3A13.746Z%22%2C%22version%22%3A%221.53.2%22%2C%22consent%22%3Afalse%2C%22id%22%3A81034388%2C%22cons%22%3A%7B%22rand%22%3A%22c92617%22%7D%7D",
+        "expiry": 1736391073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lotame_domain_check": {
+    "visit_id": 1,
+    "name": "lotame_domain_check",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cinematographe.it",
+        "expiry": 1704855084,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "panoramaId_expiry": {
+    "visit_id": 1,
+    "name": "panoramaId_expiry",
+    "domain": ".cinematographe.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704941474496",
+        "expiry": 1704941475,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

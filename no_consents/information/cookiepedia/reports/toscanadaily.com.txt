@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: toscanadaily.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,UID
+ADVERTISING COOKIES = _gat_gtag_UA_110580914_9
+UNCLASSIFIED COOKIES = _ga_0XVED9M7V4,euconsent-v2,addtl_consent,_pbjs_userid_consent_data,uuid-s
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

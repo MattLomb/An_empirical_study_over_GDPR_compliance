@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ikea.com 
+NECESSARY COOKIES = interIkeaConsent
+FUNCTIONAL COOKIES = bm_sz,bm_sv,ak_bmsc,_abck,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

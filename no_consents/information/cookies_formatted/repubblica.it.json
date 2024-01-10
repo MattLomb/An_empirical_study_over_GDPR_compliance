@@ -1,0 +1,462 @@
+{
+  "kw_1pc_enableds": {
+    "visit_id": 1,
+    "name": "kw_1pc_enableds",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1739422009,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kw_dllimio_logdebugger": {
+    "visit_id": 1,
+    "name": "kw_dllimio_logdebugger",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kw_prevUsrSts": {
+    "visit_id": 1,
+    "name": "kw_prevUsrSts",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736398009,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "froomle-frm-internal-abtest": {
+    "visit_id": 1,
+    "name": "froomle-frm-internal-abtest",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "not_set",
+        "expiry": 1704948409,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kw_debug_1px": {
+    "visit_id": 1,
+    "name": "kw_debug_1px",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "tlh_object_created",
+        "expiry": 1704948409,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary": {
+    "visit_id": 1,
+    "name": "gig_canary",
+    "domain": ".www.repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary_ver": {
+    "visit_id": 1,
+    "name": "gig_canary_ver",
+    "domain": ".www.repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "15686-3-28414350",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_t_tests": {
+    "visit_id": 1,
+    "name": "_t_tests",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJqalF4bWdsWGt3Z083Ijp7ImNob3NlblZhcmlhbnQiOiJBIiwic3BlY2lmaWNMb2NhdGlvbiI6WyIyNXNGbCJdfSwiR0ZiOERsNlppTk5WRSI6eyJjaG9zZW5WYXJpYW50IjoiQiIsInNwZWNpZmljTG9jYXRpb24iOlsiOFNKNl8iXX0sImxpZnRfZXhwIjoibSJ9",
+        "expiry": 1704865609,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "447fcc70-af73-11ee-b042-f19e0a2f18f7",
+        "expiry": 1738558010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cb": {
+    "visit_id": 1,
+    "name": "_cb",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "BVlK0BIe2SuGLAN-",
+        "expiry": 1738990010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_chartbeat2": {
+    "visit_id": 1,
+    "name": "_chartbeat2",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": ".1704862010022.1704862010022.1.LlW-DBDNhptCh21XBBvqnKkNsUfL.1",
+        "expiry": 1738990010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cb_svref": {
+    "visit_id": 1,
+    "name": "_cb_svref",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "external",
+        "expiry": 1704863810,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gmid": {
+    "visit_id": 1,
+    "name": "gmid",
+    "domain": ".eulogin.repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "gmid.ver4.AcbH44rsiw.migRam9KTz5pZwzFTSz9FrLQpB7zvYXHKRSpkTKJLdnDJbLVe42ERuj8ZwhRnm_r.iq3ywEVKMF1h40t-FPKwTd5oqcqWPpNiGw0AXRtwQTIqIFlNnaCdVVGcCtGIQvnnfCQGwwfHx_kc8ExToWkIWQ.sc3",
+        "expiry": 1736484411,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ucid": {
+    "visit_id": 1,
+    "name": "ucid",
+    "domain": ".eulogin.repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Hea7MtG7YeiMQXnfAOUBbw",
+        "expiry": 1736484411,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "hasGmid": {
+    "visit_id": 1,
+    "name": "hasGmid",
+    "domain": ".eulogin.repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ver4",
+        "expiry": 1720583211,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_bootstrap_3_1LA7c1Tgh8TOu8RyhRNltE6n6Avs4pEXj5bhyQNpnpC3KHJ60mcdJ6xOubYt6iUJ": {
+    "visit_id": 1,
+    "name": "gig_bootstrap_3_1LA7c1Tgh8TOu8RyhRNltE6n6Avs4pEXj5bhyQNpnpC3KHJ60mcdJ6xOubYt6iUJ",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eulogin_ver4",
+        "expiry": 1736398010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary_3_2oQ0Rw41QlhvMLmUtCqjJUkf3Vou3hkxjQGQBHWIc9REFlNZdsQ6Nhgf1lcRZARv": {
+    "visit_id": 1,
+    "name": "gig_canary_3_2oQ0Rw41QlhvMLmUtCqjJUkf3Vou3hkxjQGQBHWIc9REFlNZdsQ6Nhgf1lcRZARv",
+    "domain": ".eulogin.gedi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736398010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary_ver_3_2oQ0Rw41QlhvMLmUtCqjJUkf3Vou3hkxjQGQBHWIc9REFlNZdsQ6Nhgf1lcRZARv": {
+    "visit_id": 1,
+    "name": "gig_canary_ver_3_2oQ0Rw41QlhvMLmUtCqjJUkf3Vou3hkxjQGQBHWIc9REFlNZdsQ6Nhgf1lcRZARv",
+    "domain": ".eulogin.gedi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "15686-3-28414350",
+        "expiry": 1736398010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_CJNJE8FY4S": {
+    "visit_id": 1,
+    "name": "_ga_CJNJE8FY4S",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704862010.1.0.1704862010.0.0.0",
+        "expiry": 1739422010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.678990370.1704862010",
+        "expiry": 1739422010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1336805225.1704862011",
+        "expiry": 1704948410,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NID": {
+    "visit_id": 1,
+    "name": "NID",
+    "domain": ".google.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "511=MSQHmdZtSOggvuTvIKSZYQw9aeY3S19M5h98z0mo9seyfzU0T9gAjsxA0uIv3-VYYTPIZdCiEbOMphu7V82ILWU7uTkcbzokPdrkWXl5ZzHoglgki8wc4HUf5kkA8TZ4GOUBZVZLAqgz4rHZ5L7Cv-Ps9QG0MR2bRSFHJAxbFKQ",
+        "expiry": 1720673210,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kw_qr_dc": {
+    "visit_id": 1,
+    "name": "kw_qr_dc",
+    "domain": ".repubblica.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704862009238|0|https://www.repubblica.it/|15|0|0|0||0|0|0|2|0|0|0|0|0|0|0",
+        "expiry": 1705466824,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

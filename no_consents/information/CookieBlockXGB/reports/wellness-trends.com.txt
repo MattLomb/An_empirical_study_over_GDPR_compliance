@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: wellness-trends.com 
+NECESSARY COOKIES = _gat_gtag_UA_322291_57,addtl_consent
+FUNCTIONAL COOKIES = _ga_EXK7YBW3W8,_ga_0F8M6TJTQN,_ga,_gid,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

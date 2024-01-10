@@ -1,0 +1,302 @@
+{
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".onesignal.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dtqRdMsVOREVl9xc_UIyJ_iJWGKDwwdwOU9OxjGb6fw-1704848401-1-AUarAXhrFUpwKeekjTlu0a6VFaSTIRxZCa4F3hcOZiJbLcHntOvyXMkfBwXwiSOdFhr7yaJeuPEv1OPWgXU3eZE=",
+        "expiry": 1704850201,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "at_gd": {
+    "visit_id": 1,
+    "name": "at_gd",
+    "domain": ".donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "26A8A4A26026B5340A2795D703564F200273606D",
+        "expiry": 1736384402,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1420205355.1704848402",
+        "expiry": 1712624402,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_3QSCKMDYS8": {
+    "visit_id": 1,
+    "name": "_ga_3QSCKMDYS8",
+    "domain": ".donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704848402.1.0.1704848402.60.0.0",
+        "expiry": 1739408402,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.503199242.1704848402",
+        "expiry": 1739408402,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_EXK7YBW3W8": {
+    "visit_id": 1,
+    "name": "_ga_EXK7YBW3W8",
+    "domain": ".donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704848402.1.0.1704848402.60.0.0",
+        "expiry": 1739408402,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".www.donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAAKAyBITAiEgAAAAAEPgABCYAABBqALMNCogD7IkJCLQcIoEAIgrCAigQAAAAkDRAQAmDAp2BgEusJEAIEUAAwQAgABRkACAAASABCIAJACgQAAQCAQAAAAACAQAMDAAOAC0EAgABAdAxTCgAUCwgSMyIhTAhCgSCAlsoEEgKBBXCAIscCKAREwUACAJABWAAACxWAxBICViQQJYQbQAAEACAUUoVCKTowBDAmbLVTiibRlYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAA.YAAAAAAAAAAA",
+        "expiry": 1738544406,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "addtl_consent": {
+    "visit_id": 1,
+    "name": "addtl_consent",
+    "domain": ".www.donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~",
+        "expiry": 1738544406,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OAGEO": {
+    "visit_id": 1,
+    "name": "OAGEO",
+    "domain": "adx.4strokemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2%7CIT%7CEU%7C1%7C%7C%7C39.2111%7C9.1111%7C200%7CEurope%2FRome%7C%7C88%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704848406440.122325580",
+        "expiry": 1712624406,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "personalization_id": {
+    "visit_id": 1,
+    "name": "personalization_id",
+    "domain": ".twitter.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"v1_YZE+sL5tyW1M6Xc33HlrqA==\"",
+        "expiry": 1739408406,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "muc_ads": {
+    "visit_id": 1,
+    "name": "muc_ads",
+    "domain": ".t.co",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5702213b-31dd-403d-9b1b-077a05f8b7f8",
+        "expiry": 1739408406,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lotame_domain_check": {
+    "visit_id": 1,
+    "name": "lotame_domain_check",
+    "domain": ".donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "donnaglamour.it",
+        "expiry": 1704848418,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704849308,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "panoramaId_expiry": {
+    "visit_id": 1,
+    "name": "panoramaId_expiry",
+    "domain": ".donnaglamour.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704934808838",
+        "expiry": 1704934809,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

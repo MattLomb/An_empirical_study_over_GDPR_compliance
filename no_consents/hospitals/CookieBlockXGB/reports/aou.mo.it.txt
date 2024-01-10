@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: aou.mo.it 
+NECESSARY COOKIES = PHPSESSID,fxs,_pk_id.7lpamA5pvM.e63c,_pk_ses.7lpamA5pvM.e63c
+FUNCTIONAL COOKIES = NID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

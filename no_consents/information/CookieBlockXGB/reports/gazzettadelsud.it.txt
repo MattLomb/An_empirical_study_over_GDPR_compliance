@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: gazzettadelsud.it 
+NECESSARY COOKIES = _iub_cs-47273256-granular,_iub_cs-47273256
+FUNCTIONAL COOKIES = gdsit-ws,UID,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = dmvk,_TEST_,ts,v1st
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

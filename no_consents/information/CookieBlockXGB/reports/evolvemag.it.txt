@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: evolvemag.it 
+NECESSARY COOKIES = _pk_id.4.b0a3,_pk_ses.4.b0a3,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = mc,__qca,_ga_DMKV4FVCQ0,_ga,IMRID,bscookie
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,li_sugr,bcookie,lidc,UserMatchHistory,AnalyticsSyncHistory,li_gc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

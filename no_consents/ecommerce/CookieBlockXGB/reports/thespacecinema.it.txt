@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: thespacecinema.it 
+NECESSARY COOKIES = AWSALB,ASP.NET_SessionId,SC_ANALYTICS_GLOBAL_COOKIE,ADRUM_BTa,SameSite,ADRUM_BT1,at_check,searchSource,welcomeScreenCookie,showRibbonRating,test_cookie,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = OptanonConsent,__cfwaitingroom
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

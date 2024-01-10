@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: mowmag.com 
+NECESSARY COOKIES = _dc_gtm_UA-165577460-1,_iub_cs-85906421-granular,_pbjs_userid_consent_data,_iub_cs-85906421
+FUNCTIONAL COOKIES = UID,_gid,_ga_P9RDJ553JZ,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

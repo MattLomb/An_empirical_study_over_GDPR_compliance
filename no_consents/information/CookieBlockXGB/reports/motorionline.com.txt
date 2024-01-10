@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: motorionline.com 
+NECESSARY COOKIES = __cf_bm,SSID_motorionlinecom,SV_motorionlinecom,SSC_motorionlinecom,SN_motorionlinecom,SSCN_N_motorionlinecom,SSCN_UG_motorionlinecom,SSCN_UW_motorionlinecom,SSCN_UM_motorionlinecom,IDE,__gpi,CMPS,CMPRO,everest_g_v2,ar_debug,_rxuuid,DSID,pubtech-cmp-pcstring
+FUNCTIONAL COOKIES = _ga,_ga_5LVD7D0EXE,APC,XANDR_PANID,anj,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __gads,CMID,suid,uuid2,clinch-sid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

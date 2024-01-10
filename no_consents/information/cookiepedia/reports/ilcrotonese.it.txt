@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilcrotonese.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,OAID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = SSID_ilcrotonese,SV_ilcrotonese,SSC_ilcrotonese,SN_ilcrotonese,SSCN_N_ilcrotonese,SSCN_UG_ilcrotonese,SSCN_UW_ilcrotonese,SSCN_UM_ilcrotonese,_ga_T5Z589R7VV,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,362 @@
+{
+  "dwsid": {
+    "visit_id": 1,
+    "name": "dwsid",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a11oiQvzPRViMha3oJ9S3_sOymoYCvLJIYZg2DpVf-E3QDhmsKM-90_RXZ8FmjveCrQWl1hOqulCZ5U0npBc0A==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dwac_d9175831c0dfb542444e0bb939": {
+    "visit_id": 1,
+    "name": "dwac_d9175831c0dfb542444e0bb939",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "zQRu25g3C-96YvV5qCfLFl1XzDiLzsQzOdY%3D|dw-only|||EUR|false|Europe%2FRome|true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cqcid": {
+    "visit_id": 1,
+    "name": "cqcid",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bcsQUTaqnoeQBvY7eDnh9yAiET",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cquid": {
+    "visit_id": 1,
+    "name": "cquid",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "||",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sid": {
+    "visit_id": 1,
+    "name": "sid",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "zQRu25g3C-96YvV5qCfLFl1XzDiLzsQzOdY",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dwpersonalization_81715affa36e5cc8890f11497a69d59f": {
+    "visit_id": 1,
+    "name": "dwpersonalization_81715affa36e5cc8890f11497a69d59f",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9265aee2b43717efbc4340a32620240131000000000",
+        "expiry": 1720444091,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dwanonymous_81715affa36e5cc8890f11497a69d59f": {
+    "visit_id": 1,
+    "name": "dwanonymous_81715affa36e5cc8890f11497a69d59f",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bcsQUTaqnoeQBvY7eDnh9yAiET",
+        "expiry": 1720444091,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cq_dnt": {
+    "visit_id": 1,
+    "name": "__cq_dnt",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dw_dnt": {
+    "visit_id": 1,
+    "name": "dw_dnt",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "newsletterTriggerTime": {
+    "visit_id": 1,
+    "name": "newsletterTriggerTime",
+    "domain": "www.ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704892098579",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1850673886.1704892094",
+        "expiry": 1739452093,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid": {
+    "visit_id": 1,
+    "name": "uuid",
+    "domain": ".cquotient.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bcsQUTaqnoeQBvY7eDnh9yAiET",
+        "expiry": 1739020094,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cq_uuid": {
+    "visit_id": 1,
+    "name": "__cq_uuid",
+    "domain": ".ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bcsQUTaqnoeQBvY7eDnh9yAiET",
+        "expiry": 1739020094,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cq_seg": {
+    "visit_id": 1,
+    "name": "__cq_seg",
+    "domain": ".ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00",
+        "expiry": 1707484094,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BrowserId_sec": {
+    "visit_id": 1,
+    "name": "BrowserId_sec",
+    "domain": ".force.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "UFgEU6-5Ee69G7cSpWu6YQ",
+        "expiry": 1736428094,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T13:08:17.992Z",
+        "expiry": 1736428097,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+14%3A08%3A17+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202311.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=df60957d-13a2-4c8b-9e05-8043792d2c04&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0",
+        "expiry": 1736428097,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_ZEP9MN0D7F": {
+    "visit_id": 1,
+    "name": "_ga_ZEP9MN0D7F",
+    "domain": ".ovs.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704892093.1.0.1704892098.0.0.0",
+        "expiry": 1739452098,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

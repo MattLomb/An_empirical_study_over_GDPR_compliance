@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: nostrofiglio.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS,wtstp_sid,wtstp_eid,wtstp_cdbeid,wt_nbg_Q3,_gat_gtag_UA_5699143_1,push_notification_viewed
+FUNCTIONAL COOKIES = wtstp_rla,_ga,_gid,IMRID,_ga_60S70NSJ8B
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: automoto.it 
+NECESSARY COOKIES = NEWAUTOROUTEID,_pbjs_userid_consent_data,_iub_cs-55207913-granular
+FUNCTIONAL COOKIES = _ga,UID,_ga_5JQ1MDK2P4,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

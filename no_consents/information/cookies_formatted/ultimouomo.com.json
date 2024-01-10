@@ -1,0 +1,242 @@
+{
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".www.ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.3.179323325.1704859328",
+        "expiry": 1739419328,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".www.ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.3.1866088103.1704859328",
+        "expiry": 1704945728,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat": {
+    "visit_id": 1,
+    "name": "_gat",
+    "domain": ".www.ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704859388,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gpv_pn": {
+    "visit_id": 1,
+    "name": "gpv_pn",
+    "domain": ".ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "sport%3Aultimouomo%3Ahome",
+        "expiry": 1704861128,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01752457650623155791625489433740507088",
+        "expiry": 1720411328,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie_consent_level": {
+    "visit_id": 1,
+    "name": "cookie_consent_level",
+    "domain": "www.ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22strictly-necessary%22%3Atrue%2C%22functionality%22%3Afalse%2C%22tracking%22%3Afalse%2C%22targeting%22%3Afalse%7D",
+        "expiry": 1710216128,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "AMCVS_1A124673527853290A490D45%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCVS_1A124673527853290A490D45%40AdobeOrg",
+    "domain": ".ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_7NFZPHB9QD": {
+    "visit_id": 1,
+    "name": "_ga_7NFZPHB9QD",
+    "domain": ".www.ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.3.1704859328.1.0.1704859328.0.0.0",
+        "expiry": 1739419328,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704859328719.1848827670",
+        "expiry": 1712635328,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "s_ecid": {
+    "visit_id": 1,
+    "name": "s_ecid",
+    "domain": ".sky.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MCMID%7C10474644780519390361903096830507256631",
+        "expiry": 1739419328,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_1A124673527853290A490D45%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_1A124673527853290A490D45%40AdobeOrg",
+    "domain": ".ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "179643557%7CMCIDTS%7C19733%7CMCMID%7C10474644780519390361903096830507256631%7CMCAAMLH-1705464128%7C6%7CMCAAMB-1705464128%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1704866528s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C5.5.0",
+        "expiry": 1739419328,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_cc": {
+    "visit_id": 1,
+    "name": "s_cc",
+    "domain": ".ultimouomo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

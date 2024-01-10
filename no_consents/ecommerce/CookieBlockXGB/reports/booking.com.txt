@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: booking.com 
+NECESSARY COOKIES = X-AB,_GRECAPTCHA,px_init,cors_js,BJS,_gat,bkng_sso_session,lastSeen,bkng_prue,_gcl_au,ar_debug,sc_at,IDE,FPID,_pin_unauth,OptanonAlertBoxClosed,bkng_sso_ses,bkng_ap_sso_session,pcm_consent
+FUNCTIONAL COOKIES = _gid,_ga_FPD6YLJCJ7,_ga,_ga_A12345,_scid,FPLC,_pinterest_ct_ua,_scid_r,MUID,bkng_sso_auth,bkng_sso_auth_1704879765,OptanonConsent,bkng
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _uetsid,_uetvid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

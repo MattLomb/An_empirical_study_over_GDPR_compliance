@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: quotidianopiemontese.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = __cf_bm,_ga_CL7EWQKRDX,_sharedID,_sharedID_cst,FCCDCF,_ga_394CXNSB1T,SSID_SS-49037551-d0255,SV_SS-49037551-d0255,SSC_SS-49037551-d0255,SN_SS-49037551-d0255,SSCN_N_SS-49037551-d0255,SSCN_UG_SS-49037551-d0255,SSCN_UW_SS-49037551-d0255,SSCN_UM_SS-49037551-d0255,lotame_domain_check,ad_simply_viewer,uuid-s,panoramaId_expiry,profiler,simply_new_fc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

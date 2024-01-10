@@ -1,0 +1,122 @@
+{
+  "TMSESSID": {
+    "visit_id": 1,
+    "name": "TMSESSID",
+    "domain": ".transfermarkt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "27b5676fdbf06165eaf89e180c4af792",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_sp_v1_ss": {
+    "visit_id": 1,
+    "name": "_sp_v1_ss",
+    "domain": "www.transfermarkt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1:H4sIAAAAAAAAAItWqo5RKimOUbKKxs_IAzEMamN1YpRSQcy80pwcILsErKC6lpoSSrEA-EAOLpYAAAA%3D",
+        "expiry": 1707455706,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_sp_v1_p": {
+    "visit_id": 1,
+    "name": "_sp_v1_p",
+    "domain": "www.transfermarkt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "888",
+        "expiry": 1707455706,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_sp_v1_data": {
+    "visit_id": 1,
+    "name": "_sp_v1_data",
+    "domain": "www.transfermarkt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "746228",
+        "expiry": 1707455706,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_sp_su": {
+    "visit_id": 1,
+    "name": "_sp_su",
+    "domain": ".transfermarkt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736399706,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_tmlpu": {
+    "visit_id": 1,
+    "name": "_tmlpu",
+    "domain": "www.transfermarkt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5",
+        "expiry": 1710047706,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

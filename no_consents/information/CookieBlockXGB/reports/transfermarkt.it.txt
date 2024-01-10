@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: transfermarkt.it 
+NECESSARY COOKIES = _sp_v1_ss,_sp_v1_p,_sp_v1_data,_sp_su,_tmlpu
+FUNCTIONAL COOKIES = TMSESSID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

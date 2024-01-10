@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: mammastobene.com 
+NECESSARY COOKIES = _gat_gtag_UA_98872139_1,_iub_cs-28053219-granular,_iub_cs-28053219,lotame_domain_check,panoramaId_expiry,ad_simply_viewer
+FUNCTIONAL COOKIES = _ga_HNKBNEBFZS,_ga_WMJPMEZ4BD,_ga,_gid,euconsent-v2,UID,profiler
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = simply_new_fc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

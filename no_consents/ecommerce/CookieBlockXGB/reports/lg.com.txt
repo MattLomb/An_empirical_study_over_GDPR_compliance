@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: lg.com 
+NECESSARY COOKIES = OptanonAlertBoxClosed,AKA_A2,private_content_version,LGGP1_CartID,IT_LGCOM_ANALYSIS_OF_SITE,IT_LGCOM_IMPROVEMENTS,IT_LGCOM_ADVERTISING,SCOUTER,affinity,AWSALBCORS
+FUNCTIONAL COOKIES = OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

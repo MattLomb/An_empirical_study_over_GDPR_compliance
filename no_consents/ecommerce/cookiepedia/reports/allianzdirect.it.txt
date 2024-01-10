@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: allianzdirect.it 
+NECESSARY COOKIES = OptanonConsent,AWSALBCORS
+FUNCTIONAL COOKIES = sat_track
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

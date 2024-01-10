@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: romadailynews.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_PCT-romadailynewsit,SV_PCT-romadailynewsit,SSC_PCT-romadailynewsit,SN_PCT-romadailynewsit,addtl_consent,_OASCAP[13649],_OABLOCK[13649]
+FUNCTIONAL COOKIES = _ga_N3D73MQZGC,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

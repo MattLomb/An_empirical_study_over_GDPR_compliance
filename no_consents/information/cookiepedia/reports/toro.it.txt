@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: toro.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = IMRID,MUID
+UNCLASSIFIED COOKIES = __cf_bm,evntuid,_ga_5YT1E7GK54,_ga_ZJG7Q8JQZ5,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

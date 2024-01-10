@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: leganerd.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = ppc_last_visited_page,_ga_YH4BSFWPEL,_iub_cs-59575280-granular,euconsent-v2,_iub_cs-59575280
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: catawiki.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = ab_first_visit,absmartly_id,cw_ab,previousPageType,_ga_M822ES1M07,cw_sid,_ga_N14JY514FR
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

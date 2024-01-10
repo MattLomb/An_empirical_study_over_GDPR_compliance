@@ -1,0 +1,342 @@
+{
+  "AnalysisUserId": {
+    "visit_id": 1,
+    "name": "AnalysisUserId",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "95.101.34.93.858281704889988118",
+        "expiry": 1739449988,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "geoloc": {
+    "visit_id": 1,
+    "name": "geoloc",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cc=IT,rc=,tp=vhigh,tz=GMT+1,la=41.90,lo=12.48",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "anonymousId": {
+    "visit_id": 1,
+    "name": "anonymousId",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5EB160A41E8C06D8DD9E5E5A411C040E",
+        "expiry": 1739017988,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AKA_A2": {
+    "visit_id": 1,
+    "name": "AKA_A2",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A",
+        "expiry": 1704893588,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D92323FF85FBC4C240FEBDC65C9790F0~YAAQXSJlX1ZzB2SMAQAAF7Rc8xa0S9I5lqnHRtydsE0WI8Ijnd/gXdqm0XI00D8N8fafK5AmJkZBOpZo50SYxmG/F1pRW/bWmgcJ4/LU9zC0x0g8A8sljEIHzJv+Hmz8ttZZI0/lxHRMUzvVbY16MzFDcBauc+Xtr2pICIQ27+HqIEkQiJenFxCJs9OF1u4/3MbnoedNJ4qkqP0H6WC0uVMcCT7aLfS3SNYCpA06zE8RTjYWRWYOFSdTjEiUMheQjuG7iYZrrNQFcRXWORmSeVQX8B9FZFMLMV1TwTQm4V18d7rfsdKY0h2kSwAP9Ul1buOOkezYC7zs6sPq5K8izINH8YGikO2uQRsln7Ab72lehc3bsrWdnDrmz14M61FH/0+d7SbLmDNSYQjbUVWhwZZrDJoGFFvLnk3ajttiUdGXDR2nqSMOWJPSs+tYGu8MeGnI0mHfa3u2Q4huVwr2Gxy/JkjXkSdD5T2f3fYp~3622450~3486533",
+        "expiry": 1704904388,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "audience_segmentation_performed": {
+    "visit_id": 1,
+    "name": "audience_segmentation_performed",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1704976388,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_mi": {
+    "visit_id": 1,
+    "name": "bm_mi",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "E63DF518FE1B7E70035691D21A9CA574~YAAQXSJlX2FzB2SMAQAAfLdc8xaqTI4DhWWLOeWqhmkWWQBLJBP4Oaju0u+tCMpTfsmhuUgwXjEyztffUo39VSDCvmI1w1J1jnObaEUaBVc3+tedxN7HBKYfaCFVHfVvDjM9yIzWf5zE9vRiCAz2qKby6pUSQTyKIM5ewNEYAatzVlfuw94GItx8AtKMHOGDXH94DJJiNeoAlIQR4TGGYugBH7TXjgloux1U1Fr9x8gt0DYzhfydw1VAHKPUevq19jztXCH/VgUavdxmjhq4wXLs4+V7mfBrSYi6xKoyMMR8L0dUBLSyyMCj8KtFgpiAYueMLmXZer5nMDf181Ue23+xcGQU2SgFiCUW2UCKksvmrb0=~1",
+        "expiry": 1704897188,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5CE8496BBD321CF193E06B67BFAE5256~000000000000000000000000000000~YAAQXSJlX2pzB2SMAQAAN7tc8xZ1F1jgjznWpn+8cT/rMtUXA/lNUP+Y39EMZ2oLZjsJfJmgezCcEoF2Se8A/V8dTB4COay91TxZ1PF9tMk4n/5pl3J3/gyTBle2BAtJZh6RV3ql1G1YCzhjHNZXScADnWkTcK07OUjM4vrlLaMva7wSSsW2xm4tjBMQl3Q/2zzTQiGE6XsyqJknSfE/zdi/uB96u+CGnQBq6RNo0xVEKIfwXvz4rJ1yEtzCPLfJf2+XfzNp2145FXU4S84w8jVKAHztwSnE+omhZXLd1oQIGHgOr+iIwc2ka+rBzUV5nQmF01ZMK4yR3SLuAmuJjUINuLLlo5gCWD/fdOsxC6hoG6Ox936WdQoH+2V3egfhPAaFkZ0fTt4P/tkm9x7raATlKWUvUEbMgwJgDkNt66L9VsQYYu9Ms7j4itEAeZV7xCbypeNm/OlVzXEd+kKGBzwXZhrBbxCiYoVU3nGGfdYwMVwG7k+qU0A8wZqHoUGAHE95Aigni0jhLlyMB3/pvdfrWz2BnWMwAqCUAcOmoV3a9OwrGilOihwazaxYAlENlwvgtgw=",
+        "expiry": 1704897188,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "visitData": {
+    "visit_id": 1,
+    "name": "visitData",
+    "domain": "unite.nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"visit\":\"1\",\"visitor\":\"b065d5d5-4693-44ed-af23-06b2b070fcc8\"}",
+        "expiry": 1739449992,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=nike.com&si=671ed306-9014-464b-a653-c0b3d308f06c&ss=lr7rh9rs&sl=1&tt=3h3&rl=1&ld=3h3\"",
+        "expiry": 1705494792,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ak_bmsc_nke-2.3-ssn": {
+    "visit_id": 1,
+    "name": "ak_bmsc_nke-2.3-ssn",
+    "domain": "api.nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0686gs1vFKSeO5FufZv6f74MNj3IQybvE01bjcCi4H6Ohvqwdda6jCLHjtc20CpzEdxhdM6G6KXl0xNBFuTgQ9tVVZWQZvonVAKMDX2NZYlihaisFAeg8HoxEEyxqTxZQVLtclILLpbPWUrHlNnWeoWVVPE",
+        "expiry": 1704976392,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc_nke-2.3": {
+    "visit_id": 1,
+    "name": "ak_bmsc_nke-2.3",
+    "domain": "api.nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0686gs1vFKSeO5FufZv6f74MNj3IQybvE01bjcCi4H6Ohvqwdda6jCLHjtc20CpzEdxhdM6G6KXl0xNBFuTgQ9tVVZWQZvonVAKMDX2NZYlihaisFAeg8HoxEEyxqTxZQVLtclILLpbPWUrHlNnWeoWVVPE",
+        "expiry": 1704976392,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ni_c": {
+    "visit_id": 1,
+    "name": "ni_c",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1PA=0|BEAD=0|PERF=0|PERS=0",
+        "expiry": 1739017992,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sq": {
+    "visit_id": 1,
+    "name": "sq",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704976388,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "06F02FDD673A19E9BECD32EBE14160B1~YAAQXSJlX4FzB2SMAQAAg8hc8xYzAd8fgR32gTpxn0Z4MmwBl5JROBl/04ZwK2KHYZQlPRvwSwZ03j51e4bdaB+ouQhFSq2me1SKCSUH5EBSt1SLRKwQsSkomi7v6YmJYEN4px4ucjIMnYe1IKRRaQx3wq3MVywwdoIMvJvqVo8ZB0KQVlHOe8JOyG3bUAzd2MiG0BBnkKIvWPpJ1YMb+Ohj5OvCn1HibCgoax8rEXZxFJaMZUWyT7VOMwDxbw==~1",
+        "expiry": 1704897188,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9C9ABBF619EEF8A27EC659F2D6646AF6~-1~YAAQRF96XHjiNmuMAQAASMlc8wveB3+fjYXkBm60cYh+sBna6Z+q477G/pf+oEON86W0tmqoIj5bbPHYBZkDzByyEF4BpFvy40jrR2eoIQ8EKXW/sg7RY7+MQ5uQKWnr64ky1QESZlnlNmmvJP1phwjKig7EyiFsn85AhuRXt7e+yCXfUqASOPGHc2jfhbQPeTnX8BNn2TsX/ddJIwGojkGJvHp/l9YxxOq/TxK6NoYwmFXudkeacNr5sqWu2fUqFqxmrfbWnbaD5dQcwc6kkhRpIoaewGWEoDONwxIYypxD0lQVwVaWwapxIEP11M9zQyrboluqbRlRAC9NFVxIqTn9x5e4P/ysI5Pj+nTky0XYe6/HniT21Qs/fGnaGAecAMeZMMZVeCu/5ezrWS5PVM/RYxCpR85yXQ3Gi4Hk+61vdUt3uVcJpIwQPieVi7jqywx51zZjVAwgOSO3Wo2gtD5tanuz5eTnIpN+GoVkItd+sEmasX1Gv9ptwJEx4GrhXm7YAhRSO9lQqyq6KC/Gene1riY=~-1~-1~1704893563",
+        "expiry": 1736425992,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ppd": {
+    "visit_id": 1,
+    "name": "ppd",
+    "domain": ".nike.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "homepage|nikecom>homepage",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: bergamonews.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_Bergamonewsit,SV_Bergamonewsit,SSC_Bergamonewsit,SN_Bergamonewsit,addtl_consent,HomeOverlayBGNEWS,_OASCAP[13554],_OABLOCK[13554]
+FUNCTIONAL COOKIES = euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

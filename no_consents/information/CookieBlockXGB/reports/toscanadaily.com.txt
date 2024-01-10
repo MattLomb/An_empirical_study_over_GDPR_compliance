@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: toscanadaily.com 
+NECESSARY COOKIES = _gat_gtag_UA_110580914_9,euconsent-v2,addtl_consent,_pbjs_userid_consent_data
+FUNCTIONAL COOKIES = _ga_0XVED9M7V4,_ga,_gid,UID,uuid-s
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

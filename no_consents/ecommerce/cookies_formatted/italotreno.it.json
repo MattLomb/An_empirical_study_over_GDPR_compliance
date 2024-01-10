@@ -1,0 +1,522 @@
+{
+  "AKA_A2": {
+    "visit_id": 1,
+    "name": "AKA_A2",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A",
+        "expiry": 1704885107,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4ABE3A565AD8B8F0CF50BD8D37A77AF1~YAAQshTfrRL9AmaMAQAAmkzb8haAQa+ibBK5higERD8Pjmrph4Ve5/olMqVnHudXJgTa4x6zJJbxizWMBncsh54jOVjcKzC8i+YRUH6MnOqBkmxXIZR2LCVJ2qMrX7qMeQqMCXsbD7vEBiNbhWAUtG9uzqJAJ/GPNmq7i6ts6GF/CbejPuzXdRHwrUOa6aqh/JmKR2DAXVTS3N3uCPjSRENxO+STcx+wTO1ObtSBykbmYBygtsdv6piezsWdg0yNR6x51EjJnCpS5WnyKztUcwGOLp3v+SUwbGeYWHhVtGMyxmTuuMA=~3621688~3490113",
+        "expiry": 1704895907,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "italotreno#lang": {
+    "visit_id": 1,
+    "name": "italotreno#lang",
+    "domain": "www.italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Culture": {
+    "visit_id": 1,
+    "name": "Culture",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en-US",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxVisitor": {
+    "visit_id": 1,
+    "name": "rxVisitor",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704881507635KPLSQ3AFDEEL9EALORU44NV4BP3SEC4O",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtSa": {
+    "visit_id": 1,
+    "name": "dtSa",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "didomi_token": {
+    "visit_id": 1,
+    "name": "didomi_token",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ1c2VyX2lkIjoiMThjZjJkYjQtZTM4My02ODFjLTk5ZGEtNjFlZmM4ODM3YzVjIiwiY3JlYXRlZCI6IjIwMjQtMDEtMTBUMTA6MTE6NDcuOTA1WiIsInVwZGF0ZWQiOiIyMDI0LTAxLTEwVDEwOjExOjQ3LjkwNloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+        "expiry": 1720689107,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "AcceptCookie": {
+    "visit_id": 1,
+    "name": "AcceptCookie",
+    "domain": "www.italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736417510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "F15F06DC73AACB50261FFDBEFE0733A3~0~YAAQshTfrUD9AmaMAQAA5k/b8gu+vS0PfhN31zqMV1brrGvXKXXtIzBrWChRuTpfOkAgGgUWfFg+eK3zpIXaTGzp4sE2n5ady2vF4DE9jWKomKRKuNi5wY7x0WBexroCgai+IyZxIuCz2GOyuSR0oCek2RzNsRQyvs4cgFKgndY6AolpwsOE8xln6Gpfda0/fA14Dbuwlmq7+EW1oVg53NTMG8pjM8tQIe18tAPxOnmVBOMonvFwR+HuR67gf3qcEs1tWNvsV0VuFruLhdVXQeQCtrl2yFTIF5mjRx6v+Er1prS4LjPJRHYhaCgkvoHr+/Y1psub6WQUQCF5l0Dx0cYMq4WAPQJyXOI4Hvf/zN6o4u2Mh7+yf1RU3S38ri3RBGulEtdB6B3M7LDXZ5bpsf75vJOs4JyhUmNe~-1~-1~-1",
+        "expiry": 1736417508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_KGDSYWDJH0": {
+    "visit_id": 1,
+    "name": "_ga_KGDSYWDJH0",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704881508.1.0.1704881508.0.0.0",
+        "expiry": 1739441508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.946521181.1704881508",
+        "expiry": 1739441508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjFirstSeen": {
+    "visit_id": 1,
+    "name": "_hjFirstSeen",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704883308,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjIncludedInSessionSample_1418311": {
+    "visit_id": 1,
+    "name": "_hjIncludedInSessionSample_1418311",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704883308,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSessionUser_1418311": {
+    "visit_id": 1,
+    "name": "_hjSessionUser_1418311",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6ImY0MWY2ODY5LWRiNjItNWIxYS04YWVjLWMxNjExMTMwYmRhNyIsImNyZWF0ZWQiOjE3MDQ4ODE1MDg0NTYsImV4aXN0aW5nIjp0cnVlfQ==",
+        "expiry": 1736417508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjAbsoluteSessionInProgress": {
+    "visit_id": 1,
+    "name": "_hjAbsoluteSessionInProgress",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704883308,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSession_1418311": {
+    "visit_id": 1,
+    "name": "_hjSession_1418311",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6Ijk0NTNlNjhkLTE5ZWEtNDI0OC04OGU3LTUzY2ExZmFkN2NkMCIsImMiOjE3MDQ4ODE1MDg0NTcsInMiOjEsInIiOjEsInNiIjowfQ==",
+        "expiry": 1704883308,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "DDD59B8B1B4D6C184C55B51BB6E00911~000000000000000000000000000000~YAAQshTfrVr9AmaMAQAAO1Hb8hZjyUghnA2Pjj7pMkV5N66wgBzoMdIAfsyWrEXNwJKQVpogrREN50mamh7138cRWBde3n4P0t6kbicQIuHRQi8cyV9NOBkojT4LNwRpT4bUIiv3lEv+AxNSA3ubIaMPa0ydggHwRbrIOoatvywYVQwvkafj4RywkRa+i0sqLpkohzlykRRJzS7MPs2dLOqzTkAT6YHpw+pxgMcn+2rqHc3FAMeHH5y2FP/olbXFgcUBy8OyAeNfGBoXdJfEXVRkVh57jplo/tO+U+w5l9iafmsB2g1mXemVS5fHmDAEge58HOAE4pKchL76/kPJ/Tv0dJRdlhqCxMkF+8qNkOjcYCdb9Y8EJEhWuM2wihyzjXMXa9ni+nhn4/qjba8NXzYucprch1iscGssj3cVojZY65h3yJUtrh6Zb2JdWZhtoh6zOfb7QTklftgM+jXUEkmgAXkOeOI9w27YyandaK/KbIi0dmZnNfFTj3OoUMyglQ==",
+        "expiry": 1704888707,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxvt": {
+    "visit_id": 1,
+    "name": "rxvt",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704883308597|1704881507635",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=italotreno.it&si=0ac97df4-c1e5-4fed-8b29-1bc9d96ac86b&ss=lr7mfi2q&sl=1&tt=14k&rl=1&ld=14l\"",
+        "expiry": 1705486308,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.4TGq91D0Q9TXnRpUjbQONdKOufFSptItTzMsXvCiNGI%3D.1704881508",
+        "expiry": 1739441508,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "XRdlqLAQi1GXffcaZRc3V4frLE4tAg6ik6YeXPphpoiZaCuukc%2FXxERUya8vkfV4U5LX8kM8%2BurV%2ByfZNEEwboZpswATxe2Ne2tMtrJ%2F3Rk%2BDxgPmuTPktq%2Fc4RTHg%3D%3D",
+        "expiry": 1704953508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ARRAffinity": {
+    "visit_id": 1,
+    "name": "ARRAffinity",
+    "domain": ".analytics.italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b9fff1a63d8ddf168dc529585e0787b9003ef94d0bcf68f8fdea83326a1efa6f",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ARRAffinitySameSite": {
+    "visit_id": 1,
+    "name": "ARRAffinitySameSite",
+    "domain": ".analytics.italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b9fff1a63d8ddf168dc529585e0787b9003ef94d0bcf68f8fdea83326a1efa6f",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtPC": {
+    "visit_id": 1,
+    "name": "dtPC",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-27$281507634_524h-vIHRLTOHCFFKJAKUQUJCVVFORHTOQRDPC-0e0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_22_sn_CAVV4JGRS9O9E9RCP9O4CSP6C8E31BAP_perc_100000_ol_0_mul_1_app-3Aabf0a1c42afd340d_0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".italotreno.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3F62CCADE2D36DD49AD6CDFF989D22AF~YAAQshTfrcb9AmaMAQAAaFfb8hY990e2rZdn7E8rflcbv/Kirqr+3Ax/sOaNXtHYiNb5WKSZjP5TQ+Egi3MRxiIwNpbPh8r1GfFZD6dxxT6XEyCMhdcxG/pK9ZmuiFSWGqIjX7g+z+p1Bj9znCS3XLn1LbwaJpuSJLING7kcTEePakAejkanZ9tdNC781v49I6LVZZHCTlHtSBQ9YXqn9ywSxImFuQSJkgvxha4Gl4bbLZkCk9wPfaLwa01kntRUNImT~1",
+        "expiry": 1704888708,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

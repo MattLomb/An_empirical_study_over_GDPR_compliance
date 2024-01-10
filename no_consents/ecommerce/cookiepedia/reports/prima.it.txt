@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: prima.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _gcl_au,_cs_c,_cs_id,_cs_s
+UNCLASSIFIED COOKIES = _cfuvid,cookies_acceptance,wus_uid,wu_uid,_ga_7WC4WYGG2E,_ga_KN5MSPESZV,FPID,FPLC,_dd_s
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

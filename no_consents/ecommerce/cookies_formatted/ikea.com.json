@@ -1,0 +1,122 @@
+{
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".ikea.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A2B2B64474C9F1737CD3F3477504667C~YAAQZV96XCqHou2MAQAAy2jE8hZ+SnwTg+It3Jx39YsCo/l+cRf1zx8Odt9kPcIFt2eDeUzSBMbEGgxkwHUJKF+tBWmqqHYPMw65vkua7FUFQTYi3F7vx39R82k0FjOZldvsME/Cv095d2CEtPjxRUFI5a4F4cAVgKPObL5QOY6+9LPJasPDDBAqNkqq2uzgKH6cW73vilANzbrmxiUh1WGNMWjNOcvnGkV6dJ6P3XS0B12JZA52EquK9ov5tXHSBf7dL2m/vTRzYoxo8jGZSR5ZQgBN6o9GisHBPMymDTXv~4469572~4474437",
+        "expiry": 1704894407,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".ikea.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1D88BA29BF0AA5A440AB476E9F2036CF~YAAQZV96XDuHou2MAQAA6GrE8hZlAxLLcciXUTtF6n046um3o1O4pL4fl/AUxJ3zF2h8yfbYwsSQRKTA6/o8+K/W+o0iZxGfiyt1HxGLEyoSmC630NPE+Apme4Cl+43U+PwJdeSlz3lPNhIYTYCl+b7FzmVPtwIMhVaCBDbj1hh7BNpLz54OWKYm0BQuyEyweqZUFt53ifZIM4qESpqFxIym3wlkKjumXPcTiFAN91KjEz6o/xn3M2i7U1VeuA==~1",
+        "expiry": 1704887207,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".ikea.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8CCE9635DB6382F3EEAB0AA1BDD938A7~000000000000000000000000000000~YAAQZV96XEOHou2MAQAAqmzE8hYy1sIgGcJ7eGPwDVm1rW9og58mXGrsNLGhk6ukyVy/FaGp5cLNe94v4bjVNrUDkQ2wAtiHxbFXaMD2gXBR6zzne9pzPgAGhgMIx5br6vucoXwDimGAJe+AyOnJldFiBswHEWgB82H9wnKz/rIrlteR8824WroNhMMztfb3GC3/OH2gl2mrACW1oWb+FU7PhMUKd4K8QFk2eewFIAW92C8DqfuLrRMSAythL8D88joSDs30p9ET3TVGdV8tz7OH3xMItVQ2Aw2RFZUV7f+Qd5gWNMWWmMZzX4WJDrrhYxL3qsGkfr7XR6zXMffrhTqPB0r3EEWXrkkxjH11nYBQczH36ok6BW6BZxDpFrZvFwFynaboasMrG4lX+JPXMIUatbwBl/5ZiW+Hy+vE/OBzdmMiHeZ1yOKxzNgkfj+TjtqZIFmfJr1MAGEeTXOm/ZUYl9SK7O2EOuIusssBY6MuIdJVi1ktndN0WLo=",
+        "expiry": 1704887207,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".ikea.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "80607D20C8B0BA70C7C4743950CCA112~-1~YAAQZV96XFCHou2MAQAAI2/E8gvqRjM97G/Dc9SVNTCIuSHgJEwTCSpq0uN4wM366htqvR7ZKLs68ncXgVNZ3NgfNxZO/boXNEjgHQbukGW88exNWsfQpsrRAV3wEU7+1gyTWkWosRI+1/Egbn1N2UlBALNXoBj97pMMzOp6WYCP+2gskS1iJjrdy3A8fX9uIFbZjYQmaKNeP7KMYiDi5nEURWPk9HIjCN9tB6bUKG6RfxHAikrdwY3rnThE/icGhocJYe7Vw4xswTtuX2Pxr/dKXGQsmwkhiuuasNbEd32A4JIjKubzIFexPu/AUGPnydMPBb7Rlmo1i1EcSJh4XpVMjxOi+pSDTnw1E1PGusRmCFc039oiss9elxW0Hz5RMsvBW8h5Ifc=~-1~-1~1704883491",
+        "expiry": 1736416008,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".www.ikea.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+10%3A46%3A50+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202306.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3945593b-3cd8-4506-bf68-c5e10de05973&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0%2CC0003%3A0",
+        "expiry": 1736416010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "interIkeaConsent": {
+    "visit_id": 1,
+    "name": "interIkeaConsent",
+    "domain": "www.ikea.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v1.0",
+        "expiry": 1736416010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

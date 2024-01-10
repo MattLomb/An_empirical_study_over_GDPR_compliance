@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: oaplus.it 
+NECESSARY COOKIES = _sharedID_cst,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_9ENNG7528Z,_ga,_sharedID,FCCDCF,_ga_394CXNSB1T
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

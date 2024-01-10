@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: samsung.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = AKA_A2,s_pv,s_ppvl,s_ppv,RT
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = TS01ef6e9e,country_region,s_fpid,country_codes,device_type,__COM_SPEED,cookie_country,directCallFlAA,TAsessionID,notice_behavior
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

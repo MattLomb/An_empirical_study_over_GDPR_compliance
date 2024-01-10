@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: dolciveloci.it 
+NECESSARY COOKIES = __cf_bm,_gcl_au,_ga,evntuid,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = _ga_D1HBZQCHRC,_ga_EXK7YBW3W8,_ga_5YT1E7GK54,IMRID,MUID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

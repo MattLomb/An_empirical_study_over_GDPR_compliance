@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: luccaindiretta.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_Luccaindiretta,SV_Luccaindiretta,SSC_Luccaindiretta,SN_Luccaindiretta,addtl_consent
+FUNCTIONAL COOKIES = _ga_5FNNRR1DYY,_ga,_ga_FR20SCSXTH,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

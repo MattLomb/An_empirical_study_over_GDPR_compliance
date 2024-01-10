@@ -1,0 +1,82 @@
+{
+  "TSa1a95327027": {
+    "visit_id": 1,
+    "name": "TSa1a95327027",
+    "domain": "www.aulss8.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "08c149549dab2000d0d37d352d6ae0ce3981f8a4984aec5dc4602eddadc60003129378f5fd4176f408daa68cfc1130006cba65818f26f321340c7459e59d2fd82a501d9dceb3a96a596b5541411909270678bb9b7c8bb1ab49a9aec068a11da2",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.1.b54c": {
+    "visit_id": 1,
+    "name": "_pk_id.1.b54c",
+    "domain": "www.aulss8.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9a97c3731916579b.1704876551.",
+        "expiry": 1738831751,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.1.b54c": {
+    "visit_id": 1,
+    "name": "_pk_ses.1.b54c",
+    "domain": "www.aulss8.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704878350,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "www.aulss8.veneto.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%27GbrkxDxR1kig/N0XLd5YPJJuaXnyfqd6XHRhPmcZHHX835eAZM/sog==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704876552361%2Cregion:%27it%27}",
+        "expiry": 1736498952,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

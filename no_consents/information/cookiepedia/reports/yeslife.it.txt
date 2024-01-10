@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: yeslife.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = quads_browser_width
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

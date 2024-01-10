@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: leccenews24.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,_ga,_gid
+ADVERTISING COOKIES = _gat_UA-36651871-4,IMRID
+UNCLASSIFIED COOKIES = __cf_bm,SSID_SS-18321393-bf698,SV_SS-18321393-bf698,SSC_SS-18321393-bf698,SN_SS-18321393-bf698,_ga_SXHDPC2KLY,euconsent-v2,pubtech-cmp-pcstring
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

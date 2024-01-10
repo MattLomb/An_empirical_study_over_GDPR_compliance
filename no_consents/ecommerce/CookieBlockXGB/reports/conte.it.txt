@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: conte.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS,visid_incap_2651378,previousPath,FPID2,test_cookie,_hjFirstSeen,_hjIncludedInSessionSample_1974272,_hjAbsoluteSessionInProgress,OptanonAlertBoxClosed,www._km_user_name-1295f8b8026f1bf94e3d14cae0348c979,www._km_lead_collection-1295f8b8026f1bf94e3d14cae0348c979
+FUNCTIONAL COOKIES = dtCookie,nlbi_2651378,incap_ses_477_2651378,_ga_B6B1B9P16J,_ga,FPLC,_hjSessionUser_1974272,_hjSession_1974272,OptanonConsent,www._km_id-1295f8b8026f1bf94e3d14cae0348c979
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,FPAU
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

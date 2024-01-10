@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: trading.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,UID
+ADVERTISING COOKIES = _gat_gtag_UA_51813898_5
+UNCLASSIFIED COOKIES = quads_browser_width,_ga_G5JVT05L5C
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

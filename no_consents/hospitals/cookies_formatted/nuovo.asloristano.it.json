@@ -1,0 +1,42 @@
+{
+  "_pk_id.jLp6wm2qWQ.f483": {
+    "visit_id": 1,
+    "name": "_pk_id.jLp6wm2qWQ.f483",
+    "domain": "www.asl5oristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1337f0cce988b694.1704877028.",
+        "expiry": 1738832228,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.jLp6wm2qWQ.f483": {
+    "visit_id": 1,
+    "name": "_pk_ses.jLp6wm2qWQ.f483",
+    "domain": "www.asl5oristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704878827,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

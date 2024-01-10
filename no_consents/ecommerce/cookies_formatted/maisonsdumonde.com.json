@@ -1,0 +1,182 @@
+{
+  "mdm_session_id": {
+    "visit_id": 1,
+    "name": "mdm_session_id",
+    "domain": ".maisonsdumonde.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "74af29e95b3c78f06d0ac54b3888f66b",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mdm_algolia_session": {
+    "visit_id": 1,
+    "name": "mdm_algolia_session",
+    "domain": ".maisonsdumonde.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"type\":\"anonymous\",\"value\":\"ee99999b6d6adf4d0baac44d9dfa0480\"}",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TCID": {
+    "visit_id": 1,
+    "name": "TCID",
+    "domain": ".maisonsdumonde.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "124131338364520626747",
+        "expiry": 1736426316,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "TCSESSION": {
+    "visit_id": 1,
+    "name": "TCSESSION",
+    "domain": ".maisonsdumonde.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "124131338364991506846",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "tc_cj_v2": {
+    "visit_id": 1,
+    "name": "tc_cj_v2",
+    "domain": ".maisonsdumonde.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5Ecl_%5Dny%5B%5D%5D_mmZZZZZZKQJNRSJMKPRJLZZZ%5D",
+        "expiry": 1736426316,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "TCPID": {
+    "visit_id": 1,
+    "name": "TCPID",
+    "domain": ".maisonsdumonde.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "124131338366303310518",
+        "expiry": 1738845516,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "AB_test_privacy_banner": {
+    "visit_id": 1,
+    "name": "AB_test_privacy_banner",
+    "domain": ".maisonsdumonde.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "B",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ABC_test_cookie_banner": {
+    "visit_id": 1,
+    "name": "ABC_test_cookie_banner",
+    "domain": ".maisonsdumonde.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A",
+        "expiry": 1707482316,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "datadome": {
+    "visit_id": 1,
+    "name": "datadome",
+    "domain": ".maisonsdumonde.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "_zKumhPJgV6hTTCgnHnWLvmDneFcD_UY6GYNzLUQMGVvmCmZcMHbcqgzzhkW3WyXAU_hwPSad749cMpZ7zCeCtSI7RWV6j2_RRaFgQ~bnkB58YBd7NBYrqnyRj1Nrhv4",
+        "expiry": 1736426316,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

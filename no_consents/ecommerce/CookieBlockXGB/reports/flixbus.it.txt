@@ -1,0 +1,17 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: flixbus.it 
+NECESSARY COOKIES = AEMDC,akacd_OneRF,MicrosoftApplicationsTelemetryDeviceId,ai_session,at_check,uaid,MSPRequ,mbox,MC1,MSFPC
+FUNCTIONAL COOKIES = MUID,ak_bmsc,fptctx2,OParams,MS0
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookiesCookieBlockXGB model FINAL REPORT OVER WEBSITE: flixbus.it 
+NECESSARY COOKIES = ab_bucket,sp,affiliate,_sp_ses.ca26
+FUNCTIONAL COOKIES = atbpdid,_sp_id.ca26,_dd_s
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = atbgdid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: prontoimprese.it 
+NECESSARY COOKIES = DSID
+FUNCTIONAL COOKIES = cf_clearance
+ANALYTICS COOKIES = _ga,_gid,UID
+ADVERTISING COOKIES = _gat_UA-13179473-1,IDE,IMRID,test_cookie,__gads,__gpi,d,mc,wfivefivec,everest_g_v2,matchgoogle
+UNCLASSIFIED COOKIES = SSID_prontoimprese,SV_prontoimprese,SSC_prontoimprese,SN_prontoimprese,_ga_MEM1RMF4YH,ar_debug,A3,APC,SSA
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

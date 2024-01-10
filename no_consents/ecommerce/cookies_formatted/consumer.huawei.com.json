@@ -1,0 +1,62 @@
+{
+  "HWSTORE-SESSION": {
+    "visit_id": 1,
+    "name": "HWSTORE-SESSION",
+    "domain": ".huawei.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ZTEzMGM1ZjEtOTBhYi00YTIyLWIxMDItODQ4ZTkwYzBlN2Vm",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "HWWAFSESID": {
+    "visit_id": 1,
+    "name": "HWWAFSESID",
+    "domain": "consumer.huawei.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0ecc78b10482115f58",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "HWWAFSESTIME": {
+    "visit_id": 1,
+    "name": "HWWAFSESTIME",
+    "domain": "consumer.huawei.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704890243170",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

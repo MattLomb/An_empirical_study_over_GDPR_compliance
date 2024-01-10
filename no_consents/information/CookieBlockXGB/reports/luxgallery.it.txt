@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: luxgallery.it 
+NECESSARY COOKIES = __cf_bm,_gat_gtag_UA_500015_1,_iub_cs-70850635,_iub_cs-70850635-granular,euconsent-v2,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_DTQMR3K38J,_ga,_gid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

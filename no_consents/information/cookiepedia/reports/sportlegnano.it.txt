@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: sportlegnano.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,SSID_PCT-sportlegnan,SV_PCT-sportlegnan,SSC_PCT-sportlegnan,SN_PCT-sportlegnan,euconsent-v2,addtl_consent,_OASCAP[13650],_OABLOCK[13650]
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

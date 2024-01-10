@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: panini.it 
+NECESSARY COOKIES = PHPSESSID,gig_bootstrap_3_64HIdqvaCxGW567wRYQTu_wMjE0U6GFub8FRVaM6JkUlUB5o_7c_snmk_u7XmhC-,CookieConsent
+FUNCTIONAL COOKIES = form_key,mage-cache-storage,mage-cache-storage-section-invalidation
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = NID
+UNCLASSIFIED COOKIES = Queue-it-5bd6c7d0-3392-46f8-9987-2522acbfe71a,Queue-it,mage-cache-sessid,QueueITAccepted-SDFrts345E-V3_paniniitaly,recently_compared_product,mage-messages,__cf_bm,Queue-it-token,Queue-it-c4a52322-d15b-4250-a7df-4852dd251052,mg,apiDomain_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My,gmid,ucid,hasGmid,gig_canary_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My,gig_canary_ver_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

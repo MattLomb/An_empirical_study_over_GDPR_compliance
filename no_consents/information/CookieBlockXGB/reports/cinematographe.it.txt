@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: cinematographe.it 
+NECESSARY COOKIES = _gat_gtag_UA_58731259_1,_iub_cs-81034388-granular,_iub_cs-81034388,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_3G5V0GN3VL,_gid,_ga_WMJPMEZ4BD,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

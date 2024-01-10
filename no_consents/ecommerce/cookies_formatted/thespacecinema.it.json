@@ -1,0 +1,282 @@
+{
+  "AWSALB": {
+    "visit_id": 1,
+    "name": "AWSALB",
+    "domain": "www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "jP5S6ehSCe7RvIQliaT6PQXhu8QkNWAXg5otgyxaNWndH2Ir7fncUiwZv0hlD7q3MQkMHP55CycuTAvw/VEgr9ZDi+ATEkB9CMkvUD2fgDKR/5RQenG0lOC4O6em",
+        "expiry": 1705487474,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ASP.NET_SessionId": {
+    "visit_id": 1,
+    "name": "ASP.NET_SessionId",
+    "domain": "www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b23ejaajzw1yjt33hnzx1vxj",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "SC_ANALYTICS_GLOBAL_COOKIE": {
+    "visit_id": 1,
+    "name": "SC_ANALYTICS_GLOBAL_COOKIE",
+    "domain": "www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1acc7aa7085b436e911a6f621a887279|False",
+        "expiry": 1739442674,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ADRUM_BTa": {
+    "visit_id": 1,
+    "name": "ADRUM_BTa",
+    "domain": "www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "R:0|g:65c6feba-4f16-4f50-85e6-d80d85653cab|n:vueentertainment_bc1420f4-b665-4393-a4bb-e866dc948681",
+        "expiry": 1704882704,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SameSite": {
+    "visit_id": 1,
+    "name": "SameSite",
+    "domain": "www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "None",
+        "expiry": 1704882704,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ADRUM_BT1": {
+    "visit_id": 1,
+    "name": "ADRUM_BT1",
+    "domain": "www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "R:0|i:2082364|e:243",
+        "expiry": 1704882704,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "at_check": {
+    "visit_id": 1,
+    "name": "at_check",
+    "domain": ".thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "searchSource": {
+    "visit_id": 1,
+    "name": "searchSource",
+    "domain": "www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Home",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "welcomeScreenCookie": {
+    "visit_id": 1,
+    "name": "welcomeScreenCookie",
+    "domain": "www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "WelcomeScreen",
+        "expiry": 1704969076,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "showRibbonRating": {
+    "visit_id": 1,
+    "name": "showRibbonRating",
+    "domain": "www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1705487476,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704883576,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T10:31:18.581Z",
+        "expiry": 1736418678,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+11%3A31%3A18+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.30.0&isIABGlobal=false&hosts=&genVendors=&consentId=24116a4e-e39a-410e-8449-6e9d5914b94b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+        "expiry": 1736418678,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__cfwaitingroom": {
+    "visit_id": 1,
+    "name": "__cfwaitingroom",
+    "domain": ".www.thespacecinema.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ChhoZ2orc2h5U1BxZFFkTmYzMXFwM1JRPT0SlAI0VFRaMzhJa2JrNVZ4endwMTBUWktSczdoMEE4MEh5Y2pTY1kyZ0pEcmtQWnNMd3MyRDYzTVlhYVd2K0Q0b0YwUDl2RlJaeVY4UlJyaFF2VlpPV3JqcDhjSGVzS1c3aHU1d3E3MUJ4MFJCUzBlVTAyQnVubDBpenlySVE3ajFuYUJ2eG1UY1FwalRRMmNPbThOcC8ybC9HeHhKR0EwMWNtUmJkY08yME1jNlozRzRMbDRnUHQxMU82eDRLRU9pbUgwakFsb1ZERXNVRGdKV1FWdyt6UFdxQmZjNU5ZL0ZYSzZubXdFbVF5aW5CU0NUdm5wZ25oNDJXN3VYWFNKQkdMbERhKzlselZMbzZZTnNGMms0MD0%3D",
+        "expiry": 1704883582,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

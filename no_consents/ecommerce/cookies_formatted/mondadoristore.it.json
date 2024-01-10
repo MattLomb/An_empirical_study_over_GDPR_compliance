@@ -1,0 +1,382 @@
+{
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.mondadoristore.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7AE6D2860EE44D3101C24F20E79F26C0",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NOW": {
+    "visit_id": 1,
+    "name": "NOW",
+    "domain": ".mondadoristore.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "40d29a8a3ae3b435",
+        "expiry": 1707474621,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "HAPSIDMONDSTORE": {
+    "visit_id": 1,
+    "name": "HAPSIDMONDSTORE",
+    "domain": "www.mondadoristore.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "tombol41",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__rtbh.lid": {
+    "visit_id": 1,
+    "name": "__rtbh.lid",
+    "domain": "www.mondadoristore.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22qEQiycnehP811VCMizzT%22%7D",
+        "expiry": 1736422222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "u": {
+    "visit_id": 1,
+    "name": "u",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IdritqRo1hwoiKqzTuik",
+        "expiry": 1736418622,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "g": {
+    "visit_id": 1,
+    "name": "g",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IdritqRo1hwoiKqzTuik_1704882622745",
+        "expiry": 1736418622,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "c": {
+    "visit_id": 1,
+    "name": "c",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IdritqRo1hwoiKqzTuik_lGV50kzGhM4BDiLAneab_1704882622745",
+        "expiry": 1736418622,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ts": {
+    "visit_id": 1,
+    "name": "ts",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704882622",
+        "expiry": 1736418622,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_kuid_": {
+    "visit_id": 1,
+    "name": "_kuid_",
+    "domain": ".krxd.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "QBvT1XAf",
+        "expiry": 1720434633,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736418622,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "receive-cookie-deprecation": {
+    "visit_id": 1,
+    "name": "receive-cookie-deprecation",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1720434622,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".mondadoristore.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.112601838.1704882623",
+        "expiry": 1739442627,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".mondadoristore.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1035109365.1704882623",
+        "expiry": 1704969027,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "13392912279449332",
+        "expiry": 1712658623,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "kYZ1pqLg8-E3ZsZsQjjXaM65_i-hUoWZQraIigo0rthsG3QKU7ukgbBI-4T6J4aB5eoXagXBXcOHqbvB0X3SY7GPKPKG9t53s7kFozGIk8Y.",
+        "expiry": 1739442623,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "anj": {
+    "visit_id": 1,
+    "name": "anj",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dTM7k!M4/rD>6NRF']wIg2InAkbWdi!]tbPl@/@8+nOv3U_ggmQ5WD7SkngoDzAP+?6D)2TAO'q[)y%YMy7e0=?b4(EzN0v[5%HCX^YUM8Q-/53If)y3KL9D3I?+HVR5E1",
+        "expiry": 1712658623,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "42ffbb50-afa3-11ee-b3c6-4f955d784a94",
+        "expiry": 1738578623,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-73705257": {
+    "visit_id": 1,
+    "name": "_iub_cs-73705257",
+    "domain": ".mondadoristore.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T10%3A30%3A26.087Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A73705257%2C%22cons%22%3A%7B%22rand%22%3A%22b5125f%22%7D%7D",
+        "expiry": 1736418626,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_T01XDNRG2V": {
+    "visit_id": 1,
+    "name": "_ga_T01XDNRG2V",
+    "domain": ".mondadoristore.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704882622.1.0.1704882627.0.0.0",
+        "expiry": 1739442627,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

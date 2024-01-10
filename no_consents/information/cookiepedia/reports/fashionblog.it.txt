@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: fashionblog.it 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_Y1BF71D88C,euconsent-v2,addtl_consent,SSID_TRO-fashionblogit,SV_TRO-fashionblogit,SSC_TRO-fashionblogit,SN_TRO-fashionblogit,SSCN_N_TRO-fashionblogit,SSCN_UG_TRO-fashionblogit,SSCN_UW_TRO-fashionblogit,SSCN_UM_TRO-fashionblogit,aff_ran_url_3013,TAPAD,cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

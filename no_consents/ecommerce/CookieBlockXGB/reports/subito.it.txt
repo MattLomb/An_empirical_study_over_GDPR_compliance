@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: subito.it 
+NECESSARY COOKIES = kppid,FPID
+FUNCTIONAL COOKIES = didomi_token,cis-jwe,_pulse2data,_ga,_ga_D72SGH4DYJ,FPLC
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

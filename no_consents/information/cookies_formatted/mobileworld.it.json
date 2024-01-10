@@ -1,0 +1,262 @@
+{
+  "wteid_769396664005295": {
+    "visit_id": 1,
+    "name": "wteid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170485942000490038",
+        "expiry": 1720411420,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtsid_769396664005295": {
+    "visit_id": 1,
+    "name": "wtsid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALB": {
+    "visit_id": 1,
+    "name": "AWSALB",
+    "domain": "mobileworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cqaCxx2gG9j7v0Lo2Ql/oF76nNam+m1aK1Sj83mRoxKff3vWtskf21Q1VUFY2ofm4kVmeB7pnFI9hXG9aG2amtiqIaAuRt5Q9omdtu/f4T1zwMuu6sJ9Ns8QvW5I",
+        "expiry": 1705464218,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "mobileworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cqaCxx2gG9j7v0Lo2Ql/oF76nNam+m1aK1Sj83mRoxKff3vWtskf21Q1VUFY2ofm4kVmeB7pnFI9hXG9aG2amtiqIaAuRt5Q9omdtu/f4T1zwMuu6sJ9Ns8QvW5I",
+        "expiry": 1705464218,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "nielsenSdk-1067801098": {
+    "visit_id": 1,
+    "name": "nielsenSdk-1067801098",
+    "domain": "www.smartworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704859419426",
+        "expiry": 1704859719,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_S4SWGHWWJ9": {
+    "visit_id": 1,
+    "name": "_ga_S4SWGHWWJ9",
+    "domain": ".smartworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704859419.1.0.1704859419.0.0.0",
+        "expiry": 1739419419,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_rla": {
+    "visit_id": 1,
+    "name": "wt_rla",
+    "domain": ".smartworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "769396664005295%2C1%2C1704859419761",
+        "expiry": 1710043419,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".smartworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.798067943.1704859420",
+        "expiry": 1739419419,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".smartworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.575750331.1704859420",
+        "expiry": 1704945819,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_16649429_1": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_16649429_1",
+    "domain": ".smartworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704859479,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!OaRlIaiivAoOxmNf12FEQ7yxeazokvXePo69tJi+K410uKNS8W7sxWH6miBkzMQBNQw6TyB02swAeA==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3cc7d7d0-af6d-11ee-9614-67878a71df35",
+        "expiry": 1738555420,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "push_notification_viewed": {
+    "visit_id": 1,
+    "name": "push_notification_viewed",
+    "domain": ".smartworld.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704945824,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

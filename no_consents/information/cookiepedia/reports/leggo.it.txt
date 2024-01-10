@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: leggo.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = IMRID,MUID,__mguid_
+UNCLASSIFIED COOKIES = euconsent-v2,_iub_cs-88644770,__cf_bm,_lr_retry_request,_lr_env_src_ats
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

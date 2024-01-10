@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: vesuvius.it 
+NECESSARY COOKIES = quads_browser_width,yabs-sid,_gat_gtag_UA_51813898_28,_ym_uid,_ym_d,sync_cookie_csrf,i,yandexuid,_ym_isad,sync_cookie_ok,yuidss,_ym_visorc
+FUNCTIONAL COOKIES = _ga_8Q4KHJNH6E,bh,_ga,_gid,yp,ymex
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

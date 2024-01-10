@@ -1,0 +1,102 @@
+{
+  "geo": {
+    "visit_id": 1,
+    "name": "geo",
+    "domain": ".apple.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_fid": {
+    "visit_id": 1,
+    "name": "s_fid",
+    "domain": ".apple.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6C4F704534652D1D-26E40FC382B020F3",
+        "expiry": 1704890693,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_cc": {
+    "visit_id": 1,
+    "name": "s_cc",
+    "domain": ".apple.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mk_epub": {
+    "visit_id": 1,
+    "name": "mk_epub",
+    "domain": ".apple.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22btuid%22%3A%221sho2ej%22%2C%22prop57%22%3A%22www.us.homepage%22%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_vi": {
+    "visit_id": 1,
+    "name": "s_vi",
+    "domain": ".apple.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "[CS]v1|32CF451EFE23321E-400000D540E7C2CD[CE]",
+        "expiry": 1704890693,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

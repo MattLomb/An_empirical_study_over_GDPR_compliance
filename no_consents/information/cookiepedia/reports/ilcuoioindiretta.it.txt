@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilcuoioindiretta.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,SSID_PCT-ilcuoioindirettait,SV_PCT-ilcuoioindirettait,SSC_PCT-ilcuoioindirettait,SN_PCT-ilcuoioindirettait,_ga_TTEHDKH11F,_ga_FR20SCSXTH,euconsent-v2,addtl_consent,_OASCAP[13564],_OABLOCK[13564]
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

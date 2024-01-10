@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: luxgallery.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gat_gtag_UA_500015_1
+UNCLASSIFIED COOKIES = __cf_bm,_ga_DTQMR3K38J,_iub_cs-70850635,_iub_cs-70850635-granular,euconsent-v2,lotame_domain_check,panoramaId_expiry
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

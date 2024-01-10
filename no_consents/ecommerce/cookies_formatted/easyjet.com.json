@@ -1,0 +1,722 @@
+{
+  "63882": {
+    "visit_id": 1,
+    "name": "63882",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Mozilla/5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit/537.36%20(KHTML%2C%20like%20Gecko)%20Chrome/117.0.0.0%20Safari/537.36",
+        "expiry": 1704884694,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "64199": {
+    "visit_id": 1,
+    "name": "64199",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "NO_ID",
+        "expiry": 1704884694,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "66309": {
+    "visit_id": 1,
+    "name": "66309",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "60",
+        "expiry": 1704884694,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "66310": {
+    "visit_id": 1,
+    "name": "66310",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3",
+        "expiry": 1704884694,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "66311": {
+    "visit_id": 1,
+    "name": "66311",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5",
+        "expiry": 1704884694,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "66312": {
+    "visit_id": 1,
+    "name": "66312",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1704884694,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMSPOD": {
+    "visit_id": 1,
+    "name": "CMSPOD",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dub-sc2-green",
+        "expiry": 1704890094,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D4963349458F2A8AB1E2AF5D94FED5A2~YAAQJH16XIm3pNqMAQAAQnDw8hY1wDupNDB7lh2kSYI1k5NVp/69kuIUmJS6jAbaHXlhYHRaS9vlXRobq9MX4muDLle+nEZRgmOAYUIWTopx1dARaZcb1hy0R+QmbHyJdiDft0WZkdBJ+I/mHjIMrU6eQha0bT6AoBrx9nIM6RLIS/VEvtKwSt3lKDUFK1mh67gl0etnPfQJIFtCt5yL1t9N9GDRqRMNTURq+unpO5GwEw1ANSbhskCHnEiCVmn9tltazP6OQe8kKNl6RgHMriwqkQ/b9TPSpQ4OJtyzZ465SmfP~3618355~3224377",
+        "expiry": 1704897292,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_mi": {
+    "visit_id": 1,
+    "name": "bm_mi",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "70A5100042BC46DBA4695A54A1C1D94C~YAAQJH16XIy3pNqMAQAA9HDw8hamrvLAMgw2cg5PsH9noqUrrJzo3NoAwOm28/aW56YYWlGWlQJP+Zj6epx8P2/O002bmoLQtYyyAYNUFJ+PNXNjqzcfJNaBMXGxkcxsvLu4YmizKbgl/Pnd2c3ZkI7CFGPhUqefGXNUDfRnpNSLgAopAN/LMN/fY9272klIJw1Mr+pIZNgVioEdsDf9OekLnevaTDeI2tdbXXar8vpkJjcESen1xMgs9qaoCG1m+iY/GW9Mgi0KNWOnnqvqS4BF8JdHE0MXYFaQe3nDXKblfZ8p8yANBiTeF5/SAovTiWU=~1",
+        "expiry": 1704890092,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookies.js": {
+    "visit_id": 1,
+    "name": "cookies.js",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ejCorrelation": {
+    "visit_id": 1,
+    "name": "ejCorrelation",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "32C00BCD-7D9E-5E03-1A34-7A0B209C9431",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "lang2012": {
+    "visit_id": 1,
+    "name": "lang2012",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en-gb",
+        "expiry": 1736418894,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "EASYJET_ENSIGHTEN_PRIVACY_BANNER_LOADED": {
+    "visit_id": 1,
+    "name": "EASYJET_ENSIGHTEN_PRIVACY_BANNER_LOADED",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736418894,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RBKPOD": {
+    "visit_id": 1,
+    "name": "RBKPOD",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dub-rbk-green",
+        "expiry": 1704926094,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "shell#lang": {
+    "visit_id": 1,
+    "name": "shell#lang",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "odb*": {
+    "visit_id": 1,
+    "name": "odb*",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FCO",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1818697930.1704882894",
+        "expiry": 1704969298,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_NGTM1": {
+    "visit_id": 1,
+    "name": "_gat_NGTM1",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704882954,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_UA-157731594-1": {
+    "visit_id": 1,
+    "name": "_gat_UA-157731594-1",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704882954,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "website_account-app#lang": {
+    "visit_id": 1,
+    "name": "website_account-app#lang",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "DA-Antiforgery-S": {
+    "visit_id": 1,
+    "name": "DA-Antiforgery-S",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CfDJ8JoKxj_6uFlLiQnVM444GeWx-Fer5MgOnVTwPay1FtIQdTxYRU5h7h6gL6PheMat_udsHSAIx9-IVqfgLX9cWDqRrn36nLNgjylr84vEPAh-0FcHLUMswfi3X6lMoc_Xd_4fJhMJe9CE-ZCgnQT1ov4",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "DA-Antiforgery-C": {
+    "visit_id": 1,
+    "name": "DA-Antiforgery-C",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CfDJ8JoKxj_6uFlLiQnVM444GeVJ6r_pifmLw_ybeVgPBvUekmwPwdSkmY9TDDKq1zZn6_Nd6g-WTVZmj78nHIpipFEVXAVEHVdHQSBlie7A2S3Uh3whCnH67D3HPa2X6s9ELhO2Df1uSeikxa0Upzc-uDg",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "217A97298C35B62C87710A042ED3D683~000000000000000000000000000000~YAAQJH16XLa3pNqMAQAAi3fw8hb6oeKbNIt1jFrmUQLXAnyc5MetHDpGcn1JUAiwlEBIY0PFWjZejRpuCWwYd71LE8DuENrWNgoZuBLqi8HTOV7L+Dx3dWNMyMBBqKrHTAs5hH9CmEpeXXf+gVzLFNKG4DM489pN1ogn73cqP2i3C8NoWLHqWypY8DceBNUdfY2qoQzHU+HKbpF4mevLCuUA18hhzZoOQsyVzx252cypxAFSQR5FQFs2UJ2dSQhZ7C1uo6rN+1P4B+X9ffM9KUgIJ158grUPe0ZeMrTyOuzyImhXKggsWbwjvhutFg/nlSkoUJZn1hytwrJFVzY3GlHdgAQs3DdtI/6UUFY6ixJuyo/tUB9UcJJ9+rlygJsYKKmZn9eI1VuFwBSYFxf0izVBkDTU7TC/lFkvsFzijEm/OZEwfSnXRqvcnuZA35Ru/gTUEQ+pM85fLOHrMF6wDVCIlT1dqIwjmV0aNUTDeAunQyFR85kf3NP2Be1aDk6sIOlJdQvcJZTJTw==",
+        "expiry": 1704890092,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "C1CFE621AA3D907991745267A27B9232~YAAQJH16XLu3pNqMAQAAFHjw8hZ5E+w7dYgchCQ6uUpA75aWRAnqT72oTbcNHzgVKLtLPmxdGxPzyDw3tVS8Q8SREF3ufnVXCJ54ymE4s5SawHzOw6PwisR4Y/QRO4ba96dKXzCzZ727xVZy+vvbJaxVbmzKbf0eG/M2+Fo8HN46cDOMfQen2TFo7eGom1kqHGcwvLcVcVKXE1FjBor4jF12h0OjoHLVNQMiEEjrEuz50YERtm6CxkGdccYkRcpvxQ==~1",
+        "expiry": 1704890093,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "B990E454C38B7F4FB121178E6A70E8D0~-1~YAAQJH16XL+3pNqMAQAAJXnw8gsOtsTT2Bsit+zE0CWTXsQHRG8BXLXncjXjLz3Vxmv2uKutZe9z7DKSvoe1JOEgUMy67c11Byq5dq/TzgCsyRkQaKBCbjaA2yl2FtyK8J243CzwabXnMwxw5EBW+s1v970xrY+xPghnMCEQ9qxKNhRIInHiiNTSmbwKT/E5pHyOP/2oJK6G4ho0wY0xFQmDmHtG6uCobSBV7G8czrxSMn/v/yAQZhPlSXVdhIOlV4Ed768n00cVRHmX2aMAs7s+hZWtUus6GOTOdq8Al0wYeLv6KzS98qghEpmfhqJwpNAhJUKdJmpUQZtExaf1y0M/L6+t1+fgXRhyF9YQ1fer8llSzVS0O+plgfeRIk6Y1YR5rZ4O9/d+JFHq0XJ5+Iu0qFjM8oVAf3r+GI+QPuCe0dqaByU=~-1~-1~-1",
+        "expiry": 1736418895,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ejCC_3": {
+    "visit_id": 1,
+    "name": "ejCC_3",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v=5277329162682740881&i=-8584967239900721285",
+        "expiry": 1739442895,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "WPPOD": {
+    "visit_id": 1,
+    "name": "WPPOD",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1704969295,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "akacd_DA2MB_PR": {
+    "visit_id": 1,
+    "name": "akacd_DA2MB_PR",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2177452799~rv=40~id=f620bd1a89d32d90eafd290dc6b9e2aa",
+        "expiry": 1739442895,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.779733938.1704882894",
+        "expiry": 1739442898,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "EASYJET_ENSIGHTEN_PRIVACY_BANNER_VIEWED": {
+    "visit_id": 1,
+    "name": "EASYJET_ENSIGHTEN_PRIVACY_BANNER_VIEWED",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736418898,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "EASYJET_ENSIGHTEN_PRIVACY_Performance_and_Personalisation": {
+    "visit_id": 1,
+    "name": "EASYJET_ENSIGHTEN_PRIVACY_Performance_and_Personalisation",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1736418898,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "EASYJET_ENSIGHTEN_PRIVACY_easyJet_Marketing": {
+    "visit_id": 1,
+    "name": "EASYJET_ENSIGHTEN_PRIVACY_easyJet_Marketing",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1736418898,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "EASYJET_ENSIGHTEN_PRIVACY_MODAL_VIEWED": {
+    "visit_id": 1,
+    "name": "EASYJET_ENSIGHTEN_PRIVACY_MODAL_VIEWED",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736418898,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "EASYJET_ENSIGHTEN_PRIVACY_MODAL_LOADED": {
+    "visit_id": 1,
+    "name": "EASYJET_ENSIGHTEN_PRIVACY_MODAL_LOADED",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736418898,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_RQJDCQFJCZ": {
+    "visit_id": 1,
+    "name": "_ga_RQJDCQFJCZ",
+    "domain": ".easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704882894.1.0.1704882898.0.0.0",
+        "expiry": 1739442898,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akacd_TrueClarity_SC": {
+    "visit_id": 1,
+    "name": "akacd_TrueClarity_SC",
+    "domain": "www.easyjet.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1705487704~rv=56~id=3dc7c31f7ced609ce58cd5ab827494fc",
+        "expiry": 1705487704,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

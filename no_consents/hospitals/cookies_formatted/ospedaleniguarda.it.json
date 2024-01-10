@@ -1,0 +1,82 @@
+{
+  "default_csrf_cookie": {
+    "visit_id": 1,
+    "name": "default_csrf_cookie",
+    "domain": ".ospedaleniguarda.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8b3ad62e35accef0ac283e9d8700c999",
+        "expiry": 1704891479,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ci_session": {
+    "visit_id": 1,
+    "name": "ci_session",
+    "domain": ".ospedaleniguarda.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f85e3519b3a43f236f5e25299c15f7b066faa91b",
+        "expiry": 1704963475,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.rypyXDO3Qo.9b18": {
+    "visit_id": 1,
+    "name": "_pk_id.rypyXDO3Qo.9b18",
+    "domain": "www.ospedaleniguarda.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "34d04bf36d74b120.1704877075.",
+        "expiry": 1738832275,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.rypyXDO3Qo.9b18": {
+    "visit_id": 1,
+    "name": "_pk_ses.rypyXDO3Qo.9b18",
+    "domain": "www.ospedaleniguarda.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704878875,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: speedadv.it 
+NECESSARY COOKIES = _GRECAPTCHA,_gat_UA-100563032-1,CookieConsent
+FUNCTIONAL COOKIES = _ga_PN39PLQKYF
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

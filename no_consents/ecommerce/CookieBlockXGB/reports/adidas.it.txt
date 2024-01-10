@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: adidas.it 
+NECESSARY COOKIES = geo_ip,geo_country,onesite_country,geo_coordinates,AKA_A2,akacd_generic_prod_grayling_adidas,akacd_plp_prod_adidas_grayling,x-original-host,x-site-locale,mt.v,akacd_acc_frontend_prd,wishlist,ab_inp,utag_main,s_pers,RT
+FUNCTIONAL COOKIES = bm_sz,sbsd,demdex,ak_bmsc,_abck
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = AMCVS_7ADA401053CCF9130A490D4C%40AdobeOrg,AMCV_7ADA401053CCF9130A490D4C%40AdobeOrg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

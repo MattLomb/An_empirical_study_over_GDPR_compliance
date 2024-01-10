@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: valorinormali.com 
+NECESSARY COOKIES = wteid_769396664005295,wtsid_769396664005295,AWSALB,AWSALBCORS,nielsenSdk-2319020152,_ga,_gat_gtag_UA_2870894_8,wt_nbg_Q3
+FUNCTIONAL COOKIES = _ga_TRQFQRZPP9,_gid,wt_rla,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: groupon.it 
+NECESSARY COOKIES = user_locale,ak_bmsc
+FUNCTIONAL COOKIES = googtrans
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = thx_guid
+UNCLASSIFIED COOKIES = division,b,s,_csrf,pageId,bm_sz,db_ui,subscription_visited,subscription_last_visited,_abck,db_uicd,slireg,sliguid,slirequested,c3s,__ssid,_ga_TW2CBMFZ20
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

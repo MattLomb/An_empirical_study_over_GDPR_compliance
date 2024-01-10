@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: trading.it 
+NECESSARY COOKIES = quads_browser_width,_gat_gtag_UA_51813898_5
+FUNCTIONAL COOKIES = _ga_G5JVT05L5C,_ga,_gid,UID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

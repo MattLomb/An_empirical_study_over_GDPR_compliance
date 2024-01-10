@@ -1,0 +1,82 @@
+{
+  "d2015fbda49c4637400f466395e3118d": {
+    "visit_id": 1,
+    "name": "d2015fbda49c4637400f466395e3118d",
+    "domain": "uslnordovest.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "mvvcte0qs4hfnoknfe8e827ko5",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.VQ0Qw6epdY.40b5": {
+    "visit_id": 1,
+    "name": "_pk_id.VQ0Qw6epdY.40b5",
+    "domain": "uslnordovest.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b9ff86051750f7d5.1704876756.",
+        "expiry": 1738831956,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.VQ0Qw6epdY.40b5": {
+    "visit_id": 1,
+    "name": "_pk_ses.VQ0Qw6epdY.40b5",
+    "domain": "uslnordovest.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704878555,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "displayCookieConsent": {
+    "visit_id": 1,
+    "name": "displayCookieConsent",
+    "domain": "uslnordovest.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "y",
+        "expiry": 1736499158,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

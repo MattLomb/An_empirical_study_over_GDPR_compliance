@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: nonsprecare.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_pk_id.1.b0ee,_pk_ses.1.b0ee
+ADVERTISING COOKIES = IMRID
+UNCLASSIFIED COOKIES = _ga_MB0D2B4VP5,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

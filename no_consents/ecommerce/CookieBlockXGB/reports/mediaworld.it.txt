@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: mediaworld.it 
+NECESSARY COOKIES = __cf_bm,_cfuvid,t_fpd,_msbps,a,r
+FUNCTIONAL COOKIES = optid,ts_id
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

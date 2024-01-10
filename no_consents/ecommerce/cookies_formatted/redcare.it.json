@@ -1,0 +1,242 @@
+{
+  "first-impression": {
+    "visit_id": 1,
+    "name": "first-impression",
+    "domain": "www.redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1704978296,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "feature-flag-user-token": {
+    "visit_id": 1,
+    "name": "feature-flag-user-token",
+    "domain": "www.redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d22676d4-6592-46a9-8aa5-6eeb805387b7",
+        "expiry": 1707483896,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "feature-flag-targeting": {
+    "visit_id": 1,
+    "name": "feature-flag-targeting",
+    "domain": "www.redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"browser-family\":\"Chrome\",\"device\":\"desktop\",\"expa\":\"\",\"isInternalIP\":false,\"split\":\"70\",\"tenant\":\"it\"}",
+        "expiry": 1704895496,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "feature-flag-cookie": {
+    "visit_id": 1,
+    "name": "feature-flag-cookie",
+    "domain": "www.redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"ad-ba\":{\"e\":true,\"v\":{\"f\":1,\"v_name\":\"v1\"}},\"ad-se\":{\"e\":true,\"v\":{\"f\":1,\"v_name\":\"v1\"}},\"ad-server\":{\"e\":true,\"v\":{\"f\":1,\"v_name\":\"kevel\"}},\"ad-xs\":{\"e\":true,\"v\":{\"f\":1,\"v_name\":\"v1\"}},\"cro-1244\":{\"e\":true,\"v\":{\"f\":1,\"v_name\":\"v2\"}},\"cro-1680\":{\"e\":true,\"v\":{\"f\":1,\"v_name\":\"v1\"}},\"cro-1888\":{\"e\":true,\"v\":{\"f\":1,\"v_name\":\"v1\"}},\"cro-2213\":{\"e\":true,\"v\":{\"f\":1,\"v_name\":\"v1\"}},\"cro-2220\":{\"e\":true,\"v\":{\"f\":1,\"v_name\":\"v3\"}},\"cro-2489\":{\"e\":true,\"v\":{\"v_name\":\"v2\"}},\"erx-adyen-mp\":{\"e\":true},\"erx-now\":{\"e\":true},\"rebranding-it\":{\"e\":true},\"release-switch\":{\"e\":true,\"v\":{\"cart-cta-delayed\":false,\"erx\":false,\"marketplace\":false,\"mp-cross-sell\":false,\"now\":false,\"sae-only\":true,\"v_name\":\"v1\"}},\"wstra-2462\":{\"e\":true}}",
+        "expiry": 1704895496,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "auth": {
+    "visit_id": 1,
+    "name": "auth",
+    "domain": "www.redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJhbGciOiJSUzM4NCJ9.eyJzdWIiOiJHVUVTVCIsInJvbGUiOiJHVUVTVCIsInRlbmFudCI6Iml0IiwidHlwZSI6IkFDQ0VTUyIsImtleVZlcnNpb24iOiIzZmFiY2VhNS1lYmRhLTQ0NDEtYTE5Zi1mMzNlNjFlOGY3ZTAiLCJkZXZpY2VUeXBlIjoiYnJvd3NlciIsImV4cCI6MTczNjQ0ODgzNiwiZXhwUmVmcmVzaCI6IjIwMjUtMDEtMDlUMTg6NTM6NTYuMjc0WiIsImV4cFNlbnNpdGl2ZSI6IjIwMjUtMDEtMDlUMTg6NTM6NTYuMjc0WiIsImp0aSI6IjI1OWI3ZTdiLTFhNzctNDE1Yy1hMzIyLTc5ZWU3Yjg4ZGRlMSIsImlzcyI6ImF1dGgucmVkdGVjbGFiLmNvbSIsImlhdCI6MTcwNDg5MTg5Nn0.BhVyKi2WyyM2X-upPiBSdFz0VY8NMA6g_lnEdxRfeUCLGg6u8J-HBcBT_-TnL1E44Ur2e_wXFJp0-1k10ctNCsvW_r5TAMbz_lTFTOAZszmVqTWfg3y4iFDmIdmIjoq7uY6m6F3FbnBGrcCj7CT1H7Es0dFlJvm5Xyk7yIA_yqvURN6JV9ZoQxqM91a0ECM75ONPAKsoMD_6af27XcXMxZOgPiVyXVwrHRDjc3smqbmvNZ9_UoP_kTlnPQdTfyTbyt3DLhdfz41RGNyGOLkfSQsgVA4EjqSfnx2Nkp7SRvJIFtxo8ECSAH-ClzufIh1PZP1q5koOm0nBCTC3QaQuXD2DEuFC1ZJUAzydVBm7CtgW05ysPrr7j3VMAWx6wxHsV-jOnPH3QJur3GSyYN7F-TNdNSJtwim7z1IoIi-W3MiiKVaUZ_nYzmBclS9LnNOeWpa3lLyVgh0KGnOxVzezehwxCaA4bJSGpX-_hyL27UaAltmjFSJabDjXS5rCbBNm",
+        "expiry": 1704978296,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "asbidc": {
+    "visit_id": 1,
+    "name": "asbidc",
+    "domain": "www.redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fba3163e-691f-4343-9e15-f0da6039609c",
+        "expiry": 1712667897,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "emos_jcsid": {
+    "visit_id": 1,
+    "name": "emos_jcsid",
+    "domain": ".redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AYzzedZsNxK4j9RF6kkbdBAr2tkKrB46:t:1:0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ALGOLIA": {
+    "visit_id": 1,
+    "name": "_ALGOLIA",
+    "domain": "www.redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "anonymous-0f4e0c93-24d8-44b4-b94f-21066672f63e",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "atbpdid": {
+    "visit_id": 1,
+    "name": "atbpdid",
+    "domain": ".redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ff6e9986-5f56-4389-b644-d9546c268eeb",
+        "expiry": 1739451897,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "expa": {
+    "visit_id": 1,
+    "name": "expa",
+    "domain": "www.redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "direct",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "atbgdid": {
+    "visit_id": 1,
+    "name": "atbgdid",
+    "domain": ".adtriba.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0dd8eb5f-9962-4356-91dc-4d209053fc6c",
+        "expiry": 1739451898,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "usercentrics_consent": {
+    "visit_id": 1,
+    "name": "usercentrics_consent",
+    "domain": ".redcare.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"ad_storage\":0,\"analytics_storage\":0,\"functional\":0}",
+        "expiry": 1707483898,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

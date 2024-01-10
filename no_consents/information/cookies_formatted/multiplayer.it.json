@@ -1,0 +1,142 @@
+{
+  "color-scheme": {
+    "visit_id": 1,
+    "name": "color-scheme",
+    "domain": "multiplayer.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "auto",
+        "expiry": 1736392271,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".multiplayer.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.680044069.1704856272",
+        "expiry": 1739416271,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_BW3X5D4E38": {
+    "visit_id": 1,
+    "name": "_ga_BW3X5D4E38",
+    "domain": ".multiplayer.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704856271.1.0.1704856271.60.0.0",
+        "expiry": 1739416271,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-495815-granular": {
+    "visit_id": 1,
+    "name": "_iub_cs-495815-granular",
+    "domain": ".multiplayer.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22gac%22%3A%22MX4%3D%22%7D",
+        "expiry": 1736392274,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".multiplayer.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAB7EzCITAbEgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUAAAAA",
+        "expiry": 1735960274,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAPAD": {
+    "visit_id": 1,
+    "name": "TAPAD",
+    "domain": "multiplayer.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22id%22%3A%226897d3a0-42ed-4a86-8c41-d4115fcf2367%22%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "_iub_cs-495815": {
+    "visit_id": 1,
+    "name": "_iub_cs-495815",
+    "domain": ".multiplayer.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T03%3A11%3A14.443Z%22%2C%22version%22%3A%221.50.1%22%2C%22consent%22%3Afalse%2C%22id%22%3A495815%2C%22cons%22%3A%7B%22rand%22%3A%22c08bb9%22%7D%7D",
+        "expiry": 1736392274,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

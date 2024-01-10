@@ -1,0 +1,82 @@
+{
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "www.ausl.mo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "qbl0561enu25a9nkjh64e7skk3",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "fxs": {
+    "visit_id": 1,
+    "name": "fxs",
+    "domain": "www.ausl.mo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659e5a6b6db611.06911535%3A43393",
+        "expiry": 1736433603,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.KW3vxO8qBA.4f64": {
+    "visit_id": 1,
+    "name": "_pk_id.KW3vxO8qBA.4f64",
+    "domain": "www.ausl.mo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4f650fce1d74c30f.1704876653.",
+        "expiry": 1738831853,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.KW3vxO8qBA.4f64": {
+    "visit_id": 1,
+    "name": "_pk_ses.KW3vxO8qBA.4f64",
+    "domain": "www.ausl.mo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704878452,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

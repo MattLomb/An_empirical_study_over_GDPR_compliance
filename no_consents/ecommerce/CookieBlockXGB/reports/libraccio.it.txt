@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: libraccio.it 
+NECESSARY COOKIES = ASP.NET_SessionId,UID,ARRAffinity,_ALGOLIA,ai_user,n,mvtid,s,mvtdebug,uc,rr_rcs,ai_session,trackerBot,clires,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = _ga,_gid,OptanonConsent,_ga_1J1S9MZJDY
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

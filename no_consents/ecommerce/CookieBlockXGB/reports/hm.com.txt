@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: hm.com 
+NECESSARY COOKIES = HMCORP_locale,HMCOUNTRY_name,AKA_A2,akainst,akavpau_www2_it_it,INGRESSCOOKIE,JSESSIONID,userCookie,akamref,_abck,HMCORP_locale_autoassigned,OptanonAlertBoxClosed,utag_main
+FUNCTIONAL COOKIES = bm_sz,bm_sv,RT,dep_sid,ak_bmsc,OptanonConsent,dep_exp
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

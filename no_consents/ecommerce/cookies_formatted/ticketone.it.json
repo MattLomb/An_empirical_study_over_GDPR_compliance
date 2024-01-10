@@ -1,0 +1,522 @@
+{
+  "webid": {
+    "visit_id": 1,
+    "name": "webid",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "SVRUX05PX1NFU1NJT05fSVQ=",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".eventim.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "467CE77A26139F557393BAA51F06E5D2~YAAQJH16XAvPotqMAQAAm17D8hZWhfO5J8r82utWjHo95yiRwfhqSkOq3FYC3JDQbrcf22cmQSoCeeeEyHeAG8/Ly+gQ3ZulirUY4yEFJqyGs1S1kJQ3G5Po72MEEQTxLtQiJKwDD0qw3qEX1D8NLAiO5PmzvlqW9BDtsQozUZLP1V7iFl7WlwdLYoL3ZZTq3TC+VhjFSlkOmGf6W4iyXtRFEZDEjswcT6cLV0jH8M1RQN0rgaIWJWNzmlf0ntAPHUeqj73lIMKqKJ2j+Nl0MVbupFwmRx7Ux2wfLTCM8YmLAZ9W~4339507~4535856",
+        "expiry": 1704894338,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cmpiuid": {
+    "visit_id": 1,
+    "name": "__cmpiuid",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b1ff4e6127ac45b386510755b6ac2e0d",
+        "expiry": 1736415938,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".eventim.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1C4328758204471BD7A47385B0845E10~000000000000000000000000000000~YAAQJH16XArPotqMAQAAm17D8haW6fA5ENYZ0iSt9k2uAE/sr2XIBGqtxAnZdkFrQJRwYATqq7yOHwmXcPAhcf71KRp1BImAVrDcnN8dF2ji0keGIgWAnSIk5i6nvBYa8SCVCa5ws1pDEKeUj9pjhXYJCh5KWNTVe0IzlKxjiHGy4btt0QVkpc7UyD6elRUhSvhNq33X4tucD1KT9oEcKbkH0aeW2ipZvfx0HiWDF1cam86BVeog68Wrdbc93AkCLh4b9E6SHBgGGpfZsVHbjRcLrddQycTYP19V8puWwkVodlRp/OBLFm59cxBPvgGwP/g3zjVL1ZdpyOeTaFKABSap96DD2+wOXcazWTwLh1cyUVEoYG+1/zq9vzJavMhkHbNWKxftzm0=",
+        "expiry": 1704887138,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5623B855E6A1E3BDB9DC25AFBC0B7E94~-1~YAAQJH16XBPPotqMAQAAJGDD8gswlvgu6KN0FmK1D1c7ZfvMvC8kx9aDi6k6g0n0WLjoNTwuLUk5OArSpVV052+CUPuQJkLlG7r0NrIgH+7tORK+oK+O1yzDi/Jw3R5JMnYwrcxQ7XfmoFbe4CGZ9ZEEbI1s5qyWy9gPjRXJIi0C16c7ebAqnrKei8uo/OYeVojIRckHH+pH4DkNbmlkSDxzoweIwYzII+u+j+G/2Vc0JcIdCzwy9H4yM4XxZmHnUiV8bgss5So8QOqr0aBWBDatmRLD1YxJx3o082ZZlvmK1fTw+FRgmWqzjRECQ2K1NzfD216LODs/6WXGYCt3DdIKM5CbjkCJPXly/kwS2q9cFalR1umpLXE+bLjKHjJNRft2OolqyYldRoN6~-1~-1~1704883435",
+        "expiry": 1736415939,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cmpconsentx36053": {
+    "visit_id": 1,
+    "name": "__cmpconsentx36053",
+    "domain": ".consentmanager.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "BP4MAiyP4MAiyAfA1BITABAAAAA_eAqAADAAoACwAGgAVgAuADIAHAAQAAkABOACoAFoAMgAaAA_gCIAIoARwAkgBMACcAFIAKoAXgA_QCAAIGAQYBCACOAEoAJwAUgArQBogDxAH6AQMAhABFgCcAFNANOAcIBGoD9w",
+        "expiry": 1736415941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cmpcvcx36053": {
+    "visit_id": 1,
+    "name": "__cmpcvcx36053",
+    "domain": ".consentmanager.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "__s94_s1052_s64_s73_s335_s23_c20617_c9953_s7_s1433_s1_s26_s135_s1104_s1409_s161_s153_s11_s898_c22143_s460_s358_c21373_c10856_s196_s34_s203_s30_s1189_U__",
+        "expiry": 1736415941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cmpcpcx36053": {
+    "visit_id": 1,
+    "name": "__cmpcpcx36053",
+    "domain": ".consentmanager.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "__1_2_3_4__",
+        "expiry": 1736415941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cmpcvc": {
+    "visit_id": 1,
+    "name": "__cmpcvc",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "__s94_s1052_s64_s73_s335_s23_c20617_c9953_s7_s1433_s1_s26_s135_s1104_s1409_s161_s153_s11_s898_c22143_s460_s358_c21373_c10856_s196_s34_s203_s30_s1189_U__",
+        "expiry": 1736415941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cmpcpc": {
+    "visit_id": 1,
+    "name": "__cmpcpc",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "__1_2_3_4__",
+        "expiry": 1736415941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cmpiab": {
+    "visit_id": 1,
+    "name": "__cmpiab",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "_50_39_264_565_259_68_23_156_128_450_94_85_209_126_24_45_312_1_78_131_253_10_333_278_129_148_63_52_142_241_69_164_76_11_71_1015_73_82_13_42_132_21_423_28_36_32_25_173_",
+        "expiry": 1736415941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cmpiabli": {
+    "visit_id": 1,
+    "name": "__cmpiabli",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "_50_39_264_565_259_68_23_156_128_450_94_85_209_126_24_45_312_1_78_131_253_10_333_278_129_148_63_52_142_241_69_164_76_11_71_1015_73_82_13_42_132_21_423_28_36_32_25_173_",
+        "expiry": 1736415941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "initialReferrer": {
+    "visit_id": 1,
+    "name": "initialReferrer",
+    "domain": "www.ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "permInfo": {
+    "visit_id": 1,
+    "name": "permInfo",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704789316153956134A10012024A10012024",
+        "expiry": 1739439941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "webshop": {
+    "visit_id": 1,
+    "name": "webshop",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "YW1vdW50PTAmYW1vdW50X2V2aWRzPTAmY3VycmVuY3lfY29kZT1FVVImZGV2aWNlX2luZm89MCZldmlkc19pbl9jYXJ0PSZldm9fbXljbHVic19tZW1iZXI9JmtleT1ORE1tRU1mdVJLdlkma3BzX3VybD0mbGFuZ3VhZ2U9aXQmbG9jYWxlPWl0X2l0JmxvZ2luPTAmbW9kPTEmcGtpZHNfaW5fY2FydD0mcHJpY2U9MC4wMCZyYW5kb209Njg5NjgmcmVmZXJlcj1odHRwcyUzQSUyRiUyRnd3dy50aWNrZXRvbmUuaXQlMkYmcmVzZXJ2YXRpb25fZHVyYXRpb249MCZ0aWNrZXRhbW91bnRfcHJpY2VzX3BraWQ9",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_D0PL176BWD": {
+    "visit_id": 1,
+    "name": "_ga_D0PL176BWD",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704879941.1.0.1704879941.0.0.0",
+        "expiry": 1739439941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1680176349.1704879941",
+        "expiry": 1704966341,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_dc_gtm_UA-78684294-36": {
+    "visit_id": 1,
+    "name": "_dc_gtm_UA-78684294-36",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704880001,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPAU": {
+    "visit_id": 1,
+    "name": "FPAU",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.2.206042065.1704879942",
+        "expiry": 1712655941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1230991611.1704879941",
+        "expiry": 1739439941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704879941661.305567258",
+        "expiry": 1712655941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "muc_ads": {
+    "visit_id": 1,
+    "name": "muc_ads",
+    "domain": ".t.co",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ef99b098-08d0-42e7-9cdf-fcb670b07bc9",
+        "expiry": 1739439941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "personalization_id": {
+    "visit_id": 1,
+    "name": "personalization_id",
+    "domain": ".twitter.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"v1_bcGL4ULOe+rF5Cdq8ZNueQ==\"",
+        "expiry": 1739439941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gads": {
+    "visit_id": 1,
+    "name": "__gads",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ID=bfc52424ccaab5ad:T=1704879941:RT=1704879941:S=ALNI_MaybKACqRMClhLEUa4Kup8_qoQAwA",
+        "expiry": 1738575941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gpi": {
+    "visit_id": 1,
+    "name": "__gpi",
+    "domain": ".ticketone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "UID=00000d3f10eee30d:T=1704879941:RT=1704879941:S=ALNI_MZbNFiiMmJcZuqUTgudiaKEmul4fg",
+        "expiry": 1738575941,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUl1oM67pZdBrj4xgV0GRnWjM913clKG21NpNYTr6tMZjLFeIGIAFcwTw-GD5ZI",
+        "expiry": 1738575942,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

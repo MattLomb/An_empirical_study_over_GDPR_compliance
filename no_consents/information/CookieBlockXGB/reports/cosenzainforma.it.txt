@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: cosenzainforma.it 
+NECESSARY COOKIES = LSW_WEB,OAID,_ga,SSID_PCT-cosenzainformait,SV_PCT-cosenzainformait,SSC_PCT-cosenzainformait,SN_PCT-cosenzainformait,addtl_consent
+FUNCTIONAL COOKIES = _ga_EXJMRNR80R,_ga_KE4MM2WSY8,_ga_EP9CNQNKWS,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

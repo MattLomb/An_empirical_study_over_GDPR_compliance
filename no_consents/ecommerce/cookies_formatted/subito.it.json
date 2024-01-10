@@ -1,0 +1,162 @@
+{
+  "kppid": {
+    "visit_id": 1,
+    "name": "kppid",
+    "domain": ".subito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "DF35636CE8321501462CF9A1",
+        "expiry": 1723023726,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "didomi_token": {
+    "visit_id": 1,
+    "name": "didomi_token",
+    "domain": ".subito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ1c2VyX2lkIjoiMThjZjJjMDItMmRlMC02YTRjLWIzNzEtNzJhNjVkZDcwNmY4IiwiY3JlYXRlZCI6IjIwMjQtMDEtMTBUMDk6NDI6MDcuMzQzWiIsInVwZGF0ZWQiOiIyMDI0LTAxLTEwVDA5OjQyOjA3LjM0NFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+        "expiry": 1736502127,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cis-jwe": {
+    "visit_id": 1,
+    "name": "cis-jwe",
+    "domain": ".mpianalytics.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDEtMTBUMDk6NDI6MDdaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..KGec2dC8gfrXePyMcFWOUw.x5WhnaejCVeoOPluEIDP8_Qnmt6bnxKOdy_TYh_FQnDrMyIUbgSBqDDacZCnjbJ-WfRMmBH_wBaH_2okcXwZ1kAJNfMvgOhTjuJMmlkytie-A4kh0dpMsx9cnQOfEYmbrAMqBfZ_IR6djnmOF1lHCeqJZJ_q7TDonNtfZ0rhMy8MWTDXtyZnKmEv4p3nVP9629nSUFB2Z7FySsBG2d-1Bw.vtu7WnxbtpmVLGWe84eQUQ",
+        "expiry": 1736415727,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pulse2data": {
+    "visit_id": 1,
+    "name": "_pulse2data",
+    "domain": ".subito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f89db056-1662-49dc-8048-c5b836b9f3d5%2Cv%2C%2C1704880627681%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDEtMTBUMDk6NDI6MDdaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..KGec2dC8gfrXePyMcFWOUw.x5WhnaejCVeoOPluEIDP8_Qnmt6bnxKOdy_TYh_FQnDrMyIUbgSBqDDacZCnjbJ-WfRMmBH_wBaH_2okcXwZ1kAJNfMvgOhTjuJMmlkytie-A4kh0dpMsx9cnQOfEYmbrAMqBfZ_IR6djnmOF1lHCeqJZJ_q7TDonNtfZ0rhMy8MWTDXtyZnKmEv4p3nVP9629nSUFB2Z7FySsBG2d-1Bw.vtu7WnxbtpmVLGWe84eQUQ%2C%2C%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..2BuMDD-6itSnTue9F03nM2s5GCxoAxPTV5_7ThjNE5Y",
+        "expiry": 1739439727,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".subito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.318739143.1704879728",
+        "expiry": 1739439727,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_D72SGH4DYJ": {
+    "visit_id": 1,
+    "name": "_ga_D72SGH4DYJ",
+    "domain": ".subito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704879727.1.0.1704879727.0.0.0",
+        "expiry": 1739439727,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".subito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.e6Xo3jCCpgEY%2FZtNaHA3QWj2ax7t2l9MflwaexVBUqA%3D.1704879728",
+        "expiry": 1739439728,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".subito.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "kBhqWVWen04TwIbPNRc1lV%2FET7ZU3qemNSX2xAeGFyuNebhZqSXe7mOdL4HQlu6gvUQ59BbnHJ%2Fk5tFNpyVqn2%2B7zaGXTVijp4T0XLoKOWxCzr6jnxvR3cLrQJQfiA%3D%3D",
+        "expiry": 1704951728,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

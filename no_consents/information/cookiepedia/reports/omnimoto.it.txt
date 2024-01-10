@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: omnimoto.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,uid
+ADVERTISING COOKIES = _gat_UA-15680706-1,IMRID,uuid,IDE,mt_mop
+UNCLASSIFIED COOKIES = __cf_bm,_ga_WLSCLY7QYF,cProfile,C,cP,cOptout,tr,FCCDCF,mt_misc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

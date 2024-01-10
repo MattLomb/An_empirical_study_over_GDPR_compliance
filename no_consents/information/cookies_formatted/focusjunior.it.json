@@ -1,0 +1,222 @@
+{
+  "wteid_769396664005295": {
+    "visit_id": 1,
+    "name": "wteid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170485672500544767",
+        "expiry": 1720408725,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtsid_769396664005295": {
+    "visit_id": 1,
+    "name": "wtsid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALB": {
+    "visit_id": 1,
+    "name": "AWSALB",
+    "domain": "www.focusjunior.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "DbGvuAIuznY0V30YFmXGQnWCxSVBva+EKIAZTaF3KUX/QU3bPY9gbge3QldVCByEglsVbiwnIlJB8OJZhz5N6zdoFIdGcqjolhHLnGBmBZgSv3dTY4iLK9emixjA",
+        "expiry": 1705461524,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "www.focusjunior.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "DbGvuAIuznY0V30YFmXGQnWCxSVBva+EKIAZTaF3KUX/QU3bPY9gbge3QldVCByEglsVbiwnIlJB8OJZhz5N6zdoFIdGcqjolhHLnGBmBZgSv3dTY4iLK9emixjA",
+        "expiry": 1705461524,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_KDJXYW2KGW": {
+    "visit_id": 1,
+    "name": "_ga_KDJXYW2KGW",
+    "domain": ".focusjunior.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704856724.1.0.1704856724.0.0.0",
+        "expiry": 1739416724,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".focusjunior.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.340430862.1704856725",
+        "expiry": 1739416724,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".focusjunior.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1150835279.1704856725",
+        "expiry": 1704943124,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_2621666_1": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_2621666_1",
+    "domain": ".focusjunior.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704856784,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_rla": {
+    "visit_id": 1,
+    "name": "wt_rla",
+    "domain": ".focusjunior.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "769396664005295%2C1%2C1704856725070",
+        "expiry": 1710040725,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!yHUgDF2KmKxIPvk8AP7SORvNY+Kz1CtrLxz9geD8Bm5vmG9H5rWKYqN6GAx6K2woleYC7Iv6WLlRyQ==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f6a5a580-af66-11ee-b1ef-77544ad65d0b",
+        "expiry": 1738552725,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

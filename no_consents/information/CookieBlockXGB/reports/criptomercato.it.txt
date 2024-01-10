@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: criptomercato.it 
+NECESSARY COOKIES = __lxG__consent__v2
+FUNCTIONAL COOKIES = _ga_M9G48MK5MC,_ga,UID,__lxG__consent__v2_daisybit
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,242 @@
+{
+  "AWSALB": {
+    "visit_id": 1,
+    "name": "AWSALB",
+    "domain": "thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D6XG8ingGH3S4C6r9ZQoCU0b7s8y2In8NGTOEEKR+CVYgEywzISJQKFLEyx3s0o0wAbSVatZXk/FnymFuLtPyrJ3xx2svLd764g2Nj3wYVJEm2Sk+dnjbUWyMVbM",
+        "expiry": 1705464468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D6XG8ingGH3S4C6r9ZQoCU0b7s8y2In8NGTOEEKR+CVYgEywzISJQKFLEyx3s0o0wAbSVatZXk/FnymFuLtPyrJ3xx2svLd764g2Nj3wYVJEm2Sk+dnjbUWyMVbM",
+        "expiry": 1705464468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_sid": {
+    "visit_id": 1,
+    "name": "wtstp_sid",
+    "domain": ".thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_eid": {
+    "visit_id": 1,
+    "name": "wtstp_eid",
+    "domain": ".thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2170485966986153382",
+        "expiry": 1720411669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_cdbeid": {
+    "visit_id": 1,
+    "name": "wtstp_cdbeid",
+    "domain": ".thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704860569,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_rla": {
+    "visit_id": 1,
+    "name": "wtstp_rla",
+    "domain": ".thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "769396664005295%2C1%2C1704859669585",
+        "expiry": 1710043669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_RC45NXY7YQ": {
+    "visit_id": 1,
+    "name": "_ga_RC45NXY7YQ",
+    "domain": ".thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704859669.1.0.1704859669.0.0.0",
+        "expiry": 1739419669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!DUSqW71yvJO3EcM8AP7SORvNY+Kz1GGgFv+6IE5fKSH6WEspenOVkrQBA60QBu7Y4GlXLCmNvId+oA==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.44223764.1704859670",
+        "expiry": 1739419669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1463821161.1704859670",
+        "expiry": 1704946069,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_200544297_1": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_200544297_1",
+    "domain": ".thewom.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704859730,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d1dcab20-af6d-11ee-b1ef-77544ad65d0b",
+        "expiry": 1738555670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

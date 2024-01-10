@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: agriturismo.it 
+NECESSARY COOKIES = CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = MUID,_gat_gtag_UA_8889691_1,IDE
+UNCLASSIFIED COOKIES = _ga_QW473961LR,_ga_4XWRPKX83W,iperceptions.com
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

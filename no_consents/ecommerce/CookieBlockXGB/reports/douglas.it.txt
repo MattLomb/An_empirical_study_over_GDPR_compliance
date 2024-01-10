@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: douglas.it 
+NECESSARY COOKIES = ncx,bm_sz,PIM-SESSION-ID,akacd_PIM-prd_ah_rollout,ROUTE,akavpau_VP-IT,_teal_perf,utag_main
+FUNCTIONAL COOKIES = bm_mi,demdex,s_ecid,ak_bmsc,bm_sv,_abck,_teal_stateVar,TAPID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = AMCVS_CE025F3E56F292177F000101%40AdobeOrg,AMCV_CE025F3E56F292177F000101%40AdobeOrg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: snai.it 
+NECESSARY COOKIES = bm_mi,bm_sv,ak_bmsc
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = RT
+ADVERTISING COOKIES = IDE
+UNCLASSIFIED COOKIES = regUUID,cookie-analitici_v2,cookie-tecnici_v2,SESS4371b8d25743ccb402924601d467f83e,bm_sz,OTP,_abck
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

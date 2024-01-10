@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: agriturismo.it 
+NECESSARY COOKIES = _gat_gtag_UA_8889691_1,iperceptions.com,CookieConsent
+FUNCTIONAL COOKIES = MUID,_ga_QW473961LR,_ga,_gid,_ga_4XWRPKX83W,IDE
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

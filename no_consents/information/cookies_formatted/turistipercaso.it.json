@@ -1,0 +1,422 @@
+{
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".turistipercaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1788741930.1704860024",
+        "expiry": 1712636024,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".turistipercaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704860024256.276838463",
+        "expiry": 1712636027,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "YSC": {
+    "visit_id": 1,
+    "name": "YSC",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dgBl1gzl7iA",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "VISITOR_INFO1_LIVE": {
+    "visit_id": 1,
+    "name": "VISITOR_INFO1_LIVE",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Z9Yl6DDJU9w",
+        "expiry": 1720412024,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_XQ2DN0FMYD": {
+    "visit_id": 1,
+    "name": "_ga_XQ2DN0FMYD",
+    "domain": ".turistipercaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704860024.1.0.1704860024.0.0.0",
+        "expiry": 1739420024,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".turistipercaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.100861510.1704860024",
+        "expiry": 1739420024,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUk-DWZHVexoOFdrsBF-1J8UjrX1ePQH1otWcW8uHCsjjeOU-PpLzjDbHwMw0a4",
+        "expiry": 1738556024,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid": {
+    "visit_id": 1,
+    "name": "uuid",
+    "domain": ".mathtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6021659e-1979-4600-a905-c1c91a9f0704",
+        "expiry": 1738815225,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707538424,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1902964476687021416",
+        "expiry": 1710044024,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cP": {
+    "visit_id": 1,
+    "name": "cP",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AVoDGeMnAL4F2gAAAAABsZF+",
+        "expiry": 1736396026,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cOptout": {
+    "visit_id": 1,
+    "name": "cOptout",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0|yocToken:yuezWdTaTITBalAoVeDYjx46RBg",
+        "expiry": 1736396024,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cProfile": {
+    "visit_id": 1,
+    "name": "cProfile",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AQMZ4ycDQgXAAAAAAAAEAAABjQYs8aEAB2RlZmF1bHQ=",
+        "expiry": 1706156025,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mt_mop": {
+    "visit_id": 1,
+    "name": "mt_mop",
+    "domain": ".mathtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1707452035,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tr": {
+    "visit_id": 1,
+    "name": "tr",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "loCAwIOmQURGT1JNzmWfavmjREJNzmWfavmpTUVESUFNQVRIzmWfavqAg9oAKzMxOWUzMjcwMGJlMDVkYV9DQUVTRUx3c3N5OUtoNDd6a00yb0tQZHJDTVHOZZ4ZedoAIzMxOWUzMjcwMGJlMDVkYV8xOTAyOTY0NDc2Njg3MDIxNDE2zmWeGXnaADQzMTllMzI3MDBiZTA1ZGFfNjAyMTY1OWUtMTk3OS00NjAwLWE5MDUtYzFjOTFhOWYwNzA0zmWeGXo=",
+        "expiry": 1736396026,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FCCDCF": {
+    "visit_id": 1,
+    "name": "FCCDCF",
+    "domain": ".turistipercaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CP4KqwAP4KqwAEsACCITAiEgAAAAAAAAAAAgAABBQhTwABAAKABgAGgAQgAwADIAGwAPgAiABKACqAFgAWgA4gB0AHcAPQA-ACKAE4AKIAWgAvABhADIAG0AOcAdwB4AD4AIKARQBGACZAE6AJ8AUIApABWgC-AGIANIAagA2AB1gDtAHiAPMAfIA_gCBwESARMAkwBN4CegJ8AUUApYBTYCvAK-AWYAvgBfgDAAGNAM0AZ8A1wBswDgAHLAOuAeiA94D5AH7AQAAgwBDYCJQEVAI1gR2BHgCSIEsgS0Al4BOgChAFRAKrAVfAr4CvwFhwLLAs0BZ4C1QFrgLeAXLAukC6gF2ALuAXoAvcBgADAgGDwMLAwwBiYDGQGNgMdAZAAyiBl4GYQM1AzYBn8DQgNDAaVA1ADUgGrANaAa7A2EDYgGygNqAbiA3yBwgHDAOOAc5A6EDo4HUgdUA7IB28DuQO6gd4B3oDvwHhAPIAeYA88B7wD4wH4gP4gf4B_wEAAIBQQIBAkCCgEFoIMgg0BB8CEgELAIaQQ3BDgCHYERgIlARWAiyBGYCNUEbARuAjhBHIEcwI-ASBgkWCRgEvAJhQTGBMcCZIQUAAA.YAAAAAAAAAA%22%2C%221~%22%2C%22306B5016-2943-430A-ACF2-970E96248670%22%5D%5D",
+        "expiry": 1738556027,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "GLAM-JID": {
+    "visit_id": 1,
+    "name": "GLAM-JID",
+    "domain": "turistipercaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4b3c5f9831154a359e995397146715e1",
+        "expiry": 1704861228,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "GLAM-AID": {
+    "visit_id": 1,
+    "name": "GLAM-AID",
+    "domain": "turistipercaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "795d71d654874576bf43f272e51f5141",
+        "expiry": 1707452028,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "GLAM-SID": {
+    "visit_id": 1,
+    "name": "GLAM-SID",
+    "domain": "turistipercaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "381e8100b3d84addb5d9914c540784b9",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__j_state": {
+    "visit_id": 1,
+    "name": "__j_state",
+    "domain": "turistipercaso.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22landing_url%22%3A%22https%3A%2F%2Fturistipercaso.it%2F%22%2C%22pageViews%22%3A1%2C%22prevPvid%22%3A%221cc7635afe81405095550fac0d0ee9a7%22%2C%22extreferer%22%3A%22https%3A%2F%2Fturistipercaso.it%2F%22%2C%22user_worth%22%3A0%7D",
+        "expiry": 1704861228,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mt_misc": {
+    "visit_id": 1,
+    "name": "mt_misc",
+    "domain": ".mathtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "mt_bt:1704860035",
+        "expiry": 1707452035,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

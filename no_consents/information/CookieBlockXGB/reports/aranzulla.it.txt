@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: aranzulla.it 
+NECESSARY COOKIES = wteid_927615140575951,wtsid_927615140575951,wt_nbg_Q3,test_cookie,_iub_cs-281842-granular,_iub_cs-281842
+FUNCTIONAL COOKIES = wt_rla,IMRID,_ga_9D6DKK0Y09,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

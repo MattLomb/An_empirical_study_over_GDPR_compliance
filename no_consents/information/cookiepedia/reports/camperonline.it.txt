@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: camperonline.it 
+NECESSARY COOKIES = ASPSESSIONIDCGBTBTBB,PHPSESSID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = YSC,_ga,_gid
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE,test_cookie,_gat_UA-73886531-1,_gat_UA-73886531-4
+UNCLASSIFIED COOKIES = pmtimesig,_ga_3B49PRNS8L,euconsent-v2,_ga_N4WSCHKT5Y,_ga_QPW13KFHH2,cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

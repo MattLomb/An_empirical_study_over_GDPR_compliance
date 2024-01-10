@@ -1,0 +1,102 @@
+{
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "www.aou.mo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "hfogkifk7lrdnh33qfk5ln80u0",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "fxs": {
+    "visit_id": 1,
+    "name": "fxs",
+    "domain": "www.aou.mo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659e5d250cc8b1.81260589%3A12883",
+        "expiry": 1736434300,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.7lpamA5pvM.e63c": {
+    "visit_id": 1,
+    "name": "_pk_id.7lpamA5pvM.e63c",
+    "domain": "www.aou.mo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "90d3851361e14cd4.1704877350.",
+        "expiry": 1738832550,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.7lpamA5pvM.e63c": {
+    "visit_id": 1,
+    "name": "_pk_ses.7lpamA5pvM.e63c",
+    "domain": "www.aou.mo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704879150,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "NID": {
+    "visit_id": 1,
+    "name": "NID",
+    "domain": ".google.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "511=VbadiUoQWd9iaqp_34ycHu_H9EJYXKa1lrj-sHRsEMGu9XO_Z92E_ZwbiUYtffv0jfgxIcyOaHqM4xi7GLcWhAFJTi6Uaj3m1z3i58lk-NmCWBoY4cnNQhegvH3lunZ5L5sL07e8BqfNdkFdQmRb1OVpgtM5M1_SpDFVOIiX0dg",
+        "expiry": 1720688550,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

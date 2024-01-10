@@ -1,0 +1,162 @@
+{
+  "_ga_9ENNG7528Z": {
+    "visit_id": 1,
+    "name": "_ga_9ENNG7528Z",
+    "domain": ".oaplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704849774.1.0.1704849774.60.0.0",
+        "expiry": 1739409774,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".oaplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1063091023.1704849774",
+        "expiry": 1739409777,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_sharedID": {
+    "visit_id": 1,
+    "name": "_sharedID",
+    "domain": ".oaplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3c24d389-ae56-4f68-a278-1f920d252af7",
+        "expiry": 1736385780,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_sharedID_cst": {
+    "visit_id": 1,
+    "name": "_sharedID_cst",
+    "domain": ".oaplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9Sx3LHIssw%3D%3D",
+        "expiry": 1736385780,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "FCCDCF": {
+    "visit_id": 1,
+    "name": "FCCDCF",
+    "domain": ".oaplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CP4KqwAP4KqwAEsACCITAiEgAAAAAAAAABCYAAARtgbAABgAYABoAEIAMAAyABsAEQAJYATgBQACoAFsAOQA7gCKAIwATgAogBeADCAG0AO4AfABBQCLAIwASYAnQBQgCkAFaANIAagA8QB5gEDAImASYAm4BPQCmgGAAMaAZ8A9QCAAEagI8AS0Ar8BZgC3gF7gMTAYyA6ECDQEZgI2gAA.YAAAAAAAAAA%22%2C%222~~dv.2072.41.70.89.93.108.122.149.2213.196.2253.2299.259.2320.2328.2331.2357.311.313.317.323.2373.338.358.2415.385.415.449.2506.469.2526.482.486.494.495.2567.2568.2571.2572.2575.540.574.2624.609.2677.2710.2878.2898.864.981.1029.3077.1048.1051.3100.1067.1095.1097.3234.1201.1205.1211.1276.3325.1301.1329.1344.1365.1415.1449.1451.1516.1570.1577.1598.1616.1651.1716.1735.1753.1765.1782.1870.1878.1889.1917.1958.1960.1985%22%2C%223943A71B-31FF-4FF4-A202-4851E327BD39%22%5D%5D",
+        "expiry": 1738545776,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_394CXNSB1T": {
+    "visit_id": 1,
+    "name": "_ga_394CXNSB1T",
+    "domain": ".oaplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704849777.1.0.1704849777.60.0.0",
+        "expiry": 1739409777,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lotame_domain_check": {
+    "visit_id": 1,
+    "name": "lotame_domain_check",
+    "domain": ".oaplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "oaplus.it",
+        "expiry": 1704849787,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "panoramaId_expiry": {
+    "visit_id": 1,
+    "name": "panoramaId_expiry",
+    "domain": ".oaplus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704936180570",
+        "expiry": 1704936180,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

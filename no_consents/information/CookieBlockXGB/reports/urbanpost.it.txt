@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: urbanpost.it 
+NECESSARY COOKIES = _iub_cs-28136270,_iub_cs-28136270-granular,euconsent-v2
+FUNCTIONAL COOKIES = _ga_ZPWX8TKCB0,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: interlive.it 
+NECESSARY COOKIES = euconsent-v2,addtl_consent,ar_debug
+FUNCTIONAL COOKIES = _ga,UID,_ga_0TXYTRT4K3,APC,IDE
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

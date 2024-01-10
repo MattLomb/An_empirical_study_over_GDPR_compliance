@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: senzacolonnenews.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,_ga,_gid
+ADVERTISING COOKIES = test_cookie,_gat_UA-43462414-1
+UNCLASSIFIED COOKIES = __cf_bm,SSID_SS-18321395-7f8aa,SV_SS-18321395-7f8aa,SSC_SS-18321395-7f8aa,SN_SS-18321395-7f8aa,_ga_PNZ3QM327E,euconsent-v2,pubtech-cmp-pcstring
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

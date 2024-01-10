@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: gianlucadimarzio.com 
+NECESSARY COOKIES = gpv_pn,OAGEO,OAID,AMCVS_1A124673527853290A490D45%40AdobeOrg,s_cc,euconsent-v2,addtl_consent,C,uid,IDE,AFFICHE_W,A3,_kuid_,everest_g_v2,ar_debug,d,ad-privacy,ad-id,IDSYNC,mt_misc,mt_mop
+FUNCTIONAL COOKIES = demdex,_ga_F0L4WPL9Q8,_ga,s_ecid,AMCV_1A124673527853290A490D45%40AdobeOrg,s_sq,UID,dpm,ab,_uid,mc,uuid,EE,ud,XANDR_PANID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE,consentCategory,_fbp,zc,zsc,uuid2,TapAd_3WAY_SYNCS,TapAd_TS,TapAd_DID,cProfile,cP,cOptout,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

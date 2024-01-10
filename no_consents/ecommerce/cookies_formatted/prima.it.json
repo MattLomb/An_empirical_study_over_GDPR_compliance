@@ -1,0 +1,282 @@
+{
+  "_cfuvid": {
+    "visit_id": 1,
+    "name": "_cfuvid",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "PYpIxeWMFQcwWmdDuxzKMHFjylmkAp5nwoeJ9q6PmUk-1704890555812-0-604800000",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookies_acceptance": {
+    "visit_id": 1,
+    "name": "cookies_acceptance",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "needed",
+        "expiry": 1739450556,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wus_uid": {
+    "visit_id": 1,
+    "name": "wus_uid",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e75b0a83-7a03-4ce8-8b6e-a4ca6c752f44",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wu_uid": {
+    "visit_id": 1,
+    "name": "wu_uid",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6306f7d8-f42d-4642-ae3e-4a4551be45a5",
+        "expiry": 1736426556,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.597839980.1704890557",
+        "expiry": 1712666556,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_7WC4WYGG2E": {
+    "visit_id": 1,
+    "name": "_ga_7WC4WYGG2E",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704890556.1.0.1704890556.60.0.0",
+        "expiry": 1739450556,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.551884261.1704890557",
+        "expiry": 1739450558,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cs_c": {
+    "visit_id": 1,
+    "name": "_cs_c",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1739054557,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_cs_id": {
+    "visit_id": 1,
+    "name": "_cs_id",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "88850d79-e141-ae80-8f3a-dacc9be1df65.1704890557.1.1704890557.1704890557.1.1739054557137.1",
+        "expiry": 1739054557,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_cs_s": {
+    "visit_id": 1,
+    "name": "_cs_s",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.5.0.1704892357453",
+        "expiry": 1704892357,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_KN5MSPESZV": {
+    "visit_id": 1,
+    "name": "_ga_KN5MSPESZV",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704890558.1.0.1704890558.0.0.0",
+        "expiry": 1739450558,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.aCH2XFPV%2BbaUip86T8QiGCe7D4NKK1oly9%2B%2BenVpHTs%3D.1704890557",
+        "expiry": 1739450558,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2Yq3HB5FxfoV4M%2FeOuny3843TZmwqKH5EViCSFkQl2c9DB1irVfCzan2erpvQ70WLsGw2C9dHK%2BQhJ70JUxrXfZO1R8hCoT3OEis%2F%2FfI4L727gQvZezeF%2FQPXmRk%2BQ%3D%3D",
+        "expiry": 1704962558,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_dd_s": {
+    "visit_id": 1,
+    "name": "_dd_s",
+    "domain": "www.prima.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "rum=1&id=257df3c5-9783-4dd6-8203-09566deeefc3&created=1704890556337&expire=1704891456337",
+        "expiry": 1704891470,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  }
+}

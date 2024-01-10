@@ -1,0 +1,1402 @@
+{
+  "__GDPRcorriere_ct": {
+    "visit_id": 1,
+    "name": "__GDPRcorriere_ct",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1735966131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__CPcorriere_ct": {
+    "visit_id": 1,
+    "name": "__CPcorriere_ct",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3",
+        "expiry": 1735966131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "apw_cache": {
+    "visit_id": 1,
+    "name": "apw_cache",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0..1704862125.NdCzKg.IT.0...0.0...x5g__7ku4TcnxwrekIPmhI5NFgq59ecH09TIo4w9sTg",
+        "expiry": 1736398125,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "apw_browser": {
+    "visit_id": 1,
+    "name": "apw_browser",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1250744791000458624.",
+        "expiry": 1736398126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "PermutiveRandomInt": {
+    "visit_id": 1,
+    "name": "PermutiveRandomInt",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9",
+        "expiry": 1736398126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rcsMeteo": {
+    "visit_id": 1,
+    "name": "rcsMeteo",
+    "domain": "www.corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4074%7CMilano%7C/italia/lombardia/milano",
+        "expiry": 1736398126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuidv4": {
+    "visit_id": 1,
+    "name": "uuidv4",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "44f1fc10-08ab-4c91-929c-c4212936ef3f",
+        "expiry": 1736398129,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TSstop": {
+    "visit_id": 1,
+    "name": "TSstop",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "NA|1704862126244",
+        "expiry": 1736398126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "02147607777961738552279286945089336584",
+        "expiry": 1720414126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCVS_AA5673AE52E15B730A490D4C%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCVS_AA5673AE52E15B730A490D4C%40AdobeOrg",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_fid_old": {
+    "visit_id": 1,
+    "name": "s_fid_old",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "11211638607318296101356832786633943165",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_fbsr": {
+    "visit_id": 1,
+    "name": "s_fbsr",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704863932,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_nr": {
+    "visit_id": 1,
+    "name": "s_nr",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704862126571-New",
+        "expiry": 1707454126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OMN_LNK_CR": {
+    "visit_id": 1,
+    "name": "OMN_LNK_CR",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5BB%5D%5D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ips": {
+    "visit_id": 1,
+    "name": "s_ips",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "725",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_cc": {
+    "visit_id": 1,
+    "name": "s_cc",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pctx": {
+    "visit_id": 1,
+    "name": "_pctx",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAmATgFYA7NwAsYgMwcAHAAYh-AGziQAXyA",
+        "expiry": 1738990131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "FP_PRVT_USER": {
+    "visit_id": 1,
+    "name": "FP_PRVT_USER",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1712810926,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FP_PRVT_USER_LSTLGN": {
+    "visit_id": 1,
+    "name": "FP_PRVT_USER_LSTLGN",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704862126714",
+        "expiry": 1712810926,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pcid": {
+    "visit_id": 1,
+    "name": "_pcid",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22browserId%22%3A%22lr7aw41dph4gbfls%22%7D",
+        "expiry": 1738990131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "FP_PRVT_USER_NPM": {
+    "visit_id": 1,
+    "name": "FP_PRVT_USER_NPM",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1712810926,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UESeg": {
+    "visit_id": 1,
+    "name": "UESeg",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "11211638607318296101356832786633943165",
+        "expiry": 1735966126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "everest_g_v2": {
+    "visit_id": 1,
+    "name": "everest_g_v2",
+    "domain": ".everesttech.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "g_surferid~ZZ4hrgAAAEsLmANn",
+        "expiry": 1736398126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8a14c1a0-af73-11ee-ae0a-39c038e49e8f",
+        "expiry": 1738558126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "02147607777961738552279286945089336584",
+        "expiry": 1720414126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_AA5673AE52E15B730A490D4C%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_AA5673AE52E15B730A490D4C%40AdobeOrg",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1176715910%7CMCIDTS%7C19733%7CMCMID%7C11211638607318296101356832786633943165%7CMCAAMLH-1705466926%7C6%7CMCAAMB-1705466926%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1704869326s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19740%7CvVersion%7C5.4.0",
+        "expiry": 1739422126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_cpwall": {
+    "visit_id": 1,
+    "name": "_pc_cpwall",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1735966126,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".piano.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ssb_kblR.Dyi3wWexP1hviLCK6xsnxG4staCry_6DDw-1704862127-1-AbZfSy8a9m2gm3eR6Bbr7Ph3x4EJ0qxcUvhIuKuBURS8QvO2jL750Kl9V/e7To0BmvA216tvE/oQ8V6uZALqrmA=",
+        "expiry": 1704863926,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__pat": {
+    "visit_id": 1,
+    "name": "__pat",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3600000",
+        "expiry": 1707454131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pc_rcsad_abbonato": {
+    "visit_id": 1,
+    "name": "_pc_rcsad_abbonato",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736484531,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cX_P": {
+    "visit_id": 1,
+    "name": "cX_P",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "lr7aw41dph4gbfls",
+        "expiry": 1738990131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pnespsdk_visitor": {
+    "visit_id": 1,
+    "name": "pnespsdk_visitor",
+    "domain": "www.corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "wvsfg0yz7yugrzg5",
+        "expiry": 1736484531,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "LANG": {
+    "visit_id": 1,
+    "name": "LANG",
+    "domain": ".tinypass.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en_US",
+        "expiry": 1739422131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "LANG_CHANGED": {
+    "visit_id": 1,
+    "name": "LANG_CHANGED",
+    "domain": ".tinypass.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en_US",
+        "expiry": 1704948531,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cX_G": {
+    "visit_id": 1,
+    "name": "cX_G",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cx%3A39i4bd4jz19392dyjbsttaful4%3A2mb9du58i9j7x",
+        "expiry": 1738990127,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gckp": {
+    "visit_id": 1,
+    "name": "gckp",
+    "domain": ".cxense.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cx:39i4bd4jz19392dyjbsttaful4:2mb9du58i9j7x",
+        "expiry": 1736398131,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cb": {
+    "visit_id": 1,
+    "name": "_cb",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Fe-_7VF138D5tGvs",
+        "expiry": 1738990128,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_chartbeat2": {
+    "visit_id": 1,
+    "name": "_chartbeat2",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Fe-_7VF138D5tGvs.1704862128090.1704862128090.1.CVw9TWDDc2J82BAV6",
+        "expiry": 1738990128,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_tp": {
+    "visit_id": 1,
+    "name": "s_tp",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "34963",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ppv": {
+    "visit_id": 1,
+    "name": "s_ppv",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "COR%252F%2C2%2C2%2C725%2C1%2C48",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwADaAAAENAeEgAAAAAAAAABCYg1NX_H__bX9r8Xr36ft0eY1f99j77sQxBhfJk-4FyLvW_JwX32EyNA26tqYKmRIEu3ZBIQFlHJHURVigaogVrzHsYkGcgTNKJ6BkgFMRY2dYCF5vmYtj-QKY5_p_d3f52T-9_dv83dzzz8Vnv3e5fmclcKCdQ58tDfn_bRKb-5IO9_78v4v09N_rk2_eTVn_tevr7B-uft-7_XV-9_fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAwSCuAAgABcAFAAVAA4AB4AEEALwAwgBkAGoAPAAiABMACqAGYAN4AegA_ACEgEMARIAjgBLACaAGAAMOAZQBlgDZAHPAO4A74B7AHxAPsA_YB_gIAARSAi4CMAEagJEAkoBKYCfgKDAVABVwC5gF6AMUAaIA2gBuADiQI9AkUBOwChwFHgKRAU2AtgBcgC7wF5gMGAYbAyMDJAGTgMzAZzA1cDWQG3gN1AcEA5MBy4DxwH0gQTAgwBCGCFoIXAQ5gh6CH4EcYI-gj-BIoCSEEmASZAlgBLMCW4EvgJgATMAmcBNwlA1AAQAAsACgAHIAYABiADwAIgATAAqgBcADFAIYAiQBHACjAGAANkAd4A_ICogKuAXMAxQB1AETAIvgR6BIoCjwFNALFAWUAtgBecDIwMkAZOAzkBrADbwHAAPpAgCBA8CDAEIQIegRxAkUBJACTIEugJfATMAmcBNwCcI6DaAAuACgAKgAcABBAC4ANQAeABEACYAFWALgAugBiADMAG8APQAfoBDAESAJYATQAnABRgDAAGGAMoAaIA2QBzwDuAO8Ae0A-wD9AH_ARQBGICOgJKASmAn4CgwFRAVcAsQBc4C8gL0AYoA2gBuADiAHUAPsAi-BHoEigJUATIAnYBQ8CjwKQgU0BTYCrAFigLKgWwBbIC3QFwALkAXaAu8BeYC-gGDAMNAY9AyMDJAGTgMqAZYAzMBnIDRAGmgNVgauBrADbwG6gOLAcmA5cB44DyQH0gPrAfcA_sCAIEGAIWwQ5BDoCHoEcQI7QR9BH8CRQEkAJMgSoAlgBLMCXQEvgJgATMAmcBNwCbwE4SEDYABYAFAAXAAxABqAEwAKYAVQAuABiADeAHoARwAwABzwDuAO8Af4BFACUgFBgKiAq4BcwDFAG0AOoAj0BKgCmgFWALFAWUAtEBcAC5AGRgMnAZyA0QBqoDgAHjgPpAf2BBgCFAELQIdAQ9AjiBIoCSAEmQJdATOKQVQAFwAUABUADgAIIAYABqADwAIgATAApABVADEAGYAP0AhgCJAFGAMAAZQA0QBsgDnAHfAPwA_QCLAEYgI6AkoBKQCgwFRAVcAuYBeQDFAG0ANwAdQA9oB9gETAIvgR6BIoCdgFDgKQgU0BTYCrAFigLYAXAAuQBdoC8wF9AMNgZGBkgDJwGWAM5gawBrIDbwG6gOCAcmA5cB4oDxwH0gP7AgmBBgCEIELQIZwQ5BDoCOIEdoI-gj-BIoCSEEmASZAlmBLoCXwEwAJmATOAm8WgHgA1AEcAMAAdwBegD7AKaAVYAzMB44D6QIegSZAmYBNwA.YAAAAAAAAAAA",
+        "expiry": 1736398129,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pubconsent-v2": {
+    "visit_id": 1,
+    "name": "pubconsent-v2",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJwIjpbeyJpZCI6InNoYXJlX2RhdGFfd2l0aF90aGlyZF9wYXJ0aWVzIiwiZSI6Im5hIn0seyJpZCI6ImVucmljaG1lbnRfd2l0aF90aGlyZF9wYXJ0eV9kYXRhIiwiZSI6Im5hIn0seyJpZCI6ImNyZWF0ZV91bmlxdWVfaWRlbnRpZmllcnMiLCJlIjoibmEifV0sInYiOlt7ImlkIjoxLCJlIjowfSx7ImlkIjoyLCJlIjowfSx7ImlkIjozLCJlIjowfSx7ImlkIjo0LCJlIjowfSx7ImlkIjo1LCJlIjowfSx7ImlkIjo2LCJlIjowfSx7ImlkIjo3LCJlIjowfSx7ImlkIjo4LCJlIjowfSx7ImlkIjo5LCJlIjowfSx7ImlkIjoxMCwiZSI6MH0seyJpZCI6MTIsImUiOjB9LHsiaWQiOjEzLCJlIjowfSx7ImlkIjoxNCwiZSI6MH0seyJpZCI6MTYsImUiOjB9LHsiaWQiOjEsImUiOjB9LHsiaWQiOjIsImUiOjB9LHsiaWQiOjMsImUiOjB9LHsiaWQiOjQsImUiOjB9LHsiaWQiOjUsImUiOjB9LHsiaWQiOjYsImUiOjB9LHsiaWQiOjcsImUiOjB9LHsiaWQiOjgsImUiOjB9LHsiaWQiOjksImUiOjB9LHsiaWQiOjEwLCJlIjowfSx7ImlkIjoxMiwiZSI6MH0seyJpZCI6MTMsImUiOjB9LHsiaWQiOjE0LCJlIjowfSx7ImlkIjoxNiwiZSI6MH1dfQ==",
+        "expiry": 1736398129,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tlConsent": {
+    "visit_id": 1,
+    "name": "tlConsent",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5d0000000201000000000000000018c1fbffffffe0000000",
+        "expiry": 1736398129,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cpmtClicked": {
+    "visit_id": 1,
+    "name": "__cpmtClicked",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "reject",
+        "expiry": 1735966130,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_sq": {
+    "visit_id": 1,
+    "name": "s_sq",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5BB%5D%5D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cmpAcceptedPurposes": {
+    "visit_id": 1,
+    "name": "__cmpAcceptedPurposes",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1735966130,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cpmt_xa": {
+    "visit_id": 1,
+    "name": "cpmt_xa",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5334",
+        "expiry": 1735966130,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__ric": {
+    "visit_id": 1,
+    "name": "__ric",
+    "domain": "www.corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5334",
+        "expiry": 1735966130,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__pvi": {
+    "visit_id": 1,
+    "name": "__pvi",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6InYtbHI3YXc0MWk5N3B4aWdwbyIsImRvbWFpbiI6Ii5jb3JyaWVyZS5pdCIsInRpbWUiOjE3MDQ4NjIxMzEzMDh9",
+        "expiry": 1704948531,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "gvsC": {
+    "visit_id": 1,
+    "name": "gvsC",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "New",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__tbc": {
+    "visit_id": 1,
+    "name": "__tbc",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bkpex%7D0_vutidpCafjewACCuU-2gB8pRR0crZsh623nvLEKP4SkslPzIawRC8z3btU-wa6",
+        "expiry": 1739422131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "xbc": {
+    "visit_id": 1,
+    "name": "xbc",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bkpex%7DXtk2ll7zSggwrXX_2Bqs33tjz1gvRw_useZBmpGX199Sr9rZDj-52b272XlJjbufzKSl_8Nlk3a0rzmwXuSXb9LWSt9XmzJny48O46dtcjuINJXglXRmdScbGAY6e4BviWhuwdxcCw7VrdZOJBS1Zezeo_mVcZhLd9fHKij0WRzt1roQsb0zP92RXr_Rd5xg8gKNY8wzv7JpOCsFPUvhD0Q2-p465au-jpMnL6_xyLLrE_wWaiaqKtW7JJEiemqRpXoVlTOcXDAoTL_qzb2xpMwnH8eoobNnR-5JiSyfHWvyB9Kciz7AKlsztQYM8rzPxqrHnfTAfyaftJicbWVwMso0svDQJX-lW6_vvUXqRUv5XvZFYQuRhL_JLF5rVWe_4GAu1gkYjvbhxKKlQUdSAdG09jMvvC9RCRFCTcLh_pb0X6wq9GFWpTiaBKK_ZpKIt_BAFRaLXwse0Uwp5Ka4gULMOf1E_9-TmV4QuCo9_itGXclfzSl2Kszsu1HXFLZtN3_oxG2MR7GK_-Tynm8fukRat8qqpbuUGI793sh3aR7evuaDaBaR-OL_1CxJSczjse7L_OfyI9xp1xZzCt0XwPQeggnWR3oQLe468qk4O5yL7PapVRPjDH1LWAuzkxKHf_FhKq7EqVhI1lxzdP5gaA4MrMvUI14SNRHu2EoHAIpId8XE5tRByC1bHrq8MDYa9OrDQdYGNiRoS4smp04JN6xj5UyQTjL-_s6BMoZNDds2awbIyJcvrLAv2PbXLK11bntDXvi58VJ9wfDepn6II9hf9GTjvStSrRaIw9kuLk_WiU-egtna82Qe1K9MSe3YrCi_-rR_Xd23yH_s7WSVHKQZLCCYpdB6SVg6Grb3Dcva4FioDKuImUNWX9hheGwR_Px76JQ-VZs-zzGwG3JUu55WMMPflmw9BM-_ecJmzYs",
+        "expiry": 1739422131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pcus": {
+    "visit_id": 1,
+    "name": "_pcus",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVGM6Zjk2NTQ1ZDM3OTljNDE5NTk3M2I4YWY5NTgxY2E3ZWNkMGRlMjliYTpub19zY29yZSIsIkxUczowZDRkYTM4M2MwYjY0N2ExYzA0ODFlZGE5MTMwZWQ1N2YwNDgwOTVlOjIiLCJDU2NvcmU6NTQ1OWYzNzhiZjIyNjEzNmQ3YzIyZjFkM2FjNzJhZmQ3YzQ4YmIyOTpub19zY29yZSIsIkxUcmV0dXJuOjE1ZDQ2YjAyNjkyMGJhYzI3NmJmNTFlNjI3NjMzYWIzZjRlMmYxMjE6MCJdfX19",
+        "expiry": 1738990131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pc_ltsscore": {
+    "visit_id": 1,
+    "name": "_pc_ltsscore",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1736484531,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pc_wall_adv_stop": {
+    "visit_id": 1,
+    "name": "_pc_wall_adv_stop",
+    "domain": "www.corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "pnespsdk_ssn": {
+    "visit_id": 1,
+    "name": "pnespsdk_ssn",
+    "domain": "www.corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22%24s%22%3A1704862127101%2C%22visitNumber%22%3A2%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "apw_status": {
+    "visit_id": 1,
+    "name": "apw_status",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736488131,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "G_ENABLED_IDPS": {
+    "visit_id": 1,
+    "name": "G_ENABLED_IDPS",
+    "domain": ".www.corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "google",
+        "expiry": 1739422132,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_fid": {
+    "visit_id": 1,
+    "name": "s_fid",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "28C625B7341C0F3C-3BA5B4C5BBE06547",
+        "expiry": 1739422132,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "incognitoMode": {
+    "visit_id": 1,
+    "name": "incognitoMode",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUnyXdgFV_iSyBqOXVwzas0yMQPyRb3xL-9ztLGwhfbHf1ilWs2rg61dDqQqAzA",
+        "expiry": 1738558132,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tiq_gpv_pn": {
+    "visit_id": 1,
+    "name": "tiq_gpv_pn",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "PAYWALL.COR%2Foffer_overlay_CMP",
+        "expiry": 1704863932,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf1b3a524006f22f830093d9805075005506d009dc$_sn:1$_ss:1$_pn:1%3Bexp-session$_st:1704863932521$ses_id:1704862131492%3Bexp-session",
+        "expiry": 1736398132,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704862132575.756362222",
+        "expiry": 1712638132,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__chkVLST": {
+    "visit_id": 1,
+    "name": "__chkVLST",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1735966132,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "permutive-id": {
+    "visit_id": 1,
+    "name": "permutive-id",
+    "domain": ".corriere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2b45f99e-0d02-41ea-a96c-41647534fb7c",
+        "expiry": 1720583332,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mc": {
+    "visit_id": 1,
+    "name": "mc",
+    "domain": ".quantserve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659e21b4-de4f3-8fc57-06f58",
+        "expiry": 1739076532,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-id": {
+    "visit_id": 1,
+    "name": "ad-id",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A02NXHiJQUnTh1qEVpyvyd0",
+        "expiry": 1727758132,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-privacy": {
+    "visit_id": 1,
+    "name": "ad-privacy",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739422132,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NID": {
+    "visit_id": 1,
+    "name": "NID",
+    "domain": ".google.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "511=sJ4LvX0owYE-asfdc0bs12-SUt6PEzA48EUnRJldA0wcJcB54mMteiYoRJney2lu3jtsqHsXckVIwNJxaPJjVDyERSMPCzIx1Bug8nnhxLpJognsxIu8gJYWpstsLP5tpMDbuBtVWIiaMnS1OKP2f3fYK19ohAbc8ov9WsNayl0",
+        "expiry": 1720673333,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

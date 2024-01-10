@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: movieplayer.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_4G841TST0V,_iub_cs-106302-granular,euconsent-v2,TAPAD,_iub_cs-106302
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

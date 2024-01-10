@@ -1,0 +1,302 @@
+{
+  "wteid_458677892662477": {
+    "visit_id": 1,
+    "name": "wteid_458677892662477",
+    "domain": "ilfattoquotidianoitalia01.wt-eu02.net",
+    "path": "/458677892662477",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170486294800026306",
+        "expiry": 1720414948,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtsid_458677892662477": {
+    "visit_id": 1,
+    "name": "wtsid_458677892662477",
+    "domain": "ilfattoquotidianoitalia01.wt-eu02.net",
+    "path": "/458677892662477",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NID": {
+    "visit_id": 1,
+    "name": "NID",
+    "domain": ".google.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "511=ovmw0bwB0TJGWSPmt3So3E56MQOfxV_1b__BYe5-1hTMm0HlHd04e-oysp_S-DEFvpjdFZN_kf3x6TfFir4tAzfqfEPC8-Vu3ucjvoDM1huxc6NVMKXJn_LxukUWrXuQb8o7fS0Pp9RCH9exmpbrphbi9fMIUavtpXXh7iBCbLs",
+        "expiry": 1720674144,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_NFF0RV6Y1Z": {
+    "visit_id": 1,
+    "name": "_ga_NFF0RV6Y1Z",
+    "domain": ".ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704862944.1.0.1704862944.60.0.0",
+        "expiry": 1739422944,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "G_ENABLED_IDPS": {
+    "visit_id": 1,
+    "name": "G_ENABLED_IDPS",
+    "domain": ".www.ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "google",
+        "expiry": 1739422944,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.218773481.1704862944",
+        "expiry": 1739422944,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1397814699.1704862944",
+        "expiry": 1704949344,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat": {
+    "visit_id": 1,
+    "name": "_gat",
+    "domain": ".ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704863004,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMP_TOKEN": {
+    "visit_id": 1,
+    "name": "AMP_TOKEN",
+    "domain": ".ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%24NOT_FOUND",
+        "expiry": 1704866544,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "71ac3650-af75-11ee-b1a8-bbf9a06ebda5",
+        "expiry": 1738558944,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2",
+    "domain": ".ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%7C1704862947%7C1704844800000%7C34%7C1706590947142%7C0%7C0%7C0%7C1704844800000%7C1%7C17048629443372528%7C0%7C172",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2_daisybit": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2_daisybit",
+    "domain": ".ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAA_AEAENAiEgAAAAAAAAAAAAINJB7D7FbWFCwHphYLsQMAgTRMCAQoQAAASBAGABQAKQIAQCkkAQBASgBAACAAAAICRBIQAECAAAAEAAQAAAIAEEAAAAAAAIAAAAgAAAAAAIAAACAIAAAAAIAAIAEAAAmQgAAAIAGEAAhAAAIAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQQagAAFBIAMAAQQaDQAYAAgg0IgAwABBBoVABgACCDQyADAAEEGh0AGAAIINEIAMAAQQaJQAYAAgg0UgAwABBBotABgACCDQAAA.YAAAAAAAAAAA",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAPAD": {
+    "visit_id": 1,
+    "name": "TAPAD",
+    "domain": "www.ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22id%22%3A%220126eb77-1d0e-447c-81be-4f354406c5ad%22%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "ilfattoquotidianoitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!Dfs8wuwZWV0fu2w8AP7SORvNY+Kz1B5syk67I8xwMMvfHH7qB1zum3a0kStujz1XHuDtvgmoYggaJw==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_rla": {
+    "visit_id": 1,
+    "name": "wt_rla",
+    "domain": ".ilfattoquotidiano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "458677892662477%2C2%2C1704862948519",
+        "expiry": 1710046948,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: neveitalia.it 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = lang
+ANALYTICS COOKIES = _ga,s_fid,s_ips,s_cc,s_nr,s_ppv,s_sq,s_tp
+ADVERTISING COOKIES = demdex,AMCVS_AA5673AE52E15B730A490D4C%40AdobeOrg,everest_g_v2,dpm,AMCV_AA5673AE52E15B730A490D4C%40AdobeOrg,IMRID
+UNCLASSIFIED COOKIES = trend,TSstop,s_fid_old,s_fbsr,tiq_gpv_pn,tiq_gpv_sect,UESeg,eupubconsent-v2,OTAdditionalConsentString,whitesemap,kppid,_ga_2WH6TCLRF3,TIQ_SC_LNK_GZ
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

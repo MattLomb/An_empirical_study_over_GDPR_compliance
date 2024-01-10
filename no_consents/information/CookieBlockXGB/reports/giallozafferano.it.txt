@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: giallozafferano.it 
+NECESSARY COOKIES = wteid_769396664005295,wtsid_769396664005295,AWSALB,AWSALBCORS,wt_nbg_Q3,push_notification_viewed
+FUNCTIONAL COOKIES = _ga_BKMXXCDHL5,_ga,_gid,wt_rla,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

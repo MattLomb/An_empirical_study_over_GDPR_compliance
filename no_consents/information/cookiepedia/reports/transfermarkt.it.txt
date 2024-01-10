@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: transfermarkt.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = _sp_v1_ss,_sp_v1_p,_sp_v1_data,_sp_su
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = TMSESSID,_tmlpu
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

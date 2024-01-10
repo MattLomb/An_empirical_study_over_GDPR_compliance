@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: liberoquotidiano.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,_ga
+ADVERTISING COOKIES = wt_nbg_Q3
+UNCLASSIFIED COOKIES = wteid_752252631714867,wtsid_752252631714867,__cf_bm,_ga_TQZLS6WGF1,wt_rla,euconsent-v2,pubtech-cmp-pcstring,_pbjs_userid_consent_data,_pubCommonId,_pubCommonId_last,pubtech-unifiedid,aniC,_lr_retry_request,_lr_env_src_ats,pbjs-unifiedid,panoramaId_expiry
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

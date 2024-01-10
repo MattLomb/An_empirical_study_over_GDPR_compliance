@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: farmacialoreto.it 
+NECESSARY COOKIES = OCSESSID,language,__cf_bm,CLID,LANG,enforce_policy,x-pp-s,tsrce,nsid,l7_az,ts,ts_c,MR,SM,ANONCHK,CookieConsent
+FUNCTIONAL COOKIES = MUID,SRM_B
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

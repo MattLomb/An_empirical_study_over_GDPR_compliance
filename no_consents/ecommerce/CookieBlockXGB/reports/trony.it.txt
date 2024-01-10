@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: trony.it 
+NECESSARY COOKIES = sid,pgid-Trony-B2C-Site,_iub_cs-46558666-granular,_iub_cs-46558666
+FUNCTIONAL COOKIES = optimizelyEndUserId,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: mygpteam.com 
+NECESSARY COOKIES = PHPSESSID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = YSC,_ga,_gid,_gat
+ADVERTISING COOKIES = VISITOR_INFO1_LIVE
+UNCLASSIFIED COOKIES = lingua,_ga_L7YPJNYVV4,FCCDCF
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

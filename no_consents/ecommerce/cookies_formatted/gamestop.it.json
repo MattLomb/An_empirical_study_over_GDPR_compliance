@@ -1,0 +1,342 @@
+{
+  ".ASPXANONYMOUS": {
+    "visit_id": 1,
+    "name": ".ASPXANONYMOUS",
+    "domain": "www.gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "grd6k8vFhShmUvaOBij2V6ccUzIrSev9XktMH7H4NkiS4wK8Eu-4YWBpOHMtno79HqzqUA5jeffk0WPdyYoGuuMS5gm2nLkX0_vW9pnMyHy6lcub73OBasay2ijayuDtvCv8dA2",
+        "expiry": 1710882413,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3A6C9A25C612B201588CECFB5F910D7C~000000000000000000000000000000~YAAQZSJlXxwoWluMAQAA4iDp8hZNTGn8EXDUgZNFfCnI5nngf4KFp4KuMkprg5569a0c2oj6AbL3Jte3I/6SLQYAfs5ItnBDXPvRIwavBNlSXYCxqeebkabAdN5bvuvv/ddtdN9+u5mdhv4Rst0OtfCQY/8EpnH3P/gdLgxQvxDR9RcFmE3vinbONcJhYxtEIbdyJW6j43jIUpH9qCZeTxGmZ4rn/CDdyENYqZNtL9Qg57KvYjY60qIU6kQEBlBL9eYCrj0+o8hP5nwNv1Xu/QRiI4J4Zsna0F1Q/nLNnnVnLdUbc9HC+Xf4RU7XJV1qA529ZUzbPzHSBleTrfq5paWriFTgbvUDGyOUk9eJRTZse+5Di0oScmgjuppQC7d+5Yfaw4ILm0o=",
+        "expiry": 1704889613,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "78FEE01BEDF6EAE631102A10F2F83F33~YAAQZSJlXx0oWluMAQAA4iDp8hZW7FbNkGFvYZhOEdc4mPAwj0GAZzCLIXcZLre7pDjCe4FOgfahplLF9xFBGhn0ZqTW79Yf6QV2dDJWdVeC3NZPgNAIi8Wc3WTCg8n/eMhMfL5n/4Eju7lGfUXybrL7vpqGrQJK0nnGbQ3pWbqiJ7oD7HY3DwiVWzgzEiq8D1ElKM6uAwEYJxw1CMmzoBc6AGNksL5DlJKJuL4vcpAlChvUZDWtcSYeAnQFx92VK6fB/ObBL42MfGUjyTKPTqPO35J5fnp1wMGPUfd6xVHIrWl+~3682360~3290418",
+        "expiry": 1704896813,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "server_session_id": {
+    "visit_id": 1,
+    "name": "server_session_id",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6c337ab5f18a4363af26f073c8b6bd9d",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "unique_id": {
+    "visit_id": 1,
+    "name": "unique_id",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "39b6f2fb79c886e9",
+        "expiry": 1739183214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "unique_id_durable": {
+    "visit_id": 1,
+    "name": "unique_id_durable",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "39b6f2fb79c886e9",
+        "expiry": 1739183214,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAsessionID": {
+    "visit_id": 1,
+    "name": "TAsessionID",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7e4cd820-2c11-42b5-af3f-e54384b2be4a|NEW",
+        "expiry": 1704884214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "notice_behavior": {
+    "visit_id": 1,
+    "name": "notice_behavior",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "expressed,eu",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "007A86E3B82A9FA8961B9405A910D95B~-1~YAAQZSJlXzMoWluMAQAA/CPp8gs6vvX0EdUZJXxtqoCYeOkdgu9GylM/lry8VoC5MnaaNFSgwhB6tWZiZtJdlLZYlInZDdmMuyY5xUti0nn7X5oz4pq+P4kNpql+fEQ5VGSfDLOyEDPmttrNNHwphn2cvzfkOb3cSWSpj+YAfRrd3FTyAvnFpBtxBD2pvZqU/4BZThHXGe0qbOQlcTxde1nw4i0CtuNVeQbmFsaGwNKBEsZKRWtxO9njrNCmBO4JoHKTvrRIJZTMX5rezaYDXdVXAxKxLL6hbNOKaEXZGlfkAK++838p43CdEpPSODWnIrPltrbTR4f+Uqmn5XkCFeoRXLnq644qobarEcxjQbfpvJWd+ge5iTJ7n+gCDvwZGqOS2UlaQCQgiZY=~-1~-1~1704885916",
+        "expiry": 1705487214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "800F4BF695659A1E66B9EDC2C07FF2E1~YAAQZSJlXzkoWluMAQAAkyTp8hbEVLJfiGNfJkKivK2l00FP2XpaU2OBNxC6uKLFgi/aid8K4bh3DHoiriinRMtKobwgFvssx5wW92sks5KVrqRE+rAQWHslLikAQWfa/wq9npWm1T6nrA/xIyWflZ3RCTb19Ia2NNspXXsoTPnWQgWoSqn6TV7j0peef7mZtVmHpfgDa7EhB9I0aQ8vzOyBomedzW8ZoOwatxzYy8Tu8Pc84isNX0QGCAYmszipcQ==~1",
+        "expiry": 1704889614,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "referrer_url": {
+    "visit_id": 1,
+    "name": "referrer_url",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "https://www.gamestop.it/",
+        "expiry": 1704884214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "experiment_overrides": {
+    "visit_id": 1,
+    "name": "experiment_overrides",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{%22experiments%22:{}%2C%22disabled%22:[]}",
+        "expiry": 1739183214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "api_token": {
+    "visit_id": 1,
+    "name": "api_token",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "twilight.1e2515fb3cc305c01acfbf4f42b7d9ca",
+        "expiry": 1739183214,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "KP_UIDZ_1-ssn": {
+    "visit_id": 1,
+    "name": "KP_UIDZ_1-ssn",
+    "domain": "gql.twitch.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "07hH0WHSlUsb5A6Q6W0ulE1sTsiWAUguol5fr4l98X8NkaHbVXhExHwo619Jz5zc6AmufLPUf55lF9EecCK32mhAVEzS1CCwWMa13aPmIKQe5QbT3Zqkg5F4givZTh3MAzRdn9iZ5cOeTFenw205OEHSYXZ",
+        "expiry": 1704968816,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ga__15_abel-ssn": {
+    "visit_id": 1,
+    "name": "ga__15_abel-ssn",
+    "domain": "passport.twitch.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "07ezhX2Pyh3NIp9JKMp8SAGiuGPV1Wd6Q3RuGVK4bD0OFBey9UE3TbPxAwPWS16EHOLvI87ArrAflx96I9k8KB1fmZLUXbTVIKLPSnn6N0QkDgUce3PKTKeHzgkGwkq93qO3tekD0wuOLfn0AAmNSlVKu1a",
+        "expiry": 1704968816,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": ".nr-data.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "df2c17dce530ce6",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "KP_UIDz-ssn": {
+    "visit_id": 1,
+    "name": "KP_UIDz-ssn",
+    "domain": "gql.twitch.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "07OdDFWUyM5XhpvFjDFHWh0coLIxbS5QWrImAbwiUwmHEd6acFC5Hy3jkmG6MQg1tOJvUd2cviPmNlmZBWa4yyZjEdsSuGHhoCL8tHIWo3sfHGQLggERqNfz2uDfsXTt2Y3uyvR8LLIrPfYwdL1rLMyxO3l",
+        "expiry": 1704968817,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

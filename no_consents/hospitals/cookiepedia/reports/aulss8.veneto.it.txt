@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: aulss8.veneto.it 
+NECESSARY COOKIES = CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.1.b54c,_pk_ses.1.b54c
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = TSa1a95327027
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

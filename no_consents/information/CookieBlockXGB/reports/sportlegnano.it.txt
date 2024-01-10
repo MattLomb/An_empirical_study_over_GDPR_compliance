@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: sportlegnano.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_PCT-sportlegnan,SV_PCT-sportlegnan,SSC_PCT-sportlegnan,SN_PCT-sportlegnan,addtl_consent,_OASCAP[13650],_OABLOCK[13650]
+FUNCTIONAL COOKIES = euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

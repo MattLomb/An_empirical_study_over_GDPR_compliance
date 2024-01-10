@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: quora.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = m-b
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = m-login,m-b_lax,m-b_strict,m-s,m-uid,m-ql10n_it,m-theme,m-dynamicFontSize
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

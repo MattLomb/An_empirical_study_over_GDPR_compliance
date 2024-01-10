@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: policlinicogemelli.it 
+NECESSARY COOKIES = FPGLoadBalanceDmz,pvc_visits[0],_iub_cs-19638392
+FUNCTIONAL COOKIES = _ga_5N3J8JPLHS,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

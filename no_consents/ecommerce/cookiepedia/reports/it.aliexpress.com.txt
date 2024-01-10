@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: it.aliexpress.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = ts
+ANALYTICS COOKIES = uid
+ADVERTISING COOKIES = g,uuid2,IDE,anj,CMID,CMPS,CMPRO,ayl_visitor,criteo,demdex,dpm,_kuid_
+UNCLASSIFIED COOKIES = ali_apache_id,intl_common_forever,intl_locale,xman_f,acs_usuc_t,xman_t,_m_h5_tk,_m_h5_tk_enc,xman_us_f,aep_usuc_f,ali_apache_track,ali_apache_tracktmp,e_id,cna,cbc,umdata_,u,c,receive-cookie-deprecation,cto_bundle,sca,atpsida,ar_debug,x5secdata,xlly_s,visitor-id,data-c-ts,data-c,XANDR_PANID,tfstk,isg,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,opt_out,tvid,tv_UICR
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

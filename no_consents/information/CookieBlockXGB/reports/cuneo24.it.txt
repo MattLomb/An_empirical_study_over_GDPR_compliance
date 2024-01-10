@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: cuneo24.it 
+NECESSARY COOKIES = LSW_WEB,SSID_PCT-cuneo24it,SV_PCT-cuneo24it,SSC_PCT-cuneo24it,SN_PCT-cuneo24it,OAID,addtl_consent,_OASCAP[13510],_OABLOCK[13510]
+FUNCTIONAL COOKIES = _ga_7EEXLFD7G5,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

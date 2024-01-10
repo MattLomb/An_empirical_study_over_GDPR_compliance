@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: gianlucadimarzio.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = _uid
+ANALYTICS COOKIES = OAID,YSC,_ga,s_ecid,s_cc,s_sq,UID,uid
+ADVERTISING COOKIES = OAGEO,VISITOR_INFO1_LIVE,demdex,AMCVS_1A124673527853290A490D45%40AdobeOrg,_fbp,AMCV_1A124673527853290A490D45%40AdobeOrg,dpm,uuid2,TapAd_DID,IDE,AFFICHE_W,ab,_kuid_,everest_g_v2,d,mc,ad-privacy,ad-id,uuid,IDSYNC,mt_mop,EE,ud
+UNCLASSIFIED COOKIES = gpv_pn,consentCategory,_ga_F0L4WPL9Q8,euconsent-v2,addtl_consent,zc,zsc,C,TapAd_3WAY_SYNCS,TapAd_TS,A3,cProfile,ar_debug,cP,cOptout,mt_misc,tr,XANDR_PANID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

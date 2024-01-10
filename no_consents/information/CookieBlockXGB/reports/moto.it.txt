@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: moto.it 
+NECESSARY COOKIES = _pbjs_userid_consent_data,_iub_cs-13468808-granular
+FUNCTIONAL COOKIES = _ga,UID,_ga_6FYJGNH5XE,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

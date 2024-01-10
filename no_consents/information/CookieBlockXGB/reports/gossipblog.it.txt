@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: gossipblog.it 
+NECESSARY COOKIES = utag_main,euconsent-v2,addtl_consent,SSID_TRO-gossipblogit,SV_TRO-gossipblogit,SSC_TRO-gossipblogit,SN_TRO-gossipblogit,SSCN_N_TRO-gossipblogit,SSCN_UG_TRO-gossipblogit,SSCN_UW_TRO-gossipblogit,SSCN_UM_TRO-gossipblogit,_pbjs_userid_consent_data,TAPAD,_lr_retry_request,_lr_env_src_ats,panoramaId_expiry,pbjs-unifiedid
+FUNCTIONAL COOKIES = _ga_4CZR7C5EJD,_ga,UID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = cProfile,cP,tr,cOptout,aniC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

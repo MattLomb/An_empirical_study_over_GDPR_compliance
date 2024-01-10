@@ -1,0 +1,482 @@
+{
+  "OBG-MARKET": {
+    "visit_id": 1,
+    "name": "OBG-MARKET",
+    "domain": "www.starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it",
+        "expiry": 1707475668,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OBG-LOBBY": {
+    "visit_id": 1,
+    "name": "OBG-LOBBY",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "common",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cwr_u": {
+    "visit_id": 1,
+    "name": "cwr_u",
+    "domain": ".www.starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d33af8cf-df59-4778-9f92-5678d94e2f9b",
+        "expiry": 1707475669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "OBG-SEEN-ELEMENTS": {
+    "visit_id": 1,
+    "name": "OBG-SEEN-ELEMENTS",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%22action-banner%22%2C%22promotion-section%22%2C%22preview-section%22%5D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Acquisition_Status_Current": {
+    "visit_id": 1,
+    "name": "Acquisition_Status_Current",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Prospect",
+        "expiry": 1739443669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Start_Acquisition": {
+    "visit_id": 1,
+    "name": "Start_Acquisition",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Prospect",
+        "expiry": 1739443669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Client_Status_Current": {
+    "visit_id": 1,
+    "name": "Client_Status_Current",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Prospect",
+        "expiry": 1739443669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Start_Client_Status": {
+    "visit_id": 1,
+    "name": "Start_Client_Status",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Prospect",
+        "expiry": 1739443669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Customer_Level": {
+    "visit_id": 1,
+    "name": "Customer_Level",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "PC",
+        "expiry": 1739443669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Initdone": {
+    "visit_id": 1,
+    "name": "Initdone",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704887269,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1600456968.1704883670",
+        "expiry": 1712659669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TrafficType": {
+    "visit_id": 1,
+    "name": "TrafficType",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Other Traffic",
+        "expiry": 1704887269,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AffCookie": {
+    "visit_id": 1,
+    "name": "AffCookie",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Missing AffCode",
+        "expiry": 1704885469,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "LoadAll": {
+    "visit_id": 1,
+    "name": "LoadAll",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704885469,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Orientation": {
+    "visit_id": 1,
+    "name": "Orientation",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1260733948.1704883670",
+        "expiry": 1739443670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_H1K0C6P76Y": {
+    "visit_id": 1,
+    "name": "_ga_H1K0C6P76Y",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704883670.1.0.1704883670.0.0.0",
+        "expiry": 1739443670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.960354014.1704883670",
+        "expiry": 1704970070,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__amonsulfp": {
+    "visit_id": 1,
+    "name": "__amonsulfp",
+    "domain": "amonsul.betssonpalantir.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "777710bbc393e299a91ce12357447f0b",
+        "expiry": 1739443671,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__amonsulid": {
+    "visit_id": 1,
+    "name": "__amonsulid",
+    "domain": "amonsul.betssonpalantir.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3CAAD8EE-EB45-4B45-8406-9CAD5E339862",
+        "expiry": 1739443671,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cwr_s": {
+    "visit_id": 1,
+    "name": "cwr_s",
+    "domain": ".www.starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJzZXNzaW9uSWQiOiJiYTBhMzE1Ny1lZmQ4LTQ4YWYtYmE1OC1iNDc0ZWM5NmMwMjUiLCJyZWNvcmQiOmZhbHNlLCJldmVudENvdW50Ijo3NSwicGFnZSI6eyJwYWdlSWQiOiIvIiwiaW50ZXJhY3Rpb24iOjAsInJlZmVycmVyIjoiIiwicmVmZXJyZXJEb21haW4iOiIiLCJzdGFydCI6MTcwNDg4MzY2OTU1M319",
+        "expiry": 1704885473,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T10:47:53.582Z",
+        "expiry": 1736419673,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isIABGlobal=false&datestamp=Wed+Jan+10+2024+11%3A47%3A53+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.39.0&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A1%2CC0004%3A0",
+        "expiry": 1736419673,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "CONSENT": {
+    "visit_id": 1,
+    "name": "CONSENT",
+    "domain": ".starcasino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22marketing%22%3A0%2C%22functional%22%3A0%2C%22performance%22%3A1%2C%22targeting%22%3A0%7D",
+        "expiry": 1739443673,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

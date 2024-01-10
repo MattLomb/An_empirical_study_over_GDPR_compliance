@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: conte.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_hjSessionUser_1974272,_hjFirstSeen,_hjSession_1974272,_hjAbsoluteSessionInProgress
+ADVERTISING COOKIES = _gcl_au,test_cookie
+UNCLASSIFIED COOKIES = dtCookie,visid_incap_2651378,nlbi_2651378,incap_ses_477_2651378,previousPath,_ga_B6B1B9P16J,FPID2,FPAU,FPLC,_hjIncludedInSessionSample_1974272,www._km_id-1295f8b8026f1bf94e3d14cae0348c979,www._km_user_name-1295f8b8026f1bf94e3d14cae0348c979,www._km_lead_collection-1295f8b8026f1bf94e3d14cae0348c979
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: motorinews24.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = UID,_ga_EZZB2TVDSS,_ga,_ga_ZWRNE1T542,FCCDCF
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

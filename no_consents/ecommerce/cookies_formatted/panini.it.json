@@ -1,0 +1,462 @@
+{
+  "form_key": {
+    "visit_id": 1,
+    "name": "form_key",
+    "domain": ".www.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9b4CKWp7lXISWqMM",
+        "expiry": 1704893957,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "Queue-it-5bd6c7d0-3392-46f8-9987-2522acbfe71a": {
+    "visit_id": 1,
+    "name": "Queue-it-5bd6c7d0-3392-46f8-9987-2522acbfe71a",
+    "domain": "panini.queue-it.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "WasRedirected=false&i=638404871559423971",
+        "expiry": 1704893955,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Queue-it": {
+    "visit_id": 1,
+    "name": "Queue-it",
+    "domain": ".queue-it.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "u=81b7e377-220e-44b5-b8c3-3f19fcb65207",
+        "expiry": 1736512755,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mage-cache-storage": {
+    "visit_id": 1,
+    "name": "mage-cache-storage",
+    "domain": "www.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{}",
+        "expiry": 1704893955,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "mage-cache-storage-section-invalidation": {
+    "visit_id": 1,
+    "name": "mage-cache-storage-section-invalidation",
+    "domain": "www.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{}",
+        "expiry": 1704893955,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "mage-cache-sessid": {
+    "visit_id": 1,
+    "name": "mage-cache-sessid",
+    "domain": "www.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1704893957,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "QueueITAccepted-SDFrts345E-V3_paniniitaly": {
+    "visit_id": 1,
+    "name": "QueueITAccepted-SDFrts345E-V3_paniniitaly",
+    "domain": ".www.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EventId%3Dpaniniitaly%26QueueId%3D5bd6c7d0-3392-46f8-9987-2522acbfe71a%26RedirectType%3Dsafetynet%26IssueTime%3D1704890355%26Hash%3Deb22263f71b977f9c82bfd862f97ab26e3fcb19f59791a993ebcf1bcf39f055a",
+        "expiry": 1704891255,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "recently_compared_product": {
+    "visit_id": 1,
+    "name": "recently_compared_product",
+    "domain": "www.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{}",
+        "expiry": 1704893955,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "mage-messages": {
+    "visit_id": 1,
+    "name": "mage-messages",
+    "domain": "www.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1704893957,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": ".www.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8e21904d15f6ea6684c0dd6d84eb5985",
+        "expiry": 1704893955,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".r1-t.trackedlink.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5I4Hy27UrIsnCe7qzIO6._jFskYNHDbn_oFdt1z9jsc-1704890356-1-AeIDUF1jzBCzITLF94nh4NhHSJR+ZteJo+w9aVcpi3KgHNr3+kCazEfQ39ObyBqjfZ2nBtUzBrfNgNtssrcpaeY=",
+        "expiry": 1704892156,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Queue-it-token": {
+    "visit_id": 1,
+    "name": "Queue-it-token",
+    "domain": "panini.queue-it.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e_paniniitaly~q_c4a52322-d15b-4250-a7df-4852dd251052~ts_1704890536~ce_true~rt_safetynet~h_f7cc4ea4c8f67d228f74a66edf924716f84e140f4c991aed07b0a0ee5e6acf98",
+        "expiry": 1704890536,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Queue-it-c4a52322-d15b-4250-a7df-4852dd251052": {
+    "visit_id": 1,
+    "name": "Queue-it-c4a52322-d15b-4250-a7df-4852dd251052",
+    "domain": "panini.queue-it.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "WasRedirected=false&i=638404871564250340",
+        "expiry": 1704893956,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mg": {
+    "visit_id": 1,
+    "name": "mg",
+    "domain": ".adobedc.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5e9787ce-3f60-4911-9d70-851db2007057",
+        "expiry": 1736426362,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "apiDomain_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My": {
+    "visit_id": 1,
+    "name": "apiDomain_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My",
+    "domain": ".cdns.eu1.gigya.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "store-cdc-it.panini.it",
+        "expiry": 1736426358,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gmid": {
+    "visit_id": 1,
+    "name": "gmid",
+    "domain": ".store-cdc-it.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "gmid.ver4.AcbHfYg1-w.ydbh2q2X5EtcxvkNsRG1ul-o_oViVYcGaBeRQ3OxZJpMzYNLMR9SxhEAYq-GiRtQ.IabEwk6obxufUVF_FtI6klJe-xP6bxwPueSt_4bPPg-jhwnAaDLl3vWxu5X4ETPJ07RLmmno_FC1oNr3ICZCMQ.sc3",
+        "expiry": 1736512759,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ucid": {
+    "visit_id": 1,
+    "name": "ucid",
+    "domain": ".store-cdc-it.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-s4Qr0k-ZBvX-BPcdBNPzA",
+        "expiry": 1736512759,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "hasGmid": {
+    "visit_id": 1,
+    "name": "hasGmid",
+    "domain": ".store-cdc-it.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ver4",
+        "expiry": 1720611559,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_bootstrap_3_64HIdqvaCxGW567wRYQTu_wMjE0U6GFub8FRVaM6JkUlUB5o_7c_snmk_u7XmhC-": {
+    "visit_id": 1,
+    "name": "gig_bootstrap_3_64HIdqvaCxGW567wRYQTu_wMjE0U6GFub8FRVaM6JkUlUB5o_7c_snmk_u7XmhC-",
+    "domain": ".panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "store-cdc-it_ver4",
+        "expiry": 1736426358,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My": {
+    "visit_id": 1,
+    "name": "gig_canary_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My",
+    "domain": ".cdns.eu1.gigya.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736426358,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gig_canary_ver_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My": {
+    "visit_id": 1,
+    "name": "gig_canary_ver_3_Bp3ryPwGLcuBWOvvoEaG2T0WJ8OuHcWIZ5Q8eE0ZXJXEeC2oK8xQUXtkhFsgj5My",
+    "domain": ".cdns.eu1.gigya.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "15686-3-28414830",
+        "expiry": 1736426358,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NID": {
+    "visit_id": 1,
+    "name": "NID",
+    "domain": ".google.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "511=j9_8BjAstaX9fAWN5x4rWdELG3aZMEvoQTQ0tuVXVVYVU9XlII7HQkjwM16S64FIA1v94rb6ZPN6ACseZTHtxiDAUY8HekRKc1g_afntUJSV8oddE-QaaKWr1_G2hcvyzacIkMylnvPH6D0DySIOHVOCmuCVnBAH32C4insDwpU",
+        "expiry": 1720701559,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "www.panini.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%27b5pOxomY1pLqaYDh7jtPG9gTFzcQAn0i3VpWi2WwSU4ITWFPvexhTA==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704890359822%2Cregion:%27it%27}",
+        "expiry": 1720615159,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

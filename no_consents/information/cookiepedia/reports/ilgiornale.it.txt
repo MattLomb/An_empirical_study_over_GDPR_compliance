@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilgiornale.it 
+NECESSARY COOKIES = ARRAffinity
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,_ga
+ADVERTISING COOKIES = wt_nbg_Q3,IMRID,bito
+UNCLASSIFIED COOKIES = wteid_769396664005295,wtsid_769396664005295,ARRAffinitySameSite,__cf_bm,ilg_mr__home,_ga_NQVT6E5YKL,_ga_ENZ2GEXW4Y,_ga_EJCFTZ7CV7,_ga_R163K4Y084,euconsent-v2,addtl_consent,_mediamond_UID,c,bitoIsSecure,aniC,
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

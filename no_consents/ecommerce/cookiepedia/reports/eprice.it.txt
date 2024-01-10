@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: eprice.it 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = YSC,RT
+ADVERTISING COOKIES = test_cookie,VISITOR_INFO1_LIVE
+UNCLASSIFIED COOKIES = _ALGOLIA,eupubconsent-v2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

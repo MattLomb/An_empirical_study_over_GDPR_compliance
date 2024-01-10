@@ -1,0 +1,942 @@
+{
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".pubtech.ai",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "qcZB3OBLu8IN9anzPDATDFes7Rr5JekmIqmVkDHK8z8-1704857334-1-ASNguMOLyLJJ+P5cT80dSEkYpguq7lc4OhX7QYHGE4w0zZ+x3WglZFgnLZMjT/1QlcVqNDU5rB67/JyeW36CMgE=",
+        "expiry": 1704859134,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_SL1KLWEPTY": {
+    "visit_id": 1,
+    "name": "_ga_SL1KLWEPTY",
+    "domain": ".immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704857335.1.0.1704857335.0.0.0",
+        "expiry": 1739417335,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704857335165.769878263",
+        "expiry": 1712633338,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "SSID_SS-18321391-f80fe": {
+    "visit_id": 1,
+    "name": "SSID_SS-18321391-f80fe",
+    "domain": "www.immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1105961690260",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SV_SS-18321391-f80fe": {
+    "visit_id": 1,
+    "name": "SV_SS-18321391-f80fe",
+    "domain": "www.immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704857335231",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSC_SS-18321391-f80fe": {
+    "visit_id": 1,
+    "name": "SSC_SS-18321391-f80fe",
+    "domain": "www.immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%G1%G%G1704857335000%G%G%G1%G1704857335000%Ghttps%3A%2F%2Fwww.immediato.net%2F%G",
+        "expiry": 1720409335,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SN_SS-18321391-f80fe": {
+    "visit_id": 1,
+    "name": "SN_SS-18321391-f80fe",
+    "domain": "www.immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0%G%G1%G1704857335000%G1704857335000%G",
+        "expiry": 1720409335,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.66482923.1704857335",
+        "expiry": 1739417335,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1362748579.1704857335",
+        "expiry": 1704943735,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_UA-49497943-1": {
+    "visit_id": 1,
+    "name": "_gat_UA-49497943-1",
+    "domain": ".immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704857395,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "62986c40-af68-11ee-9614-67878a71df35",
+        "expiry": 1738553336,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAFgAGAENAhEgAAAAAAAAABCYAAAAAAAA.YAAAAAAAAAAA",
+        "expiry": 1720409338,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pubtech-cmp-pcstring": {
+    "visit_id": 1,
+    "name": "pubtech-cmp-pcstring",
+    "domain": ".immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1-0X0",
+        "expiry": 1736393338,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "zc": {
+    "visit_id": 1,
+    "name": "zc",
+    "domain": ".zeotap.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "34653e21-de7c-425b-4b75-fc938ae8fe2e",
+        "expiry": 1736393339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "zsc": {
+    "visit_id": 1,
+    "name": "zsc",
+    "domain": ".zeotap.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "i%C2%1C%F3%F3RwHSd1%EF+%7B%E35%B8%03%E4%8F%84t%B9%3D%7B%18%86%ADw%8B%8F%C0%7D%874%D1pe%DCQ%02%8EA%0C%E3%05q%5C%27%C6%D3jb%82%D5%1CH%A4%FAd%BA%1F%1D%23%81%8CGRwJU%DA%D8%E3%FB%80%00%D3Ds%A1i%0A%CF%17u%D8%A6%DCUi%FF+6O%C8%BF%60%5De%E2%93g%0D%11%11%DA%F9%19w%26%82gi%96V%B7%EE%C5y%B6%25%10%C42%F8%E5%AA%D8%E9%91%1B%06UZ%82x%99%3A%26%9C~%2B%08u%60%40%BFZ%B2%CF%3E%9E2%C25%EC5%A6%87%F0%9F%87%5B%F2K%95%8BE%0B",
+        "expiry": 1704943738,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6062068296898887407",
+        "expiry": 1712633346,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TapAd_TS": {
+    "visit_id": 1,
+    "name": "TapAd_TS",
+    "domain": ".tapad.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704857339040",
+        "expiry": 1710041339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TapAd_DID": {
+    "visit_id": 1,
+    "name": "TapAd_DID",
+    "domain": ".tapad.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1376ad71-9545-4909-af25-c1460cb3c19d",
+        "expiry": 1710041339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707535739,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TapAd_3WAY_SYNCS": {
+    "visit_id": 1,
+    "name": "TapAd_3WAY_SYNCS",
+    "domain": ".tapad.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1710041339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "72002184746806998250810984046887192617",
+        "expiry": 1720409339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5062764895616009808",
+        "expiry": 1710041339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OAGEO": {
+    "visit_id": 1,
+    "name": "OAGEO",
+    "domain": "adx.4strokemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2%7CIT%7CEU%7C1%7C%7C%7C39.2111%7C9.1111%7C200%7CEurope%2FRome%7C%7C88%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "72002184746806998250810984046887192617",
+        "expiry": 1720409339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUn-xKFdbC4c2CrsHPaC_EMaLuNGMMwJeEATgNzFWj5KY0omyrzY1NEcqy_20_M",
+        "expiry": 1738553339,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cProfile": {
+    "visit_id": 1,
+    "name": "cProfile",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AQMZ4tUKkgWpAAAAAAAEAAABjQYD9UkAB2RlZmF1bHQ=",
+        "expiry": 1706153339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AFFICHE_W": {
+    "visit_id": 1,
+    "name": "AFFICHE_W",
+    "domain": ".weborama.fr",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8LWHRF-3T3vw13",
+        "expiry": 1738812540,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cP": {
+    "visit_id": 1,
+    "name": "cP",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ASkDGeLVCpIFqQAAAAABsZFR",
+        "expiry": 1736393339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cOptout": {
+    "visit_id": 1,
+    "name": "cOptout",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0|yocToken:RHbthvkr3FXVT5bSlKjX7pP-490",
+        "expiry": 1736393339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OAID": {
+    "visit_id": 1,
+    "name": "OAID",
+    "domain": "adx.4strokemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01000111010001000101000001010010",
+        "expiry": 1736393339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_uid": {
+    "visit_id": 1,
+    "name": "_uid",
+    "domain": ".fwmrm.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "umo0447_7322306532666377875",
+        "expiry": 1720409339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "A3": {
+    "visit_id": 1,
+    "name": "A3",
+    "domain": ".yahoo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d=AQABBPsOnmUCEL27DpCoRz1fGPNaFfVVtbgFEgEBAQFgn2WnZee4Jm0A_eMAAA&S=AQAAAnKGtWLcX1k6zalNz--CZOc",
+        "expiry": 1736414939,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAPAD": {
+    "visit_id": 1,
+    "name": "TAPAD",
+    "domain": "www.immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22id%22%3A%22db4fcbb7-2913-45b6-94b7-08a26d28d9dd%22%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "_lr_geo_location_state": {
+    "visit_id": 1,
+    "name": "_lr_geo_location_state",
+    "domain": "www.immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "62",
+        "expiry": 1704943739,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_lr_geo_location": {
+    "visit_id": 1,
+    "name": "_lr_geo_location",
+    "domain": "www.immediato.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": 1704943739,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDSYNC": {
+    "visit_id": 1,
+    "name": "IDSYNC",
+    "domain": ".analytics.yahoo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "19ah~2g3f",
+        "expiry": 1736393339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_kuid_": {
+    "visit_id": 1,
+    "name": "_kuid_",
+    "domain": ".krxd.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "QBs9Ijhv",
+        "expiry": 1720409339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ab": {
+    "visit_id": 1,
+    "name": "ab",
+    "domain": ".agkn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0001%3AxtOmJHS33fw9nXD75Y0dzfh%2FRqxz9H7p",
+        "expiry": 1736393339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "everest_g_v2": {
+    "visit_id": 1,
+    "name": "everest_g_v2",
+    "domain": ".everesttech.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "g_surferid~ZZ4O_wANYlEbAABH",
+        "expiry": 1736393339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".ads.stickyadstv.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ed6337327b6ae5597eb85dbf4e64166",
+        "expiry": 1707449339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tr": {
+    "visit_id": 1,
+    "name": "tr",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "loCAwIGmWkVPVEFQAICB2gA0MzE5ZTJkNTBhOTIwNWE5XzM0NjUzZTIxLWRlN2MtNDI1Yi00Yjc1LWZjOTM4YWU4ZmUyZc5lng77",
+        "expiry": 1736393339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "d": {
+    "visit_id": 1,
+    "name": "d",
+    "domain": ".quantserve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EEsBDQHvKuvLswA",
+        "expiry": 1712633339,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mc": {
+    "visit_id": 1,
+    "name": "mc",
+    "domain": ".quantserve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659e0efb-cfdd4-66615-08a36",
+        "expiry": 1739071739,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-id": {
+    "visit_id": 1,
+    "name": "ad-id",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AwrB6rF3A0yqpUeELG9KwsU",
+        "expiry": 1727753339,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-privacy": {
+    "visit_id": 1,
+    "name": "ad-privacy",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739417339,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid-s": {
+    "visit_id": 1,
+    "name": "uuid-s",
+    "domain": ".live.streamtheworld.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e9aa21b9-22b5-4033-9e78-11a1465debb8",
+        "expiry": 1707449341,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "meil3uU6qmUF0bfq4C6NiPNg-UvweCiZGbnvgG-Ap6pdL5kcHY5Q9cu2d89Gjq2zPtK6PtafLwh0NVOKZ3dzXvKreZ_NUTyIJ-iZ0mjTug0.",
+        "expiry": 1739417346,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

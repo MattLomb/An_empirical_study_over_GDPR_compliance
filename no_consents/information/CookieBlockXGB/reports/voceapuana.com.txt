@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: voceapuana.com 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_PCT-voceapuanac,SV_PCT-voceapuanac,SSC_PCT-voceapuanac,SN_PCT-voceapuanac,addtl_consent
+FUNCTIONAL COOKIES = _ga_TG3CD7BH6K,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

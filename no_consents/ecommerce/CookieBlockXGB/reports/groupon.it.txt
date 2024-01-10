@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: groupon.it 
+NECESSARY COOKIES = division,user_locale,_csrf,googtrans,db_ui,subscription_visited,subscription_last_visited,thx_guid,slireg,sliguid,slirequested,c3s
+FUNCTIONAL COOKIES = b,s,pageId,ak_bmsc,bm_sz,_abck,db_uicd,__ssid,_ga_TW2CBMFZ20,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

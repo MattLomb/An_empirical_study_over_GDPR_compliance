@@ -1,0 +1,102 @@
+{
+  "_ga_6Y8GCVV3ST": {
+    "visit_id": 1,
+    "name": "_ga_6Y8GCVV3ST",
+    "domain": ".ilturista.info",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704859755.1.0.1704859755.60.0.0",
+        "expiry": 1739419755,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ilturista.info",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1399043163.1704859755",
+        "expiry": 1739419755,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "YSC": {
+    "visit_id": 1,
+    "name": "YSC",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "qwk2hj-yUFc",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "VISITOR_INFO1_LIVE": {
+    "visit_id": 1,
+    "name": "VISITOR_INFO1_LIVE",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "JeC4BQMKrmg",
+        "expiry": 1720411755,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FCCDCF": {
+    "visit_id": 1,
+    "name": "FCCDCF",
+    "domain": ".ilturista.info",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CP4KqwAP4KqwAEsACCITAiEgAAAAAAAAAAAgAABBQhTwABAAKABgAGgAQgAwADIAGwAPgAiABKACqAFgAWgA4gB0AHcAPQA-ACKAE4AKIAWgAvABhADIAG0AOcAdwB4AD4AIKARQBGACZAE6AJ8AUIApABWgC-AGIANIAagA2AB1gDtAHiAPMAfIA_gCBwESARMAkwBN4CegJ8AUUApYBTYCvAK-AWYAvgBfgDAAGNAM0AZ8A1wBswDgAHLAOuAeiA94D5AH7AQAAgwBDYCJQEVAI1gR2BHgCSIEsgS0Al4BOgChAFRAKrAVfAr4CvwFhwLLAs0BZ4C1QFrgLeAXLAukC6gF2ALuAXoAvcBgADAgGDwMLAwwBiYDGQGNgMdAZAAyiBl4GYQM1AzYBn8DQgNDAaVA1ADUgGrANaAa7A2EDYgGygNqAbiA3yBwgHDAOOAc5A6EDo4HUgdUA7IB28DuQO6gd4B3oDvwHhAPIAeYA88B7wD4wH4gP4gf4B_wEAAIBQQIBAkCCgEFoIMgg0BB8CEgELAIaQQ3BDgCHYERgIlARWAiyBGYCNUEbARuAjhBHIEcwI-ASBgkWCRgEvAJhQTGBMcCZIQUAAA.YAAAAAAAAAA%22%2C%221~%22%2C%2202B456D9-3278-4011-95DD-9BE5840F0459%22%5D%5D",
+        "expiry": 1738555758,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

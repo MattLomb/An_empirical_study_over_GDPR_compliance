@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: snai.it 
+NECESSARY COOKIES = regUUID,cookie-analitici_v2,cookie-tecnici_v2,bm_mi,RT
+FUNCTIONAL COOKIES = SESS4371b8d25743ccb402924601d467f83e,bm_sz,bm_sv,OTP,IDE,ak_bmsc,_abck
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

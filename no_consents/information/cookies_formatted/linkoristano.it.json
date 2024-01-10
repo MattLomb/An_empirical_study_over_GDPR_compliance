@@ -1,0 +1,202 @@
+{
+  "LSW_WEB": {
+    "visit_id": 1,
+    "name": "LSW_WEB",
+    "domain": "www.linkoristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LSW_WEB22",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OAID": {
+    "visit_id": 1,
+    "name": "OAID",
+    "domain": "adv.presscommtech.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01000111010001000101000001010010",
+        "expiry": 1736387817,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSID_SS-20135949-99d50": {
+    "visit_id": 1,
+    "name": "SSID_SS-20135949-99d50",
+    "domain": "www.linkoristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1092839889714",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SV_SS-20135949-99d50": {
+    "visit_id": 1,
+    "name": "SV_SS-20135949-99d50",
+    "domain": "www.linkoristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704851810714",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSC_SS-20135949-99d50": {
+    "visit_id": 1,
+    "name": "SSC_SS-20135949-99d50",
+    "domain": "www.linkoristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%G1%G%G1704851810000%G%G%G1%G1704851810000%Ghttps%3A%2F%2Fwww.linkoristano.it%2F%G",
+        "expiry": 1720403810,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SN_SS-20135949-99d50": {
+    "visit_id": 1,
+    "name": "SN_SS-20135949-99d50",
+    "domain": "www.linkoristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0%G%G1%G1704851810000%G1704851810000%G",
+        "expiry": 1720403810,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_8GCL29KSV1": {
+    "visit_id": 1,
+    "name": "_ga_8GCL29KSV1",
+    "domain": ".linkoristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704851810.1.0.1704851810.0.0.0",
+        "expiry": 1739411810,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".linkoristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.33664910.1704851811",
+        "expiry": 1739411810,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".www.linkoristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAAKAyBITAiEgAAAAAEPgABCYAABBqQLMNGqmj7J0tCrQeIoERIgriFigQBgAAuDZAQJmTQp2BgEvsJkAIMUAAwQMgABRmgCAgCSABCoCJBClQAiQCHQAAIAACAQBcDIAOIi0EAgAJAfAxTCgAUixgSsyInTgjCoSDbtsoHlgKBBXiBYscSKATEwUBaCNABWAAACx2A5JuC1mQUJYR_SBAEACCeW4VCKXqwBjTu7LVbiqfRtYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAwUCuAAEABQAGwARQAnACoAHYAPQAhABFACkAF4AOYAigBKwCtAK4AYQAxIBnAGiAOAAcYA6wB4gEIAI6ASYAnUBXgFfAL8AbYA4ABxwDmwHXAdkA9QB7QD9gH9AQkAjuBLQExAKEAUkApoBUoCvgFkgLRAW6AuiBdYF2AL0AX8AwiBi4GMgMcAY8A1oBrwDZQHHAOWgdSB1QDtwH8AP-AgEBAUCBwEF4IbghxBDoEOwIhARJAjMBGoCNgEbwI5ASPAksBK4CWQEugJlATeAnCBOgeBSAACAAoADYAHgARQAnACoAHoAQgAigBOAClAHMAdwBFACTgFaAVwAxABwADjAHWAPEAjIBJgCdQFeAV8AvwBkgDbAHAAObAdcB2QDzAHqAPbAfsB_QEJAI5AR2AkiBLQEvAKEAUkAqQBXwCyQFowLrAuwBegDGYGOAY7AzUDNgGdgNaAbKA2cBvIDjgHTwOpA6oB2QDtwH1AQCggKCAwEDgILgQjAhwBEICJIEZgI1ARsAkeBJYCUgEqwJZAS2AmKBMoCawE6CIC8AAIAIgAVABCADuAJMAcABGYCvAK-AX4AzgB1wD2wH7AfwBCQCOYEtATEAoQBSQCpAFfQLrAuwBegDHAGPANaAbKA44B08DqQOqggKCAwEDgILgQjAhwBEICJIEagI2ARyAkeBJYCUgExQJlATWAnQTAdAABABFACcAKAAhABSADuAJMAVoAxABwADjAHWARkAnUBXgFfAL8AZwA2wBwADmwH7AfwBCQCOQEvAKEAUgApIBUgC1gFuwLrAuwBegDGQGPANaAbKA3kBxwD4gICgQOAguBCMCHAEOgIhARqAjYBHICOoEjwJLASrAlsBMUCZQE6AJ2lQIIAAQARQAnACoAIQARYA5gDuAIoASYArQBiADgAHGATqArwCvwF-AYAA2wBxwDmgHZAPUAfsBCQCOQEdgJIgS0BLwCZQFCAKPAUkAtYBdYC9IGMgY0Ax4BkADNAGtANlAccA-oB_wEBQIHAQXAhGBDgCIQESQIzARqAjYBHICOoEjwJLASkAlWBK8CWQExQJlATdAnQBO0uASABEACoAIQA4AC_AGcAWIAtEBrQDjgICgQXAhwBEICOQEygJugToA.YAAAAAAAAAAA",
+        "expiry": 1738547816,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "addtl_consent": {
+    "visit_id": 1,
+    "name": "addtl_consent",
+    "domain": ".www.linkoristano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~",
+        "expiry": 1738547816,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

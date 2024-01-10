@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: notiziemusica.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _gcl_au,IMRID,MUID
+UNCLASSIFIED COOKIES = evntuid,_ga_EXK7YBW3W8,_ga_K7PLSMX9XF,_ga_5YT1E7GK54,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

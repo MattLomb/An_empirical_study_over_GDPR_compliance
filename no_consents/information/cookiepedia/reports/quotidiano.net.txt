@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: quotidiano.net 
+NECESSARY COOKIES = AWSALB,AWSALBCORS,usprivacy
+FUNCTIONAL COOKIES = ts
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _gcl_au,test_cookie,IMRID
+UNCLASSIFIED COOKIES = __cf_bm,_k5a,__adblocker,_pctx,_pcid,_pcus,__pnahc,SSID_qnet,SV_qnet,SSC_qnet,SN_qnet,SSCN_N_qnet,SSCN_UG_qnet,SSCN_UW_qnet,SSCN_UM_qnet,__tbc,__pat,__pvi,xbc,_ga_KH6BFYQJML,cX_P,cX_G,_pbjs_userid_consent_data,_pubCommonId,ptechsdepth,pt1-ppid-v2,euconsent-v2,pubtech-cmp-pcstring,gckp,dmvk,v1st,_pubCommonId_last,pubtech-unifiedid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: mondo-motori.it 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,uid
+ADVERTISING COOKIES = tuuid,tuuid_lu
+UNCLASSIFIED COOKIES = _ga_K44464XGNW,_ga_EXK7YBW3W8,__lxG__consent__v2,__lxG__consent__v2_daisybit,st_ssp,st_uid,gv,SSID_TRO-mondomotoriit,SV_TRO-mondomotoriit,SSC_TRO-mondomotoriit,SN_TRO-mondomotoriit,SSA,TAPAD,cProfile,cP,tr,cOptout,OTP,c,C
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

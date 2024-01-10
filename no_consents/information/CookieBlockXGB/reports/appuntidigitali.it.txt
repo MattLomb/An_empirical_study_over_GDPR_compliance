@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: appuntidigitali.it 
+NECESSARY COOKIES = __cf_bm,PHPSESSID
+FUNCTIONAL COOKIES = _ga_FB8QGR8J5V,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

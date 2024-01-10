@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: it.shein.com 
+NECESSARY COOKIES = __cfruid,ak_bmsc,OptanonAlertBoxClosed,OptanonConsent,bm_sv
+FUNCTIONAL COOKIES = _pin_unauth
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = NID,_uetsid
+UNCLASSIFIED COOKIES = cookieId,sessionID_shein,bm_sz,RESOURCE_ADAPT_WEBP,app_country,_abck,country,countryId,smidV2,_csrf,ftr_blst_1h,lastRskxRun,rskxRunCookie,rCookie,_uetvid,ar_debug,_pinterest_ct_ua,_aimtellSubscriberID,inId,forterToken
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

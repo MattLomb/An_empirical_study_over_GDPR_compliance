@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: corriereadriatico.it 
+NECESSARY COOKIES = _iub_cs-70861771,AFFICHE_W,ar_debug,__cf_bm,_hjFirstSeen,_hjIncludedInSessionSample_2268976,_hjAbsoluteSessionInProgress,_lr_retry_request,_lr_env_src_ats
+FUNCTIONAL COOKIES = IMRID,euconsent-v2,MUID,__mguid_,_hjSessionUser_2268976,_hjSession_2268976
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

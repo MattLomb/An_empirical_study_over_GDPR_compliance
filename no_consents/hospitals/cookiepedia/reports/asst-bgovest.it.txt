@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: asst-bgovest.it 
+NECESSARY COOKIES = ASPSESSIONIDACQCQCTD,CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.2.ed89,_pk_ses.2.ed89
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

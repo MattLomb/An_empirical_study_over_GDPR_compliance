@@ -1,0 +1,1422 @@
+{
+  "_Amc_s": {
+    "visit_id": 1,
+    "name": "_Amc_s",
+    "domain": "prebid.a-mo.net",
+    "path": "/setuid",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAA_AEAENAiEsAP_gAEPgAAAAg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkgFMRM2dYCF5vmYtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdQ58tDfn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQagCzDQqIA-yJCQi0HCKBACIKwgIoEAAAAJA0QEAJgwKdgYBLrCRACBFAAMEAIAAUZAAgAAEgAQiACQAoEAAEAgEAAAAAAgEADAwADgAtBAIAAQHQMUwoAFAsIEjMiIUwIQoEggJbKBBICgQVwgCLHAigERMFAAgCQAVgAAAsVgMQSAlYkECWEG0AABAAgFFKFQik6MAQwJmy1U4om0ZWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAA.YAAAAAAAAAAA",
+        "expiry": 1704860554,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_Amc_t": {
+    "visit_id": 1,
+    "name": "_Amc_t",
+    "domain": "prebid.a-mo.net",
+    "path": "/setuid",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "_T",
+        "expiry": 1704860554,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_C2JKXE14LY": {
+    "visit_id": 1,
+    "name": "_ga_C2JKXE14LY",
+    "domain": ".calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704860247.1.0.1704860247.0.0.0",
+        "expiry": 1739420247,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1236096394.1704860248",
+        "expiry": 1739420253,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1CFce472b8b9ac0dc95881b1704860248",
+        "expiry": 1739420248,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2",
+    "domain": ".calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%7C1704860251%7C1704844800000%7C34%7C1706588251309%7C2%7C1%7C1%7C1704844800000%7C1%7C17048602487347384%7C0%7C1373",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2_daisybit": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2_daisybit",
+    "domain": ".calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAA_AEAENAiEsAP_gAEPgAAAAg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkgFMRM2dYCF5vmYtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdQ58tDfn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQagCzDQqIA-yJCQi0HCKBACIKwgIoEAAAAJA0QEAJgwKdgYBLrCRACBFAAMEAIAAUZAAgAAEgAQiACQAoEAAEAgEAAAAAAgEADAwADgAtBAIAAQHQMUwoAFAsIEjMiIUwIQoEggJbKBBICgQVwgCLHAigERMFAAgCQAVgAAAsVgMQSAlYkECWEG0AABAAgFFKFQik6MAQwJmy1U4om0ZWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAA.YAAAAAAAAAAA",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2_gdaisybit": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2_gdaisybit",
+    "domain": ".calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "~1~43.3969.13.64.15.952.11.17132.10..33.469.17.29.20.7.20.5.20.63214.11..29.4.14.93.10.6296698.29.4531.27.1.17..10.91862.11.4.146..65.1.17.1.18..25..35.5.18.97.41.24.18..24.49652.14..18.73228.28.863.10.4.20.2.13.4.10..11.13.22..16.2686.11.65.33..11.81.10..28..12.15.19.96.40..17.49.15.873.12.72417.12..13..22..13.2.14..10.14.15.2.13.4547.13.5.15.4.13.4.14..10..15.2562212.14.74829.10..18..12..13.2.18.113119.25.41.19.848548442.14.2.13.4269632235236.10..11.63.19.8331239.19..26.3.10.76434633331116.11.311.11.61.10.5832243227.15.7.14.13345432255129791537.10..11.1311213261.12.813112277143612141141121817433353.15.1.15..10..28.122.12.34163471314153134152312262122241112211112111221121217141211112142119162162321112524112211712212123112411151363155412314322311111.11.1311225233527112519513184519111211142.13.113122312111213111124612438229722133161711263121.200..200..100..300..400..100..100..100..2100..304..596..100..1000..800..500..600..200..500..1300..801..99..506..2594.",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lotame_domain_check": {
+    "visit_id": 1,
+    "name": "lotame_domain_check",
+    "domain": ".calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "calciomercato.it",
+        "expiry": 1704860262,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pbjs_userid_consent_data": {
+    "visit_id": 1,
+    "name": "_pbjs_userid_consent_data",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8723570997134613",
+        "expiry": 1707452252,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "Adkaora_Shareid": {
+    "visit_id": 1,
+    "name": "Adkaora_Shareid",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "af35bb17-25dc-4eda-b16b-9fce3f0b893f",
+        "expiry": 1707452252,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_cc_dc": {
+    "visit_id": 1,
+    "name": "_cc_dc",
+    "domain": ".crwdcntrl.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1728187800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cc_id": {
+    "visit_id": 1,
+    "name": "_cc_id",
+    "domain": ".calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "940fba56feb581113bc98d5d3c6cd5eb",
+        "expiry": 1728188253,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "panoramaId_expiry": {
+    "visit_id": 1,
+    "name": "panoramaId_expiry",
+    "domain": ".calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704946653118",
+        "expiry": 1704946654,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUm3OrxWOAveXXQUNNs25ATFXWnInydg0cmqx3JdIpHu7C7j6XtLaPBqyZflU6g",
+        "expiry": 1738556252,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gads": {
+    "visit_id": 1,
+    "name": "__gads",
+    "domain": ".calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ID=1300718553a24c08:T=1704860252:RT=1704860252:S=ALNI_MazJoTiuiFSqY2oYpE0YtjZnhytkA",
+        "expiry": 1738556252,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gpi": {
+    "visit_id": 1,
+    "name": "__gpi",
+    "domain": ".calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "UID=00000d3eff4be819:T=1704860252:RT=1704860252:S=ALNI_MY04JtObfzbCq01uiyog3yF1Uxnkg",
+        "expiry": 1738556252,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "adk_interstitial": {
+    "visit_id": 1,
+    "name": "adk_interstitial",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704862053,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "adk_out-of-page-provider": {
+    "visit_id": 1,
+    "name": "adk_out-of-page-provider",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704862053,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "adk_adv_blocking": {
+    "visit_id": 1,
+    "name": "adk_adv_blocking",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704862053,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_au_1d": {
+    "visit_id": 1,
+    "name": "_au_1d",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AU1D-0100-001704860253-C7PGKMXE-PJ99",
+        "expiry": 1736396253,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_au_last_seen_pixels": {
+    "visit_id": 1,
+    "name": "_au_last_seen_pixels",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJhcG4iOjE3MDQ4NjAyNTMsInR0ZCI6MTcwNDg2MDI1MywicHViIjoxNzA0ODYwMjUzLCJydWIiOjE3MDQ4NjAyNTMsImFkeCI6MTcwNDg2MDI1MywiZ29vIjoxNzA0ODYwMjUzLCJwcG50IjoxNzA0ODYwMjUzLCJzb24iOjE3MDQ4NjAyNTMsImJlZXMiOjE3MDQ4NjAyNTMsInVucnVseSI6MTcwNDg2MDI1M30%3D",
+        "expiry": 1736396253,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-id": {
+    "visit_id": 1,
+    "name": "ad-id",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A2nk32-KI0bCvcXKVbgafSw",
+        "expiry": 1727756254,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-privacy": {
+    "visit_id": 1,
+    "name": "ad-privacy",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739420254,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_au_last_seen_iab_tcf": {
+    "visit_id": 1,
+    "name": "_au_last_seen_iab_tcf",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704860253462",
+        "expiry": 1736396253,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8218962199889023367",
+        "expiry": 1712636255,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "khaos": {
+    "visit_id": 1,
+    "name": "khaos",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LR79RYQV-26-8LBM",
+        "expiry": 1736396254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TDID": {
+    "visit_id": 1,
+    "name": "TDID",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9e83ad0d-a7a1-4801-9c0f-10f6aeb8ee43",
+        "expiry": 1736482654,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "INGRESSCOOKIE": {
+    "visit_id": 1,
+    "name": "INGRESSCOOKIE",
+    "domain": "bh.contextweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d62a679480d7293d",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "i": {
+    "visit_id": 1,
+    "name": "i",
+    "domain": ".openx.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9cab8808-865b-0d0a-0e6d-62c2c53b5dba|1704860253",
+        "expiry": 1736396253,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "stx_user_id": {
+    "visit_id": 1,
+    "name": "stx_user_id",
+    "domain": ".sharethrough.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f185831f-1246-4526-8baf-10842c1f8362",
+        "expiry": 1707452254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".googleadservices.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1712636253,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pd": {
+    "visit_id": 1,
+    "name": "pd",
+    "domain": ".openx.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v2|1704860253|n0vNvQiygu",
+        "expiry": 1706156253,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pid": {
+    "visit_id": 1,
+    "name": "pid",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5923866731978015120",
+        "expiry": 1739074593,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": "www.calciomercato.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.264170763.1704860254",
+        "expiry": 1704946653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bito": {
+    "visit_id": 1,
+    "name": "bito",
+    "domain": ".bidr.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AAGryk7LPDUAABRqybAXGQ",
+        "expiry": 1738970254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bitoIsSecure": {
+    "visit_id": 1,
+    "name": "bitoIsSecure",
+    "domain": ".bidr.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ok",
+        "expiry": 1738970253,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uis": {
+    "visit_id": 1,
+    "name": "__uis",
+    "domain": ".go.sonobi.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a6e115a2-bc7a-4bbb-8eab-0de0d2074326",
+        "expiry": 1707452253,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "HAPLB8G": {
+    "visit_id": 1,
+    "name": "HAPLB8G",
+    "domain": ".go.sonobi.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "s85129|ZZ4aY",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707538653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".turn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2663475863123866825",
+        "expiry": 1720412257,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "univ_id": {
+    "visit_id": 1,
+    "name": "univ_id",
+    "domain": ".openx.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "537072971|9e83ad0d-a7a1-4801-9c0f-10f6aeb8ee43|1704860254076370",
+        "expiry": 1706156254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "receive-cookie-deprecation": {
+    "visit_id": 1,
+    "name": "receive-cookie-deprecation",
+    "domain": "pixel.rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1712636254,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "id5": {
+    "visit_id": 1,
+    "name": "id5",
+    "domain": ".id5-sync.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a63b9614-6082-72f0-9f47-5d67ccfa565e#1704860254293#2",
+        "expiry": 1712636254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "zuid": {
+    "visit_id": 1,
+    "name": "zuid",
+    "domain": ".zemanta.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "DQZBzWCc3Zn8Haxm45GK",
+        "expiry": 1736396254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TDCPM": {
+    "visit_id": 1,
+    "name": "TDCPM",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CAESGwoMc2hhcmV0aHJvdWdoEgsIyvX8pKPnyDwQBRIWCgdydWJpY29uEgsI1p-vpqPnyDwQBRgBIAEoAjILCNDLgNa558g8EAU4AVoHOGg5dTExaGAC",
+        "expiry": 1736482654,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "A3": {
+    "visit_id": 1,
+    "name": "A3",
+    "domain": ".yahoo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d=AQABBF4anmUCEDceeVhqr_IQm8_Wa9SLGGwFEgEBAQFrn2WnZQAAAAAA_eMAAA&S=AQAAAjGdYGELkH_xUiMqZUEIhQk",
+        "expiry": 1736417854,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bcookie": {
+    "visit_id": 1,
+    "name": "bcookie",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"v=2&8928ba2c-4a9f-4621-8b17-cf4a64f96a95\"",
+        "expiry": 1736396254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "li_gc": {
+    "visit_id": 1,
+    "name": "li_gc",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MTswOzE3MDQ4NjAyNTQ7MjswMjHMYh+6mk4i/R3Jv23kynE/5nFGRCl2XiXPypr05X4axg==",
+        "expiry": 1720412254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lidc": {
+    "visit_id": 1,
+    "name": "lidc",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"b=OGST05:s=O:r=O:a=O:p=O:g=2933:u=1:x=1:i=1704860254:t=1704946654:v=2:sig=AQFDJLW5EKWww_iJH2Sm3e0RuSlHKHfC\"",
+        "expiry": 1704946654,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "audit": {
+    "visit_id": 1,
+    "name": "audit",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1|3ML7dx+M+nzq6Xb5JALJ7E/4aGvPee+Q/W0W28WZw4jNxp4P/mywgks7vmmc5ZOuzrMUUraiIo50QiZTwH+ZfTg6CFNUugm1kPOjiK8WWSWFyPlr8q4WPOQ59w7Vj8mOHYtoVzHAKsxGnSvzLZjYD2n2JgpclEIAnZ9pUtf2UnIoHMLeWm6VGWJklKBGBtIXzkDUt1JrCgqp5SgAG47phJ+9BHbygK4UzknBtRxXAJxy6WHxPZrdM9iA+iB33+xq5hQO1nK0ZKB/S4sv1vuM3icD6mUPHLyL9uL41kntzAixXDARQ6KZwBCg7E5hs8wDLZDbNcb1Gduqkcya9JhFySsP96bnTxus93i0OtXgz5Xufy1UCah5RrqEa6JA7C57wzuog+0WFkEa2zSIS7uXL8AxGu+maPoX9+Y3nNpGXiwwEGgg3EKNW5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjLoZ/AoAIqEY9TU5FsW7SWayFLYDlNk9ugrn2baEfBU2eODj4v00KLXeZ4rgW+JHWUNeKr87YBeedki/0uvrRDxXqwJyMw6JCeldM8vdEQ9Q1n4oNPqYeXemNvdY1tvIfw3rSg4rPxHgl8V1FftG3nRRv9VfoVjwNHFWmmd8dV/LViNZIQq9dFrOCxxeCyMDC9lpOD6y0j3XqcV68TMztEx4677eziAXfC1D8nnGwoiK7mAGHTaIEUVyi9H2e0ZifecKMv5tFVRcNFT44RzkXo5Ir97fPmIUmlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjLft+pJJQ3iz4t1azllCwaBwqgGvyNdUrtQ+6Zm3jzYyBICXxo20bsubxbpG1y6uYGtrkC/07ZK54yc9/vt+UOMyQBERKnr+kN8610I77SEkETfBsWK+ASdsXyfJ78+aiLRGWS6M1XBIauE8z9/8Y4s3HrtK/+4+3RKiz4neF4vUjUGHKX3vvlLqVK8UQWw3OLWe7tw4qjJ105lTcwAJwS65Gk5JWi4xlODbk95TSgu4PBGGYKXGFv3dJCi5T7wodV655g4legPz4z6+A5ZmaSmogOBfJ/8fwqfT1ZOtA9yaIqhGzgITtj7NOTgoSg8OMnm8h5XpT3cNLFI2mAyAo3lCR1jRFmT8Oe7RDRSorJypukijPKkOvnL/+IKkB6B4zlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjyYwH1W67S5Bx+4Sw0BmyHjayhAAnv0lDBBOf5f5MzAraD6udk5uDm4w4VNUVjJ/LetFJCgNM8/v9HFxzOUHDoDJ/jVZ5EAw0xFjjPJnE1UclMd8/zQXkul1vBnWgcNr2IhpxlWuLVj7LtsGq268LlTJX/uC6PRjqsOuBcjuWZHtjuqioT/Cgya3nutEjaInFpWGZvg9Pt+3fKk0fjA8rlyVkzGMscU+ZpRSSbleNkLvy3bwenLoISnsefqxhv0jdY3yj+QOBF8sPi6Oun36Rqsh5OIIlar2iSjh/aCZU9uiU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjlOyCXXZigKOU7IJddmKAo5Tsgl12YoCjpe3HIkYPkMifkvOFoWmdsZTsgl12YoCj2OWUk6mmBvk=",
+        "expiry": 1736396254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "csuuid": {
+    "visit_id": 1,
+    "name": "csuuid",
+    "domain": ".primis.tech",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659e1a5e937fa",
+        "expiry": 1707020254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "anj": {
+    "visit_id": 1,
+    "name": "anj",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dTM7k!M4/YCxrEQF']wIg2GVNogO@k!]tbP6j2F-.aDabByFnKcfM7^4.7s6=a:C_kBBWQA8dw%.+FPW*qF1`*b`!R(qNb3",
+        "expiry": 1712636254,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uids": {
+    "visit_id": 1,
+    "name": "uids",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ0ZW1wVUlEcyI6eyJydWJpY29uIjp7InVpZCI6IkxSNzlSWVFWLTI2LThMQk0iLCJleHBpcmVzIjoiMjAyNC0wNC0wOVQwNDoxNzozNFoifX0sImJpcnRoZGF5IjoiMjAyNC0wMS0xMFQwNDoxNzozNFoifQ==",
+        "expiry": 1712636254,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_Amc_b": {
+    "visit_id": 1,
+    "name": "_Amc_b",
+    "domain": "prebid.a-mo.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1457",
+        "expiry": 1704860554,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_sv3_7": {
+    "visit_id": 1,
+    "name": "_sv3_7",
+    "domain": ".prebid.a-mo.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704946654,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "amuid2": {
+    "visit_id": 1,
+    "name": "amuid2",
+    "domain": ".a-mo.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9c8502b1-7e51-4190-bdf8-6fe00af5e2a1",
+        "expiry": 1736396254,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sd_amuid2": {
+    "visit_id": 1,
+    "name": "sd_amuid2",
+    "domain": ".prebid.a-mo.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9c8502b1-7e51-4190-bdf8-6fe00af5e2a1",
+        "expiry": 1736396254,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TapAd_TS": {
+    "visit_id": 1,
+    "name": "TapAd_TS",
+    "domain": ".tapad.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704860254685",
+        "expiry": 1710044254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TapAd_DID": {
+    "visit_id": 1,
+    "name": "TapAd_DID",
+    "domain": ".tapad.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0e7615c8-f513-4feb-945b-ffc68d3c57e4",
+        "expiry": 1710044254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cnx_userId": {
+    "visit_id": 1,
+    "name": "cnx_userId",
+    "domain": ".connatix.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "50a4357849aa42d2b4a94c7e0c470b0e",
+        "expiry": 1707452254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SEUNCY": {
+    "visit_id": 1,
+    "name": "SEUNCY",
+    "domain": ".semasio.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "BE9BAA102A7EA536",
+        "expiry": 1736396254,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TapAd_3WAY_SYNCS": {
+    "visit_id": 1,
+    "name": "TapAd_3WAY_SYNCS",
+    "domain": ".tapad.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1710044254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "RIS2q4G3pUJHOk2Akt_EFumcqKEamKZXi_Wh8wI9uV0s6w3EtJJgBfZUUVaB_A0zN9FUTrJ5jUSJ8rU2MiqcDP5U3Ue76GfT3NbxooFaKc0.",
+        "expiry": 1739420255,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid": {
+    "visit_id": 1,
+    "name": "tuuid",
+    "domain": ".360yield.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9837a039-2dcd-4513-9ed7-36849f7bd425",
+        "expiry": 1712636255,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid_lu": {
+    "visit_id": 1,
+    "name": "tuuid_lu",
+    "domain": ".360yield.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704860255",
+        "expiry": 1712636255,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "um": {
+    "visit_id": 1,
+    "name": "um",
+    "domain": ".360yield.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!79,eoZqeVqAKPxnGwmiqSZoU7QChZcukG2iRegQ7AmPcYHLhxbrq3QGrgnI8uIRziApruf.uQNtcvZroDRb,1712636255",
+        "expiry": 1712636255,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "umeh": {
+    "visit_id": 1,
+    "name": "umeh",
+    "domain": ".360yield.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!79,0,1767068255,-1",
+        "expiry": 1712636255,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ljt_reader": {
+    "visit_id": 1,
+    "name": "ljt_reader",
+    "domain": ".lijit.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "H91BpRZH7qWclkt4SLOFNyYk",
+        "expiry": 1736396256,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ljtrtb_27": {
+    "visit_id": 1,
+    "name": "_ljtrtb_27",
+    "domain": ".lijit.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9e83ad0d-a7a1-4801-9c0f-10f6aeb8ee43",
+        "expiry": 1736396256,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "3pi": {
+    "visit_id": 1,
+    "name": "3pi",
+    "domain": ".id5-sync.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "112#1704860254862#-1825748897#BE9BAA102A7EA536|224#1704860256360#395839697#2663475863123866825|2#1704860255288#-1360060129#8218962199889023367|264#1704860254476#134401541#9e83ad0d-a7a1-4801-9c0f-10f6aeb8ee43|10#1704860256035#-1932685406#1023205645549172840|203#1704860255145#-1015686615#3a0ea98c-e438-4720-9bbf-ca2f71cf1bcf|124#1704860255735#-1328572909|1245#1704860256737#-1123029436",
+        "expiry": 1712636256,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "AWSALB": {
+    "visit_id": 1,
+    "name": "AWSALB",
+    "domain": "nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "nFdWQwLrOz0mFLr/xaLbZ7uR0CzQR7ALfRi7wvhi2mTmaK6P7jdeV8yUOOSjNGP4D0A05UEwEm4YVaDBrFkPS3UDuMvAHtbwIPK5klF4gZCgg2N4X9VmCf9mNwOZ",
+        "expiry": 1705461422,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "nFdWQwLrOz0mFLr/xaLbZ7uR0CzQR7ALfRi7wvhi2mTmaK6P7jdeV8yUOOSjNGP4D0A05UEwEm4YVaDBrFkPS3UDuMvAHtbwIPK5klF4gZCgg2N4X9VmCf9mNwOZ",
+        "expiry": 1705461422,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_sid": {
+    "visit_id": 1,
+    "name": "wtstp_sid",
+    "domain": ".nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_eid": {
+    "visit_id": 1,
+    "name": "wtstp_eid",
+    "domain": ".nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2170485662325370045",
+        "expiry": 1720408623,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_cdbeid": {
+    "visit_id": 1,
+    "name": "wtstp_cdbeid",
+    "domain": ".nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704857523,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtstp_rla": {
+    "visit_id": 1,
+    "name": "wtstp_rla",
+    "domain": ".nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "769396664005295%2C1%2C1704856623483",
+        "expiry": 1710040623,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!Gg1SyQjrSdpHsro8AP7SORvNY+Kz1DV2aQ+pkm8bkn2KzyqBQ6S8lZ6WT63LlpsDidSimZuo4kE7kg==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1930891521.1704856624",
+        "expiry": 1739416623,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1033886989.1704856624",
+        "expiry": 1704943023,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_5699143_1": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_5699143_1",
+    "domain": ".nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704856683,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ba387050-af66-11ee-b042-f19e0a2f18f7",
+        "expiry": 1738552624,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_60S70NSJ8B": {
+    "visit_id": 1,
+    "name": "_ga_60S70NSJ8B",
+    "domain": ".nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704856623.1.0.1704856624.0.0.0",
+        "expiry": 1739416624,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "push_notification_viewed": {
+    "visit_id": 1,
+    "name": "push_notification_viewed",
+    "domain": ".nostrofiglio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704943028,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "cookie_supported": {
+    "visit_id": 1,
+    "name": "cookie_supported",
+    "domain": "www.omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704939850,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m1_touch": {
+    "visit_id": 1,
+    "name": "m1_touch",
+    "domain": "www.omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no-touch",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "abtest": {
+    "visit_id": 1,
+    "name": "abtest",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Auto-v1.3",
+        "expiry": 1724853450,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_PianoABtestv2": {
+    "visit_id": 1,
+    "name": "_pc_PianoABtestv2",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1724853450,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_20ABtestv2": {
+    "visit_id": 1,
+    "name": "_pc_20ABtestv2",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7",
+        "expiry": 1724853450,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_20ABtestn2": {
+    "visit_id": 1,
+    "name": "_pc_20ABtestn2",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7",
+        "expiry": 1724853450,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pageviewSession": {
+    "visit_id": 1,
+    "name": "pageviewSession",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704854650,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions7daysExpires": {
+    "visit_id": 1,
+    "name": "Sessions7daysExpires",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Wed, 17 Jan 2024 02:24:10 GMT",
+        "expiry": 1705458250,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions7days": {
+    "visit_id": 1,
+    "name": "Sessions7days",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1705458250,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions30daysExpires": {
+    "visit_id": 1,
+    "name": "Sessions30daysExpires",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Fri, 09 Feb 2024 02:24:10 GMT",
+        "expiry": 1707445450,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions30days": {
+    "visit_id": 1,
+    "name": "Sessions30days",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707445450,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie_accept": {
+    "visit_id": 1,
+    "name": "cookie_accept",
+    "domain": "www.omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736389450,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1275216582.1704853451",
+        "expiry": 1704939850,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_dc_gtm_UA-314269-13": {
+    "visit_id": 1,
+    "name": "_dc_gtm_UA-314269-13",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704853510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__browsiSessionID": {
+    "visit_id": 1,
+    "name": "__browsiSessionID",
+    "domain": "www.omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bac9cd6f-9bd1-43a3-9f2d-360b178cfd0f&false&false&DEFAULT&it&desktop-4.22.14&false",
+        "expiry": 1704855251,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__browsiUID": {
+    "visit_id": 1,
+    "name": "__browsiUID",
+    "domain": "www.omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b3b4381a-df4a-42b4-8e38-d997f348cce6",
+        "expiry": 1736389451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EpIwUDKSeFb4ATTryF4yQxgTwSuMmMjpeL6erMSy5S07YOZQzjEj8MO1numDm52q5GSFh7MiXUTLttzRhTJJUHCohADdLkOm02tOgb77B3ggtN4ZA2xEi7Zl4MggTQ%3D%3D",
+        "expiry": 1704925451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1519933200.1704853451",
+        "expiry": 1739413451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ucountry": {
+    "visit_id": 1,
+    "name": "ucountry",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": 1707445451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.D4yDGwdVt4%2FzENbJ8jAbwcuVeG2kI5We%2Bawd8xQC%2F1o%3D.1704853451",
+        "expiry": 1739413459,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704853451370.1459379564",
+        "expiry": 1712629459,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_cb": {
+    "visit_id": 1,
+    "name": "_cb",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "OvkucDCSTRTBz4fOE",
+        "expiry": 1738981451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_chartbeat2": {
+    "visit_id": 1,
+    "name": "_chartbeat2",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": ".1704853451512.1704853451512.1.DF-fhfCickEGBrehD2UYHaDB8Wyai.1",
+        "expiry": 1738981451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cb_svref": {
+    "visit_id": 1,
+    "name": "_cb_svref",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "external",
+        "expiry": 1704855251,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bcf1be5cfd827815405edd2124c8a510",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "is_logged_in": {
+    "visit_id": 1,
+    "name": "is_logged_in",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1736389451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "khaos": {
+    "visit_id": 1,
+    "name": "khaos",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LR75Q6PH-O-DPFF",
+        "expiry": 1736389452,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "audit": {
+    "visit_id": 1,
+    "name": "audit",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1|naVuGyos1qrH2KXuKsOGB+EiJtAJJIXfGuBvOY1tQ7S7XW5wMGnRKVXmp/HpCHESizS/2WSpdzAmGweUluV0N6BY0mSeNCpEIo8tEQuGXfEYuY/fSI0kfg==",
+        "expiry": 1736389452,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4884343352054799544",
+        "expiry": 1712629452,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "WR4at751wBIq56-H8ZP0AzwNitwlcEaGiteeVArM1aUbO18mvZElvnrrgdfzuUO081rTwq996oaSqoOq5jex1-cytqcKvyieSc4dpEpDDC8.",
+        "expiry": 1739413452,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "icu": {
+    "visit_id": 1,
+    "name": "icu",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ChkI9ZqLARAKGAEgASgBMMz_96wGOAFAAUgBChkI56KLARAKGAEgASgBMMz_96wGOAFAAUgBEMz_96wGGAE.",
+        "expiry": 1712629452,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_Q5SX626HZZ": {
+    "visit_id": 1,
+    "name": "_ga_Q5SX626HZZ",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704853451.1.0.1704853454.0.0.0",
+        "expiry": 1739413454,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T02:24:14.719Z",
+        "expiry": 1733365454,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pbjs_userid_consent_data": {
+    "visit_id": 1,
+    "name": "_pbjs_userid_consent_data",
+    "domain": "www.omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1772847098459068",
+        "expiry": 1707445454,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEwAAAAAEPgACiQg1NX_D7dbWFD8Xp3aPs0eYwH11ibIsQAAASBA0ABwAOQcJwGwmAwNASgBgACAQAAoVZBAAEEDIFUAUCAaAAEAQGsIACUgAIIICBAgBEQAgBYCAoCAIAgEACIgAAREwQAmBQISErkGEQABgQAlAQwAAAEAAAQQBMACBn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQaoT4ACIAFAAXAA4ADwAKgAXAA4AB4AEAAJAAZAA0ABwADwAH4ARAAjgBMACgAFIAKsAWwBdADEAGYANAAbwA_ACEAENAIgAiQBHACWAE0AKMAYAAwwBlADNAGiAOQAe0A_AD9gIOAhABEQCKAEWgI4AjoBJQCUgE7ALEAXMAuoBegDFAGfANeAbQA3ABxADpAHUAP-Ai8BHoCRAErAJ2AUOApEBTYCpQFdgLoAXmAvoBggDBgGQwMmAycBlgDTQGpgNVAawA2gBuYDgAHBAOWAdsA8UB48DyQPKAfFA-QD5QH0gPrgfaB90D9gP3Af2BAECAgEDAIHgQRggmCCgEGAINgQhAhQBCuCFoIXAQzghyCHUEPAQ9Ah-BFMCMAEaQI1gRvAjiBHQCOwEewI-gR_AkIBIgCRQEjYJIAkkBJSCTAJMgSjglQCVIEsIJZglpBLcEuIJdAl2BL6CYAJggTDAmKBMcCZMEzATOAmkBNQCbEE2wTcgm8Cb4E4YJygnMBOkCdcE7QTuCCgEGoAAA.YAAACHwAAAAA",
+        "expiry": 1733365454,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OTAdditionalConsentString": {
+    "visit_id": 1,
+    "name": "OTAdditionalConsentString",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~46.89.108.228.230.320.938.1067.1092.1166.1205.1421.1703.1962.2008.2039.2074.2135.2213.2322.2328.2465.2501.2569.2958.2999.3028.3099.3136.3219.3222.3223.3225.3226.3227.3228.3230.3231.3234.3235.3236.3237.3238.3240.3244.3245.3250.3251.3253.3257.3260.3268.3270.3272.3281.3288.3290.3292.3293.3296.3299.3300.3306.3307.3314.3315.3316.3318.3324.3327.3328.3330.3331.3531.3731.3831.3931.4131.4531.4631.4731.4831.5031.5231.6931.7031.7235.7831.7931.8931.9731.10231.10631.10831.11031.11531.12831.13632.13731.14237.16831",
+        "expiry": 1733365454,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".omnifurgone.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+03%3A24%3A14+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202311.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e999cb0c-b697-45e3-a697-ce4085973149&interactionCount=1&landingPath=NotLandingPage&groups=C0005%3A0%2CC0002%3A0%2CC0004%3A0%2CC0001%3A1%2CC0003%3A0%2CC0009%3A0",
+        "expiry": 1733365454,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "598dc040-af5f-11ee-b1a8-bbf9a06ebda5",
+        "expiry": 1738549455,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMID": {
+    "visit_id": 1,
+    "name": "CMID",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ZZ3-z5UQGRTUiD0Ul0nCPwAA",
+        "expiry": 1736389455,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPS": {
+    "visit_id": 1,
+    "name": "CMPS",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "661",
+        "expiry": 1712629455,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPRO": {
+    "visit_id": 1,
+    "name": "CMPRO",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "661",
+        "expiry": 1712629455,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707531855,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6886261419696516757",
+        "expiry": 1710037455,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

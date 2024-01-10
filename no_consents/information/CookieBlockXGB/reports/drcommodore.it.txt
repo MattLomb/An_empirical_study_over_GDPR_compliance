@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: drcommodore.it 
+NECESSARY COOKIES = _gat_gtag_UA_109745976_1,_iub_cs-58201955-granular,_iub_cs-58201955,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_2L2R67E7FM,_ga_WMJPMEZ4BD,_ga,_gid,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

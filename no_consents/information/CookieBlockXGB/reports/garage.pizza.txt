@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: garage.pizza 
+NECESSARY COOKIES = __cf_bm,_gat_gtag_UA_153543142_1,test_cookie
+FUNCTIONAL COOKIES = UID,_ga_XFRSM6NHTR,_ga,_gid,pll_language
+ANALYTICS COOKIES = cookie_notice_accepted
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics cookies

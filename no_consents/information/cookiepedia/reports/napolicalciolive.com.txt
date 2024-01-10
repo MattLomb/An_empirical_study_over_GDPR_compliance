@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: napolicalciolive.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,_gat,UID,OAID
+ADVERTISING COOKIES = OAGEO
+UNCLASSIFIED COOKIES = quads_browser_width,_ga_5MHR0Y8V10,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

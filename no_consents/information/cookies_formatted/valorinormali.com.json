@@ -1,0 +1,242 @@
+{
+  "wteid_769396664005295": {
+    "visit_id": 1,
+    "name": "wteid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170485500500190820",
+        "expiry": 1720407004,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtsid_769396664005295": {
+    "visit_id": 1,
+    "name": "wtsid_769396664005295",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/769396664005295",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALB": {
+    "visit_id": 1,
+    "name": "AWSALB",
+    "domain": "valorinormali.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "YTafnUX9Rf9il2TDQbyClNfHExXM/KqjTu4RV1Hr3KW7TkNCBEUl1YNQr/AgH0YVstpUdFkooHBv9mf/Yaosg5rMw0WBxurmuN+4jelBW9EHowIdVjM07hiTa4ir",
+        "expiry": 1705459803,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "valorinormali.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "YTafnUX9Rf9il2TDQbyClNfHExXM/KqjTu4RV1Hr3KW7TkNCBEUl1YNQr/AgH0YVstpUdFkooHBv9mf/Yaosg5rMw0WBxurmuN+4jelBW9EHowIdVjM07hiTa4ir",
+        "expiry": 1705459803,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "nielsenSdk-2319020152": {
+    "visit_id": 1,
+    "name": "nielsenSdk-2319020152",
+    "domain": "www.valorinormali.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704855004338",
+        "expiry": 1704855304,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_TRQFQRZPP9": {
+    "visit_id": 1,
+    "name": "_ga_TRQFQRZPP9",
+    "domain": ".valorinormali.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704855004.1.0.1704855004.0.0.0",
+        "expiry": 1739415004,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".valorinormali.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.86341150.1704855004",
+        "expiry": 1739415004,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".valorinormali.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1162633317.1704855005",
+        "expiry": 1704941404,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_2870894_8": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_2870894_8",
+    "domain": ".valorinormali.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704855064,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_rla": {
+    "visit_id": 1,
+    "name": "wt_rla",
+    "domain": ".valorinormali.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "769396664005295%2C1%2C1704855004680",
+        "expiry": 1710039004,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "mediasetitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!6dIgYUrl3B4HDEU8AP7SORvNY+Kz1DrJGKmibjDQZ3i/4a8T2IIkrdKaJDjC7AG/W8mDQAfQrYJK7g==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f52fcb30-af62-11ee-9614-67878a71df35",
+        "expiry": 1738551004,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

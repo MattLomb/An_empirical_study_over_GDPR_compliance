@@ -1,0 +1,122 @@
+{
+  "cmplz_policy_id": {
+    "visit_id": 1,
+    "name": "cmplz_policy_id",
+    "domain": "www.ao-siena.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "17",
+        "expiry": 1736413843,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cmplz_marketing": {
+    "visit_id": 1,
+    "name": "cmplz_marketing",
+    "domain": "www.ao-siena.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "deny",
+        "expiry": 1736413836,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cmplz_statistics": {
+    "visit_id": 1,
+    "name": "cmplz_statistics",
+    "domain": "www.ao-siena.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "deny",
+        "expiry": 1736413836,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cmplz_preferences": {
+    "visit_id": 1,
+    "name": "cmplz_preferences",
+    "domain": "www.ao-siena.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "deny",
+        "expiry": 1736413836,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cmplz_functional": {
+    "visit_id": 1,
+    "name": "cmplz_functional",
+    "domain": "www.ao-siena.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "allow",
+        "expiry": 1736413836,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cmplz_banner-status": {
+    "visit_id": 1,
+    "name": "cmplz_banner-status",
+    "domain": "www.ao-siena.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dismissed",
+        "expiry": 1736413836,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

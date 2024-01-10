@@ -1,0 +1,382 @@
+{
+  "_ga_LEPNDVSYW5": {
+    "visit_id": 1,
+    "name": "_ga_LEPNDVSYW5",
+    "domain": ".maxdev.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704861105.1.0.1704861105.0.0.0",
+        "expiry": 1739421105,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".maxdev.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1099312723.1704861105",
+        "expiry": 1739421105,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".maxdev.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.260171495.1704861105",
+        "expiry": 1704947505,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_9666295_3": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_9666295_3",
+    "domain": ".maxdev.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704861165,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yabs-sid": {
+    "visit_id": 1,
+    "name": "yabs-sid",
+    "domain": "mc.yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2649257751704861106",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bh": {
+    "visit_id": 1,
+    "name": "bh",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EkAiR29vZ2xlIENocm9tZSI7dj0iMTE3IiwiIE5vdDtBIEJyYW5kIjt2PSI5OSIsIkNocm9taXVtIjt2PSIxMTciGgUieDg2IiILIjExNy4wLjAuMCIqAj8wOgoiTWFjIE9TIFgiQgkiMTBfMTVfNyJKBCI2NCJSNyJDaHJvbWl1bSI7dj0iMTE3LjAuNTkzOC44OCIsIk5vdDtBPUJyYW5kIjt2PSI4LjAuMC4wIiI=",
+        "expiry": 1736397106,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_uid": {
+    "visit_id": 1,
+    "name": "_ym_uid",
+    "domain": ".maxdev.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704861106891283410",
+        "expiry": 1736397105,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_d": {
+    "visit_id": 1,
+    "name": "_ym_d",
+    "domain": ".maxdev.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704861106",
+        "expiry": 1736397105,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "i": {
+    "visit_id": 1,
+    "name": "i",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6u7+o7jCKE+NRtHxVWvSgbVzlnEytbyWDaC+bRvVFiDd30gapXbYNdQBdZAHjVgKX4R2A0AIzH/4w6OV+DqxnR/vtCA=",
+        "expiry": 1739421106,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yandexuid": {
+    "visit_id": 1,
+    "name": "yandexuid",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2459419861704861105",
+        "expiry": 1739421106,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_isad": {
+    "visit_id": 1,
+    "name": "_ym_isad",
+    "domain": ".maxdev.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1704933105,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sync_cookie_csrf": {
+    "visit_id": 1,
+    "name": "sync_cookie_csrf",
+    "domain": ".mc.yandex.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3097404627fake",
+        "expiry": 1704861705,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704862005,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sync_cookie_ok": {
+    "visit_id": 1,
+    "name": "sync_cookie_ok",
+    "domain": ".mc.yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "synced",
+        "expiry": 1704947505,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yuidss": {
+    "visit_id": 1,
+    "name": "yuidss",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2459419861704861105",
+        "expiry": 1736397106,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yp": {
+    "visit_id": 1,
+    "name": "yp",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704947506.yu.4408386391704861105",
+        "expiry": 1739421106,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ymex": {
+    "visit_id": 1,
+    "name": "ymex",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1736397106.yrts.1704861106",
+        "expiry": 1736397106,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_visorc": {
+    "visit_id": 1,
+    "name": "_ym_visorc",
+    "domain": ".maxdev.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b",
+        "expiry": 1704862906,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iubenda_rsession": {
+    "visit_id": 1,
+    "name": "_iubenda_rsession",
+    "domain": "www.iubenda.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c79873ebf0a7e22b493c9b83a2292399",
+        "expiry": 1704868309,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

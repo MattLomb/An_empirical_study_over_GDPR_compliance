@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: it.pandora.net 
+NECESSARY COOKIES = dwsid,__cf_bm,sid,dwanonymous_80efcf1733043fb25eee91aefed491c2,__cq_dnt,dw_dnt,TAPID,utag_main
+FUNCTIONAL COOKIES = OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = OptanonAlertBoxClosed
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

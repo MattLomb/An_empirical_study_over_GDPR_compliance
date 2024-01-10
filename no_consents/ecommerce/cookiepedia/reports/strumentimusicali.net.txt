@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: strumentimusicali.net 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,AMP_TOKEN
+ADVERTISING COOKIES = _gat_gtag_UA_2991275_2
+UNCLASSIFIED COOKIES = osCsid,_ga_MT5EG53R5L
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

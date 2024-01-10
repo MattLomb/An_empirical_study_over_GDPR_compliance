@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: farmae.it 
+NECESSARY COOKIES = PHPSESSID,_vwo_uuid_v2,_vwo_ds,_vwo_sn,_vis_opt_s,_vis_opt_test_cookie,_vis_opt_exp_4_exclude,AwinChannelCookie,form_key,mage-cache-storage,mage-cache-storage-section-invalidation,mage-cache-sessid,mage-messages,recently_viewed_product,recently_viewed_product_previous,recently_compared_product,recently_compared_product_previous,product_data_storage,section_data_ids
+FUNCTIONAL COOKIES = _vwo_uuid,_ga_RJQV3R3B10,_ga,_gid,didomi_token
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

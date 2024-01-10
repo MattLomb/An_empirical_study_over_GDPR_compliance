@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: sony.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS,ODWSESSIONID,utag_main,OptanonAlertBoxClosed,test_cookie
+FUNCTIONAL COOKIES = bm_sz,ak_bmsc,bm_sv,_abck,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

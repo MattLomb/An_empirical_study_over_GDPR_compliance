@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lanazione.it 
+NECESSARY COOKIES = usprivacy
+FUNCTIONAL COOKIES = cf_clearance,ts
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _gcl_au,IMRID,test_cookie
+UNCLASSIFIED COOKIES = __cf_bm,_k5a,__adblocker,_pctx,_pcid,_pcus,__pnahc,__tbc,__pat,__pvi,xbc,cX_P,cX_G,gckp,_pbjs_userid_consent_data,_pubCommonId,ptechsdepth,pt1-ppid-v2,euconsent-v2,pubtech-cmp-pcstring,dmvk,v1st,_ga_HMED2J3E53,_pubCommonId_last,pubtech-unifiedid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

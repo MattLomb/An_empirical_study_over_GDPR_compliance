@@ -1,0 +1,482 @@
+{
+  "_ga_M79NL4FRK3": {
+    "visit_id": 1,
+    "name": "_ga_M79NL4FRK3",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704862066.1.0.1704862066.0.0.0",
+        "expiry": 1739422066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1314963385.1704862066",
+        "expiry": 1739422066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".pubtech.ai",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CxoIQVhnfUJAmPVs816zvJWopPZktfaLOgFRLfIu99I-1704862070-1-AS1UW1OwFc+ofc5l9rTmiN49alUbf0P7q4+Yve4mNgTe/c7XgMdM/d2BD/d7NqYtFf7e5Nnod5JwL2ySuD3Fgvw=",
+        "expiry": 1704863870,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CLID": {
+    "visit_id": 1,
+    "name": "CLID",
+    "domain": "www.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6a9d28bde2a14d019f520c9b4f4fd432.20240110.20250109",
+        "expiry": 1736398067,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pprv": {
+    "visit_id": 1,
+    "name": "_pprv",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6Im9wdC1vdXQifSwiMSI6eyJtb2RlIjoib3B0LWluIn0sIjIiOnsibW9kZSI6Im9wdC1pbiJ9LCIzIjp7Im1vZGUiOiJvcHQtaW4ifSwiNCI6eyJtb2RlIjoib3B0LW91dCJ9LCI1Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNiI6eyJtb2RlIjoib3B0LWluIn0sIjciOnsibW9kZSI6Im9wdC1vdXQifX0sInB1cnBvc2VzIjpudWxsfQ%3D%3D",
+        "expiry": 1738990066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_clck": {
+    "visit_id": 1,
+    "name": "_clck",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1uvjx9v%7C2%7Cfia%7C0%7C1470",
+        "expiry": 1736398066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__pid": {
+    "visit_id": 1,
+    "name": "__pid",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": ".ansa.it",
+        "expiry": 1707454066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "666048b1-af73-11ee-82d0-4f4ad2a5969f",
+        "expiry": 1738558066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__tbc": {
+    "visit_id": 1,
+    "name": "__tbc",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bkpex%7DbpVWXl8GG5SrulpLhcRLzfK0xqofz1LpsJWRAixpn6U6NOwzOrFyXTc722ua1wBP",
+        "expiry": 1739422066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pctx": {
+    "visit_id": 1,
+    "name": "_pctx",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+        "expiry": 1738990066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "xbc": {
+    "visit_id": 1,
+    "name": "xbc",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bkpex%7DchMuQ9mVOnt72Rwoi5wG8xHUXoKxjjkwsicoXWsJVpA5WMA4kMFxa_sbmQ_S6vE0oO_PtllnfcVZTM4tniy8-7jJ0PjItQjrbG0fGe_cvSvL2oHVZcxo13ljQ-slEc9K",
+        "expiry": 1739422066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_clsk": {
+    "visit_id": 1,
+    "name": "_clsk",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "kesya2%7C1704862067150%7C1%7C0%7Cp.clarity.ms%2Fcollect",
+        "expiry": 1704948467,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MUID": {
+    "visit_id": 1,
+    "name": "MUID",
+    "domain": ".clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "20277A756FC0632E037D6E776E216242",
+        "expiry": 1738558068,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MR": {
+    "visit_id": 1,
+    "name": "MR",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1705466868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SRM_B": {
+    "visit_id": 1,
+    "name": "SRM_B",
+    "domain": ".c.bing.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "20277A756FC0632E037D6E776E216242",
+        "expiry": 1738558067,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SM": {
+    "visit_id": 1,
+    "name": "SM",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "C",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ANONCHK": {
+    "visit_id": 1,
+    "name": "ANONCHK",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704862668,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-15665353": {
+    "visit_id": 1,
+    "name": "_iub_cs-15665353",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T04%3A47%3A50.017Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A15665353%7D",
+        "expiry": 1736398070,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-15665353-granular": {
+    "visit_id": 1,
+    "name": "_iub_cs-15665353-granular",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22gac%22%3A%22MX4%3D%22%7D",
+        "expiry": 1736398070,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAB7E7CITAiEgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUABQkFsABAAC4AKAAqABwADwAIIAXgBhADIANQAeABEACYAFUAMwAbwA9AB-AEJAIYAiQBHACWAE0AMAAYcAygDLAGyAOeAdwB3wD2APiAfYB-wD_AQAAikBFwEYAI1ASIBJQCUwE_AUGAqACrgFzAL0AYoA0QBtADcAHEgR6BIoCdgFDgKPAUiApsBbAC5AF3gLzAYMAw2BkYGSAMnAZmAzmBq4GsgNvAbmA3UBwQDkwHLgPHAfSBBMCDAEIYIWghcBDmCHoIfgRxgj6CP4EigJIQSYBJkCWAEswJbgS-AmABMwCZwE3AJzATpAncOg4AALgAoACoAHAAQQAuADUAHgARAAmABVgC4ALoAYgAzABvAD0AH6AQwBEgCWAE0AJwAUYAwABhgDKAGiANkAc8A7gDvAHtAPsA_QB_wEUARiAjoCSgEpgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB1AD7AIvgR6BIoCVAEyAJ2AUPAo8CkIFNAU2AqwBYoCyoFsAWyAt0BcAC5AF2gLvAXmAvoBgwDDQGPQMjAyQBk4DKgGWAMzAZyA0QBpoDVYGrgawA28BuoDiwHJgOXAeOA8kB9ID6wH3AP7AgCBBgCFsEOQQ6Ah6BHECO0EfQR_AkUBJACTIEqAJYASzAl0BL4CYAEzAJnATcAm8BOECcwE6YJ2gncQgcAALAAoAC4AGIANQAmABTACqAFwAMQAbwA9ACOAGAAOeAdwB3gD_AIoASkAoMBUQFXALmAYoA2gB1AEegJUAU0AqwBYoCygFogLgAXIAyMBk4DOQGiANVAcAA8cB9ID-wIMAQoAhaBDoCHoEcQJFASQAkyBLoCZwE5gJ3EoG4ACAAFgAUAA5ADAAMQAeABEACYAFUALgAYoBDAESAI4AUYAwABsgDvAH5AVEBVwC5gGKAOoAiYBF8CPQJFAUeApoBYoCygFsALzgZGBkgDJwGcgNYAbeA4AB9IEAQIHgQYAhCBD0COIEigJIASZAl0BL4CZgEzgJuAThAnMBO4pBXAAXABQAFQAOAAggBgAGoAPAAiABMACkAFUAMQAZgA_QCGAIkAUYAwABlADRAGyAOcAd8A_AD9AIsARiAjoCSgEpAKDAVEBVwC5gF5AMUAbQA3AB1AD2gH2ARMAi-BHoEigJ2AUOApCBTQFNgKsAWKAtgBcAC5AF2gLzAX0Aw2BkYGSAMnAZYAzmBrAGsgNvAbqA4IByYDlwHigPHAfSA_sCCYEGAIQgQtAhnBDkEOgI4gR2gj6CP4EigJIQSYBJkCWYEugJfATAAmYBM4CbwE5gJ3AA",
+        "expiry": 1735966070,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pbjs_userid_consent_data": {
+    "visit_id": 1,
+    "name": "_pbjs_userid_consent_data",
+    "domain": "www.ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5243333133250633",
+        "expiry": 1707454070,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pubCommonId": {
+    "visit_id": 1,
+    "name": "_pubCommonId",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c26ccf97-077e-4505-8d56-a793b751d7d0",
+        "expiry": 1736398073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pubCommonId_last": {
+    "visit_id": 1,
+    "name": "_pubCommonId_last",
+    "domain": ".ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Wed%2C%2010%20Jan%202024%2004%3A47%3A53%20GMT",
+        "expiry": 1736398073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "pubtech-unifiedid": {
+    "visit_id": 1,
+    "name": "pubtech-unifiedid",
+    "domain": "www.ansa.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22TDID_LOOKUP%22%3A%22FALSE%22%2C%22TDID_CREATED_AT%22%3A%222024-01-10T04%3A47%3A53%22%7D",
+        "expiry": 1710046073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

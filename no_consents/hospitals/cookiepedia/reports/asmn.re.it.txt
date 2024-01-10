@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: asmn.re.it 
+NECESSARY COOKIES = JSESSIONID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.jLp6ybY3WQ.db60,_pk_ses.jLp6ybY3WQ.db60
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

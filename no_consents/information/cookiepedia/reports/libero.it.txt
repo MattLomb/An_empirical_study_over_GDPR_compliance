@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: libero.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = wt_nbg_Q3,IMRID
+UNCLASSIFIED COOKIES = wteid_215973748390194,wtsid_215973748390194,evntuid,_prenotify_rnd,_ga_GW1PEM74D0,HPtestAB,__cf_bm,euconsent-v2,policy_cookie,_iub_cs-25708360,MgidStorage,aff_ran_url_2760,_pbjs_userid_consent_data
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

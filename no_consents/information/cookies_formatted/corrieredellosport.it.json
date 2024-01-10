@@ -1,0 +1,1162 @@
+{
+  "AwinCookie": {
+    "visit_id": 1,
+    "name": "AwinCookie",
+    "domain": "www.corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "aw",
+        "expiry": 1707455499,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "didomi_token": {
+    "visit_id": 1,
+    "name": "didomi_token",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ1c2VyX2lkIjoiMThjZjFjODgtNGJjNC02MDgzLWJkYjYtMDllNWU0YzlhNWQyIiwiY3JlYXRlZCI6IjIwMjQtMDEtMTBUMDU6MTE6MzkuNDY3WiIsInVwZGF0ZWQiOiIyMDI0LTAxLTEwVDA1OjExOjM5LjQ2N1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+        "expiry": 1736485899,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_hjSessionUser_3416860": {
+    "visit_id": 1,
+    "name": "_hjSessionUser_3416860",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6IjMxYTBiYjA2LTQxNjAtNWMyMS1iMDA2LTU1ZDY4MjAzMWE2OCIsImNyZWF0ZWQiOjE3MDQ4NjM0OTk1MTksImV4aXN0aW5nIjpmYWxzZX0=",
+        "expiry": 1736399499,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjFirstSeen": {
+    "visit_id": 1,
+    "name": "_hjFirstSeen",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704865299,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjIncludedInSessionSample_3416860": {
+    "visit_id": 1,
+    "name": "_hjIncludedInSessionSample_3416860",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704865299,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSession_3416860": {
+    "visit_id": 1,
+    "name": "_hjSession_3416860",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6IjZlMTIzNzk0LWQyYTItNDczYS05MGJjLTQ2Y2E4ZWNhMWI3YyIsImMiOjE3MDQ4NjM0OTk1MjAsInMiOjAsInIiOjAsInNiIjoxfQ==",
+        "expiry": 1704865299,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjAbsoluteSessionInProgress": {
+    "visit_id": 1,
+    "name": "_hjAbsoluteSessionInProgress",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704865299,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1709409107.1704863500",
+        "expiry": 1712639499,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704863499695.1380160605",
+        "expiry": 1712639502,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_FGBR2QGYP1": {
+    "visit_id": 1,
+    "name": "_ga_FGBR2QGYP1",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704863499.1.0.1704863499.0.0.0",
+        "expiry": 1739423499,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.2069345766.1704863500",
+        "expiry": 1739423499,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.328279115.1704863500",
+        "expiry": 1704949899,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_2120790_1": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_2120790_1",
+    "domain": ".corrieredellosport.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704863559,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707455499,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUlM2ImdZR6btI8JBEbOgkFUPGrcp-9ofiQV63wN_7IUh3vPWCMQNhNvZDDM0M0",
+        "expiry": 1738559499,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707541909,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "receive-cookie-deprecation": {
+    "visit_id": 1,
+    "name": "receive-cookie-deprecation",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1710047509,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".seadform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4140179412870526704",
+        "expiry": 1710047510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CM": {
+    "visit_id": 1,
+    "name": "CM",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1|1",
+        "expiry": 1704949909,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CM14": {
+    "visit_id": 1,
+    "name": "CM14",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704949910_1704863510_1_Hu7u4e4e4R7u4e4REREeEREREQ",
+        "expiry": 1706073110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMID": {
+    "visit_id": 1,
+    "name": "CMID",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ZZ4nFjmIA2HnL9gtGDToUgAA",
+        "expiry": 1736399510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPS": {
+    "visit_id": 1,
+    "name": "CMPS",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5080",
+        "expiry": 1712639510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPRO": {
+    "visit_id": 1,
+    "name": "CMPRO",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5080",
+        "expiry": 1712639510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid-bp-617": {
+    "visit_id": 1,
+    "name": "uid-bp-617",
+    "domain": ".ads.stickyadstv.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4140179412870526704",
+        "expiry": 1710047510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": "tags.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "57e9e785653aae6ed533c93f06d23467",
+        "expiry": 1736399510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SEUNCY": {
+    "visit_id": 1,
+    "name": "SEUNCY",
+    "domain": ".semasio.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FD4D91F4884BF4BF",
+        "expiry": 1736399512,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SERVERID": {
+    "visit_id": 1,
+    "name": "SERVERID",
+    "domain": ".eyeota.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "21226~DM",
+        "expiry": 1704864110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rlas3": {
+    "visit_id": 1,
+    "name": "rlas3",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7Jhf1++6MFxh5T7lWKF1amAu04cbQWyv7cdWdk+cal4=",
+        "expiry": 1736399510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "EE": {
+    "visit_id": 1,
+    "name": "EE",
+    "domain": ".exelator.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"914b96b745d859b3182bdbf61ddc4fd1\"",
+        "expiry": 1715231510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cm_uid": {
+    "visit_id": 1,
+    "name": "cm_uid",
+    "domain": "ads.smartstream.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CM120240110053c5ca34d79d22ffed42",
+        "expiry": 1707455511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pxrc": {
+    "visit_id": 1,
+    "name": "pxrc",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CJbO+KwGEgUI6AcQABIGCLrqARAA",
+        "expiry": 1710047510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_kuid_": {
+    "visit_id": 1,
+    "name": "_kuid_",
+    "domain": ".krxd.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "QBth6v29",
+        "expiry": 1720415510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ud": {
+    "visit_id": 1,
+    "name": "ud",
+    "domain": ".exelator.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"eJxrXxzq6XKLQcHS0CTJ0izJ3MQ0xcLUMsnY0MIoKSUpzcwwJSXZJC3FcHFZatGCpaXFqSlJh5ZU5JTkNK0uiw91jHdz9PX0iVzmnFGUn5u6AiwU5hq02NDQfEl%252BUWb6Is%252BQxUUpaQyLSopPBR%252BreAIArnwrBg%253D%253D\"",
+        "expiry": 1715231510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "DID": {
+    "visit_id": 1,
+    "name": "DID",
+    "domain": "ads.smartstream.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "57e9e785653aae6ed533c93f06d23467",
+        "expiry": 1736399511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDT": {
+    "visit_id": 1,
+    "name": "IDT",
+    "domain": "tags.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "100",
+        "expiry": 1736399510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie_ver": {
+    "visit_id": 1,
+    "name": "cookie_ver",
+    "domain": "tags.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1736399510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "block_reset": {
+    "visit_id": 1,
+    "name": "block_reset",
+    "domain": "tags.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707455510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ct_uid": {
+    "visit_id": 1,
+    "name": "ct_uid",
+    "domain": ".adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "57e9e785653aae6ed533c93f06d23467",
+        "expiry": 1736399510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ct_did": {
+    "visit_id": 1,
+    "name": "ct_did",
+    "domain": ".adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "57e9e785653aae6ed533c93f06d23467",
+        "expiry": 1736399510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ct_idt": {
+    "visit_id": 1,
+    "name": "ct_idt",
+    "domain": ".adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "100",
+        "expiry": 1736399510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9144225355018441478",
+        "expiry": 1712639511,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "permanent": {
+    "visit_id": 1,
+    "name": "permanent",
+    "domain": "ads.smartstream.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736399511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ab": {
+    "visit_id": 1,
+    "name": "ab",
+    "domain": ".agkn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0001%3AnMcoqOcwELoIIWjMNNgQ7SFJmfOwuZuF",
+        "expiry": 1736399511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "S4ntSblDBzi2QhLv3LIEl3RB6y1vmGOACcJR_QdVsN6sBzLnNclRf6JbQ28c_VrNpRywiRRDdcGKL0ZkyWP6s3a7ziA1083A3WDpIHyjGoE.",
+        "expiry": 1739423511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "anj": {
+    "visit_id": 1,
+    "name": "anj",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dTM7k!M4/YD>6NRF']wIg2GU(hKzH>!]tbPl1M66+q([OUezACQ4QE5Z5>s1Oy5h9Si[g5Q<<g+8Q!(43If)y3KL9D3I?+`>*e[m",
+        "expiry": 1712639511,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "83202167780518991221542725215178824606",
+        "expiry": 1720415511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "83202167780518991221542725215178824606",
+        "expiry": 1720415511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bku": {
+    "visit_id": 1,
+    "name": "bku",
+    "domain": ".bluekai.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "aG/99Oz77ZVIiHzc",
+        "expiry": 1720588311,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bkpa": {
+    "visit_id": 1,
+    "name": "bkpa",
+    "domain": ".bluekai.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "KJy9/Qe5d02pSUHknp1p1p90wtkAwExhBe9hBpA61E/TBp9N1MRl1exe9J6YYe9=",
+        "expiry": 1720588311,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "arcki2": {
+    "visit_id": 1,
+    "name": "arcki2",
+    "domain": ".audrte.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4528NqcZxJzR6uajO-XRI6B1g!20220908!1704863511217!ip#5.91.61.163",
+        "expiry": 1706159511,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "arcki2_adform": {
+    "visit_id": 1,
+    "name": "arcki2_adform",
+    "domain": ".audrte.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4140179412870526704!20220908!1704863511217",
+        "expiry": 1706159511,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UserID1": {
+    "visit_id": 1,
+    "name": "UserID1",
+    "domain": ".adfarm1.adition.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7322333023892797582",
+        "expiry": 1712639511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "idt": {
+    "visit_id": 1,
+    "name": "idt",
+    "domain": "ads.smartstream.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "100",
+        "expiry": 1736399511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wfivefivec": {
+    "visit_id": 1,
+    "name": "wfivefivec",
+    "domain": ".w55c.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fqVsRCB41RnqSz5",
+        "expiry": 1739164312,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "matchadform": {
+    "visit_id": 1,
+    "name": "matchadform",
+    "domain": ".w55c.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5",
+        "expiry": 1707455512,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "arcki2_ddp2": {
+    "visit_id": 1,
+    "name": "arcki2_ddp2",
+    "domain": ".audrte.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4528NqcZxJzR6uajO-XRI6B1g!20220908!1704863511368",
+        "expiry": 1706159511,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AFFICHE_W": {
+    "visit_id": 1,
+    "name": "AFFICHE_W",
+    "domain": ".weborama.fr",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "M3OcN7UCgzcz78",
+        "expiry": 1738818711,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cache0": {
+    "visit_id": 1,
+    "name": "cache0",
+    "domain": "cm.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "KzFHSk9wMUZsMkpMMjlsMzBXenlaNjNieDB2cFhHOEltOEpNUTNFQmxVT3UySkhuMk1YUXRxZmRjVUpFVnU4N0lzMG1SMUVyS3R5bEpQQjZDUWZmcER2YjV3UlRGamsvWVZPMU1xWnYxb3ZrbHNpblhmRWxEUE9JSk5aemZ6eURjNGw1UHdnWE1YektKaVB2MXd3VXpzTHJObDE2eHZmQ2dyTWZMcURuSVRGOFFoTmYzUFRIYjVReUdJVlY1dFZqaW5abDlRZXRYV2M5aHRoNDlMU3krbkgxN2FBWityeTBmQi9YLytDLzhqZXBsRGM5QWhkRFk1UjlqU1M0TzFJdGNtVEdUMjZ5K0hkN2J4cS9CYUlVTyswK1JpSWNseHZ5eXY1WGQrRmtHVWJlRjR6UnM2QW1xWldDZmR0Y2FkS2VzekdYWlRRWVVGVjJCdm5MVWovOHRNNXZEU3BxSC9iV0lVSGpvNnMrTXJWdnJxeVhBdTdmdmZCVFFrMjRwRjg4V0sxWmxqL3VRV29LZDljZHpaQkJqTnJWanlWd085Y215SGxlcm92QWJZd25EdjB1RGI4SG1sZUlBUDNERFRGeVJZL0VnWEVsMEhpdXVhNVZXMTNLdXdYeERxa3EvREZoajZra1Z6Y00xYm1jbVdadjFuZUZaTVBvQmhXRlRSZWhXOGp0MHFaZGowQmliMXZzaE5IbGNHR3N1amNHSUNKRVdVNTZiYzE0MC9BTUpQczZwSnRWd3JiVEczanNya1pzanFSeGxzZXRnOU0vK3h4cDgzTTBsSTh1Y3V3aVhMWFRpZTErcExkZUNFcXJsczQ3Q3Z5YXcwWWZINFNqckVHeEkxVHc0VjVxUG80K2wwT2NXSmlJaHJKcnJua21lUERwRXVuSVFkNWdTZ0NHYXhFdTQwQ2g0SlZrdmplV3o5UG1DR2hDbkFVMlJIdHVpTDcyRVNqY05IOTRzZE51NVRUeEZrSldGN3ZlWHJlQ3hOZXVIVHFBd2pYdzVvUFBvTHo2Z01BSWNQYmhXK1VGeXg3dzdlcU14RkZTbkpFR0xyNEN2NGM1VEV1REkxWGdqMVhjRmxXa0g2SEVGSXBTN1BjTWdTVE5TdmtLaHc1bklMSXJhODZlNzFiSXpNUFZ5L2ZaTmtiQ1NGNml4OHp1YlhhakRmWFg1d1U4ZTJpSUxncjRHaVhUQm9qc3dIR1Q3UnZxZ1JpdjROcko4R0tjNW1PWDJwRjJ4b3hFY3A5dTJuT1FQRHBGVWxpMjI2WFE2dVlaWWlQd1BVdkpiSHZtUGMzNG5YdEVzVlh4bUd5NzAvaExTWUFCalBYOC8xaHdDL2ozcmR2QlNqYTc1ZkQ3NDJsVQ%3D%3D",
+        "expiry": 1736399511,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

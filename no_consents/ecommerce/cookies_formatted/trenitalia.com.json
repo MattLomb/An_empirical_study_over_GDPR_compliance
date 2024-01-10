@@ -1,0 +1,362 @@
+{
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "BBC16A10BEBCF833783B3EEDEEDFA432~000000000000000000000000000000~YAAQPl96XCXmYmWMAQAAGsbE8haXLqUXvSMA8iffVP3JtLi5mhMJxSZH/kZKsyWU2JwQxTwS5Y+h9spnFsJczvcKwHq17rTGm7LH6ewAdDcOWPN6e7O2jBTI9pp28EHhdfOLCORAK+Ehz+3lUarMn479SjLVAX82TIbgCrPGLHxf0LX/6yw/7DD4IZggwB8/Fxfp6hwaqLrBOcYToCXsREz963ejNdPzStq4wg4pi/Gwc6qaCsTDQOymSG1M3E0MvHyWYA9H+qNwa7tdOQJ3sujfUzZ1QL8X8oG4T8n12EWuyvyO2IBDXOVxbBo4RRibwJEGc2w/Tv7VOX0QPB2abfuzUKnMSqZeuilZMCqED5oUiKl35Z5FHGnQ5OAm5D5guvKsdFHWFWcyLWI=",
+        "expiry": 1704887231,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "YSC": {
+    "visit_id": 1,
+    "name": "YSC",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dF3LwtnRqjw",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "VISITOR_INFO1_LIVE": {
+    "visit_id": 1,
+    "name": "VISITOR_INFO1_LIVE",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8BC54EPdW7E",
+        "expiry": 1720432032,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "trainSearchList": {
+    "visit_id": 1,
+    "name": "trainSearchList",
+    "domain": "www.trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1739440032,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCVS_0D5215F354E6C24C0A4C98A4%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCVS_0D5215F354E6C24C0A4C98A4%40AdobeOrg",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_0D5215F354E6C24C0A4C98A4%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_0D5215F354E6C24C0A4C98A4%40AdobeOrg",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-2121179033%7CMCIDTS%7C19733%7CMCMID%7C85158343473501704650748719163149571640%7CMCAAMLH-1705484832%7C6%7CMCAAMB-1705484832%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1704887232s%7CNONE%7CvVersion%7C5.3.0",
+        "expiry": 1739440032,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gds_s": {
+    "visit_id": 1,
+    "name": "gds_s",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "First%20Visit",
+        "expiry": 1704881835,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ppn": {
+    "visit_id": 1,
+    "name": "s_ppn",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "tcom%3ATrenitalia%20-%20HomePage",
+        "expiry": 1704881835,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_vs": {
+    "visit_id": 1,
+    "name": "s_vs",
+    "domain": "www.trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_cc": {
+    "visit_id": 1,
+    "name": "s_cc",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0DDC95F662B77674BB86B804F2BA649F~YAAQPl96XLHmYmWMAQAAGc3E8hYIIoY8LDyS0OsBiZtJfp7kEC5PW1oL82YwBWvlWOlHwH7Cr9+NStBoOQVzIZiRtziU/CykQqdw/4cpHlp4ldpYUS0e2ezmoLjbaaJBZOHNs1TpuIj5Ez8VnBStJs0PBmEX9IAleWKRFrtvxcO30yz3CKMkGIIND0aLLoYYnmm1xJmI5MUyJhHWGv61sIWInXrVKjPcfy4inLUTAnFPmRul70lmRYdqdspWJl8OfUmmPA==~1",
+        "expiry": 1704887230,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUml7mk45USogAMtvG5WmX-evvz5ODygVHl6CWwkG04UQymYZXuDbvrRPEtWxXQ",
+        "expiry": 1738576033,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_nr": {
+    "visit_id": 1,
+    "name": "s_nr",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704880035526-New",
+        "expiry": 1736416035,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gds": {
+    "visit_id": 1,
+    "name": "gds",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704880035526",
+        "expiry": 1739440035,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_sq": {
+    "visit_id": 1,
+    "name": "s_sq",
+    "domain": ".trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fdsinternetglobalprod%3D%2526c.%2526a.%2526activitymap.%2526page%253Dtcom%25253ATrenitalia%252520-%252520HomePage%2526link%253DConferma%252520le%252520mie%252520scelte%2526region%253Donetrust-pc-sdk%2526pageIDType%253D1%2526.activitymap%2526.a%2526.c%2526pid%253Dtcom%25253ATrenitalia%252520-%252520HomePage%2526pidt%253D1%2526oid%253DConferma%252520le%252520mie%252520scelte%2526oidt%253D3%2526ot%253DSUBMIT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".www.trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T09:47:15.528Z",
+        "expiry": 1705398435,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".www.trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEgAAAAAAAAAIYgJ3QBgAiAEIARqAxkCdUE7ATuAAAAAAAA.YAAAAAAAAAAA",
+        "expiry": 1705398435,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".www.trenitalia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+10%3A47%3A15+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=45bc74b6-6f78-47f2-9f42-f2307f88a0c6&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+        "expiry": 1705398435,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "akacd_Sephora_IT_PR": {
+    "visit_id": 1,
+    "name": "akacd_Sephora_IT_PR",
+    "domain": "www.sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2177452799~rv=83~id=d1ec8a21eb9a9a74f051824a9609ec0f",
+        "expiry": 1739452166,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CYB": {
+    "visit_id": 1,
+    "name": "CYB",
+    "domain": "www.sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736514566,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3D17FF6122DDBFA7DE8CC97FB1611FAE~0~YAAQBX16XMww6WOMAQAABPR98wtFMQ7VievvFArxsbY9ExvGk3IHS0KOA+/YBmEm9O6bNENoCOiksA6VTv5DJhIig5v7fv0w17yXWbYMk4jcGFh3B+UrLpLu+Bx9ZrJbZ/H2KUsVEOpjaptzD+yb7xEG904ctRmHqs/Bwz4Q5F/STfByu6sJJsEVczthw6K6VRXAbwGfqkeomsKUw4Gt4Rgmzs8FhdA/gCbjRrhd5dlxBhF+4jnyKDq/JNXrubJohaW+umDs024DpA0j4JoUvT8mhptw/pDYL4xixVTWU3lkkYNZkpdQN0akfBHeXRyAB572EbG7nBDQIPG8aKBnPPOpaCiDU+TLwJbkS8U9edxxU36p4VvaTnJDcng4n/4xW89/qaMofFqSAdujHfbPS/XWJcfPyB+A3PmXu8Y=~-1~-1~1704895710",
+        "expiry": 1736428167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "627CB6E83B34CDB37E822492478500C2~YAAQBX16XM0w6WOMAQAABPR98xaa60Y2G12n0b6+Quh5XeeKXQBX/VoQs+LInFGCqIOhFreJE0jJ8uLdha+YgmGnBjdi8Qzv8UAl7YNKo7JEJ40xTrCYzCR5SSoy3LcsHRvzvzzBTCVgi3UZzku2oTWkf+FJHFS9iwB21w03OO9RXbyeIViRnXS34phY4dbjE8kcDBgLUTaL1wr35/992q6h7kil9I1nnsjvaKHm9rQu5eJKWbcrWqHih4DevezysihXyLUrjzynYZpHgF/wHTiNhsxEMg11lgg1svY9SwkGloCTMHRM1SZ5GAp8lTvIzC9S8luubJJODF0=~3551283~3491385",
+        "expiry": 1704906566,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tc_compteur_page": {
+    "visit_id": 1,
+    "name": "tc_compteur_page",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "rxVisitor": {
+    "visit_id": 1,
+    "name": "rxVisitor",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704892167094UOGV39227QKQ1FCJ9UCUSMR66QJ6VANA",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtSa": {
+    "visit_id": 1,
+    "name": "dtSa",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cq_dnt": {
+    "visit_id": 1,
+    "name": "__cq_dnt",
+    "domain": "www.sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dw_dnt": {
+    "visit_id": 1,
+    "name": "dw_dnt",
+    "domain": "www.sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.589555267.1704892167",
+        "expiry": 1712668167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TCPID": {
+    "visit_id": 1,
+    "name": "TCPID",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1241314927406586932",
+        "expiry": 1738847367,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "akavpau_vpwaitingroom": {
+    "visit_id": 1,
+    "name": "akavpau_vpwaitingroom",
+    "domain": "www.sephora.fr",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704892467~id=1deeb83e886b8b4401491e5f9f0c5270",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704893067,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sid": {
+    "visit_id": 1,
+    "name": "sid",
+    "domain": "www.sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "VOxUxuX1kYtpqgbKl7XlKKGAD6fOQRQgvLU",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dwanonymous_9ba7b620ffc5ebb782d1bef0c6819ea7": {
+    "visit_id": 1,
+    "name": "dwanonymous_9ba7b620ffc5ebb782d1bef0c6819ea7",
+    "domain": "www.sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "abTond44FCiVSOUnMZo8WXIIAP",
+        "expiry": 1720444167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dwsid": {
+    "visit_id": 1,
+    "name": "dwsid",
+    "domain": "www.sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "l2ksnsYnzuyZfM7LJRAlXGIFd__tk0tHTGNHYgrVwUxDM9vIwHyd9iUuX-XSSNyUKbKM81I4tAFo54y5B5vg-A==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_mi": {
+    "visit_id": 1,
+    "name": "bm_mi",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7B51FD581E34CCC291524748D32427D5~YAAQBX16XOYw6WOMAQAATfV98xawdoTWM1FqyujFvtjfOKHejLWKxmTTuSGua/OPiEZLsyPSVopGoeoRbxQsmblabf28Q3YV9cBxvLmgMgKVYqKBeGvU03Kn19AKgfnC+Y3QA50pJ+qz0keEjMqnai1rv7UGBbVqKVPSlYVYApKRePZB0hjSV7iCMTBDSrFWH/MGmqzI+UgqbJwv7RBw4GXQ5k5ZH+QiCZYOoyeqa/J0DUCV85lrH5htAmf4SgSw5zv04KVllgdBfYFwLOMwu82xVWtDBTKkochsIEa/8r3Z7Vkz6Jq4V9d05ph2zMEePb9FCHrblj/T1br3V4GGwebxg9sv5E6Bh8d3jXC155p1/317cfq5iaB/VZzTV5dFOaZ+2Xbzb4SrV5ujLEyPAOGIDqpK4VS8CRhh2w0=~1",
+        "expiry": 1704899366,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EA69752DA9159336BE7E9A38E98F9FF3~YAAQBX16XOcw6WOMAQAATfV98xbDSp9DiKwihZs+zs8FAkpmvEbsGstZo54V0XBPmDZkEOLAQQQc6/eLGh+HYQERIObx7rAzsu4i3PqI2e8YNg2xfpAHY1WHhMii2UIZ/RzQlV0qoXL9ND7EHnHMV7rA0X/C3AUvm83nXGfMk2qH3Adwlv9QEaupxMgSEBRnPmXI9bFq5WSyo40QtTARIriaxks1jFJXTZTmOLEa2hEsIJXcxQ2H/LDuOxBEOvTY~1",
+        "expiry": 1704899366,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxvt": {
+    "visit_id": 1,
+    "name": "rxvt",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704893967738|1704892167095",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=sephora.it&si=f718eda3-5277-4e73-b12f-21399c8305bd&ss=lr7srykh&sl=1&tt=1a5&bcn=%2F%2F0217991d.akstat.io%2F&ld=1ab\"",
+        "expiry": 1705496967,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtPC": {
+    "visit_id": 1,
+    "name": "dtPC",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-59$292167092_740h-vRNOMWDCTTOCNAGPPQLUIVKTPJLAFLQHB-0e0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "F6A0B4E5DAF8CC4EBEBE56588255D701~000000000000000000000000000000~YAAQBX16XPEw6WOMAQAAP/d98xZtAdpuR7IqXSep01Gj7c/kTw6jaBuqV/if2QoGYbSUIXBIsOq52igboJN2I5pomEFxbOCq4V5Fcee7tj3WCIhLgKBySM8GODl2RHf8y1SIbTW5zBfi/ghWP2KsoJjhHADyCOjlQl4YBfJuntIU41+C9r2u+skPjr2FIRkJ/FrrQJ4zJtBKX33gZnReeIByYgL4w8qhe5hb7dDb2Y+DX6zFLhgbg0uBaBVFuAnuBiGCeQZy2Xl7b6q38kiLCZqZOxYkOmVpN4z2rK1H7OPsDZODP+4IzKKTKrarU+/usXbjAS3HfT+5kqnQlogybrlu7+jpFNkTxKa2cZmXkR5nIM/znccsCTL5itREfcbf5Hbp+FIRiGdlhNuaXjGVWFQ2d5VBCx6Ilge9wutopgPrIL1ndTIQ21tEVoohv5qEUVXkOAgGVTF5rOpmeOLFObDD1b0Vg68+soFYjNyd4/EvOTS8NQ3VGkxOjZ4POFGcEt3m8zwC9rXVE9DPNvu3x48BXpudxjpHESzlksixF75Bfr7wRO0eEMUeXGPc3YHw+Pb68OXr3hkd4JmS87AtgR5No5/6ruCZMTYw3UgnQWdx0lYk",
+        "expiry": 1704899366,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": ".sephora.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_24_sn_IH50V7FD94PNEBF794G6CGK4ND6GGMAP_app-3A923e4e2c2ee0c645_0_ol_0_perc_100000_mul_1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

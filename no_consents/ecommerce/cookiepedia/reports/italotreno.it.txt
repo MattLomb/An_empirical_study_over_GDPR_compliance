@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: italotreno.it 
+NECESSARY COOKIES = ak_bmsc,ARRAffinity,bm_sv
+FUNCTIONAL COOKIES = rxVisitor
+ANALYTICS COOKIES = AKA_A2,dtSa,_ga,_hjFirstSeen,_hjSessionUser_1418311,_hjAbsoluteSessionInProgress,_hjSession_1418311,rxvt,RT,dtPC
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = bm_sz,italotreno#lang,Culture,didomi_token,AcceptCookie,_abck,_ga_KGDSYWDJH0,_hjIncludedInSessionSample_1418311,FPID,FPLC,ARRAffinitySameSite,dtCookie
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics cookies

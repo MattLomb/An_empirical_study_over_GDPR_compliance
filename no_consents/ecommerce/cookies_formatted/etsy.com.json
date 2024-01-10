@@ -1,0 +1,162 @@
+{
+  "uaid": {
+    "visit_id": 1,
+    "name": "uaid",
+    "domain": ".etsy.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "kGY4Isk5PhvW7xxEchV-Q0Z0roxjZACC1HkT9GB0tVJpYmaKkpVSXkRUaHmlp0FpfrCfQWRiUUaad4Gvj2lQlXNIhFItAwA.",
+        "expiry": 1736426414,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "user_prefs": {
+    "visit_id": 1,
+    "name": "user_prefs",
+    "domain": ".etsy.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ak9B-MdKmgbaIkUvsyHNx5xK3rNjZACC1HkT9GB0tJJraJCSTl5pTo6OUmqebmiwko6SZwhUxAhC4SJiGQA.",
+        "expiry": 1736426414,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "fve": {
+    "visit_id": 1,
+    "name": "fve",
+    "domain": ".etsy.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704890414.0",
+        "expiry": 1739077118,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".etsy.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704890414323.9192085456677688",
+        "expiry": 1712666418,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "last_browse_page": {
+    "visit_id": 1,
+    "name": "last_browse_page",
+    "domain": ".etsy.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "https%3A%2F%2Fwww.etsy.com%2F",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "exp_ebid": {
+    "visit_id": 1,
+    "name": "exp_ebid",
+    "domain": ".etsy.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "m=29Ku2OrQ39pJL9mcqN3YCLMbdY5SacnOpHjM4t3sufE%3D,v=7cjR1WYeldetQHxSSFIIMrDXlxJnua9y",
+        "expiry": 1710074418,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "datadome": {
+    "visit_id": 1,
+    "name": "datadome",
+    "domain": ".etsy.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2yrcAnCvT9V9SBml1X6biw4QtNlMZHHwPUpaKocJtnstQKTSi1e4GuTsGoKgtgcWVftij_m3AxWUExSN5HZNx0juiRbiV1P5PA8bGNmPkI6bJzsWtQ~SBbrgQSddjcbF",
+        "expiry": 1736426415,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ua": {
+    "visit_id": 1,
+    "name": "ua",
+    "domain": "www.etsy.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "531227642bc86f3b5fd7103a0c0b4fd6",
+        "expiry": 1736426415,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

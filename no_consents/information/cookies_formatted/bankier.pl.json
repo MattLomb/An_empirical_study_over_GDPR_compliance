@@ -1,0 +1,882 @@
+{
+  "smvr": {
+    "visit_id": 1,
+    "name": "smvr",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ2aXNpdHMiOjEsInZpZXdzIjoxLCJ0cyI6MTcwNDg2NDIyMjI3OCwibnVtYmVyT2ZSZWplY3Rpb25CdXR0b25DbGljayI6MCwiaXNOZXdTZXNzaW9uIjp0cnVlfQ==",
+        "expiry": 1739424222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "smuuid": {
+    "visit_id": 1,
+    "name": "smuuid",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "18cf1d38c48-d49640c12f4c-b37b4ce7-62d06647-2f49aa69-ecbe385b2f23",
+        "expiry": 1739424222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gfp_64b": {
+    "visit_id": 1,
+    "name": "__gfp_64b",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AjyFvyYGLRUfTQX6.CJ_KLtZRO6gww8jpSakXAQfacv.B7|1704864222",
+        "expiry": 1738992222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "APC": {
+    "visit_id": 1,
+    "name": "APC",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AfxxVi6eHCP1ppJ_yacj8sfrif1fiaklLS78iwd3JZKiz_C7M4ZyCQ",
+        "expiry": 1720416222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pbjs_userid_consent_data": {
+    "visit_id": 1,
+    "name": "_pbjs_userid_consent_data",
+    "domain": "www.bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6683316680106290",
+        "expiry": 1707456222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_sharedID": {
+    "visit_id": 1,
+    "name": "_sharedID",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f8e29787-4eba-4c39-979f-b69b8cef4689",
+        "expiry": 1736400222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_smvs": {
+    "visit_id": 1,
+    "name": "_smvs",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "DIRECT",
+        "expiry": 1704950622,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "initialTrafficSource": {
+    "visit_id": 1,
+    "name": "initialTrafficSource",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "utmcsr=(direct)|utmcmd=(none)|utmccn=(not set)",
+        "expiry": 1739424222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__utmzzses": {
+    "visit_id": 1,
+    "name": "__utmzzses",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Gtest": {
+    "visit_id": 1,
+    "name": "Gtest",
+    "domain": ".hit.gemius.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "KlSSDRGGQMGGIe6X8Cj5lDXUssGMXP8c25nSGg2mSngtXBG.",
+        "expiry": 1705469022,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1444647285.1704864222",
+        "expiry": 1704950622,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_UA-325086-1": {
+    "visit_id": 1,
+    "name": "_gat_UA-325086-1",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704864282,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_ZK415J09PQ": {
+    "visit_id": 1,
+    "name": "_ga_ZK415J09PQ",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704864222.1.0.1704864222.0.0.0",
+        "expiry": 1739424222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Gdyn": {
+    "visit_id": 1,
+    "name": "Gdyn",
+    "domain": ".hit.gemius.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "KlQLpMXGQMGGIe6X8Cj5lDXUssGMXP8c25nSGg2mSngtFRxSG7RrGS6GYFatFlMQYH8W8jBGqSRxSG8.",
+        "expiry": 1738992222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Gdynp": {
+    "visit_id": 1,
+    "name": "Gdynp",
+    "domain": ".hit.gemius.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "nSSKb9doExW5gJ9ijJafsmhu9BbQxoXVVJJHKbpY0sz.57",
+        "expiry": 1738992222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704864222628.2079804982",
+        "expiry": 1712640226,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUnez727iG1yaSp3NWTdCZrjSIfEtZeO2nnBPcrL203EgZ-k0a7yNLm12mX6",
+        "expiry": 1738560222,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CLID": {
+    "visit_id": 1,
+    "name": "CLID",
+    "domain": "www.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a68b1499067f4b9c97e14e48519a7e1b.20240110.20250109",
+        "expiry": 1736400222,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_onn_tracker": {
+    "visit_id": 1,
+    "name": "_gat_onn_tracker",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704864282,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_clck": {
+    "visit_id": 1,
+    "name": "_clck",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dtc0xv%7C2%7Cfia%7C0%7C1470",
+        "expiry": 1736400222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.652437392.1704864222",
+        "expiry": 1739424223,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_6WDH9ZFQ0J": {
+    "visit_id": 1,
+    "name": "_ga_6WDH9ZFQ0J",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704864223.1.0.1704864223.0.0.0",
+        "expiry": 1739424223,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_clsk": {
+    "visit_id": 1,
+    "name": "_clsk",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "zlckr1%7C1704864223408%7C1%7C0%7Cp.clarity.ms%2Fcollect",
+        "expiry": 1704950623,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MUID": {
+    "visit_id": 1,
+    "name": "MUID",
+    "domain": ".clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2B6C6D52C5046D1D0AAB7950C4336CFD",
+        "expiry": 1738560223,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MR": {
+    "visit_id": 1,
+    "name": "MR",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1705469023,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SRM_B": {
+    "visit_id": 1,
+    "name": "SRM_B",
+    "domain": ".c.bing.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2B6C6D52C5046D1D0AAB7950C4336CFD",
+        "expiry": 1738560223,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SM": {
+    "visit_id": 1,
+    "name": "SM",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "C",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ANONCHK": {
+    "visit_id": 1,
+    "name": "ANONCHK",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704864823,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T05:23:47.436Z",
+        "expiry": 1707456227,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEgAAAAAEPgAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FzLvW_JwXx2ExNA26tqIKmRIEu3ZBIQFlHJHURVigaogVryHsYkGcgTNKJ6BkgFMRM2dYCF5vmYtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3e5fmckcJCdQ58tDfn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQagCzDQqIA-yJCQi0HCKBACIKwgIoEAAAAJA0QEAJgwKdgYBLrCRACBFAAMEAIAAUZAAgAAEgAQiACQAoEAAEAgEAAAAAAgEADAwADgAtBAIAAQHQMUwoAFAsIEjMiIUwIQoEggJbKBBICgQVwgCLHAigERMFAAgCQAVgAAAsVgMQSAlYkECWEG0AABAAgFFKFQik6MAQwJmy1U4om0ZWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAA.YAAACHwAAAAA",
+        "expiry": 1707456227,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".bankier.pl",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+06%3A23%3A47+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=699ca17a-50fd-47f9-81b9-fc6606104a58&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0005%3A0%2CC0002%3A0%2CC0004%3A0%2CV2STACK42%3A0&hosts=H3%3A1%2CH40%3A1%2CH10%3A1%2CH15%3A1%2CH174%3A1%2CH39%3A0%2CH6%3A0%2CH8%3A0%2CH45%3A0%2CH13%3A0%2CH47%3A0%2CH53%3A0%2CH26%3A0%2CH54%3A0%2CH55%3A0%2CH57%3A0%2CH32%3A0%2CH35%3A0%2CH58%3A0%2CH59%3A0%2CH61%3A0%2CH63%3A0%2CH11%3A0%2CH20%3A0%2CH5%3A0%2CH42%3A0%2CH170%3A0%2CH178%3A0%2CH17%3A0%2CH18%3A0%2CH215%3A0%2CH172%3A0%2CH51%3A0%2CH22%3A0%2CH52%3A0%2CH175%3A0%2CH176%3A0%2CH164%3A0%2CH247%3A0%2CH262%3A0%2CH78%3A0%2CH79%3A0%2CH38%3A0%2CH193%3A0%2CH66%3A0%2CH82%3A0%2CH84%3A0%2CH85%3A0%2CH194%3A0%2CH195%3A0%2CH196%3A0%2CH267%3A0%2CH268%3A0%2CH88%3A0%2CH89%3A0%2CH93%3A0%2CH94%3A0%2CH198%3A0%2CH95%3A0%2CH9%3A0%2CH96%3A0%2CH100%3A0%2CH43%3A0%2CH103%3A0%2CH202%3A0%2CH106%3A0%2CH107%3A0%2CH108%3A0%2CH272%3A0%2CH109%3A0%2CH253%3A0%2CH111%3A0%2CH113%3A0%2CH114%3A0%2CH118%3A0%2CH120%3A0%2CH210%3A0%2CH212%3A0%2CH254%3A0%2CH124%3A0%2CH126%3A0%2CH127%3A0%2CH128%3A0%2CH220%3A0%2CH129%3A0%2CH221%3A0%2CH130%3A0%2CH72%3A0%2CH132%3A0%2CH243%3A0%2CH24%3A0%2CH278%3A0%2CH133%3A0%2CH258%3A0%2CH138%3A0%2CH139%3A0%2CH140%3A0%2CH56%3A0%2CH142%3A0%2CH259%3A0%2CH145%3A0%2CH146%3A0%2CH30%3A0%2CH147%3A0%2CH260%3A0%2CH75%3A0%2CH148%3A0%2CH150%3A0%2CH246%3A0%2CH154%3A0%2CH155%3A0%2CH231%3A0%2CH156%3A0%2CH60%3A0%2CH62%3A0%2CH77%3A0&genVendors=",
+        "expiry": 1707456227,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OTP": {
+    "visit_id": 1,
+    "name": "OTP",
+    "domain": ".onetag-sys.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "_9PjH2s-IqHs8kjV1_zH-TLOqM0JZYRCSaxib1acUUM",
+        "expiry": 1739050926,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4957057639188179563",
+        "expiry": 1712640227,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1p5-jTUnsAZwHPuwhJQKBM-gMoIBzkvf-iaT7p9fIHan9hPeLyVRoQkTfLJystarhAMfmnj1efv8pNRYD9kFjx3lUOocMZXc9KSH-DNvNlc.",
+        "expiry": 1739424227,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".adx.opera.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "OPU7953682d311d42428da2c4453bf4026d",
+        "expiry": 1736400227,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "px2-uidH-xandr": {
+    "visit_id": 1,
+    "name": "px2-uidH-xandr",
+    "domain": ".performax.cz",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4957057639188179563",
+        "expiry": 1704950627,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "px2-uid-xandr": {
+    "visit_id": 1,
+    "name": "px2-uid-xandr",
+    "domain": ".performax.cz",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4957057639188179563",
+        "expiry": 1704950627,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "px2-uidH-onetag": {
+    "visit_id": 1,
+    "name": "px2-uidH-onetag",
+    "domain": ".performax.cz",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "_9PjH2s-IqHs8kjV1_zH-TLOqM0JZYRCSaxib1acUUM",
+        "expiry": 1704950628,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid": {
+    "visit_id": 1,
+    "name": "tuuid",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7998a22a-7e40-4f4a-9cf1-04b7d82d0566",
+        "expiry": 1736400228,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "c": {
+    "visit_id": 1,
+    "name": "c",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704864228",
+        "expiry": 1736400228,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid_lu": {
+    "visit_id": 1,
+    "name": "tuuid_lu",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704864228",
+        "expiry": 1736400228,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid": {
+    "visit_id": 1,
+    "name": "uuid",
+    "domain": ".mathtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bdc1659e-29e4-4f00-9d99-f7031db189bf",
+        "expiry": 1738819428,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "admtr": {
+    "visit_id": 1,
+    "name": "admtr",
+    "domain": ".admanmedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "80d22086-7a0e-4a18-83a6-713695965e9c",
+        "expiry": 1706070554,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ac_r": {
+    "visit_id": 1,
+    "name": "ac_r",
+    "domain": ".admanmedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CS253",
+        "expiry": 1706070554,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

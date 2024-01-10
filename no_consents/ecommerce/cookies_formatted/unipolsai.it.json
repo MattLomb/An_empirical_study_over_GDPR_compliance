@@ -1,0 +1,602 @@
+{
+  "_cls_cfgver": {
+    "visit_id": 1,
+    "name": "_cls_cfgver",
+    "domain": "uxmetrics.unipolsai.it",
+    "path": "/glassbox/reporting/73862115-6037-7E86-7816-2EDDE4AEB224",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c093f407",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cls_s": {
+    "visit_id": 1,
+    "name": "_cls_s",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dd835cc7-3dac-4a24-a4cb-343367dc2c37:0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cls_v": {
+    "visit_id": 1,
+    "name": "_cls_v",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "962ff264-dfac-4619-832c-83d91235186f",
+        "expiry": 1739451653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_GRECAPTCHA": {
+    "visit_id": 1,
+    "name": "_GRECAPTCHA",
+    "domain": "www.google.com",
+    "path": "/recaptcha",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "09APYnBZW9BJvXWCshe3fIErKku6HvtdTeLygbWRNB9e-ZX4upjtd8S9flDddBOuNw98Og-yAOJTZ8WCla86z6xwo",
+        "expiry": 1720443660,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_7_sn_68F6EE0F52A7F99FF667F83978E575A1_perc_100000_ol_0_mul_1_app-3A41ccdc4dfa79c8ff_1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TS01ab60da": {
+    "visit_id": 1,
+    "name": "TS01ab60da",
+    "domain": "www.unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01de53d37e5139229b87aa1e92859a9e55792fa725de345b05170a9de2b9ec1a0989fc0591e19f80a11c3aff32f222dd97f57b960f",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TS015a2447": {
+    "visit_id": 1,
+    "name": "TS015a2447",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01de53d37e17b2ed40b3b271ee572c812b6f172188de345b05170a9de2b9ec1a0989fc05918ec6eb95fd10badf301a85d82de2d8cdcf8d8cc859c73b6a20823f72c0d7a680",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxVisitor": {
+    "visit_id": 1,
+    "name": "rxVisitor",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "17048916520814FC2A6RM186K57UL4UJJE9KKD5D6LSFE",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtSa": {
+    "visit_id": 1,
+    "name": "dtSa",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "check": {
+    "visit_id": 1,
+    "name": "check",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "58931545794944898871183755087590419514",
+        "expiry": 1720443653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCVS_E344E271567ABA6C7F000101%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCVS_E344E271567ABA6C7F000101%40AdobeOrg",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ecid": {
+    "visit_id": 1,
+    "name": "s_ecid",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MCMID%7C58588870928651014551219289005452381610",
+        "expiry": 1739451655,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_cc": {
+    "visit_id": 1,
+    "name": "s_cc",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ext_page_name_prev": {
+    "visit_id": 1,
+    "name": "ext_page_name_prev",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "area_pubblica:home:homepage",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "everest_g_v2": {
+    "visit_id": 1,
+    "name": "everest_g_v2",
+    "domain": ".everesttech.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "g_surferid~ZZ6VBQAAAMcPyQNn",
+        "expiry": 1736427653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "58931545794944898871183755087590419514",
+        "expiry": 1720443653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_E344E271567ABA6C7F000101%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_E344E271567ABA6C7F000101%40AdobeOrg",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1585540135%7CMCIDTS%7C19733%7CMCMID%7C58588870928651014551219289005452381610%7CMCAAMLH-1705496452%7C6%7CMCAAMB-1705496452%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1704898853s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19740%7CvVersion%7C4.4.0",
+        "expiry": 1739451653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mbox": {
+    "visit_id": 1,
+    "name": "mbox",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "session#f2627627e77043fa8aff0596d4cf4bd9#1704893514|PC#f2627627e77043fa8aff0596d4cf4bd9.37_0#1768136454",
+        "expiry": 1739451653,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mboxEdgeCluster": {
+    "visit_id": 1,
+    "name": "mboxEdgeCluster",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "37",
+        "expiry": 1704893513,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mdLogger": {
+    "visit_id": 1,
+    "name": "mdLogger",
+    "domain": "www.unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736427654,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kampyle_userid": {
+    "visit_id": 1,
+    "name": "kampyle_userid",
+    "domain": "www.unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c517-e818-a772-71ab-e8ad-0204-d5bd-e286",
+        "expiry": 1736427654,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kampyleUserSession": {
+    "visit_id": 1,
+    "name": "kampyleUserSession",
+    "domain": "www.unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704891654252",
+        "expiry": 1736427654,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kampyleUserSessionsCount": {
+    "visit_id": 1,
+    "name": "kampyleUserSessionsCount",
+    "domain": "www.unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736427654,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ROUTEID": {
+    "visit_id": 1,
+    "name": "ROUTEID",
+    "domain": "uxmetrics.unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": ".cligate2",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BIGipServerBC~Pool_uxmetrics.unipolsai.it_80": {
+    "visit_id": 1,
+    "name": "BIGipServerBC~Pool_uxmetrics.unipolsai.it_80",
+    "domain": "uxmetrics.unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1082990252.20480.0000",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf37619130012cfc83a2be7de05075002106d009dc$_sn:1$_ss:0$_st:1704893455097$ses_id:1704891652372%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:unipolsai.it",
+        "expiry": 1736427655,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kampyleSessionPageCounter": {
+    "visit_id": 1,
+    "name": "kampyleSessionPageCounter",
+    "domain": "www.unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1736427655,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxvt": {
+    "visit_id": 1,
+    "name": "rxvt",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704893455762|1704891652083",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtPC": {
+    "visit_id": 1,
+    "name": "dtPC",
+    "domain": ".unipolsai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7$291652078_674h-vPIIAVOAQNEKRDQKKIRADAMGWPFMQRMPF-0e0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

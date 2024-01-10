@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: mondoconv.it 
+NECESSARY COOKIES = gqid,PHPSESSID,private_content_version,FPID,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = _ga,_ga_1B4XGV94ZR,FPLC,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

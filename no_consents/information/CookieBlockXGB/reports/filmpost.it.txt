@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: filmpost.it 
+NECESSARY COOKIES = _gat_gtag_UA_80198414_1,_iub_cs-69329288-granular,_iub_cs-69329288,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_F0E9G7NEBX,_ga_WMJPMEZ4BD,_ga,_gid,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

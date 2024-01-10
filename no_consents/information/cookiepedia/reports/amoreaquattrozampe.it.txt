@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: amoreaquattrozampe.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_RWEEKJ0P68
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

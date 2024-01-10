@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: notino.it 
+NECESSARY COOKIES = __cf_bm,source,source45,lastSource,ab80,ab602,grd,npcount,lpv,JavascriptOn,lux_uid,header_infoBarDisplayCount,USER,db_ui,__rtbh.uid,__rtbh.lid,__EX_8e7aa35c300f9b52a4c98dfe15ad872c9f3d8023__,__exponea_time2__,_tt_enable_cookie,u,ts,ar_debug,receive-cookie-deprecation,IDE,CMPS,CMPRO,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,criteo,opt_out,_gcl_au,_gat_UA-12345678-9,_dc_gtm_UA-448588-27,_kuid_
+FUNCTIONAL COOKIES = TS01980276,TS016e3912,_ttp,__exponea_etc__,cf_clearance,MUID,db_uicd,g,c,MSPTC,cto_bundle,XANDR_PANID,anj,ayl_visitor,demdex,dpm,tvid,tv_UICR,_gid,_ga,_ga_3Z4X0R9RX0,_ga_6B2YVDQLBK
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,_uetsid,uid,uuid2,_uetvid,visitor-id,data-c-ts,data-c,CMID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,642 @@
+{
+  "linfo": {
+    "visit_id": 1,
+    "name": "linfo",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v.4,|0|0|255|1|0||||||||1040|0|0||0|0|0|-1|-1",
+        "expiry": 1739443529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CRQSS": {
+    "visit_id": 1,
+    "name": "CRQSS",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e|0",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CRQS": {
+    "visit_id": 1,
+    "name": "CRQS",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "t|8`s|8`l|it_IT`c|EUR",
+        "expiry": 1739443525,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "currency": {
+    "visit_id": 1,
+    "name": "currency",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EUR",
+        "expiry": 1739443525,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "iEAPID": {
+    "visit_id": 1,
+    "name": "iEAPID",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tpid": {
+    "visit_id": 1,
+    "name": "tpid",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v.1,8",
+        "expiry": 1705883525,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "HMS": {
+    "visit_id": 1,
+    "name": "HMS",
+    "domain": ".vrbo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6f84be5b-4cda-4f14-8769-40d4515a5f25",
+        "expiry": 1704885332,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MC1": {
+    "visit_id": 1,
+    "name": "MC1",
+    "domain": ".vrbo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GUID=60b2e62d99763ec8528ddb2e8558b10d",
+        "expiry": 1739443532,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "DUAID": {
+    "visit_id": 1,
+    "name": "DUAID",
+    "domain": ".vrbo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "60b2e62d-9976-3ec8-528d-db2e8558b10d",
+        "expiry": 1739443532,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OIP": {
+    "visit_id": 1,
+    "name": "OIP",
+    "domain": ".hotels.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "gdpr|-1",
+        "expiry": 1739443529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "90CBA6F6AFD3412CE7A821529E26D06A~-1~YAAQZCJlX7DPpu2MAQAASRf68gv4bJitNd108STXJXPvUaUy3auYrzKm8e0X36FdJiti9xqTuXQlXJYve8G99un7Pvv7gN/HFYkdTvtIqts2/H7yN0vzuzbepTQ9wxczeyUN3wazD/YJXrsMA1SxLmyd+coU5R14iTl892OoJv/T4Qho5pAG4A7ymjI0bvsxlL0f7vHMiSCl1lVslT8bkaeIGghr9g837s32rN5cULs/JXqhYi+QaZRzM0guHCGyBRKXwXLlkS00nwykWOtFxmjvQN/Yp+RxniOVUSrEpAnIqOMo26QW3cg0SoQ3oijsMQ+On0717jDAdVfv61f/NsVQYOWJgurm3dkofb5+9PlXOTX6SYDZx0Mvbwc=~-1~-1~-1",
+        "expiry": 1736419525,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "782987986AC7AA11B88DCB7685453FFB~YAAQZCJlX7PPpu2MAQAASRf68haXjuJNuydlGhXgT6hcZ5+iOFTM9Chjx4lhmdMemS0pNY2LMIHZnVycLnSzZwplSyVF9V0D+Dk4USCxtj7tTfRxngI+DENjU3M/PDVLP0dYuQjumrOlFmWN696eMVOiCuBovmrkK1xPRQYp1EIw63W7tZUpqZlITCGSwd2nwQHgf+0SNv0QHy2bHRbQ6PEuWwPV8bf1tXGkm4J6XtwbneHbeQ3VSZthKX6RBE3egBYqvP1UMwlluKcPAl5OxU3qcJ0wCA8rtNrIE/wtpZ4t78Y=~3618611~3421241",
+        "expiry": 1704897924,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ppn": {
+    "visit_id": 1,
+    "name": "s_ppn",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Homepage",
+        "expiry": 1704885327,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ppv": {
+    "visit_id": 1,
+    "name": "s_ppv",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5BB%5D%5D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ips": {
+    "visit_id": 1,
+    "name": "s_ips",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_tp": {
+    "visit_id": 1,
+    "name": "s_tp",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1457",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "28582426125163760871078421090970369692",
+        "expiry": 1720435528,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "session_id": {
+    "visit_id": 1,
+    "name": "session_id",
+    "domain": "www.expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "297cb948-2591-45a8-8022-2e4dd5126d61",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "page_name": {
+    "visit_id": 1,
+    "name": "page_name",
+    "domain": "www.expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Homepage",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCVS_C00802BE5330A8350A490D4C%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCVS_C00802BE5330A8350A490D4C%40AdobeOrg",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_C00802BE5330A8350A490D4C%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_C00802BE5330A8350A490D4C%40AdobeOrg",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1585540135%7CMCIDTS%7C19733%7CMCMID%7C28664280527873476541052241316666503245%7CMCAAMLH-1705488328%7C6%7CMCAAMB-1705488328%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1704890728s%7CNONE%7CvVersion%7C4.4.0",
+        "expiry": 1739443528,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "62D8B33FC9D003801A02EF8F99874E00~000000000000000000000000000000~YAAQZCJlX/DPpu2MAQAAkiL68hYuly2OCrsQFdE9m4x/NpubnfeEj+aPyJtaRzta8VNWhmw6cNUPelnY2RPVCTPvzFE04fqbeJpjUkVanC2Fq0zSTaObzWK8mRlrVrGPsZFm/2AQD5mE7CjNiMAdXzk4TgUl32tqVupsHwxca6GeXaZchagXMh0Pp3RmGFNgnqDOx0j4jtCUPF5pp8d4qEk/+Bw3HpBJ/G8gMPzOheWcLZJ7sZfPeVMmzgyJGrrH0pnYbDSM0q04YIciVo9OaAok5jyLafDSuLUkG2DqBSVEJ/3IsWs+UNgnT8ZjNbXlRdspqWKWH76FQgX6Vff39+Kyv36ThdXF9Fdh8sXn1J90O+jkKaEXsgK5u650Z17vCdhYZRBm4DrzNs7XOUMUgxV6U1GQmarnpG2ASloKfPeBTV6TC94YwaiTJxDIDs24LL+fQhGhafZQUBuJRq7coLjrYyLy6DU7WyqEqhkZHB6hl1mwfE6pxNv0CAu4ew==",
+        "expiry": 1704890724,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ecid": {
+    "visit_id": 1,
+    "name": "s_ecid",
+    "domain": ".expedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MCMID%7C28664280527873476541052241316666503245",
+        "expiry": 1739443528,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSELB": {
+    "visit_id": 1,
+    "name": "AWSELB",
+    "domain": "www.expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D79B53F10ADCF9DDDF09C7B84896C09A6222EC2F5D7767E9135D856FC4ED805E4F688FFB957FB227E1C002DCAC7D058C176547AF1945D01A45949B431399E52F8F37E8D74B",
+        "expiry": 1704887128,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cesc": {
+    "visit_id": 1,
+    "name": "cesc",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22lpe%22%3A%5B%220fedafb2-694a-4ab1-87db-427c9524c946%22%2C1704883529074%5D%2C%22marketingClick%22%3A%5B%22false%22%2C1704883529074%5D%2C%22lmc%22%3A%5B%22DIRECT.WEB%22%2C1704883529074%5D%2C%22hitNumber%22%3A%5B%222%22%2C1704883529074%5D%2C%22amc%22%3A%5B%22DIRECT.WEB%22%2C1704883529074%5D%2C%22visitNumber%22%3A%5B%221%22%2C1704883525426%5D%2C%22ape%22%3A%5B%220fedafb2-694a-4ab1-87db-427c9524c946%22%2C1704883529074%5D%2C%22cidVisit%22%3A%5B%22Brand.DTI%22%2C1704883529074%5D%2C%22entryPage%22%3A%5B%22Homepage%22%2C1704883529074%5D%2C%22cid%22%3A%5B%22Brand.DTI%22%2C1704883525426%5D%7D",
+        "expiry": 1739443529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "EG_SESSIONTOKEN": {
+    "visit_id": 1,
+    "name": "EG_SESSIONTOKEN",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dFw_9aUI-CjnHeZw_rZ21p4-ULKFku24Eb4lM5QtJGjlfY:QCISK8cZfs5HM7YEIJB0IUiJqFMGygObz4AQRGviobpHnOedSJ0CbfD1_DVGdO7aXNepK-ekzKVyFuYz8xhheQ",
+        "expiry": 1739443529,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akacd_pr_20": {
+    "visit_id": 1,
+    "name": "akacd_pr_20",
+    "domain": "fr.hotels.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1710067532~rv=89~id=4ef9e09bd0f65b685c192b4b66e2d4b1",
+        "expiry": 1710067531,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "hav": {
+    "visit_id": 1,
+    "name": "hav",
+    "domain": "www.vrbo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "60b2e62d-9976-3ec8-528d-db2e8558b10d",
+        "expiry": 1739443532,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ha-device-id": {
+    "visit_id": 1,
+    "name": "ha-device-id",
+    "domain": "www.vrbo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "60b2e62d-9976-3ec8-528d-db2e8558b10d",
+        "expiry": 1739443532,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "has": {
+    "visit_id": 1,
+    "name": "has",
+    "domain": "www.vrbo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6256aeca-cc5c-7281-f4ef-4ff45cf5a7bb",
+        "expiry": 1704969932,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "xdid": {
+    "visit_id": 1,
+    "name": "xdid",
+    "domain": ".trvl-px.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2468bfae-679f-4346-a108-63d1cf5c4465|1704883532|expedia.it",
+        "expiry": 1739073533,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".expedia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ADDD511248F1F57CD624A2BA0EDDF19E~YAAQZCJlX2bQpu2MAQAAtDT68hZMXP7TTHblrTzM5zVw1HyZZ/wZM9LFRHZmOXhZDMuBrZwbVhNYBoAQZqgKVdRKnwo+LQZmlP+hxJkMLJSeOZIflXyxZMyCG0wHjdvUklxV4A5xNN8V9DDRyXDpe0L8HzSEmulYLwGvZjxoXtSaIfXdhoSPSAE1eZKnEtkjAgNaIKGMTJ9WW8bbWI1rC29dSjzpybsGwlcvikmC24Y8+DecMmtHbrDtG8U9yCE0~1",
+        "expiry": 1704890728,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: mammastobene.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,UID
+ADVERTISING COOKIES = _gat_gtag_UA_98872139_1
+UNCLASSIFIED COOKIES = _ga_HNKBNEBFZS,_ga_WMJPMEZ4BD,_iub_cs-28053219-granular,euconsent-v2,_iub_cs-28053219,lotame_domain_check,panoramaId_expiry,ad_simply_viewer,profiler,simply_new_fc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

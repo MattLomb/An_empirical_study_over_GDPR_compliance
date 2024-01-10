@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: motor1.com 
+NECESSARY COOKIES = cookie_supported,m1_touch,abtest,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,Sessions7days,Sessions30days,cookie_accept,_dc_gtm_UA-65598278-1,__browsiSessionID,ucountry,_cb,FPID,PHPSESSID,ue_v20,pageviewSession,_chartbeat2,_cb_svref,is_logged_in,OptanonAlertBoxClosed,_pbjs_userid_consent_data,eupubconsent-v2,c,tuuid_lu,u,ts
+FUNCTIONAL COOKIES = Sessions7daysExpires,Sessions30daysExpires,_gid,__browsiUID,FPLC,_fbp,_ga,_ga_TKMB81YMJ6,OTAdditionalConsentString,OptanonConsent,uid,IMRID,tuuid,g,UID,id
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,582 @@
+{
+  "device": {
+    "visit_id": 1,
+    "name": "device",
+    "domain": "www.edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "desktop",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "HOME2JSESSIONID": {
+    "visit_id": 1,
+    "name": "HOME2JSESSIONID",
+    "domain": "www.edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8a95a6647e9d0a82~jzY9hWQaofYXGDpKAXPC3Q6R.app-canary-7d58cd58fd-xknqw",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mktTrack": {
+    "visit_id": 1,
+    "name": "mktTrack",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+        "expiry": 1707473728,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "locale": {
+    "visit_id": 1,
+    "name": "locale",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it_IT",
+        "expiry": 1707473730,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tduid": {
+    "visit_id": 1,
+    "name": "tduid",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": 1707473730,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "userDevice": {
+    "visit_id": 1,
+    "name": "userDevice",
+    "domain": ".tms-monitoring-dot-project-id-4181994499646779312.ew.r.appspot.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "82b79baa-a776-4b57-989f-e03ef99c0dd3",
+        "expiry": 1738577730,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TestTokenSpace": {
+    "visit_id": 1,
+    "name": "TestTokenSpace",
+    "domain": "www.edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "20#50872789464-6#157219-12#145437384400-5#27029498329-22#49587743965-19#209267971305-13#131391304623-18#79765420254-7#144362637312-8#16772443561-2#4704-15#33883167234-16#209129318624-10#133507374115-1#132693684299-17#51506998141-9#145329916904-3#37966-21#55893671055-14#50963358797-11#22969126240-4#143385656686|10-01-2024.11:15",
+        "expiry": 1707473730,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "viI": {
+    "visit_id": 1,
+    "name": "viI",
+    "domain": "www.edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eJztVW2IFVUYPsd7ztlHM1dMsq8fEyO2yzZz58z3qCCyu6W4lxV3t6QCnd07uzt6997t3ll3TbGyqKgICUlIy6iIzD4EhQIpAoWMJCEtQSToO5TAH2to/ahz203XSH/0u5kfc97zvs/HeQfOKymdTfurlXKWlIvGYGUoMZK4utA2XemZ+2g+LReTMXNd7RxNx5efePR2Sgltb1u1ZvkJmrRVk3iopt2b9NbS7Ae6VZK5lDYV02rSl+0hhDaVK+Vkz+WdZvoihVgJ0Q2xGuJ+iLUQRYhBsPfBDoJ9BHYI7BOwz8A+B6+A18DHwDeBPwL+OPiTYDvBdoO9CvYG2Ftg74Lth3gK4hmIbRDbIXZA7ITYDeFCBBCLIZZAtEEsgyiAPwu+DXw7+A7wXeCvgL8GMQ/iVggNQodohmiByIMdBzsJdgrsa7BvwX4EOwt2Dmwc7ALY7+AEnIE3IJchtwu595A7hNwR5BREpQ6BHwE/Cn4M/Dj4SfDT4N+Afwf+E/hZ8HPg4+AXwZvAW8AtcBc8BF8EvgTkdZCjoAdBj2HaMHIB2GpwJfoHBIdogLgOohFiLvhM8EbwG8Dngd8GroHrYHeALQZbB1YGq4GNgW2GKEFUIGoQYxCbIB6GeAz8TfC94PvAD4B/AH4Q/GPwLnAl9wD4WvA+8AHwEtgWsK1g6hc8DfYc2PNgOwhppD+f+erUjpn0U25bumeFgR2Ekeu7hq9LL7BlZEhbl67nOoETuq5lGZ5uB5YduVHo2JFh27obeWEQuE7ke4aMdNuKbD+IAulYKnZ06UgnUoHr244hQ12lfM+1LdtzjUBRu45v+4pd2kaoSz8IbLXl+dJQzIHlGtLTHScMHZWyHRX6dQVpR44MfVvFllJwPCtwAldKpahC248cP3TtSLkPdE96lh9FoXSlEdXPonxH0o8Ut6M7QeT7hi11zwsVKJCWpzhc1YrIV7ShcmtIqdt25CtRJWgZruJQjjzf8/3Q3ywtw1JmLds1pVwovespvcD+b+Z/aibV6Xx6/svfXjgmz+w9/87LfQto+0i1MpzkC3Gxmn5/E33i4oFZN9O3fyG8ViVGX2XIrBTTgaRibkjVLZaUB9JyYo7Ukmo8kJQzs0etltZXK5KNZOKh04i4j2BU3WqlpFbrIDOKyYa0L+neOJxkZEGH4sxPcOYnEsUkU/dfpZpvu1S3qIOISm0C0XQNRGfXXfFQWto4iZleqd2TVGupuq7JnI518YY4X4rLA/murJqWB1RB48jffidwGWm5BnvPlcUKP/sSflLnQbKF5MaGyZYqmT+lWVcSmZcPNtkjMoeQsSqZVbdo1i2a7eWRoanJ4YygtbOwsqe7fZUiX3B18qk9mMpQt9aQkVxhaWtGGqRlqokVKKrmq1P948D/wiZal63qLLRnZLqUgWnVX/orLVQeSkulOO+ZltZUiPvSclapDS7SlquxWdLUhtbZpa3WpLVGemuCZm3p8HApUXNxRZrlPScwHV9rWrGsu9Bxp1ZK1yfa3Unf+kqz1jpYVQM3f0lJ64r742o6CaGh3RtEvXFsxEHgG26vFxhRGPUbieUk/VHUZxWL+6lnRtL0pSn9/SdOv3T4wxk30mm0/TBVA7q95wut/k2z+rgeHR01k+JfI9tMx5spzU0kbmmZXKbjOTXD6dCUKprFvaUkm7LzJzM+EQU=",
+        "expiry": 1704883531,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FeatureContextSeed": {
+    "visit_id": 1,
+    "name": "FeatureContextSeed",
+    "domain": "www.edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "71bbd08e-4b0d-40e9-81a6-cb33e43bbcc4",
+        "expiry": 1712657731,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "E37713D34F37A989F60C4B701AF6CE51~000000000000000000000000000000~YAAQFWURAu8NueqMAQAAr6ve8hYvOek3xNW81fZEv79aR+iZd4yA/ruzfS3B3ngVgoGTmfeoiIAYGVqKEU0bYGG81xJhv8lsjaDk9W/FYIOeKYU+S02oKi5GBYfpMxns11sHH+dpE1CKlHz2/OO/NnPWquQmqLnK4Dhcj2huIzzOuo+6J0XYkkxE1qB8MdmFt7qhR2AKQThLr92lX8dz5YQPVdeasFBItMQDUOMEe+GvQe1g5v27esC7rfmkei/ncS8KJn1NOMx29akwWM0Fe76ki8gVhr9uOHn6Yc4YEjAD6oZLEt9lm2qJjG85AJdWDXs1we63hO+I6Tn3OjychWdWCm3NJ+Sd06tCWOapBcwLjaNbjhEKU43THw==",
+        "expiry": 1704888927,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "769F20A22A853017C319587EF3878A95~YAAQFWURAvENueqMAQAAr6ve8hbeKBIfefXzU31THRUJCBucPh7i6J8l3blboW3OWOv1kU2I07NcpniAXcOoDzJqG8HUFY0D4Op5/ICkZ94Prjxy4ytl8nGyzjFnwu3yezpnBGJIKzSvfWsYgf9IMgISRGEYrogse/zYTz5ZxlFMMeQ2faZHS4oersHodjgqha7cdolQArql8u7y+JvOPseACATc6q5IardwMEuCJqHrPfIsnnmkb8tVfootr0FRnaCpyQ/630zSfWXljoVWJolgzD4Qx/EXLQGXQrfH1Z3jI8I=~4602166~3617844",
+        "expiry": 1704896127,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.62882228.1704881729",
+        "expiry": 1738577731,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1244488545.1704881729",
+        "expiry": 1704968129,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tc_cj_v2_cmp": {
+    "visit_id": 1,
+    "name": "tc_cj_v2_cmp",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1736417730,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "tc_cj_v2_med": {
+    "visit_id": 1,
+    "name": "tc_cj_v2_med",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1736417730,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "E99B16D80F8B81EF87004D4B47F4D066~0~YAAQz4cQApN0KmiMAQAAfbDe8gsFq593YCUZ9a0oyVDnzjMWITrH4nYtT0fCsyl3qFryX8RXjuUpaBCls0DpGhyolg+C9iFL+wiKcFFnNEF177GGOKb7TxXKEP9J7amjojGj6BvRsZNGgLOzHBplr/3VItFFBTzROHeCTOpQygMoNneLaVloAS8aBOap9oZuO6A5JfPvY0uVeN5lMGRjpjWzIv9e4/ZsOG4GhqNQg4a9vH9oKMmvorA2Y5QvtMYkZqMsUeFITxobcxMbM13NfEWPswwa7amXYpa3ik4IUm8ZVFoPpV9cEQVTxLxOPkJVouLGCplLGXXt5ghb9xWQQ3F3YNAneoNcyz9X7CA6ricjm4Gys4lM+AS32hE1FRVHY91v08PB2L6gsIauXhUtSpJ4rX7Y0KOW~-1~-1~-1",
+        "expiry": 1736417729,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4996604505390863052",
+        "expiry": 1712657729,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUml1a2e6X4Gg_CsrHji6SjW4Y3yElV6Rz1l96MklOLEMSdtvLGSRaJPu41bvXg",
+        "expiry": 1738577729,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "pcXONm5HMHgLHvcfaUleH0g8AKZKoc3_WsIpmIFBKhJ2ElpImX52pgw8dmP2Qe5LX-kz7WSqmWJLUu_Z1vhrv4DF-trz6HpmhffPopNVvEY.",
+        "expiry": 1739441729,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TCID": {
+    "visit_id": 1,
+    "name": "TCID",
+    "domain": ".commander1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024011011153097636690",
+        "expiry": 1736417731,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gaActiveSession": {
+    "visit_id": 1,
+    "name": "_gaActiveSession",
+    "domain": "www.edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704883530,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_0F2PG8WMQ1": {
+    "visit_id": 1,
+    "name": "_ga_0F2PG8WMQ1",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704881730.1.0.1704881730.0.0.0",
+        "expiry": 1738577731,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tc_cj_v2": {
+    "visit_id": 1,
+    "name": "tc_cj_v2",
+    "domain": ".edreamsodigeo.commander1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5Ecl_%5Dny%5B%5D%5D_mmZZZZZZKQJNRRKQMJJJJZZZ%5D",
+        "expiry": 1736417730,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "didomi_token": {
+    "visit_id": 1,
+    "name": "didomi_token",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ1c2VyX2lkIjoiMThjZjJkZWItNDc0MC02NzMzLTllMGItZTlmOWQ4MjVkNmVlIiwiY3JlYXRlZCI6IjIwMjQtMDEtMTBUMTA6MTU6MzAuNjk0WiIsInVwZGF0ZWQiOiIyMDI0LTAxLTEwVDEwOjE1OjMwLjY5NFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+        "expiry": 1736504130,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "didomi_cookies": {
+    "visit_id": 1,
+    "name": "didomi_cookies",
+    "domain": "www.edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "essential",
+        "expiry": 1736417730,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OF1JSESSIONID": {
+    "visit_id": 1,
+    "name": "OF1JSESSIONID",
+    "domain": "www.edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "521cbd32a7e93d41~SeF2pTHY+onvQuQJLNlK+1Oh.app-stable-5557b85846-j57gl",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "WID": {
+    "visit_id": 1,
+    "name": "WID",
+    "domain": ".commander1.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "68189ab7-10dc-4245-93c1-a45a4a883181",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FeatureContext": {
+    "visit_id": 1,
+    "name": "FeatureContext",
+    "domain": "www.edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "rO0ABXNyAFNjb20uZWRyZWFtc29kaWdlby5leHBlcmltZW50cy5mZWF0dXJlLmFwaS5jb250ZXh0LkZlYXR1cmVDb250ZXh0JFNlcmlhbGl6YXRpb25Qcm94eQAAAAAAAAABAgADTAACaWR0AERMY29tL2VkcmVhbXNvZGlnZW8vZXhwZXJpbWVudHMvZmVhdHVyZS9hcGkvY29udGV4dC9GZWF0dXJlQ29udGV4dElkO0wABHNlZWR0AEZMY29tL2VkcmVhbXNvZGlnZW8vZXhwZXJpbWVudHMvZmVhdHVyZS9hcGkvY29udGV4dC9GZWF0dXJlQ29udGV4dFNlZWQ7TAAMc2VnbWVudGF0aW9udABATGNvbS9lZHJlYW1zb2RpZ2VvL2V4cGVyaW1lbnRzL2ZlYXR1cmUvYXBpL2NvbnRleHQvU2VnbWVudGF0aW9uO3hwc3IAQmNvbS5lZHJlYW1zb2RpZ2VvLmV4cGVyaW1lbnRzLmZlYXR1cmUuYXBpLmNvbnRleHQuRmVhdHVyZUNvbnRleHRJZAAAAAAAAAABAgABTAACaWR0ABBMamF2YS91dGlsL1VVSUQ7eHBzcgAOamF2YS51dGlsLlVVSUS8mQP3mG2FLwIAAkoADGxlYXN0U2lnQml0c0oAC21vc3RTaWdCaXRzeHCZXeNqQ+oSOvcdUrCUgkPXc3IARGNvbS5lZHJlYW1zb2RpZ2VvLmV4cGVyaW1lbnRzLmZlYXR1cmUuYXBpLmNvbnRleHQuRmVhdHVyZUNvbnRleHRTZWVkAAAAAAAAAAECAAFMAAJpZHEAfgAGeHBzcQB+AAiBpssz5Du8xHG70I5LDUDpc3IAUWNvbS5lZHJlYW1zb2RpZ2VvLmV4cGVyaW1lbnRzLmZlYXR1cmUuYXBpLmNvbnRleHQuU2VnbWVudGF0aW9uJFNlcmlhbGl6YXRpb25Qcm94eQAAAAAAAAABAgABTAAPc2VnbWVudGF0aW9uTWFwdAAPTGphdmEvdXRpbC9NYXA7eHBzcgAlamF2YS51dGlsLkNvbGxlY3Rpb25zJFVubW9kaWZpYWJsZU1hcPGlqP509QdCAgABTAABbXEAfgAOeHBzcQB+ABBzcQB+ABBzcQB+ABBzcQB+ABBzcQB+ABBzcQB+ABBzcQB+ABBzcgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAABnQAB3dlYnNpdGV0AAJJVHQAD21hcmtldGluZ1BvcnRhbHQAATF0AAp1c2VyRGV2aWNldAAkODJiNzliYWEtYTc3Ni00YjU3LTk4OWYtZTAzZWY5OWMwZGQzdAAGbG9jYWxldAAFaXQtSVR0AA9jbGllbnRJbnRlcmZhY2V0AAIxNnQAEm1hcmtldGluZ0NoYW5uZWxJZHQAATB4eQ==",
+        "expiry": 1704883531,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".edreams.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0B41C2AAF12ECFE9CF83B831C11D6A3F~YAAQFWURAiUPueqMAQAAurne8hY3PtRNvmO1tuNujw++6PK82MrunVYQf9eebS6w64PTk0LVVbfzEBQSBOQYt3vYSnKKD6YX870Jnrhnq4/NmqsmY2DqOmqloQwepNsHBl2QMItIl+k/kryGdT0jFoPV5P5LOjGAhzOj06GZSJK2LyCo+h6aFUhDjZ5FMh+/udwKxrjNwop7o7u/XDiuHOduVZj5deDd64RN7Mp/4GAGoyqehcZvuE70758vilgv~1",
+        "expiry": 1704888928,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

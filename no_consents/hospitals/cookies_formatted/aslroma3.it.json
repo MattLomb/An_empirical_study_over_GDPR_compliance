@@ -1,0 +1,22 @@
+{
+  "cookie_notice_accepted": {
+    "visit_id": 1,
+    "name": "cookie_notice_accepted",
+    "domain": "www.aslroma3.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1720688054,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

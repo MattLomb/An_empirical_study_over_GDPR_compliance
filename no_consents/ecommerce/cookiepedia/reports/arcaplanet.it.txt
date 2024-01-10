@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: arcaplanet.it 
+NECESSARY COOKIES = ARRAffinity,ai_user
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = ai_session
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = ARRAffinitySameSite
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,402 @@
+{
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.unieuro.it",
+    "path": "/online/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EFE693CE39104A38CE9734F282FC302E.unirapp63",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ASAK": {
+    "visit_id": 1,
+    "name": "ASAK",
+    "domain": "www.unieuro.it",
+    "path": "/b2ccommercews/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"Y2QxODUzYWFlYmRhNGNiNjljNzc4YjRhMDE2MzVkZjQ5OWFiMmFlZTdhZjA4NGEwNzU1NjA0Y2U1NzVhOTZjYXVzZXJUb2tlbj0wJnZhbGlkVW50aWw9MTcwNDg4MzY4NQ==\"",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_GRECAPTCHA": {
+    "visit_id": 1,
+    "name": "_GRECAPTCHA",
+    "domain": "www.google.com",
+    "path": "/recaptcha",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "09APYnBZVNphEKKRGSa4aHzTlmOED-7zuilTgAz6MQKBk0BsbvE8xIQ-uzcJ2zKEGHyPlGHYJ-eoyuX-_QBv8Eb88",
+        "expiry": 1720432086,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TS018d3b94": {
+    "visit_id": 1,
+    "name": "TS018d3b94",
+    "domain": "www.unieuro.it",
+    "path": "/online/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01472c371e379b68738dee96c8a19b86a3622febb8d15c5cb2d2c43db581bf90bdcba44c29d7027996d2042424d165a2f5ef869d0564187f3609ad8e597dfc818eff883e6ee7186e4442dc9a5fca4e57f79532e7df",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "userCookie": {
+    "visit_id": 1,
+    "name": "userCookie",
+    "domain": "www.unieuro.it",
+    "path": "/online",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"-92134471462134564305066146244228584282@1704880084023\"",
+        "expiry": 1704966484,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TS01c4f873": {
+    "visit_id": 1,
+    "name": "TS01c4f873",
+    "domain": "www.unieuro.it",
+    "path": "/online",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01472c371ebd7459a9889e70199b55939546d370dad15c5cb2d2c43db581bf90bdcba44c29d7027996d2042424d165a2f5ef869d05e5f3967968ab2b7b25b15ee16bc187d921e2fd9d9994f0c1efce7be272a52fa2e3977d1b7892e75649ed574de7a3e359",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BIGipServerwww.unieuro.it_PROD_BROWSER_pool": {
+    "visit_id": 1,
+    "name": "BIGipServerwww.unieuro.it_PROD_BROWSER_pool",
+    "domain": "www.unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "34897162.20480.0000",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TS010c1c85": {
+    "visit_id": 1,
+    "name": "TS010c1c85",
+    "domain": "www.unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01472c371e38cb28ba17a854b8d9bca39617ab4c2dd15c5cb2d2c43db581bf90bdcba44c29d7027996d2042424d165a2f5ef869d058590e9c761119f423f695e4b1e1480d9",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BIGipServerwww.unieuro.it_PROD_MOBILE_pool": {
+    "visit_id": 1,
+    "name": "BIGipServerwww.unieuro.it_PROD_MOBILE_pool",
+    "domain": "www.unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "102006026.20480.0000",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tCdebugLib": {
+    "visit_id": 1,
+    "name": "tCdebugLib",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707472087,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1065336110.1704880087",
+        "expiry": 1739440095,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1149487600.1704880087",
+        "expiry": 1704966495,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704880087557.758093977",
+        "expiry": 1712656088,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "stack": {
+    "visit_id": 1,
+    "name": "stack",
+    "domain": "www.unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "[\"homepage\"]",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "hero-session-d7e1d2b7-e794-4c35-bbeb-4df29420eef7": {
+    "visit_id": 1,
+    "name": "hero-session-d7e1d2b7-e794-4c35-bbeb-4df29420eef7",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "author=client&expires=1736416088474&visitor=6fa41846-ea26-4845-84da-c04361d90c22",
+        "expiry": 1736416088,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T09:48:08.602Z",
+        "expiry": 1720432088,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+10%3A48%3A08+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8a16bb2-a95f-4e9f-afc3-c9d365d66507&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0005%3A0",
+        "expiry": 1720432088,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.6bl0Z1TAv9SKKAaYrOp2SfdwC%2B2%2B8AsonE1dgRoC3xE%3D.1704880087",
+        "expiry": 1739440090,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "n9mlj0LuV7R2CQNHole1cpVUXSwkI1grncnQqz2wZ2pnpgOpHe8YIIzvxI0awSACyLOy63BfrZRyGZNFIjdyv9TUgWovdDNTb3KQ%2F78Y72bk5Pg%2FHx8Tz72YDqadkw%3D%3D",
+        "expiry": 1704952090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_9ME2EJF5E6": {
+    "visit_id": 1,
+    "name": "_ga_9ME2EJF5E6",
+    "domain": ".unieuro.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704880087.1.1.1704880095.0.0.0",
+        "expiry": 1739440095,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

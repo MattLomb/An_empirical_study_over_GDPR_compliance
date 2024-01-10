@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: airbnb.it 
+NECESSARY COOKIES = everest_cookie,ak_bmsc,previousTab,jitney_client_session_created_at,frmfctr,jitney_client_session_updated_at,cfrmfctr,OptanonConsent,OptanonAlertBoxClosed,cookieConsentId,_user_attributes
+FUNCTIONAL COOKIES = bev,jitney_client_session_id,bm_sv
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ovs.it 
+NECESSARY COOKIES = dwsid,dwac_d9175831c0dfb542444e0bb939,cqcid,cquid,sid,dwpersonalization_81715affa36e5cc8890f11497a69d59f,dwanonymous_81715affa36e5cc8890f11497a69d59f,__cq_dnt,dw_dnt,newsletterTriggerTime,__cq_seg,BrowserId_sec,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = _ga,uuid,__cq_uuid,OptanonConsent,_ga_ZEP9MN0D7F
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

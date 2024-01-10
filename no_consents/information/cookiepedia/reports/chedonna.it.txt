@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: chedonna.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_SQMX64TYW2,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

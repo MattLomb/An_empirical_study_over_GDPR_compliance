@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: versiliatoday.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gat_gtag_UA_7089709_23
+UNCLASSIFIED COOKIES = __cf_bm,_ga_2SFPYS7EHX,_ga_BRVREQMBEN,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

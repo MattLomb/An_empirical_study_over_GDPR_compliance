@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: genova24.it 
+NECESSARY COOKIES = OptanonAlertBoxClosed,Intro
+FUNCTIONAL COOKIES = _ga,_ga_GJNJ95RZ9E,eupubconsent-v2,OptanonConsent,_ga_0FKQK669J8
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

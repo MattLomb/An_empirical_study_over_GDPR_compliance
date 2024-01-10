@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: viagginews.com 
+NECESSARY COOKIES = __lxG__consent__v2,test_cookie,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_F1T3DLMF7N,_ga,UID,__lxG__consent__v2_daisybit
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

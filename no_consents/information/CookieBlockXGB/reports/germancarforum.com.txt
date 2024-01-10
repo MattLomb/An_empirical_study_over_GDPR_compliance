@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: germancarforum.com 
+NECESSARY COOKIES = xf_csrf,_gcl_au,test_cookie
+FUNCTIONAL COOKIES = _ga_L4ME4V24LW,_ga,FCCDCF
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

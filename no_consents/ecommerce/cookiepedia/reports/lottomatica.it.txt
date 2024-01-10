@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lottomatica.it 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,RT
+ADVERTISING COOKIES = _gat_UA-232781850-2
+UNCLASSIFIED COOKIES = TS01873b14,cVuS,TS01a3163c,io_token_7c6a6574-f011-4c9a-abdd-9894a102ccef,fp_token_7c6a6574-f011-4c9a-abdd-9894a102ccef,TS01ad7730,_ga_LBHFX99JDV
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

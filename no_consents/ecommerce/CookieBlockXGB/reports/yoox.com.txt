@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: yoox.com 
+NECESSARY COOKIES = USERINFO,ABTEST,FEATURE_DISABLED_BAYNOTE,OLDVISIT,SESSIONS,AKA_A2,PIM-SESSION-ID,dtSa,LAYERFIRSTVISIT,tc_YAB_test,isp,akacd_PIM-prd_ah_rollout,TCPID,_gid,_gat_gtag_UA_4532215_2,dtCookie
+FUNCTIONAL COOKIES = VISIT,YEDGESESSION,bm_sz,bm_mi,rxVisitor,GENERIC_USER_ID,optimizelyEndUserId,bm_sv,_ga_JPNZR0P362,ak_bmsc,_ga,RT,rxvt,_abck,dtPC
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

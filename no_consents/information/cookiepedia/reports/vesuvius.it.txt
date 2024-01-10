@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: vesuvius.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gat_gtag_UA_51813898_28
+UNCLASSIFIED COOKIES = _ga_8Q4KHJNH6E,quads_browser_width,yabs-sid,bh,_ym_uid,_ym_d,sync_cookie_csrf,i,yandexuid,_ym_isad,sync_cookie_ok,yuidss,yp,ymex,_ym_visorc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

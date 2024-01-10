@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: leganerd.com 
+NECESSARY COOKIES = ppc_last_visited_page,_iub_cs-59575280-granular,_iub_cs-59575280
+FUNCTIONAL COOKIES = _ga_YH4BSFWPEL,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

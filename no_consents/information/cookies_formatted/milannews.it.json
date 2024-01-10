@@ -1,0 +1,942 @@
+{
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4908b450-af91-11ee-a890-cba8ad1dd5fa",
+        "expiry": 1738570902,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1023794986.1704874903",
+        "expiry": 1739434902,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FCNEC": {
+    "visit_id": 1,
+    "name": "FCNEC",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5B%22AKsRol-kUV9x8riC-eHh-tOxp3Rxkitfb3VFCf1cItTMm68Ij4jIvLzG9hSOBVB-dC0GxfSKbgJJBl3MjdaPDi9HuaL5Ud0Xm72W7A_gHTBqi-ACP_FwVYXt0nuSVYOujXrpRN7xZl5548n1vO9EQiYU9iNwiEoPJQ%3D%3D%22%5D%2Cnull%2C%5B%5B5%2C%22691%22%5D%5D%5D",
+        "expiry": 1736410904,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%7C1704874906%7C1704844800000%7C34%7C1706602906017%7C2%7C1%7C1%7C1704844800000%7C1%7C17048749027108602%7C0%7C172",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2_daisybit": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2_daisybit",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAA_AEAENAiEsAP_gAEPgAAAAINJB7D7FbWFCwHphYLsQMAgDRMCAQoQAAASBAGABQAKQIAQCgkAQBASgBAACAAAAICRBIQAECAAAAEAAQAAAIAEEAAAAAAAIAAAAgAAAAAAIAAACAIAAAAAIAAIAEAAAmAgAAAIAGEAAhAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQNVADEFCIgAKAgJCCQUIgAAAgiAAAgQAAAAkCAAAAgAAgQAgEIIAAAAEAAAAAAAAAQEACAAAQAAAAAIAAgAAAQAAAAAAAAAAQAAAAAAAAAAAAAAAEAQAAAAAAAAQAAAABAhCAAAAAMIAAAAAAQAAAAA.YAAAAAAAAAAA",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2_gdaisybit": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2_gdaisybit",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "~1~70..19.4.15..14..27..47..63..52.66.15..77..67.481.45..34..290..117..70..44.2.104.4.71..25..64..50..34..121.7.74..65..49..105.8.11..183.2.179..46..58..169..42.34.102.",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lotame_domain_check": {
+    "visit_id": 1,
+    "name": "lotame_domain_check",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "milannews.it",
+        "expiry": 1704874916,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "o": {
+    "visit_id": 1,
+    "name": "o",
+    "domain": ".datafront.co",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "kaR0cnVl",
+        "expiry": 1710058906,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707553306,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "khaos": {
+    "visit_id": 1,
+    "name": "khaos",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LR7II0VG-1G-F3BF",
+        "expiry": 1736410911,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "A3": {
+    "visit_id": 1,
+    "name": "A3",
+    "domain": ".yahoo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d=AQABBJpTnmUCENMKZAoijbO1XFK2dqXc98cFEgEBAQGln2WoZee4Jm0A_eMAAA&S=AQAAAqwXTjBgtynhWaSjMVnoJmw",
+        "expiry": 1736432510,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "connectId": {
+    "visit_id": 1,
+    "name": "connectId",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"ttl\":86400000,\"lastUsed\":1704874906405,\"lastSynced\":1704874906405}",
+        "expiry": 1736410906,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".criteo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "86be97d4-00a7-4100-ad7e-c35a184291c2",
+        "expiry": 1738570906,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cc_dc": {
+    "visit_id": 1,
+    "name": "_cc_dc",
+    "domain": ".crwdcntrl.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1728202200,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cc_id": {
+    "visit_id": 1,
+    "name": "_cc_id",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2c053164f851cc0a93a4baf0fc029f8d",
+        "expiry": 1728202906,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "panoramaId_expiry": {
+    "visit_id": 1,
+    "name": "panoramaId_expiry",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704961306536",
+        "expiry": 1704961307,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "i": {
+    "visit_id": 1,
+    "name": "i",
+    "domain": ".openx.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "41981a54-cc26-480b-87f1-7bfb1273125c|1704874906",
+        "expiry": 1736410906,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "icu": {
+    "visit_id": 1,
+    "name": "icu",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ChgIkqsfEAoYASABKAEwmqf5rAY4AUABSAEQmqf5rAYYAA..",
+        "expiry": 1712650906,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1707370573925921567",
+        "expiry": 1712650909,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-id": {
+    "visit_id": 1,
+    "name": "ad-id",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AxJFSslxmUSIo3kQgUTM3uo",
+        "expiry": 1727770910,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-privacy": {
+    "visit_id": 1,
+    "name": "ad-privacy",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739434910,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "DotomiTest": {
+    "visit_id": 1,
+    "name": "DotomiTest",
+    "domain": ".dotomi.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2ce30b3399fa161d",
+        "expiry": 1704874937,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "viewer_token": {
+    "visit_id": 1,
+    "name": "viewer_token",
+    "domain": ".csync.loopme.me",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "946cbc92-1626-47b1-afc2-97c0764b34f1",
+        "expiry": 1712737307,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gads": {
+    "visit_id": 1,
+    "name": "__gads",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ID=5b4bebf2a47a3314:T=1704874906:RT=1704874906:S=ALNI_MZpT61y4RG0eafb69zw4qQuvMsBHQ",
+        "expiry": 1738570906,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gpi": {
+    "visit_id": 1,
+    "name": "__gpi",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "UID=00000d3f0aa2d0f7:T=1704874906:RT=1704874906:S=ALNI_MbXhV4kRjUnoM_EWtJIkfbwqUzXhg",
+        "expiry": 1738570906,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_S6TSBD5EMN": {
+    "visit_id": 1,
+    "name": "_ga_S6TSBD5EMN",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704874902.1.0.1704874907.60.0.0",
+        "expiry": 1739434907,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUmPofd5pEgujL1CS_MavPw6GPd0UxmvwVvjljkVpse7fgi6phG5TtkrymCel-o",
+        "expiry": 1738570907,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".googleadservices.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1712650908,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cto_bundle": {
+    "visit_id": 1,
+    "name": "cto_bundle",
+    "domain": ".milannews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "xuQpdV9aUENUQTdIRGROMU9HWXgzYWZCRU04U29GY0ZKcGVTUjRCalQwWCUyQmhKRGp5ZFZZQnFjb1VpWFVuTVJZd2NZTHdXZHdwN0ZQbk9oSE90Q1JEUXlGcHNoWFlmRGVTNU1pbDBkSkczS21MR0YzdjFQb0ZmVXpOWnZGVUpxeGZoQXplYVhWb3hiN09TSzBDOUtodVBmcG9oQzhLQ1JFMjdyekZnTmNNamYlMkZiSG5vJTNE",
+        "expiry": 1738570908,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "erVpOmxLHr0XEnEj4cke8tNQin0fXxy0kzD8RwybOhI6a8SNBKAI05VAlU10Qtz20zas3DseBTNb6SaBKmjOpJA7ZDT7xYrLzpafzDrCLX8.",
+        "expiry": 1739434909,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "receive-cookie-deprecation": {
+    "visit_id": 1,
+    "name": "receive-cookie-deprecation",
+    "domain": "pixel.rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1712650911,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TDID": {
+    "visit_id": 1,
+    "name": "TDID",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c6ac2b2e-4dd6-455e-ada8-f69fc03fa018",
+        "expiry": 1736497310,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TDCPM": {
+    "visit_id": 1,
+    "name": "TDCPM",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CAESFgoHcnViaWNvbhILCJ7fpKXn78g8EAUYBSABKAIyCwjm88nR_e_IPBAFOAE.",
+        "expiry": 1736497310,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bito": {
+    "visit_id": 1,
+    "name": "bito",
+    "domain": ".bidr.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AAB-K07LPKcAABPdZLJW1g",
+        "expiry": 1738984910,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bitoIsSecure": {
+    "visit_id": 1,
+    "name": "bitoIsSecure",
+    "domain": ".bidr.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ok",
+        "expiry": 1738984910,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bcookie": {
+    "visit_id": 1,
+    "name": "bcookie",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"v=2&d7d46fd5-f4ce-4f2e-8ff1-023e088017d3\"",
+        "expiry": 1736410910,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "li_gc": {
+    "visit_id": 1,
+    "name": "li_gc",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MTswOzE3MDQ4NzQ5MTA7MjswMjEr6Upvu/VAzRYlfs6QMl33XXzuauNrZMr0jr+FZ5XxjQ==",
+        "expiry": 1720426910,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lidc": {
+    "visit_id": 1,
+    "name": "lidc",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"b=TGST05:s=T:r=T:a=T:p=T:g=2917:u=1:x=1:i=1704874910:t=1704961310:v=2:sig=AQH5DkzPlr32YPSLV4ksQ2gEnjZ47cpM\"",
+        "expiry": 1704961310,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "csuuid": {
+    "visit_id": 1,
+    "name": "csuuid",
+    "domain": ".primis.tech",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659e539ecfaec",
+        "expiry": 1707034910,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TapAd_TS": {
+    "visit_id": 1,
+    "name": "TapAd_TS",
+    "domain": ".tapad.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704874911009",
+        "expiry": 1710058911,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TapAd_DID": {
+    "visit_id": 1,
+    "name": "TapAd_DID",
+    "domain": ".tapad.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ec606d80-f303-44cf-9c03-1be130f56ca1",
+        "expiry": 1710058911,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ljt_reader": {
+    "visit_id": 1,
+    "name": "ljt_reader",
+    "domain": ".lijit.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "H941sQZHzfpPD7KHQjWmDcw8",
+        "expiry": 1736410911,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_Amc_b": {
+    "visit_id": 1,
+    "name": "_Amc_b",
+    "domain": "prebid.a-mo.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704875210,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TapAd_3WAY_SYNCS": {
+    "visit_id": 1,
+    "name": "TapAd_3WAY_SYNCS",
+    "domain": ".tapad.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1710058911,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ljtrtb_80": {
+    "visit_id": 1,
+    "name": "_ljtrtb_80",
+    "domain": ".lijit.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LR7II0VG-1G-F3BF",
+        "expiry": 1736410911,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cu": {
+    "visit_id": 1,
+    "name": "cu",
+    "domain": ".ipredictive.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c32db71a-5701-4fea-a24e-04b33feb5d7e|1704874911292",
+        "expiry": 1736410911,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "audit": {
+    "visit_id": 1,
+    "name": "audit",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1|naVuGyos1qp+5gRlHDlz3+EiJtAJJIXfuLAPhRe0PozDP/WBmb8vgp6vw+NGEk+7OwkcTghtatMmGweUluV0N43qZf6dmLwkgSAl8aNtG7Lm8W6RtcurmBra5Av9O2SueMnPf77flDhTaA/y2gDPNBI2ddM+1IOi61gmsxC0UMovF7OAHM5WiAF0f6AW7vcYZNJht+OPF3ZjOWyWSLRthQONSnZ8CdCqkRiZ6/LXc081BMp+5BTjwsUMaihbQtT8sAvGGt5eIqPa8H84LbvEM4zn4Gke64odwA0T/FJOO7na8H84LbvEMzulgAqJhsXKxR0vXKlTFN30luws2d8Ye5Tsgl12YoCjJm6Iv4l8vu2U7IJddmKAoyQOxGfAC+tPoC9l1PPAIz0twqxqgX+BSWTkkxUEGf78Mg9FVLMryxLE43QNlhvrOFUQmFPRmQFQLeYHXmuhIpOU7IJddmKAozZGYeITzPje2vB/OC27xDOtVqjIPAZWNiQOxGfAC+tPlOyCXXZigKPwqoIZguKc/qJYwO8TnbWbX2nwqnzBFz+dMETELQBwSfuv4Srpgm/3z77B6Ph81mGU7IJddmKAo9jllJOppgb5",
+        "expiry": 1736410911,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

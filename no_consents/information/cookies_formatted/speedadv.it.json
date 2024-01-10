@@ -1,0 +1,82 @@
+{
+  "_GRECAPTCHA": {
+    "visit_id": 1,
+    "name": "_GRECAPTCHA",
+    "domain": "www.google.com",
+    "path": "/recaptcha",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "09APYnBZVGIdhTwrk-OcrmvBYYGGQg73fyT4wRpKt25n_F9br3g9RlohzksAT596APQpth6y4sdkZ4HqnUwI82UhY",
+        "expiry": 1720409044,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_UA-100563032-1": {
+    "visit_id": 1,
+    "name": "_gat_UA-100563032-1",
+    "domain": ".speedadv.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704857104,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_PN39PLQKYF": {
+    "visit_id": 1,
+    "name": "_ga_PN39PLQKYF",
+    "domain": ".speedadv.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.2.1704857044.1.0.1704857044.0.0.0",
+        "expiry": 1739417044,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "speedadv.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%278skLBz92LpU69vcakSw5Gsam702IikSAdHl8CaRBI9D1RDE8HRqeUw==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704857046531%2Cregion:%27it%27}",
+        "expiry": 1736479446,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

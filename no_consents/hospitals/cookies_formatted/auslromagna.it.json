@@ -1,0 +1,22 @@
+{
+  "7d07d4f407ecfdc117154489ce24b2c3": {
+    "visit_id": 1,
+    "name": "7d07d4f407ecfdc117154489ce24b2c3",
+    "domain": "www.auslromagna.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "lckr975b496s58m4lggk361p6s",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

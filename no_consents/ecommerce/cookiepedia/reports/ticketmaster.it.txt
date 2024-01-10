@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ticketmaster.it 
+NECESSARY COOKIES = BID,SID,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = language
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = NDMA,eupubconsent-v2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilfaroonline.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = pid
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = uuid2,MUID,icu,pbw,TestIfCookie,TestIfCookieP,csync,IDE,ad-id
+UNCLASSIFIED COOKIES = LSW_WEB,SSID_Ilfaroonline,SV_Ilfaroonline,SSC_Ilfaroonline,SN_Ilfaroonline,_ga_HWK444SVZ7,euconsent-v2,addtl_consent,_OASCAP[13557],_OABLOCK[13557],C,XANDR_PANID,vs,sasd2,sasd,KCCH,viewer_token,arcki2,admtr,ac_r,arcki2_ddp2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

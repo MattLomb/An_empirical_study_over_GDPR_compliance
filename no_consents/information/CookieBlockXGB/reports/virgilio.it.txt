@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: virgilio.it 
+NECESSARY COOKIES = wteid_215973748390194,wtsid_215973748390194,evntuid,wt_nbg_Q3,_prenotify_rnd,abtest,policy_cookie,_iub_cs-89638261
+FUNCTIONAL COOKIES = IMRID,euconsent-v2,UID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

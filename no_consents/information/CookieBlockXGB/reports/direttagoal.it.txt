@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: direttagoal.it 
+NECESSARY COOKIES = XSRF-TOKEN,direttagoal_session,player_enabled,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = _ga_JVSPNLGV0W,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

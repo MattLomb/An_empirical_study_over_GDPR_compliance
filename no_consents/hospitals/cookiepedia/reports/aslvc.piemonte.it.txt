@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: aslvc.piemonte.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.kJ3ZMnO0Ly.a9f4,_pk_ses.kJ3ZMnO0Ly.a9f4
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 3804d7016abe45bfc7ba8b4f9b1552e8,zoom_pagina
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

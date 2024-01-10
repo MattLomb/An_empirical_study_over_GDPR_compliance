@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilfaroonline.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_Ilfaroonline,SV_Ilfaroonline,SSC_Ilfaroonline,SN_Ilfaroonline,addtl_consent,_OASCAP[13557],_OABLOCK[13557],C,pbw,vs,TestIfCookie,TestIfCookieP,pid,KCCH,arcki2,csync,IDE,ad-id
+FUNCTIONAL COOKIES = _ga_HWK444SVZ7,_ga,euconsent-v2,MUID,XANDR_PANID,icu,sasd2,sasd,viewer_token,arcki2_ddp2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uuid2,admtr,ac_r
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

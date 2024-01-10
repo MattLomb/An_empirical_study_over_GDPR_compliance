@@ -1,0 +1,642 @@
+{
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".piano.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "NqFsST.6VRvMPpqvEoZU_z1.vX6NBBpsfM4SoP4tLfg-1704856872-1-AVkZ7aep0+tnmr1gTiynsnC3sifYKYB4O1UBTDk2ba9qlLXgWcu/wXc8uxMVFi1OxmgKxWi7V8SKyFqQQkvXYpg=",
+        "expiry": 1704858672,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cf_clearance": {
+    "visit_id": 1,
+    "name": "cf_clearance",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5oi6sCM2Xb5.pajEcEETOG4Bf8HjmQSbjbQZJoR4nZ0-1704856872-0-2-9cf14eca.c510360f.cbf0112a-0.2.1704856872",
+        "expiry": 1736392872,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_k5a": {
+    "visit_id": 1,
+    "name": "_k5a",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "61@{\"u\":[{\"uid\":\"dJYr31p0zj3gJmmM\",\"ts\":1704856872},1704946872]}",
+        "expiry": 1736479272,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "__adblocker": {
+    "visit_id": 1,
+    "name": "__adblocker",
+    "domain": "www.lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1704857172,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.925882313.1704856872",
+        "expiry": 1739416872,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1939598387.1704856873",
+        "expiry": 1712632872,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pctx": {
+    "visit_id": 1,
+    "name": "_pctx",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAmAdgGYALAAYAbGOGD%2BATgCs0-h34gAvkA",
+        "expiry": 1738984872,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pcid": {
+    "visit_id": 1,
+    "name": "_pcid",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22browserId%22%3A%22lr77rhyrc9kely46%22%7D",
+        "expiry": 1738984872,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pcus": {
+    "visit_id": 1,
+    "name": "_pcus",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ1c2VyU2VnbWVudHMiOm51bGx9",
+        "expiry": 1738984872,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__pnahc": {
+    "visit_id": 1,
+    "name": "__pnahc",
+    "domain": "www.lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1712629272,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4e700300-af67-11ee-a5e2-c79cad9dba9d",
+        "expiry": 1738552872,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704857772,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__tbc": {
+    "visit_id": 1,
+    "name": "__tbc",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bkpex%7D_FM-UQw-U_BJYwdlEhGn4D52FrlhEIZ8ZHhKa8K__FqP8SWWymusE6xPsgzOTyLM",
+        "expiry": 1739416872,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__pat": {
+    "visit_id": 1,
+    "name": "__pat",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3600000",
+        "expiry": 1707448872,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__pvi": {
+    "visit_id": 1,
+    "name": "__pvi",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6InYtbHI3N3JoeXY1dnJ5dHFkbyIsImRvbWFpbiI6Ii5sYW5hemlvbmUuaXQiLCJ0aW1lIjoxNzA0ODU2ODcyOTE4fQ%3D%3D",
+        "expiry": 1704943272,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "xbc": {
+    "visit_id": 1,
+    "name": "xbc",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bkpex%7DpbjJs3aiqHnyJhzqfS11A3XFpb_Mil_LHkfytH7ynygzp_rhFwPyzc8p94jSp9ca3fSprzT02Ni7oKuA-GPgEHT7-ya63g8ewL9Y0hvs3tQDvnE5ZrkM0vPRBVmWHHbJ8ftT0nl6A87STFjXdt7aP1inFROJVnHjC0fff4ZE-flnY7d90fXmlyiwmpPwywcZbuvCaEXjiZ1FDA7reWlCDvdM8ACLlPCWyWGrsZcRTaxWh0c5L_AEF_JH3hDdJn1nhrcs_r08wH3t7YSQIkeYm5ubB5clU9_JW4IAoP0QWFon9GgF5R783fDtqEdWOCR3",
+        "expiry": 1739416872,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cX_P": {
+    "visit_id": 1,
+    "name": "cX_P",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "lr77rhyrc9kely46",
+        "expiry": 1738984875,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cX_G": {
+    "visit_id": 1,
+    "name": "cX_G",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cx%3A26enqrrxx0wdy2y4d8rhdvux8h%3A3jxjowgi070y",
+        "expiry": 1738984873,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gckp": {
+    "visit_id": 1,
+    "name": "gckp",
+    "domain": ".cxense.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cx:26enqrrxx0wdy2y4d8rhdvux8h:3jxjowgi070y",
+        "expiry": 1736392876,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pbjs_userid_consent_data": {
+    "visit_id": 1,
+    "name": "_pbjs_userid_consent_data",
+    "domain": "www.lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4382630718874395",
+        "expiry": 1707448875,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pubCommonId": {
+    "visit_id": 1,
+    "name": "_pubCommonId",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3ed3aecd-1c96-4573-86ea-61a3e2502787",
+        "expiry": 1736392879,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ptechsdepth": {
+    "visit_id": 1,
+    "name": "ptechsdepth",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "pt1-ppid-v2": {
+    "visit_id": 1,
+    "name": "pt1-ppid-v2",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "RXmbpwhZ2We1ASC8lxLqxYCvoAbGAt8bl",
+        "expiry": 1736392875,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAFgAGAENAhEgAAAAAELAABCYAABBqhngAIgAUABcADgAPgAoACoAFwAOAAeABAACSAFwAZQA0ADUAHgAPwAiABHACYAFAAKQAVYAtgC6AGIAMwAaAA3gB6AD8AIQAQ0AiACJAEcAJYATQAnABRgDAAGHAMoAywBmgDRAGyAOQAc8A7gDvAHsAPiAfYB-wD_AQCAg4CEAERAIpARYBGACNQEcAR0AkQBJQCUgE0AJ2AT8AoMBUAFRAKuAWIAuYBdYC8gL0AX0AxQBogDXgG0ANwAcQA44B0gDqAHbAPaAfYA_4CJgEXgI9gSIBIoCVAErAJigTIBMoCbQE7AKHgUeBSICk4FNAU2Ap8BUMCpAKlAVUAqwBXICuwFhQLEAsUBZQC1IFsAWzAtwC3QFwALkAXQAu0Bd8C8gLzAX0Av8BggDBgGGgMQAYsAx4BkMDIwMkgZMBk4DKgGWAMzAZyAzwBogDRgGmgNTAarA1cDWQGvANoAbZA24Db4G5gbqA4ABwQDiwHHgOTgcsBy4DnQHPgOsAeKA8eB5IHlAPigfIB8oD6QH1wPtA-6B-wH7gP7AgCBAQCBgEDwIIgQTAgwBBsCEIEK4IWghcBDOCHIIdQQ8BD0CH4EUwIwARrAjeBHECOgEdgI9gR9Aj-BIQCRQEjYJIAklBJgEmYJUAlSBLACWcEtwS4gl0CXYEvoJgAmCBMMCYsEzATOAmoBNiCbYJuQTeBN8CcME5QTmAnSEGoAA.YAAACFgAAAAA",
+        "expiry": 1720408875,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pubtech-cmp-pcstring": {
+    "visit_id": 1,
+    "name": "pubtech-cmp-pcstring",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4-0X0",
+        "expiry": 1736392875,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dmvk": {
+    "visit_id": 1,
+    "name": "dmvk",
+    "domain": ".dailymotion.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659e0d2c10367",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ts": {
+    "visit_id": 1,
+    "name": "ts",
+    "domain": ".dailymotion.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "542816",
+        "expiry": 1739157675,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "v1st": {
+    "visit_id": 1,
+    "name": "v1st",
+    "domain": ".dailymotion.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "67b33409-84b6-4013-b05a-547b154bf0f6",
+        "expiry": 1739157675,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_HMED2J3E53": {
+    "visit_id": 1,
+    "name": "_ga_HMED2J3E53",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704856872.1.0.1704856876.56.0.0",
+        "expiry": 1739416876,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "usprivacy": {
+    "visit_id": 1,
+    "name": "usprivacy",
+    "domain": ".dailymotion.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1---",
+        "expiry": 1738984876,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pubCommonId_last": {
+    "visit_id": 1,
+    "name": "_pubCommonId_last",
+    "domain": ".lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Wed%2C%2010%20Jan%202024%2003%3A21%3A19%20GMT",
+        "expiry": 1736392879,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "pubtech-unifiedid": {
+    "visit_id": 1,
+    "name": "pubtech-unifiedid",
+    "domain": "www.lanazione.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22TDID_LOOKUP%22%3A%22FALSE%22%2C%22TDID_CREATED_AT%22%3A%222024-01-10T03%3A21%3A19%22%7D",
+        "expiry": 1710040879,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

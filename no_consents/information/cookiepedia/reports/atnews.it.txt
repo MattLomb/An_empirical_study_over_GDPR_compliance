@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: atnews.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = pid
+ANALYTICS COOKIES = OAID,_ga,uid
+ADVERTISING COOKIES = _gcl_au,pbw,TestIfCookie,TestIfCookieP,icu,uuid2,d,mc,everest_g_v2,csync
+UNCLASSIFIED COOKIES = LSW_WEB,_ga_5Z5M5FQVWL,_ga_P5P7XX22TS,SSID_ATNews,SV_ATNews,SSC_ATNews,SN_ATNews,euconsent-v2,addtl_consent,_OASCAP[13653],_OABLOCK[13653],vs,sasd2,sasd,XANDR_PANID,C,browser_id
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

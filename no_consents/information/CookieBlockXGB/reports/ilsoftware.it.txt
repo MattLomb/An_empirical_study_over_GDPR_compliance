@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilsoftware.it 
+NECESSARY COOKIES = __cf_bm,_pbjs_userid_consent_data,pubtech-cmp-pcstring,pubtech-unifiedid
+FUNCTIONAL COOKIES = _ga_BSM4WQ4K0F,_ga,_pubCommonId,euconsent-v2,MUID,_pubCommonId_last
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

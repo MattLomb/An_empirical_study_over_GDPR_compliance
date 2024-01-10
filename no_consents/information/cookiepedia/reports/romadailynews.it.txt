@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: romadailynews.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,_ga_N3D73MQZGC,SSID_PCT-romadailynewsit,SV_PCT-romadailynewsit,SSC_PCT-romadailynewsit,SN_PCT-romadailynewsit,euconsent-v2,addtl_consent,_OASCAP[13649],_OABLOCK[13649]
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

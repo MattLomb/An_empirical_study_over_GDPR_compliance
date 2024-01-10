@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ansa.it 
+NECESSARY COOKIES = __cf_bm,CLID,_clck,__pid,__tbc,MR,SM,ANONCHK,_iub_cs-15665353,_iub_cs-15665353-granular,euconsent-v2,_pbjs_userid_consent_data,pubtech-unifiedid
+FUNCTIONAL COOKIES = _ga_M79NL4FRK3,_ga,_pprv,IMRID,_pctx,xbc,_clsk,MUID,SRM_B,_pubCommonId,_pubCommonId_last
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

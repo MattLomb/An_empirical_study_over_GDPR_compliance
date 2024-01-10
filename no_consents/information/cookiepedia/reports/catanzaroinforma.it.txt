@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: catanzaroinforma.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,_ga_K8DZJQ9C48,_ga_KE4MM2WSY8,SSID_Catanzaroinforma,SV_Catanzaroinforma,SSC_Catanzaroinforma,SN_Catanzaroinforma,euconsent-v2,addtl_consent,_ga_38GSSXYEV7
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

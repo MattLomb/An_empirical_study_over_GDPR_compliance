@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: centrometeoitaliano.it 
+NECESSARY COOKIES = utag_main,_iub_cs-29235925,_iub_cs-29235925-granular,euconsent-v2,TAPAD,SSID_TRO-centrometeoitalianoi,SV_TRO-centrometeoitalianoi,SSC_TRO-centrometeoitalianoi,SN_TRO-centrometeoitalianoi
+FUNCTIONAL COOKIES = _ga,UID,IMRID,prism_649509315,_ga_85GDBLG6MC
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: tatuaggio.it 
+NECESSARY COOKIES = __lxG__consent__v2,__lxG__consent__v2_daisybit
+FUNCTIONAL COOKIES = _ga_TX0PF5YFF2,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: game-experience.it 
+NECESSARY COOKIES = ge_cle,__cf_bm,_ga,_gat_UA-68307761-1,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = _ga_PM38FKDG5L,_gid,_ga_TFT37KQBSD
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: gds.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = ts
+ANALYTICS COOKIES = UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = gdsit-ws,dmvk,_TEST_,v1st,euconsent-v2,_iub_cs-39999628-granular,_iub_cs-39999628
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics cookies

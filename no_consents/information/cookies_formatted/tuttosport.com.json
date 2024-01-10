@@ -1,0 +1,1082 @@
+{
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".tuttosport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1151838337.1704863079",
+        "expiry": 1712639078,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AwinCookie": {
+    "visit_id": 1,
+    "name": "AwinCookie",
+    "domain": "www.tuttosport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "aw",
+        "expiry": 1707455078,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sptnet_adunit_limit_intro": {
+    "visit_id": 1,
+    "name": "sptnet_adunit_limit_intro",
+    "domain": "www.tuttosport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704863678,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".tuttosport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.782966829.1704863079",
+        "expiry": 1704949478,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707455078,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "didomi_token": {
+    "visit_id": 1,
+    "name": "didomi_token",
+    "domain": ".tuttosport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ1c2VyX2lkIjoiMThjZjFjMjEtYTRjZC02ZTZhLWJmYzctY2QyZWFlY2UwNThkIiwiY3JlYXRlZCI6IjIwMjQtMDEtMTBUMDU6MDQ6MzkuMDAzWiIsInVwZGF0ZWQiOiIyMDI0LTAxLTEwVDA1OjA0OjM5LjAwM1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+        "expiry": 1736485479,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".tuttosport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704863079039.676607258",
+        "expiry": 1712639081,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUkYbtg2b0zae5JWjekn1ADg3g8y70yOxJbbWM6w5k4h7DPhm8-Vi2GhqDLzHGc",
+        "expiry": 1738559079,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_2135082_1": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_2135082_1",
+    "domain": ".tuttosport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704863139,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_EXFQRFB44E": {
+    "visit_id": 1,
+    "name": "_ga_EXFQRFB44E",
+    "domain": ".tuttosport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704863079.1.0.1704863079.0.0.0",
+        "expiry": 1739423079,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".tuttosport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.75746878.1704863079",
+        "expiry": 1739423079,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707541489,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "receive-cookie-deprecation": {
+    "visit_id": 1,
+    "name": "receive-cookie-deprecation",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1710047089,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".seadform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5902359011690090044",
+        "expiry": 1710047089,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CM": {
+    "visit_id": 1,
+    "name": "CM",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1|1",
+        "expiry": 1704949489,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CM14": {
+    "visit_id": 1,
+    "name": "CM14",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704949489_1704863089_1_Hu7u4e4e4R7u4e4REREeEREREQ",
+        "expiry": 1706072689,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMID": {
+    "visit_id": 1,
+    "name": "CMID",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ZZ4lcYv6eszdutYnfBrKkAAA",
+        "expiry": 1736399089,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPS": {
+    "visit_id": 1,
+    "name": "CMPS",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1846",
+        "expiry": 1712639089,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPRO": {
+    "visit_id": 1,
+    "name": "CMPRO",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1846",
+        "expiry": 1712639089,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid-bp-617": {
+    "visit_id": 1,
+    "name": "uid-bp-617",
+    "domain": ".ads.stickyadstv.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5902359011690090044",
+        "expiry": 1710047089,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": "tags.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "57e9e785653aae6ed533c93f06d23467",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SERVERID": {
+    "visit_id": 1,
+    "name": "SERVERID",
+    "domain": ".eyeota.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "19057~DM",
+        "expiry": 1704863689,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SEUNCY": {
+    "visit_id": 1,
+    "name": "SEUNCY",
+    "domain": ".semasio.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5E2368433E8F2783",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rlas3": {
+    "visit_id": 1,
+    "name": "rlas3",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "l5fUgb4/Z14lvbEvjH+8um1iuSGb0zHA29u50pIkMJ8=",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "EE": {
+    "visit_id": 1,
+    "name": "EE",
+    "domain": ".exelator.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"c4885a65a28deea9a538437294803847\"",
+        "expiry": 1715231090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cm_uid": {
+    "visit_id": 1,
+    "name": "cm_uid",
+    "domain": "ads.smartstream.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CM120240110053c5ca34d79d22ffed42",
+        "expiry": 1707455090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pxrc": {
+    "visit_id": 1,
+    "name": "pxrc",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CPLK+KwGEgUI6AcQABIGCLrqARAA",
+        "expiry": 1710047090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ud": {
+    "visit_id": 1,
+    "name": "ud",
+    "domain": ".exelator.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"eJxrXxzq6XKLQSHZxMLCNNHMNNHIIiU1NdEy0dTYwsTY3MjSxMIAyDJfXJZatGBpaXFqStKhJRU5JTlNq8viQx3j3Rx9PX0ilzlnFOXnpq4AC4W5Bi02NDRfkl%252BUmb7IM2RxUUoaw6KS4lPBxyoeAgBx5iog\"",
+        "expiry": 1715231090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_kuid_": {
+    "visit_id": 1,
+    "name": "_kuid_",
+    "domain": ".krxd.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "QBtfaRUO",
+        "expiry": 1720415090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "DID": {
+    "visit_id": 1,
+    "name": "DID",
+    "domain": "ads.smartstream.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "57e9e785653aae6ed533c93f06d23467",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDT": {
+    "visit_id": 1,
+    "name": "IDT",
+    "domain": "tags.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "100",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie_ver": {
+    "visit_id": 1,
+    "name": "cookie_ver",
+    "domain": "tags.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "block_reset": {
+    "visit_id": 1,
+    "name": "block_reset",
+    "domain": "tags.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707455090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ct_uid": {
+    "visit_id": 1,
+    "name": "ct_uid",
+    "domain": ".adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "57e9e785653aae6ed533c93f06d23467",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ct_did": {
+    "visit_id": 1,
+    "name": "ct_did",
+    "domain": ".adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "57e9e785653aae6ed533c93f06d23467",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ct_idt": {
+    "visit_id": 1,
+    "name": "ct_idt",
+    "domain": ".adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "100",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8160393165302118009",
+        "expiry": 1712639090,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "permanent": {
+    "visit_id": 1,
+    "name": "permanent",
+    "domain": "ads.smartstream.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ab": {
+    "visit_id": 1,
+    "name": "ab",
+    "domain": ".agkn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0001%3AVkx0vT76tw4IIWjMNNgQ7bTl%2FFBPkWSj",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "34214681469846355564571068235825388273",
+        "expiry": 1720415090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6HHzv22G7vJT_3q-GBWMME5AE1d8MChqKybsmHdAC5rVVot7J8xJu5jVv9FkwYaceyv80sXL-zo46ZG_qnCBzQbCTVkSwKmGdo0_7d-KKeg.",
+        "expiry": 1739423090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "anj": {
+    "visit_id": 1,
+    "name": "anj",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dTM7k!M4/YD>6NRF']wIg2IlaqKtEZ!]tbPl1M66+q([OUf!LhN[Z`O3NpZr4gasV)//urZlgcYTD._*PlZ[C[-kX-KNp.a",
+        "expiry": 1712639090,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bku": {
+    "visit_id": 1,
+    "name": "bku",
+    "domain": ".bluekai.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "aG/99c/k7ZD3Kx91",
+        "expiry": 1720587890,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bkpa": {
+    "visit_id": 1,
+    "name": "bkpa",
+    "domain": ".bluekai.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "KJy9/Qe5d02pSUHknp1p1p90wtkAwED81e/pBEAy1EWtmE9ymE9yBexe9J67YYL=",
+        "expiry": 1720587890,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UserID1": {
+    "visit_id": 1,
+    "name": "UserID1",
+    "domain": ".adfarm1.adition.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7322331215714777233",
+        "expiry": 1712639090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "arcki2": {
+    "visit_id": 1,
+    "name": "arcki2",
+    "domain": ".audrte.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "432zhb5AEQ4Rh-t9YEJAToYpg!20220908!1704863090521!ip#5.91.61.163",
+        "expiry": 1706159090,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "arcki2_adform": {
+    "visit_id": 1,
+    "name": "arcki2_adform",
+    "domain": ".audrte.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5902359011690090044!20220908!1704863090521",
+        "expiry": 1706159090,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "34214681469846355564571068235825388273",
+        "expiry": 1720415090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "idt": {
+    "visit_id": 1,
+    "name": "idt",
+    "domain": "ads.smartstream.tv",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "100",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wfivefivec": {
+    "visit_id": 1,
+    "name": "wfivefivec",
+    "domain": ".w55c.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "BkrQFrhg1RnqLM5",
+        "expiry": 1739163890,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "matchadform": {
+    "visit_id": 1,
+    "name": "matchadform",
+    "domain": ".w55c.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5",
+        "expiry": 1707455090,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "arcki2_ddp2": {
+    "visit_id": 1,
+    "name": "arcki2_ddp2",
+    "domain": ".audrte.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "432zhb5AEQ4Rh-t9YEJAToYpg!20220908!1704863090659",
+        "expiry": 1706159090,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AFFICHE_W": {
+    "visit_id": 1,
+    "name": "AFFICHE_W",
+    "domain": ".weborama.fr",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "r-GViqmRRRSv69",
+        "expiry": 1738818290,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cache0": {
+    "visit_id": 1,
+    "name": "cache0",
+    "domain": "cm.adsafety.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "KzFHSk9wMUZsMkpMMjlsMzBXenlaNjNieDB2cFhHOEltOEpNUTNFQmxVT01LWHcwTC9FRXFiZk83VnB1cTh4WmZZQlM5UVgzZ1Y2M2gwSE5Pajh1ZHI5bkFralo2SzNYcGRaUVZCelJ3NTVOMk42UjBWL0JDVDFHTElFcHJuQ01QNjhPb0gwR0c1Tmp3RjE3SWREcVhuS2ovcS9vNmRsMmFlalVZZ2g5NFJUUys1WDFrS01tMlhVNm1rVWs0bUFGbjZ6N0psTTRQV3RWWWRxTDRpRDVRVExzdEZuOS9IY3QxRlk5SjR3cXRsMGxmcnVCSi90WU5ObmNMMm05bk5QTk1wUkhaVDAwQkNaOUFubnRWbUVLSUpBa0hFS1I0eEVHQWUxejg2Z0NNSENodjZyYlJvNml5YVkzYm1lRlMyejJWUWdhdlErNEJHOEdKVnQ3blhZSFRmM2lJb1l1ZzAwSGNkV3pEYnFQays4eFFZclhmTTY1alNVV1orM2xCZVJ5cjdUNTMzQUdjTU1ReWQ5TGNxV3d4VEdqTDJVc1pCY3phNkxRR0ZveUZhNHF3M2l2QUFsdXU2eHJqSkJTUm0yd2sxUHAvTm1VUkk0akFwNm5RTEc2TjNpRDk2RUVnMUgzbGdJSXlUSmo3WEVXcGZ2ZEIyVldibkdyaldBSVViR2QyYnQ4NHJTNDFTdVFYQy9IQTZZK3RtVysxbm54SHJCWElKZStBd3BzbW9YOU00NUNFVkVXSmlsUlBzSDl3SnBEZGc0TkFMS3Bodmd4WW5HdkY4UWpjNklBSjJwM1JTRlZsZDN6UlZOaUhQZW1ISklLT3RGQk5DL1JCSzMwZkVKVzhDZmIxQjhyRnVEVEg3MFNsSzBCT3o4Q3VwcTNQYXcvT1FkNTNpMHUzeUJhTlVYa21oUVIxVGU1VHZvN2dwRmZ6Yzl2TWg4MTFJRTh3d0srcDBGcUhTN1hIMlZGSjh3Nm5pNXVVaGl4OG9uZlQ4RUFYUkRvZ2pSaUg2TW9JMmpCdmVQamZMTnRNeFhwbWcvdXZnYmVEZ0VkbjFqZDE1UmoxWjIyM3VnelJPQTdUdW5TcGRpYjUvR2xheTNIM1VFVDdTWE9Bc2ZXRUJSaWcxekhYenMvQ0E9PQ%3D%3D",
+        "expiry": 1736399090,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

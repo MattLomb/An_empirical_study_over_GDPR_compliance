@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: popcorntv.it 
+NECESSARY COOKIES = XSRF-TOKEN,_gcl_au,SSID_PopcornTv,SV_PopcornTv,SSC_PopcornTv,SN_PopcornTv,SSCN_N_PopcornTv,SSCN_UG_PopcornTv,SSCN_UW_PopcornTv,SSCN_UM_PopcornTv,euconsent-v2,addtl_consent,OAGEO,OAID,_pbjs_userid_consent_data,AMCVS_1A124673527853290A490D45%40AdobeOrg,profiler,ad_simply_viewer,know,CC,CIM,CCL,fourWGuid,xandr,_lr_retry_request,_lr_env_src_ats,panoramaId_expiry,pbjs-unifiedid,IDE,C,uid,mt_misc,mt_mop,ad-id,ad-privacy
+FUNCTIONAL COOKIES = laravel_session,_ga_YFBDE20G2J,_ga,_ga_EXK7YBW3W8,demdex,UID,s_ecid,AMCV_1A124673527853290A490D45%40AdobeOrg,fcap_v1,uuid,XANDR_PANID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,khaos,audit,uuid2,aniC,cProfile,cP,cOptout,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

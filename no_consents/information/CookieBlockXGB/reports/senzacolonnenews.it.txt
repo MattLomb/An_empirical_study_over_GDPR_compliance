@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: senzacolonnenews.it 
+NECESSARY COOKIES = __cf_bm,test_cookie,_gat_UA-43462414-1,SSID_SS-18321395-7f8aa,SV_SS-18321395-7f8aa,SSC_SS-18321395-7f8aa,SN_SS-18321395-7f8aa,pubtech-cmp-pcstring
+FUNCTIONAL COOKIES = UID,_ga,_gid,_ga_PNZ3QM327E,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

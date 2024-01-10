@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: r3m.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _gid,_ga
+ADVERTISING COOKIES = _gat_gtag_UA_102787715_1
+UNCLASSIFIED COOKIES = _ga_YT7W93EJY8,_ga_WMJPMEZ4BD,_iub_cs-44480958-granular,euconsent-v2,_iub_cs-44480958,lotame_domain_check,panoramaId_expiry
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

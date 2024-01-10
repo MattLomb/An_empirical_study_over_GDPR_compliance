@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: tuttojuve.com 
+NECESSARY COOKIES = utag_main,_ga,uid
+FUNCTIONAL COOKIES = _ga_YT2MLX1FN3,_gid,__kuid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = OAID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

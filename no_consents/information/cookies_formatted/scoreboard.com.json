@@ -1,0 +1,62 @@
+{
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".livesport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T05:21:23.465Z",
+        "expiry": 1736400083,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".livesport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEgAAAAAAAAAChQg1NX_H__bW9r8Xr3aft0eY1P99j77sQxBhfJE-4FyLvW_JwXx2EwNA26tqIKmRIEuzZBIQFlHJHURVigSogVryHsYkGcgTNKJ6BkgFMRI2dYCF5vmYtjeQKY5_p9d3fx2D-t_dv83dzzz8FHn3e5PmckcICdQ58tDfn9bRKb-5IOd-78v4v09F_rk2_eTVm_tcvr7B-ufs87_XU-9_cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAgSAEADQBeY6AIADQAMwAygF5koAIC8ykAQAGgAZgBlALz.YAAAAAAAAAAA",
+        "expiry": 1736400083,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".livesport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+06%3A21%3A23+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=039ab25d-8759-4eb7-ae1c-f99275f7c6f5&interactionCount=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0%2CC0003%3A0%2CV2STACK42%3A0&hosts=H16%3A0%2CH19%3A0%2CH21%3A0%2CH171%3A0%2CH25%3A0%2Cxhy%3A0%2CH32%3A0%2CH350%3A0%2CH403%3A0%2CH233%3A0%2CH348%3A0%2CH435%3A0%2Coiu%3A0%2Cifk%3A0%2CH58%3A0%2CH74%3A0%2CH81%3A0%2CH85%3A0%2CH87%3A0%2CH99%3A0%2CH109%3A0%2Ctbv%3A0%2CH294%3A0%2Ccch%3A0%2CH119%3A0%2CH125%3A0%2CH127%3A0%2CH178%3A0%2Csey%3A0%2CH145%3A0%2CH150%3A0%2CH152%3A0%2CH154%3A0%2Cueh%3A0%2Cyxj%3A0%2CH156%3A0%2Csef%3A0%2CH207%3A0&genVendors=V2%3A0%2C",
+        "expiry": 1736400083,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "speedpin": {
+    "visit_id": 1,
+    "name": "speedpin",
+    "domain": ".weather.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4G",
+        "expiry": 1704864819,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "usprivacy": {
+    "visit_id": 1,
+    "name": "usprivacy",
+    "domain": ".weather.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1---",
+        "expiry": 1736399020,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".weather.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=weather.com&si=26311472-90ca-4036-a06e-9a9bb579bc10&ss=lr7bf93z&sl=1&tt=kw&rl=1&ld=l1\"",
+        "expiry": 1705467820,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "consentUUID": {
+    "visit_id": 1,
+    "name": "consentUUID",
+    "domain": "weather.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "54f2ab43-2197-48d4-8071-e06bf875d4a5",
+        "expiry": 1736399020,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wxu-metrics-session": {
+    "visit_id": 1,
+    "name": "wxu-metrics-session",
+    "domain": ".weather.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0c82f63c-4113-491e-b36f-db77cee888b3:1704863020925:1",
+        "expiry": 1704864821,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ci": {
+    "visit_id": 1,
+    "name": "ci",
+    "domain": ".weather.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "TWC-Locale-Group=US&X-Origin-Hint=PROD-AWS-Daybreak-today&TWC-GeoIP-Country=IT&TWC-Privacy=gdpr",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "AKA_A2": {
+    "visit_id": 1,
+    "name": "AKA_A2",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A",
+        "expiry": 1704895545,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "B7909BA3C461488E5D059FB06712BA4A~YAAQB316XPbr1YOMAQAAZJN68xZdXYTcu1kP6JQN/7zcNSz9NUM47LNtcGTT+W6ZGH5xtxn2FyuahLHuyfJP4j1vRYpnPdykyE08ZYW7Uo7noRw3oJ9cf4Cfg9qqRn5CCiGl2RQ/GHmy54PprHlEtJs/glEB0PH9RHf0nGPifbpjvn9DH465LlOl6R8W0FYQ/Oi2Xl4nqf2gy+YF78ZQPOF8REAcbbimItXqYwefRWeMsQBAVfCOEJ5zXLHXvaW4lOXTqxru9LLRMwEWj0QWIRFcLsdO7gY/dhn99Fg7i0V9GLI6JtFWhn4=~4536641~3748929",
+        "expiry": 1704906345,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_dfa": {
+    "visit_id": 1,
+    "name": "s_dfa",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "crbrcrbrcostaprod",
+        "expiry": 1704893746,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.601842694.1704891947",
+        "expiry": 1739451946,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.293381869.1704891947",
+        "expiry": 1704978346,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "countryCode": {
+    "visit_id": 1,
+    "name": "countryCode",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "continentCode": {
+    "visit_id": 1,
+    "name": "continentCode",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EU",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CostaPersistent": {
+    "visit_id": 1,
+    "name": "CostaPersistent",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "New",
+        "expiry": 1739451946,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2F01957E7DD5531F26310BBAAE5646DB~0~YAAQB316XCjs1YOMAQAAxZd68wu6jOUkVojAe3J1kOJqxBtbzCmexw4UV6SiySAxEZeuge29eV59K3LohL8XUAf8CNQwoxapF81CLoth45vlkY6BA+p2lKbHie1Cr1TxSY38VDxbkLk1p5Hm8ByzEavQCjl/2uYEBs24omRpSc5g2EiJhoDP09sCutwfjfmseMRZWjjTMak4420EV0iIOV1i7y/TmxW8aAP23O/SbKkVaKIdFETpDPihdHy7u+vGRsD+71akZ56yr7ISaDgD04rrnwvhdv1/47G0D9rTpBAkT74ysxZfIfWO6x32JW1n7D66pOAK4HyGxmoDOwgMeFpt+HXGUQoe3TOkU341deJ00IljWwdzXmf3JdDyMvUTT2P69C+p3nR6VxUc7xuEjXoP7t5uW4146g0THicH~-1~-1~-1",
+        "expiry": 1736427946,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "initialTrafficSource": {
+    "visit_id": 1,
+    "name": "initialTrafficSource",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "utmcsr=(direct)|utmcmd=(none)|utmccn=(not set)",
+        "expiry": 1739451946,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__utmzzses": {
+    "visit_id": 1,
+    "name": "__utmzzses",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1D2AF007C9E4506871BCC6675862874C~000000000000000000000000000000~YAAQB316XDHs1YOMAQAAPZh68xZRtjcqN5brjsNsTEWdWQl4PfASmzl2avfJ2FUO2GeP08Jsv0whZjqxfLoAPSxp7gOXPytgbZJzgm+Sx8YiwztJEU6vDOxfVxfHj90OrWJ0do6D7wEYnL4OSpRh4rb3YhMdMg/eorBXIl0SK9PxpTGSqyJ8x45LzKnJuRstPfgYSl8JA3ksgFoD8+XsgimPFYR6LJ7hPL87tGC/E7+Mdb5oq7JmiTE5L8kC+rm0ifZtehvmWKud++susFUFwKzo7jFlREMyo7YCCY8tXNGkSanSOKbPs+CKSjnR3/RCTz02oT6ozoC6palqPS93Apcfd1MM2cVaXHBwyHrY0GoOtAyYMRLfS9ORpBNZgAvZpJwQsf/8adPybXZ2DP56uuhEiL+jAl6XNl6arwH3E/HG60fHWhg/zG75ujZxbCyRruMPnt4tJZvs4kFN408HIx4+nk3/LopdZVOLJQJG+P3WGcbDwBm0+EE=",
+        "expiry": 1704899144,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704892846,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALB": {
+    "visit_id": 1,
+    "name": "AWSALB",
+    "domain": "www.costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6HoyXAuYgIXAAbtygXi+/hMgqBPmk+oOZCavXFgHKOUVwZeFF3yMWcA28P3K8vwP9/gGxdeNL/lX2EqH+VoJtCG58orRDCeZgxE2+b+CWTbNy03lwtgW/ceojP/L",
+        "expiry": 1705496748,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "www.costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6HoyXAuYgIXAAbtygXi+/hMgqBPmk+oOZCavXFgHKOUVwZeFF3yMWcA28P3K8vwP9/gGxdeNL/lX2EqH+VoJtCG58orRDCeZgxE2+b+CWTbNy03lwtgW/ceojP/L",
+        "expiry": 1705496748,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OSPESESSID": {
+    "visit_id": 1,
+    "name": "OSPESESSID",
+    "domain": ".www.costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "leq8d8cnr3vn9t0rh8kva36j9n",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "B77547DD75BE96DA2DB8E6385D1E9E5C~YAAQB316XE3t1YOMAQAA+Z568xaGnnnPYjzn0jcwWwmiz+pb6d5ktOIEhwoaknHU7rqX+gVQQoSIMbDAUXtj1znynNaGcZSGTdKvngi5nhKOTydrU+fDMxG6fXY9c5DRf9A3Z+4PX2UAyrhcT/noEgb38FLhxqHTPz+hv3WE8u42cHJpFGBUuQFipdGQZEgJlmYpRd/dA9AzriuE9vZWYpWrWVf+g/hMnu6pOcohQPKFrhsx2lJAt62X/SsGWdrtOt43P7Te~1",
+        "expiry": 1704899146,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=costacrociere.it&si=f435eb09-96ce-4e5e-9836-c080ecc6c30d&ss=lr7sn87t&sl=1&tt=34u&bcn=%2F%2F684dd32c.akstat.io%2F&ld=34w\"",
+        "expiry": 1705496749,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_aeaid": {
+    "visit_id": 1,
+    "name": "_aeaid",
+    "domain": "www.costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb2c4b45-2806-48d7-9833-ca436aa540ba",
+        "expiry": 1736427950,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "aelastsite": {
+    "visit_id": 1,
+    "name": "aelastsite",
+    "domain": "wsv3cdn.audioeye.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ldodp%2FF6r8Gy8BAKOIJna2cjRoQ5tdcFWXa1hDzWBv3khGL0CRC2o898%2FKfv0ont",
+        "expiry": 1739451953,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "aelreadersettings": {
+    "visit_id": 1,
+    "name": "aelreadersettings",
+    "domain": "wsv3cdn.audioeye.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22c_big%22%3A0%2C%22rg%22%3A0%2C%22memph%22%3A0%2C%22contrast_setting%22%3A0%2C%22colorshift_setting%22%3A0%2C%22text_size_setting%22%3A0%2C%22space_setting%22%3A0%2C%22font_setting%22%3A0%2C%22k%22%3A0%2C%22k_disable_default%22%3A0%2C%22hlt%22%3A0%2C%22disable_animations%22%3A0%2C%22display_alt_desc%22%3A0%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "purpose_1": {
+    "visit_id": 1,
+    "name": "purpose_1",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1736427953,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "purpose_3": {
+    "visit_id": 1,
+    "name": "purpose_3",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736427953,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "purpose_4": {
+    "visit_id": 1,
+    "name": "purpose_4",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736427953,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "purpose_5": {
+    "visit_id": 1,
+    "name": "purpose_5",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1736427953,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "adobeujs-optin": {
+    "visit_id": 1,
+    "name": "adobeujs-optin",
+    "domain": ".costacrociere.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22aam%22%3Afalse%2C%22adcloud%22%3Afalse%2C%22aa%22%3Afalse%2C%22campaign%22%3Afalse%2C%22ecid%22%3Afalse%2C%22livefyre%22%3Afalse%2C%22target%22%3Afalse%2C%22mediaaa%22%3Afalse%7D",
+        "expiry": 1739451953,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-43125850": {
+    "visit_id": 1,
+    "name": "_iub_cs-43125850",
+    "domain": ".iubenda.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T13%3A05%3A53.579Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A43125850%2C%22cons%22%3A%7B%22rand%22%3A%22dee815%22%7D%7D",
+        "expiry": 1736427953,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

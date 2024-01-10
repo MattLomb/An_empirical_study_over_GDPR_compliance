@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ilgiunco.net 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,OAID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,SSID_IlGiunco,SV_IlGiunco,SSC_IlGiunco,SN_IlGiunco,_ga_KBXLNHYYVZ,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

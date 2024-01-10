@@ -1,0 +1,122 @@
+{
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "152d64b57c5f83974e6e19b1704849563",
+        "expiry": 1739409563,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_EZZB2TVDSS": {
+    "visit_id": 1,
+    "name": "_ga_EZZB2TVDSS",
+    "domain": ".motorinews24.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704849563.1.0.1704849563.0.0.0",
+        "expiry": 1739409563,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".motorinews24.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1362419036.1704849563",
+        "expiry": 1739409563,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_ZWRNE1T542": {
+    "visit_id": 1,
+    "name": "_ga_ZWRNE1T542",
+    "domain": ".motorinews24.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704849563.1.0.1704849563.0.0.0",
+        "expiry": 1739409563,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".motorinews24.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704849563415.220452880",
+        "expiry": 1712625566,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "FCCDCF": {
+    "visit_id": 1,
+    "name": "FCCDCF",
+    "domain": ".motorinews24.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CP4KqwAP4KqwAEsACCITAiEgAAAAAAAAABCYAAAQagVgABgAYABoAEIAMAAyABsAEQAJYATgBQACoAFoAOQAdwBFAEYAJwAUQAvABhADaAHcAPgAgoBFgEYAJMAUIA1AB4gDzAImASYAnoBgADGgGfAQAAjUBLQCvwFvAL3AYmAxkB0IEGgAAA.YAAAAAAAAAA%22%2C%221~%22%2C%22F6512FD9-CC31-499C-B416-C4AC4134B3E1%22%5D%5D",
+        "expiry": 1738545566,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

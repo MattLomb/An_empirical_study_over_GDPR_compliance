@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: samsung.com 
+NECESSARY COOKIES = TS01ef6e9e,country_region,AKA_A2,country_codes,device_type,__COM_SPEED,cookie_country,s_pv,directCallFlAA,notice_behavior,s_ppvl,s_ppv
+FUNCTIONAL COOKIES = s_fpid,TAsessionID,RT
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

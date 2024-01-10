@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ospedaleniguarda.it 
+NECESSARY COOKIES = ci_session,_pk_id.rypyXDO3Qo.9b18,_pk_ses.rypyXDO3Qo.9b18
+FUNCTIONAL COOKIES = default_csrf_cookie
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

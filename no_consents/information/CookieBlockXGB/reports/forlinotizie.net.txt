@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: forlinotizie.net 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_PCT-forlinotizi,SV_PCT-forlinotizi,SSC_PCT-forlinotizi,SN_PCT-forlinotizi,addtl_consent
+FUNCTIONAL COOKIES = _ga_Z6SSRCWY91,_ga,_ga_D106RQ6MXJ,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

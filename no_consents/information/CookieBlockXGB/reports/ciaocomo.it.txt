@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ciaocomo.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_Ciaocomo,SV_Ciaocomo,SSC_Ciaocomo,SN_Ciaocomo,addtl_consent
+FUNCTIONAL COOKIES = _ga_4JQ8FY74LX,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

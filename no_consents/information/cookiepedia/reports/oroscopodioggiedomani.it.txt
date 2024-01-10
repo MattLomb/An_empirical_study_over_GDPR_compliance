@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: oroscopodioggiedomani.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,UID,_ga,_gid,s_ecid
+ADVERTISING COOKIES = OAGEO,demdex,_gat_UA-122253619-16,AMCVS_1A124673527853290A490D45%40AdobeOrg,AMCV_1A124673527853290A490D45%40AdobeOrg
+UNCLASSIFIED COOKIES = euconsent-v2,addtl_consent,_ga_ERBXEM8Y84,cs,_ga_6C8YZH8X8E,uuid-s,wrvUserID,KCCH
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

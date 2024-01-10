@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: automoto.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = NEWAUTOROUTEID,_pbjs_userid_consent_data,_ga_5JQ1MDK2P4,euconsent-v2,_iub_cs-55207913-granular
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

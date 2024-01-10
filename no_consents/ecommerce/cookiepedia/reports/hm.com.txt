@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: hm.com 
+NECESSARY COOKIES = JSESSIONID,userCookie,bm_sv,ak_bmsc,OptanonConsent,utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = AKA_A2,RT
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = HMCORP_locale,HMCOUNTRY_name,bm_sz,akainst,akavpau_www2_it_it,INGRESSCOOKIE,dep_sid,akamref,_abck,HMCORP_locale_autoassigned,OptanonAlertBoxClosed,dep_exp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

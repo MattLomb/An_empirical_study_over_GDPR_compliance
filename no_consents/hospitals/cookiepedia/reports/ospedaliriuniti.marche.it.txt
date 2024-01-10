@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ospedaliriuniti.marche.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.bm93L2PqxR.44e9,_pk_ses.bm93L2PqxR.44e9
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = dev_aou_data,dev_aou_sid,dev_aou_personali
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

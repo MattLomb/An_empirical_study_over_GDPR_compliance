@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilmiogattoeleggenda.it 
+NECESSARY COOKIES = _gat_gtag_UA_136219424_1,test_cookie,_iub_cs-90080100-granular,_iub_cs-90080100,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_DFBNGV5L89,_ga_WMJPMEZ4BD,_ga,_gid,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

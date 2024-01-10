@@ -1,0 +1,82 @@
+{
+  "b71aa3c3efb92b3cbaff742895507ce1": {
+    "visit_id": 1,
+    "name": "b71aa3c3efb92b3cbaff742895507ce1",
+    "domain": "aslroma4.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ra3etppsvfv2bg7hb6uj9edviu",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.yw3Wa2yqgQ.d4e6": {
+    "visit_id": 1,
+    "name": "_pk_id.yw3Wa2yqgQ.d4e6",
+    "domain": "aslroma4.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c719a4ffda6915df.1704876867.",
+        "expiry": 1738832067,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.yw3Wa2yqgQ.d4e6": {
+    "visit_id": 1,
+    "name": "_pk_ses.yw3Wa2yqgQ.d4e6",
+    "domain": "aslroma4.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704878666,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_iub_cs-57981804": {
+    "visit_id": 1,
+    "name": "_iub_cs-57981804",
+    "domain": ".aslroma4.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T08%3A54%3A28.936Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%222%22%3Afalse%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A57981804%2C%22cons%22%3A%7B%22rand%22%3A%2225c7cc%22%7D%7D",
+        "expiry": 1736412869,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

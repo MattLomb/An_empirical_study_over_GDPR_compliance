@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: mondo-motori.it 
+NECESSARY COOKIES = utag_main,__lxG__consent__v2,__lxG__consent__v2_daisybit,gv,SSID_TRO-mondomotoriit,SV_TRO-mondomotoriit,SSC_TRO-mondomotoriit,SN_TRO-mondomotoriit,SSA,TAPAD,c,tuuid_lu,C,uid
+FUNCTIONAL COOKIES = _ga_K44464XGNW,_ga,_ga_EXK7YBW3W8,OTP,tuuid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = st_ssp,st_uid,cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

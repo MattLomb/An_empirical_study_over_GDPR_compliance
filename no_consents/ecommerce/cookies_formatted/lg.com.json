@@ -1,0 +1,222 @@
+{
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".lg.com",
+    "path": "/it",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T12:32:35.141Z",
+        "expiry": 1736425955,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".lg.com",
+    "path": "/it",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+13%3A32%3A35+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202301.1.0&isIABGlobal=false&hosts=&genVendors=&consentId=ef93379a-a1bb-41a0-9777-b9baeeb450ec&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+        "expiry": 1736425955,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "AKA_A2": {
+    "visit_id": 1,
+    "name": "AKA_A2",
+    "domain": ".lg.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A",
+        "expiry": 1704893549,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "private_content_version": {
+    "visit_id": 1,
+    "name": "private_content_version",
+    "domain": "www.lg.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f2a6dca7f2d368b37182d394267bd014",
+        "expiry": 1739449951,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "LGGP1_CartID": {
+    "visit_id": 1,
+    "name": "LGGP1_CartID",
+    "domain": "www.lg.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "sdUh5adghfNm5M2591tniWePKw5tml95",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IT_LGCOM_ANALYSIS_OF_SITE": {
+    "visit_id": 1,
+    "name": "IT_LGCOM_ANALYSIS_OF_SITE",
+    "domain": ".lg.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "N",
+        "expiry": 1736425951,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IT_LGCOM_IMPROVEMENTS": {
+    "visit_id": 1,
+    "name": "IT_LGCOM_IMPROVEMENTS",
+    "domain": ".lg.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "N",
+        "expiry": 1736425951,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IT_LGCOM_ADVERTISING": {
+    "visit_id": 1,
+    "name": "IT_LGCOM_ADVERTISING",
+    "domain": ".lg.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "N",
+        "expiry": 1736425951,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SCOUTER": {
+    "visit_id": 1,
+    "name": "SCOUTER",
+    "domain": "www.lg.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "z2om0jg3g1v7ua",
+        "expiry": 1739449951,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "affinity": {
+    "visit_id": 1,
+    "name": "affinity",
+    "domain": "www.lg.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"bf35669d1ef38b4e\"",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "hyperchat-eu.inbenta.chat",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "20eBKhkgtJP3gJtG5+7lgUx14O6Td1wMMJ0Jo16TIehZTw3abvGPIAGBWrYZCLwJBtDg+HpKPOI7OW496M2Ki4B4WMh0MOOH/Fgiu0fgaNqjkuPr+FE5EtLSGjix",
+        "expiry": 1705494753,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

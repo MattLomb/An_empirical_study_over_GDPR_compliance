@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: fandom.com 
+NECESSARY COOKIES = sessionId
+FUNCTIONAL COOKIES = _parsely_session,_parsely_visitor
+ANALYTICS COOKIES = optimizelyEndUserId,_ga,_gid
+ADVERTISING COOKIES = _gat_fandomProd,_gat_wikiSampledProd,_gat_wikiUnsampledProd,IMRID
+UNCLASSIFIED COOKIES = Geo,AMP_MKTG_6765a55f49,AMP_6765a55f49,tracking-opt-in-status,tracking-opt-in-version,addtl_consent,euconsent-v2,wikia_beacon_id,pvNumber,pvNumberGlobal,nol_fpid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Analytics Advertising cookies

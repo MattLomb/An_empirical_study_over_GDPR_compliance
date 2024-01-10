@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: trony.it 
+NECESSARY COOKIES = sid
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = optimizelyEndUserId
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = pgid-Trony-B2C-Site,_iub_cs-46558666-granular,euconsent-v2,_iub_cs-46558666
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

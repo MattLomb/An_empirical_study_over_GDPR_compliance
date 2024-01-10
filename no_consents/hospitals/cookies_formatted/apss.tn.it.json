@@ -1,0 +1,42 @@
+{
+  "_pk_id.jg7pYNwqvM.1ad5": {
+    "visit_id": 1,
+    "name": "_pk_id.jg7pYNwqvM.1ad5",
+    "domain": "www.apss.tn.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4621828b766c3b0b.1704876434.",
+        "expiry": 1738831634,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.jg7pYNwqvM.1ad5": {
+    "visit_id": 1,
+    "name": "_pk_ses.jg7pYNwqvM.1ad5",
+    "domain": "www.apss.tn.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704878234,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

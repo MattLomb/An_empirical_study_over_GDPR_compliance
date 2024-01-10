@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: rainews.it 
+NECESSARY COOKIES = wtsid_602039762736393,wteid_602039762736393,rn-weather-prov,ws_jwt,ws_basepath,b_id,wt_nbg_Q3
+FUNCTIONAL COOKIES = bm_sv,ak_bmsc,wt_rla,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

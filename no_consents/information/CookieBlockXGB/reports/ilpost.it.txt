@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilpost.it 
+NECESSARY COOKIES = wtstp_nv,wtstp_nv_s,_ce.irv,cebs,_ce.clock_event,wt_mcp_sid,wt_nbg_Q3,cebsp_,FPID,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = UID,wtstp_rla,IMRID,_ga,_ce.clock_data,_ce.s,FPLC,eupubconsent-v2,OTAdditionalConsentString,_ga_2T31DE0K8K,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

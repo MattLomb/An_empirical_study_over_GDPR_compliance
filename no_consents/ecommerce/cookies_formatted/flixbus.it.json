@@ -1,0 +1,162 @@
+{
+  "ab_bucket": {
+    "visit_id": 1,
+    "name": "ab_bucket",
+    "domain": ".flixbus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736514736,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sp": {
+    "visit_id": 1,
+    "name": "sp",
+    "domain": "www.flixbus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8550af65-fe75-40f5-8d88-a8d6746e6e4d",
+        "expiry": 1736424739,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "affiliate": {
+    "visit_id": 1,
+    "name": "affiliate",
+    "domain": ".flixbus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "(not set),",
+        "expiry": 1704890536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "atbpdid": {
+    "visit_id": 1,
+    "name": "atbpdid",
+    "domain": ".flixbus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6d270848-c0f0-4912-9214-3a13b680035a",
+        "expiry": 1739448737,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_sp_ses.ca26": {
+    "visit_id": 1,
+    "name": "_sp_ses.ca26",
+    "domain": ".flixbus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "*",
+        "expiry": 1704890538,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "atbgdid": {
+    "visit_id": 1,
+    "name": "atbgdid",
+    "domain": ".adtriba.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0e726581-51c5-4f24-95da-5165645ab001",
+        "expiry": 1739448737,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_sp_id.ca26": {
+    "visit_id": 1,
+    "name": "_sp_id.ca26",
+    "domain": ".flixbus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4f4696f9-18f1-43ed-92e1-a7d6a7483d3e.1704888737.1.1704888738.1704888737.06462849-4ba1-424c-b98c-e6b21ff06d7b",
+        "expiry": 1739448738,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_dd_s": {
+    "visit_id": 1,
+    "name": "_dd_s",
+    "domain": ".flixbus.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "rum=0&expire=1704889637040",
+        "expiry": 1704889652,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

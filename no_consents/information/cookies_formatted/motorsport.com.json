@@ -1,0 +1,1002 @@
+{
+  "ms_touch": {
+    "visit_id": 1,
+    "name": "ms_touch",
+    "domain": "www.motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no-touch",
+        "expiry": 1736388632,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "abtestv2": {
+    "visit_id": 1,
+    "name": "abtestv2",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v8.4",
+        "expiry": 1724852632,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_PianoABtestv2": {
+    "visit_id": 1,
+    "name": "_pc_PianoABtestv2",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9",
+        "expiry": 1724852632,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_20ABtestv2": {
+    "visit_id": 1,
+    "name": "_pc_20ABtestv2",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "13",
+        "expiry": 1724852632,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pc_20ABtestn2": {
+    "visit_id": 1,
+    "name": "_pc_20ABtestn2",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9",
+        "expiry": 1724852632,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pageviewSession": {
+    "visit_id": 1,
+    "name": "pageviewSession",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704853832,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions7daysExpires": {
+    "visit_id": 1,
+    "name": "Sessions7daysExpires",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Wed, 17 Jan 2024 02:10:32 GMT",
+        "expiry": 1705457432,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions7days": {
+    "visit_id": 1,
+    "name": "Sessions7days",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1705457432,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions30daysExpires": {
+    "visit_id": 1,
+    "name": "Sessions30daysExpires",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Fri, 09 Feb 2024 02:10:32 GMT",
+        "expiry": 1707444632,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Sessions30days": {
+    "visit_id": 1,
+    "name": "Sessions30days",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707444632,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "adblfree": {
+    "visit_id": 1,
+    "name": "adblfree",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1739412633,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "_cb": {
+    "visit_id": 1,
+    "name": "_cb",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "C7hLR-DcUnUzBHGrZe",
+        "expiry": 1738980633,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_chartbeat2": {
+    "visit_id": 1,
+    "name": "_chartbeat2",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": ".1704852633306.1704852633306.1.C6_BFBD1A_ORCBWONECwT4DIUtT4M.1",
+        "expiry": 1738980633,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cb_svref": {
+    "visit_id": 1,
+    "name": "_cb_svref",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "external",
+        "expiry": 1704854433,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.967643107.1704852633",
+        "expiry": 1704939037,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_dc_gtm_UA-5127509-1": {
+    "visit_id": 1,
+    "name": "_dc_gtm_UA-5127509-1",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704852693,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "VyI%2FGzRr4bX3fwMYykI6VFs8Jjg2OO81%2F4lotAB2tVs3J%2F%2FqTaDDnDCzvqCG6aq0g3Dk6DmJQMJl2rjnVjqMAZB7RQKJpC4EuopFq%2BJaYQyRlIHDKcgjG9uYr%2BKKRw%3D%3D",
+        "expiry": 1704924633,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ucountry": {
+    "visit_id": 1,
+    "name": "ucountry",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": 1707444633,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ustate": {
+    "visit_id": 1,
+    "name": "ustate",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "62",
+        "expiry": 1707444633,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "opt_out": {
+    "visit_id": 1,
+    "name": "opt_out",
+    "domain": ".postrelease.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736388633,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ntvSession": {
+    "visit_id": 1,
+    "name": "ntvSession",
+    "domain": "www.motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"id\":5085900,\"placementID\":1238274,\"lastInteraction\":1704852633753,\"sessionStart\":1704852633753,\"sessionEndDate\":1704927600000,\"experiment\":\"\"}",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.U3ZmMrdTkjbR0QZsRhj40%2B2L1yttVxQ9FCBCExZo0Is%3D.1704852633",
+        "expiry": 1739412638,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704852633777.1539030556",
+        "expiry": 1712628638,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T02:10:37.556Z",
+        "expiry": 1705371137,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEwAAAAAEPgACiQg1NX_D7dbWFD8Xp3aPs0eYwH11ibIsQAAASBA0ABwAOQcJwGwmAwNASgBgACAQAAoVZBAAEEDIFUAUCAaAAEAQGsIACUgAIIICBAgBEQAgBYCAoCAIAgEACIgAAREwQAmBQISErkGEQABgQAlAQwAAAEAAAQQBMACBn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcvr7B-uft87_XU-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQaoT4ACIAFAAXAA4ADwAKgAXAA4AB4AEAAJAAZAA0ABwADwAH4ARAAjgBMACgAFIAKsAWwBdADEAGYANAAbwA_ACEAENAIgAiQBHACWAE0AKMAYAAwwBlADNAGiAOQAe0A_AD9gIOAhABEQCKAEWgI4AjoBJQCUgE7ALEAXMAuoBegDFAGfANeAbQA3ABxADpAHUAP-Ai8BHoCRAErAJ2AUOApEBTYCpQFdgLoAXmAvoBggDBgGQwMmAycBlgDTQGpgNVAawA2gBuYDgAHBAOWAdsA8UB48DyQPKAfFA-QD5QH0gPrgfaB90D9gP3Af2BAECAgEDAIHgQRggmCCgEGAINgQhAhQBCuCFoIXAQzghyCHUEPAQ9Ah-BFMCMAEaQI1gRvAjiBHQCOwEewI-gR_AkIBIgCRQEjYJIAkkBJSCTAJMgSjglQCVIEsIJZglpBLcEuIJdAl2BL6CYAJggTDAmKBMcCZMEzATOAmkBNQCbEE2wTcgm8Cb4E4YJygnMBOkCdcE7QTuCCgEGoAAA.YAAACHwAAAAA",
+        "expiry": 1705371137,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OTAdditionalConsentString": {
+    "visit_id": 1,
+    "name": "OTAdditionalConsentString",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~46.89.108.228.230.320.938.1067.1092.1166.1205.1421.1703.1962.2008.2039.2074.2135.2213.2322.2328.2465.2501.2569.2958.2999.3028.3099.3136.3219.3222.3223.3225.3226.3227.3228.3230.3231.3234.3235.3236.3237.3238.3240.3244.3245.3250.3251.3253.3257.3260.3268.3270.3272.3281.3288.3290.3292.3293.3296.3299.3300.3306.3307.3314.3315.3316.3318.3324.3327.3328.3330.3331.3531.3731.3831.3931.4131.4531.4631.4731.4831.5031.5231.6931.7031.7235.7831.7931.8931.9731.10231.10631.10831.11031.11531.12831.13632.13731.14237.16831",
+        "expiry": 1705371137,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+03%3A10%3A37+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202311.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3e888fb1-9ef4-4c21-b210-373d1af77ed0&interactionCount=1&landingPath=NotLandingPage&groups=C0005%3A0%2CC0002%3A0%2CC0004%3A0%2CC0001%3A1%2CC0003%3A0%2CC0009%3A0%2CNL01%3A0",
+        "expiry": 1705457437,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1129032976.1704852633",
+        "expiry": 1739412637,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_PVMXPYS8TW": {
+    "visit_id": 1,
+    "name": "_ga_PVMXPYS8TW",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704852633.1.0.1704852637.0.0.0",
+        "expiry": 1739412637,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ktcid": {
+    "visit_id": 1,
+    "name": "ktcid",
+    "domain": ".kargo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "25886151-ec5e-0a19-15d0-0cdc0b6d6848",
+        "expiry": 1736388637,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cs": {
+    "visit_id": 1,
+    "name": "cs",
+    "domain": ".gumgum.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1736388637,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "visitor": {
+    "visit_id": 1,
+    "name": "visitor",
+    "domain": ".postrelease.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"\"",
+        "expiry": 1736388638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "status": {
+    "visit_id": 1,
+    "name": "status",
+    "domain": ".postrelease.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1736388638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ver": {
+    "visit_id": 1,
+    "name": "ver",
+    "domain": ".postrelease.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736388638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pctx": {
+    "visit_id": 1,
+    "name": "_pctx",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmATgHYATIL4AOfgAYJAVgAs3DqO4gAvkA",
+        "expiry": 1738980638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pcid": {
+    "visit_id": 1,
+    "name": "_pcid",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22browserId%22%3A%22lr758ql9fk8je186%22%7D",
+        "expiry": 1738980638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "LANG": {
+    "visit_id": 1,
+    "name": "LANG",
+    "domain": ".tinypass.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it_IT",
+        "expiry": 1739412639,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pcus": {
+    "visit_id": 1,
+    "name": "_pcus",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ1c2VyU2VnbWVudHMiOm51bGx9",
+        "expiry": 1738980638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".piano.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "C23Sim1HvVqDdQKWvlWGmBeuHgluu9ZTvp3Z.EMVh1M-1704852638-1-ATtxMV8yNLpxQ73gMO1cIM9p+2LUsTe7/181cojepfktDE8CjOB12XXUaLKQ8LRrBC673PKBbxeEK2AWp4nvdSg=",
+        "expiry": 1704854438,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__tbc": {
+    "visit_id": 1,
+    "name": "__tbc",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bkpex%7DJy6lzGILgSeuxbQuKstDWjKKxti8grEduD-8a06jUhYTE4oU0duL466y8jFLztMy",
+        "expiry": 1739412638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__pat": {
+    "visit_id": 1,
+    "name": "__pat",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-18000000",
+        "expiry": 1707444638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__pvi": {
+    "visit_id": 1,
+    "name": "__pvi",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6InYtbHI3NThxbGZkanA3NjJ5eCIsImRvbWFpbiI6Ii5tb3RvcnNwb3J0LmNvbSIsInRpbWUiOjE3MDQ4NTI2MzgzODh9",
+        "expiry": 1704939038,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "xbc": {
+    "visit_id": 1,
+    "name": "xbc",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7Bkpex%7DhdzR8ZIlPI6VR19u63NoP49h51mFrw108F-OhKG2ahJ2-V1aeHCGDroZb73Mplp3QXBcKcQPLcTeTIpNw8G-Dw",
+        "expiry": 1739412638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cX_P": {
+    "visit_id": 1,
+    "name": "cX_P",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "lr758ql9fk8je186",
+        "expiry": 1738980638,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ch_sid": {
+    "visit_id": 1,
+    "name": "ch_sid",
+    "domain": ".tinypass.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5QC8hA2L6aHPKUR",
+        "expiry": 1704856239,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gckp": {
+    "visit_id": 1,
+    "name": "gckp",
+    "domain": ".cxense.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "353igs8djvefb35bp0zkovfyuq",
+        "expiry": 1736388639,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cX_G": {
+    "visit_id": 1,
+    "name": "cX_G",
+    "domain": ".motorsport.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cx%3A36xvlc1hhvn6z1xpw14jm3mjtp%3A375chjqxeofdp",
+        "expiry": 1738980639,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "LANG_CHANGED": {
+    "visit_id": 1,
+    "name": "LANG_CHANGED",
+    "domain": ".tinypass.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it_IT",
+        "expiry": 1704939039,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": ".tinypass.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5F60C0A39A9FDA0547DAEF6AC42AD05E",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m": {
+    "visit_id": 1,
+    "name": "m",
+    "domain": "m.stripe.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9f3b401c-b35f-4b53-97b1-7db27546af8ae044f4",
+        "expiry": 1739412640,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

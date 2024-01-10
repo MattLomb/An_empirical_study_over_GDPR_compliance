@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: oroscopo.it 
+NECESSARY COOKIES = gtag_ga,_gat_gtag_UA_12430066_9,_iub_cs-26469061-granular,_iub_cs-26469061
+FUNCTIONAL COOKIES = _ga_QWBNQ9T2N2,_ga,_gid,IMRID,av_tcstr2563072,gtag_ga_R5PDW0TTSP
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

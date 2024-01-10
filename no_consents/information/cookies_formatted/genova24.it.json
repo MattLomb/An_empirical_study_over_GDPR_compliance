@@ -1,0 +1,162 @@
+{
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".genova24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1117378197.1704851505",
+        "expiry": 1739411505,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_GJNJ95RZ9E": {
+    "visit_id": 1,
+    "name": "_ga_GJNJ95RZ9E",
+    "domain": ".genova24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704851505.1.0.1704851505.0.0.0",
+        "expiry": 1739411505,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".genova24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704851505316.1405451132",
+        "expiry": 1712627507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".genova24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T01:51:47.816Z",
+        "expiry": 1736387507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".genova24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4Kh9gP4Kh9gAcABBENAiEgAAAAAEPgAAYgg1NX_H__bW9j8Xr3aft0eY1P99j77sQxBhfJE-4FyLvW_JwXx2EwNA26pqIKmRIEu3ZBIQFlHIHURUigaogVryHsYkGcgTNKJ6BkgFMRM2dYCF5vmYtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3epfmckcICdQ58tDfn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcAAAAAAAAAAAAAO9_cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQaoYwACIAFAAXAA4AD4AKAAqABcADgAHgAQAAkgBcAGUANAA1ABwADwAH4ARAAjgBMAChAFIAUwAqwBbAF0AMQAZgA0ABvAD0AH4AQgAhoBEAESAI4ASwAmgBOACjAGAAMOAZQBlgDNAGiANkAcgA54B3AHeAPYAfEA-wD9gH-AgEBBwEIAIiARSAiwCMAEagI4AjoBIgCSgEpAJoATsAn4BQYCoAKiAVcAsQBcwC6wF5AXoAvoBigDPgGiANeAbQA3ABxADjgHSAOoAdsA9oB9gD_gImARfAjwCPYEiASLAlQCVgExQJkAmUBM4CbQE7AKHgUeBSICk4FNAU2Ap8BUMCpAKlAVUAqwBXICuwFhQLEAsUBZQC0QFqQLYAtmBbgFugLgAXIAugBdoC74F5AXmAvoBf4DBAGDAMNAYgAxYBjwDIYGRgZJAyYDJwGVAMsAZmAzkBngDRAGjANNAamA1WBq4GsgNeAbQA2yBtwG3wNzA3UBvgDgAHBAOLAceA5OBywHLgOdAc-A6wB2wDuQHigPHgeSB5QD4oHyAfKA-kB9cD7QPugfsB-4D-wIAgQEAgYBA8CCMEEwQUAgwBBsCEIEKAIVwQtBC4CGcEOQQ6gh4CHoEPwIpgRgAjSBGsCN4EcQI6AR2Aj2BH0CaQE1AJsQTbBNyCbwJvgThCDUAA.YAAACHwAAAAA",
+        "expiry": 1736387507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".genova24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+02%3A51%3A47+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3fe2e11-3397-4f58-ada8-66e8733e200b&interactionCount=1&landingPath=NotLandingPage&groups=C0005%3A0%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0001%3A1%2CV2STACK42%3A0",
+        "expiry": 1736387507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "Intro": {
+    "visit_id": 1,
+    "name": "Intro",
+    "domain": "www.genova24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "si",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_0FKQK669J8": {
+    "visit_id": 1,
+    "name": "_ga_0FKQK669J8",
+    "domain": ".genova24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704851505.1.0.1704851508.0.0.0",
+        "expiry": 1739411508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

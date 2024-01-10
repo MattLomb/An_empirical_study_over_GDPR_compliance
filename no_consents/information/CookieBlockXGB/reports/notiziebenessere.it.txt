@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: notiziebenessere.it 
+NECESSARY COOKIES = _gcl_au,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = at_gd,_ga_EXK7YBW3W8,_ga,_ga_Q3YN8RFJR5
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

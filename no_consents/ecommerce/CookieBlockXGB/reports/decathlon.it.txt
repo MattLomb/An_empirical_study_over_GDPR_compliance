@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: decathlon.it 
+NECESSARY COOKIES = NFS_USER_ID,PLAY_LANG,ACTIVE_USER,__cf_bm,_cfuvid,DKT_SESSION,PLAY_SESSION
+FUNCTIONAL COOKIES = didomi_token
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

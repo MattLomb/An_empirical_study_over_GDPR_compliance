@@ -1,0 +1,162 @@
+{
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".pubtech.ai",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yRjApl8NxGujbEfhp7QqtDn0NvyiBk8IOXaVZbvCL40-1704857012-1-AW/tBISj768ef57ZgtTny292q/Do66UBZEDLhwUROS060aNp8YvIlmOeRWO93nvr4TzAyaNoxOr/3W37udjHeGc=",
+        "expiry": 1704858812,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSID_cavallomagazine": {
+    "visit_id": 1,
+    "name": "SSID_cavallomagazine",
+    "domain": "www.cavallomagazine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1132269504468",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SV_cavallomagazine": {
+    "visit_id": 1,
+    "name": "SV_cavallomagazine",
+    "domain": "www.cavallomagazine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704857013279",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSC_cavallomagazine": {
+    "visit_id": 1,
+    "name": "SSC_cavallomagazine",
+    "domain": "www.cavallomagazine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%G1%Ghttps%3A%2F%2Fcavallomagazine.it%2F%G1704857013000%G%G%G1%G1704857013000%Ghttps%3A%2F%2Fwww.cavallomagazine.it%2F%G",
+        "expiry": 1720409013,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SN_cavallomagazine": {
+    "visit_id": 1,
+    "name": "SN_cavallomagazine",
+    "domain": "www.cavallomagazine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0%G%G1%G1704857013000%G1704857013000%G",
+        "expiry": 1720409013,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a2821371-af67-11ee-91a8-87379d068d67",
+        "expiry": 1738553013,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".cavallomagazine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAFgAGAENAhEgAAAAAELAABCYAABBqhngAIgAUABcADgAPgAoACoAFwAOAAeABAACSAFwAZQA0ADUAHgAPwAiABHACYAFAAKQAVYAtgC6AGIAMwAaAA3gB6AD8AIQAQ0AiACJAEcAJYATQAnABRgDAAGHAMoAywBmgDRAGyAOQAc8A7gDvAHsAPiAfYB-wD_AQCAg4CEAERAIpARYBGACNQEcAR0AkQBJQCUgE0AJ2AT8AoMBUAFRAKuAWIAuYBdYC8gL0AX0AxQBogDXgG0ANwAcQA44B0gDqAHbAPaAfYA_4CJgEXgI9gSIBIoCVAErAJigTIBMoCbQE7AKHgUeBSICk4FNAU2Ap8BUMCpAKlAVUAqwBXICuwFhQLEAsUBZQC1IFsAWzAtwC3QFwALkAXQAu0Bd8C8gLzAX0Av8BggDBgGGgMQAYsAx4BkMDIwMkgZMBk4DKgGWAMzAZyAzwBogDRgGmgNTAarA1cDWQGvANoAbZA24Db4G5gbqA4ABwQDiwHHgOTgcsBy4DnQHPgOsAeKA8eB5IHlAPigfIB8oD6QH1wPtA-6B-wH7gP7AgCBAQCBgEDwIIgQTAgwBBsCEIEK4IWghcBDOCHIIdQQ8BD0CH4EUwIwARrAjeBHECOgEdgI9gR9Aj-BIQCRQEjYJIAklBJgEmYJUAlSBLACWcEtwS4gl0CXYEvoJgAmCBMMCYsEzATOAmoBNiCbYJuQTeBN8CcME5QTmAnSEGoAA.YAAACFgAAAAA",
+        "expiry": 1720409016,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pubtech-cmp-pcstring": {
+    "visit_id": 1,
+    "name": "pubtech-cmp-pcstring",
+    "domain": ".cavallomagazine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4-0X0",
+        "expiry": 1736393016,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

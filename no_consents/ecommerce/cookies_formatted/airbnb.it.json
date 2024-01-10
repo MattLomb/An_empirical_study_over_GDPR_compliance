@@ -1,0 +1,282 @@
+{
+  "bev": {
+    "visit_id": 1,
+    "name": "bev",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704880816_MThlMmM3OWZhMjg5",
+        "expiry": 1739440827,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "everest_cookie": {
+    "visit_id": 1,
+    "name": "everest_cookie",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704880816.ykJ1OdUBC1XHNYZ7_8b8.wRsIQmScJloKnJ1pMABI2UFDKiulkB9zUlex6DLUU1k",
+        "expiry": 1739440817,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D51BA8F779C3AC5DDEFDE30F43EFCB5C~000000000000000000000000000000~YAAQwhTfraTLsu+MAQAAcsPQ8hbS+y7MV/crcY8I5U1K11NKqYpwMN4buHPt45rRwhLCC9v5nZZeI+Cux5LV1DX4/lOt/pzfcCHJl/LiyFwFKiL38bjv/9zXinv7xZv8x6YnwLcZR8ahO5R+jOKsqz9S7Ka/btmKLYkSw7qvZ2sn/xU6NopljtF9mp1u9J391hecLeGQqJQR9/y3TYbMlA8Z0g3BbrE5FoJZheKVncSNFbyCHRlAiKCpasyWOUdsHsM6i+394TiFPuRtEnaO37K7gG8sLN70kWidxXkfZV2O394z9Ri7f1p1KL8+ejxUGR0KsFvgvm02zSyQuV29DBphE2GURfP+i1pNuWijKM7ggcEEXwdgGNZ+HrzK5yiM4ptys53T",
+        "expiry": 1704888016,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "previousTab": {
+    "visit_id": 1,
+    "name": "previousTab",
+    "domain": "www.airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22id%22%3A%2213d7386f-bd67-4754-853f-3af25baadf1c%22%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "jitney_client_session_id": {
+    "visit_id": 1,
+    "name": "jitney_client_session_id",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8a91b4dd-0ab3-47d8-8f69-89464d6bbf5e",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "jitney_client_session_created_at": {
+    "visit_id": 1,
+    "name": "jitney_client_session_created_at",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704880817.74",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "frmfctr": {
+    "visit_id": 1,
+    "name": "frmfctr",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "wide",
+        "expiry": 1739440817,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "jitney_client_session_updated_at": {
+    "visit_id": 1,
+    "name": "jitney_client_session_updated_at",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704880819",
+        "expiry": 1704967218,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cfrmfctr": {
+    "visit_id": 1,
+    "name": "cfrmfctr",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "DESKTOP",
+        "expiry": 1739440819,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": "www.airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0_183345%3A0%2C0_179751%3A0%2C0_183219%3A0%2C0_200003%3A0%2C0_200005%3A0%2C0_179747%3A0%2C0_183241%3A0%2C0_200007%3A0%2C0_210003%3A0%2C0_179754%3A0%2C0_179750%3A0%2C0_179737%3A0%2C0_179744%3A0%2C0_179739%3A0%2C0_179743%3A0%2C0_179749%3A0%2C0_200012%3A0%2C0_200011%3A0%2C0_183217%3A0%2C0_183096%3A0%2C0_179740%3A0%2C0_179752%3A0%2C0_183346%3A0%2C0_183095%3A0",
+        "expiry": 1736416822,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": "www.airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T10%3A00%3A22.182Z",
+        "expiry": 1720602022,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookieConsentId": {
+    "visit_id": 1,
+    "name": "cookieConsentId",
+    "domain": "www.airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2009435045",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_user_attributes": {
+    "visit_id": 1,
+    "name": "_user_attributes",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22device_profiling_session_id%22%3A%221704880816--dbf6bc1013dfb8fef0331911%22%2C%22giftcard_profiling_session_id%22%3A%221704880816--2e7831c68c4c5bc8ebf5e4a8%22%2C%22reservation_profiling_session_id%22%3A%221704880816--46009dc08f176aef31989442%22%2C%22curr%22%3A%22EUR%22%7D",
+        "expiry": 1739440827,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".airbnb.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "BCE8057553955B5F745E15EBB96BBB6B~YAAQohTfrUMDmvKMAQAAQe7Q8hY9vfaSpQ0LSBtv2WmZzC9YgveWZTffXm5ZiaV7RMD//Fy4IixplQzM+Zy4Dv0pTHywOGw+RGPMs66FdrPNZT9AorQJP1bgkCQZVuuNoYgZL4FvzhqKzVq0K7lJ7GfwBdZFFqgqwV1qo2ClkzVScw+QprUcSWga+ja6+wfS/goVw8SmCaKNWC8Dwa+sl5w7+iX/7nrA/110nIl08H643q9DFGLG1qlv6NlTiA0=~1",
+        "expiry": 1704888018,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

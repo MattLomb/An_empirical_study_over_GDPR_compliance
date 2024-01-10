@@ -1,0 +1,402 @@
+{
+  "s": {
+    "visit_id": 1,
+    "name": "s",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CgAD4ACBln7ezZjJiZjNhOTExOGMwYThkODA5ZjllZTgxZmZlZGE0NzJLUai+",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8B124422BBAE598DAFC57FD42059B1C3~000000000000000000000000000000~YAAQFX16XC2J7W+MAQAAJDu/8hYfyCJG2UhX47hnIvtDUOLkgnph4drCpvI8KBop3ncu0fjq1pWr4ki2sLQv/+B5sOwL63Qlmq7IWAW+G1k65LFIga+o7tcqzNjWErrFCrqn84L8rpqox4Dz7kdtQrP68aQG76fF5q/2cWoZIiw3xhjGkLX9XeJnEjdQKjE68lVxyXT/ue1GBO+fYIv2Iaw4xGDxKnM1IAyQsm/iWfvbTN0AdripNAXApVW+0dCdrTeiL41d+DSGebLdGhiZfixDcbn1xCrO8y3KbbdA0U/7ukTL2sGKtxzZEwN4q5lYCRJaJ8FTSqQ5STjYc0CNIB6tzdDJWjucLeG1MxW1xpp3EiDZswi4F33etI4zyRwJOxMS1g==",
+        "expiry": 1704886867,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ebay": {
+    "visit_id": 1,
+    "name": "ebay",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5Ejs%3D1%5Esbf%3D%23000000%5E",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzma": {
+    "visit_id": 1,
+    "name": "__uzma",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5b5bfadc-4bfb-46d3-bdad-e5e911b58636",
+        "expiry": 1720431668,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzmb": {
+    "visit_id": 1,
+    "name": "__uzmb",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704879668",
+        "expiry": 1720431668,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzmc": {
+    "visit_id": 1,
+    "name": "__uzmc",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "558171042487",
+        "expiry": 1720431668,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzmd": {
+    "visit_id": 1,
+    "name": "__uzmd",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704879668",
+        "expiry": 1720431668,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzme": {
+    "visit_id": 1,
+    "name": "__uzme",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5965",
+        "expiry": 1720431668,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzmf": {
+    "visit_id": 1,
+    "name": "__uzmf",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7f60008b33a74e-a2a2-4c00-a71d-255f7480c06d17048796687670-158333dda04cbb6f10",
+        "expiry": 1720431668,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704880569,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6FCEF4B3D2A1359A88980784A96E2F00~YAAQFX16XLOJ7W+MAQAAR0O/8hbUbk2fgoKieDml8F7fEoHylsAT8D/nHjZOMKnRTdlb4SG19ad35ID7tos5p1mi+IksKeh6hew75ECVFFf0qz/N9flbyOENo9r7EADhgkJg8Ki9QdsN9Hl4oqh3ruaZt01rW+3092J78XusZgLr0FXOVLTZGeTGjdq79A5z65uzvGrcXn9UOuUZRbhYIN3Qlp4o5aE2Uo2p8GN2gA/7XyXnGN51wAcTNB0D~1",
+        "expiry": 1704886867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__ssds": {
+    "visit_id": 1,
+    "name": "__ssds",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1720428070,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__ssuzjsr2": {
+    "visit_id": 1,
+    "name": "__ssuzjsr2",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a9be0cd8e",
+        "expiry": 1720428071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzmaj2": {
+    "visit_id": 1,
+    "name": "__uzmaj2",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a18f3b0f-0a82-49e4-90b5-5157c1d7606e",
+        "expiry": 1720428071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzmbj2": {
+    "visit_id": 1,
+    "name": "__uzmbj2",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704879671",
+        "expiry": 1720428071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzmcj2": {
+    "visit_id": 1,
+    "name": "__uzmcj2",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "127201065340",
+        "expiry": 1720428071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__uzmdj2": {
+    "visit_id": 1,
+    "name": "__uzmdj2",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704879671",
+        "expiry": 1720428071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dp1": {
+    "visit_id": 1,
+    "name": "dp1",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "bbl/IT6960cd37^",
+        "expiry": 1739439671,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "nonsession": {
+    "visit_id": 1,
+    "name": "nonsession",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "BAQAAAYxL36hOAAaAADMABWd/mbcwMDEzNADKACBpYM03ZjJiZjNhOTExOGMwYThkODA5ZjllZTgxZmZlZGE0NzIAywABZZ5tPzVCA5RKK3ciJ3qioavM015RMjiPxg**",
+        "expiry": 1739439671,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__deba": {
+    "visit_id": 1,
+    "name": "__deba",
+    "domain": ".ebay.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "iblXi2iJkMf_7kkujUPsPyJyHSeSgQFzOXFlczFPJEAznLeYOcE-duMhDcFkKJzPXR8UW1J2_XMwSXzXGqPFGMtg2NEcXq3gpmxroFoo7ZMrJdhzJ1YcVnkASo5Ji09eAnhChI29OoGIVi8qvNnzpg==",
+        "expiry": 1720431671,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

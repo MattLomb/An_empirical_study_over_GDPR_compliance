@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: leroymerlin.it 
+NECESSARY COOKIES = lmfr-csrf,search_ab_version,piano_switch,pa_privacy,_pctx,OptanonAlertBoxClosed,utag_main,_dd_s
+FUNCTIONAL COOKIES = _pcid,datadome,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

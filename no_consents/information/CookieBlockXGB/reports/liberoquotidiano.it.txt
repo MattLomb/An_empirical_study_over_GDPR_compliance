@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: liberoquotidiano.it 
+NECESSARY COOKIES = wteid_752252631714867,wtsid_752252631714867,__cf_bm,wt_nbg_Q3,pubtech-cmp-pcstring,_pbjs_userid_consent_data,pubtech-unifiedid,_lr_retry_request,_lr_env_src_ats,pbjs-unifiedid,panoramaId_expiry
+FUNCTIONAL COOKIES = UID,_ga_TQZLS6WGF1,_ga,wt_rla,euconsent-v2,_pubCommonId,_pubCommonId_last
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = aniC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

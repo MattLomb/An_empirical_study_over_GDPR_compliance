@@ -1,0 +1,342 @@
+{
+  "wteid_215973748390194": {
+    "visit_id": 1,
+    "name": "wteid_215973748390194",
+    "domain": "italiaonline01.wt-eu02.net",
+    "path": "/215973748390194",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170486362700086373",
+        "expiry": 1720415627,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wtsid_215973748390194": {
+    "visit_id": 1,
+    "name": "wtsid_215973748390194",
+    "domain": "italiaonline01.wt-eu02.net",
+    "path": "/215973748390194",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "italiaonline01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!U1OLXhRDVnB9EX88AP7SORvNY+Kz1LyH/nhixGi6RaAcvyc37L+OURx7wcxLJDf1iJEFnkdF7KywqA==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "evntuid": {
+    "visit_id": 1,
+    "name": "evntuid",
+    "domain": ".evnt.iol.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ZZ4niwoCDU4AAFbL@7UAAAea",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "08cdfb30-af77-11ee-905f-5708c10a9968",
+        "expiry": 1738559627,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_prenotify_rnd": {
+    "visit_id": 1,
+    "name": "_prenotify_rnd",
+    "domain": "www.libero.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "69",
+        "expiry": 1736399627,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_GW1PEM74D0": {
+    "visit_id": 1,
+    "name": "_ga_GW1PEM74D0",
+    "domain": ".libero.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704863628.1.0.1704863628.0.0.0",
+        "expiry": 1739423628,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".libero.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.2088336008.1704863628",
+        "expiry": 1739423628,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "HPtestAB": {
+    "visit_id": 1,
+    "name": "HPtestAB",
+    "domain": ".libero.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "10",
+        "expiry": 1736399628,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".mgid.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8uhXbgFF79nVAkeUZf89uYN7UTs6P.qQ4dkAH8YZcd8-1704863631-1-ASlbBloN3tReUeYLZpbQbXXa2VaV7be8RkAIH3homuM0VLzuF8hav8/JgmWB8Od5aDZqiz8Mm0bCzx6atCOPNSQ=",
+        "expiry": 1704865431,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".libero.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAB7E7CITAiEgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUABgkFsABAAC4AKAAqABwADwAIIAXgBhADIANQAeABEACYAFUAMwAbwA9AB-AEJAIYAiQBHACWAE0AMAAYcAygDLAGyAOeAdwB3wD2APiAfYB-wD_AQAAikBFwEYAI1ASIBJQCUwE_AUGAqACrgFzAL0AYoA0QBtADcAHEgR6BIoCdgFDgKPAUiApsBbAC5AF3gLzAYMAw2BkYGSAMnAZmAzmBq4GsgNvAbmA3UBwQDkwHLgPHAfSBBMCDAEIYIWghcBDmCHoIfgRxgj6CP4EigJIQSYBJkCWAEswJbgS-AmABMwCZwE3AJzATpAncOg4AALgAoACoAHAAQQAuADUAHgARAAmABVgC4ALoAYgAzABvAD0AH6AQwBEgCWAE0AJwAUYAwABhgDKAGiANkAc8A7gDvAHtAPsA_QB_wEUARiAjoCSgEpgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB1AD7AIvgR6BIoCVAEyAJ2AUPAo8CkIFNAU2AqwBYoCyoFsAWyAt0BcAC5AF2gLvAXmAvoBgwDDQGPQMjAyQBk4DKgGWAMzAZyA0QBpoDVYGrgawA28BuoDiwHJgOXAeOA8kB9ID6wH3AP7AgCBBgCFsEOQQ6Ah6BHECO0EfQR_AkUBJACTIEqAJYASzAl0BL4CYAEzAJnATcAm8BOECcwE6YJ2gncQgcAALAAoAC4AGIANQAmABTACqAFwAMQAbwA9ACOAGAAOeAdwB3gD_AIoASkAoMBUQFXALmAYoA2gB1AEegJUAU0AqwBYoCygFogLgAXIAyMBk4DOQGiANVAcAA8cB9ID-wIMAQoAhaBDoCHoEcQJFASQAkyBLoCZwE5gJ3EoG4ACAAFgAUAA5ADAAMQAeABEACYAFUALgAYoBDAESAI4AUYAwABsgDvAH5AVEBVwC5gGKAOoAiYBF8CPQJFAUeApoBYoCygFsALzgZGBkgDJwGcgNYAbeA4AB9IEAQIHgQYAhCBD0COIEigJIASZAl0BL4CZgEzgJuAThAnMBO4pBXAAXABQAFQAOAAggBgAGoAPAAiABMACkAFUAMQAZgA_QCGAIkAUYAwABlADRAGyAOcAd8A_AD9AIsARiAjoCSgEpAKDAVEBVwC5gF5AMUAbQA3AB1AD2gH2ARMAi-BHoEigJ2AUOApCBTQFNgKsAWKAtgBcAC5AF2gLzAX0Aw2BkYGSAMnAZYAzmBrAGsgNvAbqA4IByYDlwHigPHAfSA_sCCYEGAIQgQtAhnBDkEOgI4gR2gj6CP4EigJIQSYBJkCWYEugJfATAAmYBM4CbwE5gJ3FoCIANQBHADAAHcAXoA-wCmgFWAMzAeOA-kCHoEmQJmATcAnMBO4AA",
+        "expiry": 1735967631,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "policy_cookie": {
+    "visit_id": 1,
+    "name": "policy_cookie",
+    "domain": ".libero.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "00001100_11111",
+        "expiry": 1736399631,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-25708360": {
+    "visit_id": 1,
+    "name": "_iub_cs-25708360",
+    "domain": ".libero.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T05%3A13%3A51.112Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A25708360%2C%22cons%22%3A%7B%22rand%22%3A%22d73c67%22%7D%7D",
+        "expiry": 1736399631,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "13B8d657a0548b7ca674ef01704863631",
+        "expiry": 1739423631,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MgidStorage": {
+    "visit_id": 1,
+    "name": "MgidStorage",
+    "domain": "www.libero.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%220%22%3A%7B%22svspr%22%3A%22%22%2C%22svsds%22%3A1%7D%2C%22C1301436%22%3A%7B%22page%22%3A1%2C%22time%22%3A%221704863631898%22%7D%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "aff_ran_url_2760": {
+    "visit_id": 1,
+    "name": "aff_ran_url_2760",
+    "domain": "go.ketchupadv.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7003",
+        "expiry": 1704950032,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pbjs_userid_consent_data": {
+    "visit_id": 1,
+    "name": "_pbjs_userid_consent_data",
+    "domain": "www.libero.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7747520968896184",
+        "expiry": 1707455632,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "session_id": {
+    "visit_id": 1,
+    "name": "session_id",
+    "domain": "multiplayer.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cb1e4166fd6c1eaa64e3233b24c470f8117998cd",
+        "expiry": 1712632252,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

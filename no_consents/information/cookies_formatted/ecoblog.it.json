@@ -1,0 +1,362 @@
+{
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf0e2d8b6000873751bfe06a105075001706d009dc$_sn:1$_se:1$_ss:1$_st:1704850247670$ses_id:1704848447670%3Bexp-session$_pn:1%3Bexp-session",
+        "expiry": 1736384447,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_F947FHX9ZR": {
+    "visit_id": 1,
+    "name": "_ga_F947FHX9ZR",
+    "domain": ".ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704848447.1.0.1704848447.0.0.0",
+        "expiry": 1739408447,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.200045056.1704848448",
+        "expiry": 1739408447,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAAKAyBITAiEgAAAAAEPgABCYAABBqALMNCogD7IkJCLQcIoEAIgrCAigQAAAAkDRAQAmDAp2BgEusJEAIEUAAwQAgABRkACAAASABCIAJACgQAAQCAQAAAAACAQAMDAAOAC0EAgABAdAxTCgAUCwgSMyIhTAhCgSCAlsoEEgKBBXCAIscCKAREwUACAJABWAAACxWAxBICViQQJYQbQAAEACAUUoVCKTowBDAmbLVTiibRlYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAA.YAAAAAAAAAAA",
+        "expiry": 1738544451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "addtl_consent": {
+    "visit_id": 1,
+    "name": "addtl_consent",
+    "domain": ".www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~",
+        "expiry": 1738544451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "SSID_TRO-ecoblogit": {
+    "visit_id": 1,
+    "name": "SSID_TRO-ecoblogit",
+    "domain": "www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "499831849842",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SV_TRO-ecoblogit": {
+    "visit_id": 1,
+    "name": "SV_TRO-ecoblogit",
+    "domain": "www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704848451588",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSC_TRO-ecoblogit": {
+    "visit_id": 1,
+    "name": "SSC_TRO-ecoblogit",
+    "domain": "www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%G1%G%G1704848451000%G%G%G1%G1704848451000%Ghttps%3A%2F%2Fwww.ecoblog.it%2F%G",
+        "expiry": 1720400451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SN_TRO-ecoblogit": {
+    "visit_id": 1,
+    "name": "SN_TRO-ecoblogit",
+    "domain": "www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0%G%G1%G1704848451000%G1704848451000%G",
+        "expiry": 1720400451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSCN_N_TRO-ecoblogit": {
+    "visit_id": 1,
+    "name": "SSCN_N_TRO-ecoblogit",
+    "domain": "www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1720400451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSCN_UG_TRO-ecoblogit": {
+    "visit_id": 1,
+    "name": "SSCN_UG_TRO-ecoblogit",
+    "domain": "www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704848451000,",
+        "expiry": 1720400451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSCN_UW_TRO-ecoblogit": {
+    "visit_id": 1,
+    "name": "SSCN_UW_TRO-ecoblogit",
+    "domain": "www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704848451000,",
+        "expiry": 1720400451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSCN_UM_TRO-ecoblogit": {
+    "visit_id": 1,
+    "name": "SSCN_UM_TRO-ecoblogit",
+    "domain": "www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704848451000,",
+        "expiry": 1720400451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAPAD": {
+    "visit_id": 1,
+    "name": "TAPAD",
+    "domain": "www.ecoblog.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22id%22%3A%2241c0b68e-7b78-40aa-b032-24c2f46c9339%22%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "cProfile": {
+    "visit_id": 1,
+    "name": "cProfile",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AQMZ4cXiPgWEAAAAAAAEAAABjQV8YR8AB2RlZmF1bHQ=",
+        "expiry": 1706144453,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cP": {
+    "visit_id": 1,
+    "name": "cP",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AQQDGeHF4j4FhAAAAAABsZC9",
+        "expiry": 1736384453,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tr": {
+    "visit_id": 1,
+    "name": "tr",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "loCAwICAwA==",
+        "expiry": 1736384453,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cOptout": {
+    "visit_id": 1,
+    "name": "cOptout",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0|yocToken:SdXPAx0WNU1nB0Hdg4pD_U1zYvk",
+        "expiry": 1736384453,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "AWSALB": {
+    "visit_id": 1,
+    "name": "AWSALB",
+    "domain": "analytics.conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "SPdS8lOAQdbHZUpYuNSieqhddXHYjRS9FA2DFW9CHVUIBIdBWWWx08FozPo1LkQWDJ5US1xhymwPL6L0LD+P53KtuAhUULGSL90Uydbwq/9Hq/D8VET0Ers2baYk",
+        "expiry": 1705497325,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AWSALBCORS": {
+    "visit_id": 1,
+    "name": "AWSALBCORS",
+    "domain": "analytics.conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "SPdS8lOAQdbHZUpYuNSieqhddXHYjRS9FA2DFW9CHVUIBIdBWWWx08FozPo1LkQWDJ5US1xhymwPL6L0LD+P53KtuAhUULGSL90Uydbwq/9Hq/D8VET0Ers2baYk",
+        "expiry": 1705497325,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_14_sn_DFFDF0A43FFC40910C32EC196FC4F2D0_perc_100000_ol_0_mul_1_app-3A026aa26fb73f826e_1_rcs-3Acss_0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "visid_incap_2651378": {
+    "visit_id": 1,
+    "name": "visid_incap_2651378",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "jHrucWXPSduognMXL/bNG2yYnmUAAAAAQUIPAAAAAAD90IpDY6e8WchBySN7nDdm",
+        "expiry": 1736356459,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "nlbi_2651378": {
+    "visit_id": 1,
+    "name": "nlbi_2651378",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "SyuLfeF2qQBIzkthZVAq3AAAAADGdHOn3PYw093EqXw1OtkM",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "incap_ses_477_2651378": {
+    "visit_id": 1,
+    "name": "incap_ses_477_2651378",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "sC6GBSPKXjQrjFSk36aeBm2YnmUAAAAA/FJ9wh8UlPOOnm5dlF6MNw==",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "previousPath": {
+    "visit_id": 1,
+    "name": "previousPath",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "https://www.conte.it/",
+        "expiry": 1704896846,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_B6B1B9P16J": {
+    "visit_id": 1,
+    "name": "_ga_B6B1B9P16J",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704892526.1.0.1704892526.0.0.0",
+        "expiry": 1739452526,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1806226138.1704892526",
+        "expiry": 1739452526,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1057760568.1704892527",
+        "expiry": 1712668526,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID2": {
+    "visit_id": 1,
+    "name": "FPID2",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.hqiTbQcICOaLTGwCuoYsRgVsuo%2FmtA9nutWp2yhHBoU%3D.1704892526",
+        "expiry": 1739452526,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPAU": {
+    "visit_id": 1,
+    "name": "FPAU",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1057760568.1704892527",
+        "expiry": 1712668526,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "pcD%2FUwoWDiFq%2B3Gk2cLoB90aYM2PaAhdzLbGHlRX3ftzOaj%2BStcS1%2F7HLVBiqqnmcEdCG7khqZf%2FlM7rQHudQiDYM7v%2Bu5rA4dT7NLp%2Bt1WrPuIRz14lVbEs8L0vPw%3D%3D",
+        "expiry": 1704964526,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704893427,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSessionUser_1974272": {
+    "visit_id": 1,
+    "name": "_hjSessionUser_1974272",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6ImE2YjliZTlhLTRlM2QtNTZiNy05ODk4LTAwZWE0NjdlYjBmMCIsImNyZWF0ZWQiOjE3MDQ4OTI1MjcwNTMsImV4aXN0aW5nIjpmYWxzZX0=",
+        "expiry": 1736428527,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjFirstSeen": {
+    "visit_id": 1,
+    "name": "_hjFirstSeen",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704894327,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjIncludedInSessionSample_1974272": {
+    "visit_id": 1,
+    "name": "_hjIncludedInSessionSample_1974272",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704894327,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSession_1974272": {
+    "visit_id": 1,
+    "name": "_hjSession_1974272",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6ImNkZTNlOThjLWQ5NzEtNDE4NC1hOTg1LTBkMTlhZmVmNTFmZiIsImMiOjE3MDQ4OTI1MjcwNTQsInMiOjAsInIiOjAsInNiIjoxfQ==",
+        "expiry": 1704894327,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjAbsoluteSessionInProgress": {
+    "visit_id": 1,
+    "name": "_hjAbsoluteSessionInProgress",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704894327,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T13:15:29.329Z",
+        "expiry": 1736428529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+14%3A15%3A29+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.31.0&isIABGlobal=false&hosts=&consentId=0d1c0f46-64c9-4ee1-ab9a-4e39e6e7a462&interactionCount=1&landingPath=NotLandingPage&groups=0%3A1%2C4%3A0",
+        "expiry": 1736428529,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "www._km_id-1295f8b8026f1bf94e3d14cae0348c979": {
+    "visit_id": 1,
+    "name": "www._km_id-1295f8b8026f1bf94e3d14cae0348c979",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "kyQ9Cva8bMHU6sjoTmYcAEM6Y1zyEYpS",
+        "expiry": 1707484536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "www._km_user_name-1295f8b8026f1bf94e3d14cae0348c979": {
+    "visit_id": 1,
+    "name": "www._km_user_name-1295f8b8026f1bf94e3d14cae0348c979",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Merry Seadragon",
+        "expiry": 1707484536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "www._km_lead_collection-1295f8b8026f1bf94e3d14cae0348c979": {
+    "visit_id": 1,
+    "name": "www._km_lead_collection-1295f8b8026f1bf94e3d14cae0348c979",
+    "domain": ".conte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "false",
+        "expiry": 1707484536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  }
+}

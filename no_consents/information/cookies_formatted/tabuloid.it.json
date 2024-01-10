@@ -1,0 +1,382 @@
+{
+  "quads_browser_width": {
+    "visit_id": 1,
+    "name": "quads_browser_width",
+    "domain": "www.tabuloid.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1512",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_6CCBVKVRFM": {
+    "visit_id": 1,
+    "name": "_ga_6CCBVKVRFM",
+    "domain": ".tabuloid.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704861669.1.0.1704861669.0.0.0",
+        "expiry": 1739421669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".tabuloid.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1461553843.1704861670",
+        "expiry": 1739421669,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".tabuloid.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1953836600.1704861670",
+        "expiry": 1704948069,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_886456_59": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_886456_59",
+    "domain": ".tabuloid.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704861729,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yabs-sid": {
+    "visit_id": 1,
+    "name": "yabs-sid",
+    "domain": "mc.yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "956157031704861670",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yuidss": {
+    "visit_id": 1,
+    "name": "yuidss",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3831233881704861669",
+        "expiry": 1736397670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ymex": {
+    "visit_id": 1,
+    "name": "ymex",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1707453670.oyu.6877209831704861670#1736397670.yrts.1704861670",
+        "expiry": 1736397670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bh": {
+    "visit_id": 1,
+    "name": "bh",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EkAiR29vZ2xlIENocm9tZSI7dj0iMTE3IiwiIE5vdDtBIEJyYW5kIjt2PSI5OSIsIkNocm9taXVtIjt2PSIxMTciGgUieDg2IiILIjExNy4wLjAuMCIqAj8wOgoiTWFjIE9TIFgiQgkiMTBfMTVfNyJKBCI2NCJSNyJDaHJvbWl1bSI7dj0iMTE3LjAuNTkzOC44OCIsIk5vdDtBPUJyYW5kIjt2PSI4LjAuMC4wIiI=",
+        "expiry": 1736397670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "i": {
+    "visit_id": 1,
+    "name": "i",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "nGf5dVmizmEcrRMC48PXkqNxdKrLAMvV6hTnbSD+TZOPKYyxeVDoB6/vKk6tB5Qh33gQcNgKdM79xlcytB4t2MmAsnE=",
+        "expiry": 1739421670,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yandexuid": {
+    "visit_id": 1,
+    "name": "yandexuid",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3831233881704861669",
+        "expiry": 1736397670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_uid": {
+    "visit_id": 1,
+    "name": "_ym_uid",
+    "domain": ".tabuloid.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704861670906181276",
+        "expiry": 1736397670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_d": {
+    "visit_id": 1,
+    "name": "_ym_d",
+    "domain": ".tabuloid.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704861670",
+        "expiry": 1736397670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sync_cookie_csrf": {
+    "visit_id": 1,
+    "name": "sync_cookie_csrf",
+    "domain": ".mc.yandex.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3840969013fake",
+        "expiry": 1704862270,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_isad": {
+    "visit_id": 1,
+    "name": "_ym_isad",
+    "domain": ".tabuloid.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1704933670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704862570,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yp": {
+    "visit_id": 1,
+    "name": "yp",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704948070.yu.6877209831704861670",
+        "expiry": 1739421670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sync_cookie_ok": {
+    "visit_id": 1,
+    "name": "sync_cookie_ok",
+    "domain": ".mc.yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "synced",
+        "expiry": 1704948070,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_visorc": {
+    "visit_id": 1,
+    "name": "_ym_visorc",
+    "domain": ".tabuloid.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b",
+        "expiry": 1704863470,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

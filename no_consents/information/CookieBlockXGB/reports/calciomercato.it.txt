@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: calciomercato.it 
+NECESSARY COOKIES = _Amc_s,_Amc_t,_ga,__lxG__consent__v2,__lxG__consent__v2_gdaisybit,lotame_domain_check,_pbjs_userid_consent_data,Adkaora_Shareid,_cc_dc,panoramaId_expiry,IDE,__gpi,adk_interstitial,adk_out-of-page-provider,adk_adv_blocking,_au_1d,_au_last_seen_pixels,ad-id,ad-privacy,_au_last_seen_iab_tcf,ar_debug,pid,_gid,bito,bitoIsSecure,HAPLB8G,C,uid,receive-cookie-deprecation,A3,_Amc_b,_sv3_7,SEUNCY,tuuid_lu,um,umeh
+FUNCTIONAL COOKIES = _ga_C2JKXE14LY,UID,__lxG__consent__v2_daisybit,_cc_id,TDID,i,univ_id,id5,TDCPM,anj,uids,amuid2,sd_amuid2,XANDR_PANID,tuuid,_ljtrtb_27,3pi
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __gads,uuid2,khaos,INGRESSCOOKIE,stx_user_id,pd,__uis,zuid,bcookie,li_gc,lidc,audit,csuuid,TapAd_TS,TapAd_DID,cnx_userId,TapAd_3WAY_SYNCS,ljt_reader
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: tuttomercatoweb.com 
+NECESSARY COOKIES = __lxG__consent__v2,__lxG__consent__v2_daisybit,o
+FUNCTIONAL COOKIES = IMRID,_ga,FCNEC,_ga_5QENE0CSQF
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

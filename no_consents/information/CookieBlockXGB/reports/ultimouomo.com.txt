@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ultimouomo.com 
+NECESSARY COOKIES = _gat,gpv_pn,cookie_consent_level,AMCVS_1A124673527853290A490D45%40AdobeOrg,s_cc
+FUNCTIONAL COOKIES = _ga,_gid,demdex,_ga_7NFZPHB9QD,s_ecid,AMCV_1A124673527853290A490D45%40AdobeOrg
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional Advertising cookies

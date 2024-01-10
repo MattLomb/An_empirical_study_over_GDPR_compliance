@@ -1,0 +1,282 @@
+{
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": ".efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "922af811f91ff04aefff16ecd83e93e5",
+        "expiry": 1736424799,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "baqend-speedkit-config": {
+    "visit_id": 1,
+    "name": "baqend-speedkit-config",
+    "domain": "www.efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22group%22%3A%22A%22%2C%22testId%22%3A%2250vs50_2023-11-07%22%7D",
+        "expiry": 1720440797,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "baqend-speedkit-user-id": {
+    "visit_id": 1,
+    "name": "baqend-speedkit-user-id",
+    "domain": "www.efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "TVjQ9VQ5NujGaLW6fNwFN4HSC",
+        "expiry": 1720440797,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "form_key": {
+    "visit_id": 1,
+    "name": "form_key",
+    "domain": ".efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "XfmepXI70HpMcbaM",
+        "expiry": 1736424799,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "mage-banners-cache-storage": {
+    "visit_id": 1,
+    "name": "mage-banners-cache-storage",
+    "domain": "www.efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "mage-cache-storage": {
+    "visit_id": 1,
+    "name": "mage-cache-storage",
+    "domain": "www.efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%7D",
+        "expiry": 1704975197,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "mage-cache-storage-section-invalidation": {
+    "visit_id": 1,
+    "name": "mage-cache-storage-section-invalidation",
+    "domain": "www.efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%7D",
+        "expiry": 1704975197,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "mage-cache-sessid": {
+    "visit_id": 1,
+    "name": "mage-cache-sessid",
+    "domain": "www.efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1736424797,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "mage-messages": {
+    "visit_id": 1,
+    "name": "mage-messages",
+    "domain": "www.efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1736424797,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "recently_compared_product": {
+    "visit_id": 1,
+    "name": "recently_compared_product",
+    "domain": "www.efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%7D",
+        "expiry": 1736424797,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "__cfruid": {
+    "visit_id": 1,
+    "name": "__cfruid",
+    "domain": ".efarmagroupsrl.zendesk.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "330c3f613c8c9c0fac87aca6b1a7b032d46bce53-1704888799",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cfuvid": {
+    "visit_id": 1,
+    "name": "_cfuvid",
+    "domain": ".efarmagroupsrl.zendesk.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "YG354TXUZFNK8kSGAwyNZWIuZuDDBSI8iEAWVj73a2o-1704888799905-0-604800000",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "smcfds": {
+    "visit_id": 1,
+    "name": "smcfds",
+    "domain": ".efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IntcImRcIjoyODAwMCxcInZcIjp7XCJ0XCI6MSxcImFcIjo1fX0i",
+        "expiry": 1704975200,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "www.efarma.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%277xn8Z7OvXE+mVR3XLioP1UkF8YLUB6Nqin1X1JFcq9LKwaFIqVCSMQ==%27%2Cnecessary:true%2Cpreferences:false%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704888801586%2Cregion:%27it%27}",
+        "expiry": 1736511201,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

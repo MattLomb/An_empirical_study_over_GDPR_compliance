@@ -1,0 +1,382 @@
+{
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "38D2014F5ECDE4BB44BFDF9D06938F4C~YAAQpTcWAjeAk6yMAQAAi/NM8xZKVcFfhTyeKQmnmyt2uhvW3hHO4sBcvlIfalUV0dpFH2o55+x+vybqzxaQaNhKIrO3b7/Z49MihB7gp5RmVh2lRPyc2nuPLmUcII9UC9+gT+7jZUmPX1kFati0rb+oK1DvwiIYhGIPcTP9R7jaJk5JQ8IGdQBmMAtYhFObe+FY/f0VYyi8z7HTnDrg8NpbgOTP8ixaKSnQs82JjnbH8xuB68jBpySuB0BflLXv6UNLhRQmHBq9fmAaUCcyph1eKxz9C0SAXGQy8/ceTBE9~3551280~3752756",
+        "expiry": 1704903355,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_mi": {
+    "visit_id": 1,
+    "name": "bm_mi",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "39AF8C0F92F89E5179043CED0D945093~YAAQFn16XIys5O6MAQAAkfVM8xaGQzN1A1sHtVSuu0bpqap3cX2E8yznGEvt5C1g84z/ji862sqiMgUa0EfxNTKnxBDtV+/5PjHE5KN0hRsVJF8HdOu0lE9PV3G90CMpNeRkeP7SxF/Qfp86TvKRjyO9r0I6mmrATm1OKv86ZezaIHYrCBWCFEkBcHNXiAb0jPEymgwZ8T0JxPrnX+ebrSQ9xjpL24rdLRbovy09sniBs5cpXb2z8opEwP3BWj8tjnplYKepl1nZuxGQ88pIkFEKchu4Dw5zuk/f8XByXWqEdSFB/2s7ZtVkAmA=~1",
+        "expiry": 1704896155,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ITXSESSIONID": {
+    "visit_id": 1,
+    "name": "ITXSESSIONID",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7e9864f1151c758bd0ba85b343b3e288",
+        "expiry": 1704890757,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ITXDEVICEID": {
+    "visit_id": 1,
+    "name": "ITXDEVICEID",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "de9476faeeabcb8f1b8ecac1373f4ed2",
+        "expiry": 1736424957,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_itxo11y_ses.01fa": {
+    "visit_id": 1,
+    "name": "_itxo11y_ses.01fa",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "*",
+        "expiry": 1704892559,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "rid": {
+    "visit_id": 1,
+    "name": "rid",
+    "domain": ".www.zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "09464e67-aacd-4d82-ae7f-f2cdb44f2158",
+        "expiry": 1736424957,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TS0122c9b6": {
+    "visit_id": 1,
+    "name": "TS0122c9b6",
+    "domain": ".www.zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01ee75b7fa3a8376ca96aebb13f56005b866e6a9bc85c8ee14528b39ac411752fab30cf54a5579d01a75c0a1bbc827b7b745eb40df",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDROSTA": {
+    "visit_id": 1,
+    "name": "IDROSTA",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a45f1fe78b06:1eabcf16e5bf322d82dfe4dce",
+        "expiry": 1704892557,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cart-was-updated-in-standard": {
+    "visit_id": 1,
+    "name": "cart-was-updated-in-standard",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "73961EA53F20758097367EE0024D2D03~YAAQFn16XJus5O6MAQAAL/pM8xbav/qDeXv3CJ2LL2QcSCOqV5yOlN1TuzoC/d/MHuJzuZ3GK0VsusY1exzZJ+C+k43tjWUWP2dxcwfsq1sMfvitbVCfx9WK/C95yUf4P5D4tfh8+GeBDcwZjmx7fdB2pwH5kj3PFzQj30yvjttnS1yczpMHoy/G6xXa+eCWoBCmvdyvRXF9URuCePpVOykVG9PPQNFyxFlifg/DBzLsDpkjADfsvaZCpyl3oQ==~1",
+        "expiry": 1704896155,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FB54614BD809FA69D19168461EA352AE~000000000000000000000000000000~YAAQFn16XJys5O6MAQAAHvtM8xYmkVtZPjsUEcHv9h5x6nGe68bR1L5pW5qRK254gpzjfTo4WF3gD/FRBUyNxIFYIh4wf8HroecYH+bglsB5VOuMD8Xx61sY4xrcLOWXE7w0R7EEXxVY7Mfi+NkwyWU1cdAvHa+uaOAZpS1iS6qj6sBaTzCfgSXmBABaSUShx+cCnITLrCvuvZPR86DC1TnUwPO0QuRUgSIVZnRGqtZQZAHRhI4tx70XPK0yrFwQ/10O5lhzBxswdEu9w9KByPA0SoGXBztQXOE+t8XVHfGexXoXm6utIC7i463CT+mULIeJ+EEmmpiAJDnkn/90PU7578zW79XH5QVgpVuxNQxhqxK97N77sOUk9mKZAYU3/euEsdUi2ONKHiUSwxCOaSnX+IsKR87xAxSSZO9AKYPARWWENOy9L8859qiJab27SjC1KupQrY4A7YuGOh65sQfbOtMDo3EsjVmNmn46phEopYffsE7Dgj8EaOKUSPouhV1Q7NaB5DZfp2J6snELKK1wH/MI7DpNNyPTsDcnGgBGfpS/K5MId8K7bjApjU6xaxcDq8p8+l+xJsNYZYdi08laoermE1SRJHLTj5Egcm0qz6XeSwkdH9wTFr6svVwII/Iedt7xIw==",
+        "expiry": 1704896155,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lastRskxRun": {
+    "visit_id": 1,
+    "name": "lastRskxRun",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704888957777",
+        "expiry": 1739448957,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rskxRunCookie": {
+    "visit_id": 1,
+    "name": "rskxRunCookie",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739448957,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rCookie": {
+    "visit_id": 1,
+    "name": "rCookie",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "courfbqda68eyie1rfibbvlr7qv70y",
+        "expiry": 1739448958,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D8347571804CD90074D7812E39B258A3~-1~YAAQFn16XKOs5O6MAQAAfP1M8wshwuapJmg3eTZ7c3EzgGTSp7zWS0sx+3/JRJqSQIOuw+iOEizKux/P3/3SEHLL/KIcGh2cHqkInoWisuqaXD0e5i9DK88gReS4kT4RvLaBxHIjyEoxSMklW4On9bmM7hjbjSl0huQXfvYS2SfUIjvEVPDWPPyIwYq/o7xvPMdJ+WfIn3lrf8RH3V6RVHhAfawnxUP+Sl6gV60DQotL7AHruD+xYKsCh8QBlMwoE1tHL75S5Dm/CphiM2a7/zwE5TCa37UlZ1Z1jfA1RH+tp47ki7Z+tpc6pkrq+5Awfe6x1Z0B5HT6J/ISmbh9rYLxC7c+S7QhMeUZJ8kTcGY4fDEN8si3nngjATmQbtevolUomgpy4dM=~-1~-1~-1",
+        "expiry": 1736424958,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_itxo11y_id.01fa": {
+    "visit_id": 1,
+    "name": "_itxo11y_id.01fa",
+    "domain": ".zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "41859d86-0a88-418d-b1fa-71bd483b00ed.1704888957.1.1704888960..cbf6cf26-eb10-4548-8afc-ab78959ea7cc..669ec8aa-73cc-48d1-b9eb-0e05b9f885ff.1704888957170.6",
+        "expiry": 1739448959,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "dd7d5a6c6e7ff7148a9c5345f0513392": {
+    "visit_id": 1,
+    "name": "dd7d5a6c6e7ff7148a9c5345f0513392",
+    "domain": "event-tracker.inditex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fe246fc97f37b4927378b2cbedac556b",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".www.zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T12:16:00.046Z",
+        "expiry": 1720440960,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".www.zara.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Wed+Jan+10+2024+13%3A16%3A00+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dea3d31e-f3cb-40e0-a232-bf2ece7c2110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0",
+        "expiry": 1720440960,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

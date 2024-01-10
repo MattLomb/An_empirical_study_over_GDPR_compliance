@@ -1,0 +1,502 @@
+{
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf0f2e6c0001e5fb853cc9f9c05075001806d009dc$_sn:1$_se:1$_ss:1$_st:1704851299840$ses_id:1704849499840%3Bexp-session$_pn:1%3Bexp-session",
+        "expiry": 1736385499,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_K44464XGNW": {
+    "visit_id": 1,
+    "name": "_ga_K44464XGNW",
+    "domain": ".mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704849499.1.0.1704849499.60.0.0",
+        "expiry": 1739409500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.927223608.1704849501",
+        "expiry": 1739409500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_EXK7YBW3W8": {
+    "visit_id": 1,
+    "name": "_ga_EXK7YBW3W8",
+    "domain": ".mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704849499.1.0.1704849499.60.0.0",
+        "expiry": 1739409500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2",
+    "domain": ".mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%7C1704849507%7C1704844800000%7C34%7C1706577506717%7C0%7C0%7C0%7C1704844800000%7C1%7C17048494997768844%7C0%7C1365",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__lxG__consent__v2_daisybit": {
+    "visit_id": 1,
+    "name": "__lxG__consent__v2_daisybit",
+    "domain": ".mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAA_AEAENAiEgAAAAAAAAAAAAg1NX_H__bX9r8Xr36ft0eY1f99j77sQxBhfJk-4FzLvW_JwX32EzNA26tqYKmRIEu3ZBIQFlHJHURVigaogVrzHsYkGcgTNKJ6BkgFMRc2dYCF5vmYtj-QKY5_p_d3f52T-9_dv83dzzz8Vnv3e5fuclcJCdQ58tDfn_bRKb-5IO9_78v4v09N_rk2_eTVn_tevr7B-uft-7_XV-9_ffcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQaoAABQSADAAEQag0AGAAIg1CIAMAARBqFQAYAAiDUMgAwABEGodABgACINRCADAAEQaiUAGAAIg1FIAMAARBqLQAYAAiDUAA.YAAAAAAAAAAA",
+        "expiry": 1738540800,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "st_ssp": {
+    "visit_id": 1,
+    "name": "st_ssp",
+    "domain": ".seedtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Y291bnRyeV9uYW1lPUl0YWx5JmNvdW50cnlfaXNvMj1JVCZjb3VudHJ5X2lzbzM9SVRBJnJlZ2lvbl9uYW1lPVJvbWUmcmVnaW9uX2lzbzI9Uk0mY2l0eV9uYW1lPVJvbWUmbG9uZ2l0dWRlPTEyLjUxMjYmbGF0aXR1ZGU9NDEuODkwNCZ6aXA9MDAxMTg=",
+        "expiry": 1707441506,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "st_uid": {
+    "visit_id": 1,
+    "name": "st_uid",
+    "domain": ".seedtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "58d8d672-6ca1-4e1b-b222-74fcb2880214",
+        "expiry": 1736385506,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gv": {
+    "visit_id": 1,
+    "name": "gv",
+    "domain": "s.seedtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2243",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSID_TRO-mondomotoriit": {
+    "visit_id": 1,
+    "name": "SSID_TRO-mondomotoriit",
+    "domain": "mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "360148111226",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SV_TRO-mondomotoriit": {
+    "visit_id": 1,
+    "name": "SV_TRO-mondomotoriit",
+    "domain": "mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704849507414",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSC_TRO-mondomotoriit": {
+    "visit_id": 1,
+    "name": "SSC_TRO-mondomotoriit",
+    "domain": "mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%G1%G%G1704849506000%G%G%G1%G1704849506000%Ghttps%3A%2F%2Fmondo-motori.it%2F%G",
+        "expiry": 1720401507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SN_TRO-mondomotoriit": {
+    "visit_id": 1,
+    "name": "SN_TRO-mondomotoriit",
+    "domain": "mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0%G%G1%G1704849506000%G1704849506000%G",
+        "expiry": 1720401507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSA": {
+    "visit_id": 1,
+    "name": "SSA",
+    "domain": "codicebusiness.shinystat.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8cf0f3069275412e8d1e12d5172056b3",
+        "expiry": 1720401507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAPAD": {
+    "visit_id": 1,
+    "name": "TAPAD",
+    "domain": "mondo-motori.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22id%22%3A%22f78d466b-2c8b-47b8-b45f-d6079a48146b%22%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "cProfile": {
+    "visit_id": 1,
+    "name": "cProfile",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AQMZ4eYRwgW+AAAAAAAEAAABjQWMeOEAB2RlZmF1bHQ=",
+        "expiry": 1706145508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cP": {
+    "visit_id": 1,
+    "name": "cP",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AT4DGeHmEcIFvgAAAAABsZDO",
+        "expiry": 1736385508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tr": {
+    "visit_id": 1,
+    "name": "tr",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "loCAwICAwA==",
+        "expiry": 1736385508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cOptout": {
+    "visit_id": 1,
+    "name": "cOptout",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0|yocToken:lp8JYvuBXseaEBM33w2YM8V5dfw",
+        "expiry": 1736385508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OTP": {
+    "visit_id": 1,
+    "name": "OTP",
+    "domain": ".onetag-sys.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "o6wab8rHUNbqkC3K50GWHWmfux5GyZWa0TDE8RBMuzY",
+        "expiry": 1739036208,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid": {
+    "visit_id": 1,
+    "name": "tuuid",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3885d071-8d3c-462b-bbed-ede7419a1351",
+        "expiry": 1736385510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "c": {
+    "visit_id": 1,
+    "name": "c",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704849510",
+        "expiry": 1736385510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid_lu": {
+    "visit_id": 1,
+    "name": "tuuid_lu",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704849510",
+        "expiry": 1736385510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707527910,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7594757571862315483",
+        "expiry": 1710033511,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

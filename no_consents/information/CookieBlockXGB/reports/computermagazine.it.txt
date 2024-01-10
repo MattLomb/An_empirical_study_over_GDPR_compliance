@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: computermagazine.it 
+NECESSARY COOKIES = quads_browser_width,_gat_gtag_UA_66528123_6
+FUNCTIONAL COOKIES = _ga_HQ3JTJDN5Z,UID,_ga,_gid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Functional cookies

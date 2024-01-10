@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: sony.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS,ak_bmsc,bm_sv,utag_main,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = test_cookie
+UNCLASSIFIED COOKIES = bm_sz,ODWSESSIONID,_abck
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies
