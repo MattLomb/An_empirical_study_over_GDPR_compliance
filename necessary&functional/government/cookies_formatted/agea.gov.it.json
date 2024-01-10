@@ -1,0 +1,222 @@
+{
+  "AUTH_SESSION_ID": {
+    "visit_id": 1,
+    "name": "AUTH_SESSION_ID",
+    "domain": "sso.agea.gov.it",
+    "path": "/auth/realms/agea_sso_realm/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1f33d991-a5a7-4f34-955a-1455d171335b.ssoageap02",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AUTH_SESSION_ID_LEGACY": {
+    "visit_id": 1,
+    "name": "AUTH_SESSION_ID_LEGACY",
+    "domain": "sso.agea.gov.it",
+    "path": "/auth/realms/agea_sso_realm/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1f33d991-a5a7-4f34-955a-1455d171335b.ssoageap02",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxVisitor": {
+    "visit_id": 1,
+    "name": "rxVisitor",
+    "domain": ".agea.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704928708336GVFP831F23TTNA2DA2T53ORSO0S3A4RU",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.78qrJl2qQX.937c": {
+    "visit_id": 1,
+    "name": "_pk_id.78qrJl2qQX.937c",
+    "domain": "agea.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c877f525f2aaf120.1704928710.",
+        "expiry": 1738883910,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.78qrJl2qQX.937c": {
+    "visit_id": 1,
+    "name": "_pk_ses.78qrJl2qQX.937c",
+    "domain": "agea.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704930510,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "dtSa": {
+    "visit_id": 1,
+    "name": "dtSa",
+    "domain": ".agea.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxvt": {
+    "visit_id": 1,
+    "name": "rxvt",
+    "domain": ".agea.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704930510482|1704928708337",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtPC": {
+    "visit_id": 1,
+    "name": "dtPC",
+    "domain": ".agea.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3$328710200_258h-vAIMCNFPQAOPKMVFHLMWSDRBDTVGCHDMA-0e0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": ".agea.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_2_sn_FCBD0556A831025F73FABFBF61BAB264_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1_app-3A2360a04e14238eb4_1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "route": {
+    "visit_id": 1,
+    "name": "route",
+    "domain": "www.agea.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704928720.997.55346.597842|ae0c512b215a32858270995b3c298f2b",
+        "expiry": 1705101519,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.agea.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "44DAFB61E91BF539CC10D8A5475128AF",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

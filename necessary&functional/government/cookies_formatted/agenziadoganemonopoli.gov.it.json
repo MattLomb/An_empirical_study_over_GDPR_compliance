@@ -1,0 +1,122 @@
+{
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.adm.gov.it",
+    "path": "/portale",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "enCjKhHQU_wOQQaJjFewlos5mAlLu65GmQ6TYVoF.node6",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "COOKIE_SUPPORT": {
+    "visit_id": 1,
+    "name": "COOKIE_SUPPORT",
+    "domain": "www.adm.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1736463591,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "GUEST_LANGUAGE_ID": {
+    "visit_id": 1,
+    "name": "GUEST_LANGUAGE_ID",
+    "domain": ".adm.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it_IT",
+        "expiry": 1736463591,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "LFR_SESSION_STATE_20159": {
+    "visit_id": 1,
+    "name": "LFR_SESSION_STATE_20159",
+    "domain": "www.adm.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704927592807",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.6.088c": {
+    "visit_id": 1,
+    "name": "_pk_id.6.088c",
+    "domain": ".www.adm.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "07f59683d91393d0.1704927593.",
+        "expiry": 1738882793,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.6.088c": {
+    "visit_id": 1,
+    "name": "_pk_ses.6.088c",
+    "domain": ".www.adm.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704929392,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

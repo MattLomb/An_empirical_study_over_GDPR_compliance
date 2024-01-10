@@ -1,0 +1,42 @@
+{
+  "_pk_id.WR9px4MpXm.91f2": {
+    "visit_id": 1,
+    "name": "_pk_id.WR9px4MpXm.91f2",
+    "domain": "innovazione.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "64c4edefb744aab4.1704929161.",
+        "expiry": 1738884361,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.WR9px4MpXm.91f2": {
+    "visit_id": 1,
+    "name": "_pk_ses.WR9px4MpXm.91f2",
+    "domain": "innovazione.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704930961,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

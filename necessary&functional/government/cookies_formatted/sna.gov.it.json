@@ -1,0 +1,22 @@
+{
+  "fe_typo_user": {
+    "visit_id": 1,
+    "name": "fe_typo_user",
+    "domain": "sna.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "62e6ab3a08081429e98f3599cc1863ee",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

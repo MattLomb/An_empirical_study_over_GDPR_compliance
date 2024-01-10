@@ -1,0 +1,62 @@
+{
+  "YSC": {
+    "visit_id": 1,
+    "name": "YSC",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ZnJZ0I5FnvU",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "VISITOR_INFO1_LIVE": {
+    "visit_id": 1,
+    "name": "VISITOR_INFO1_LIVE",
+    "domain": ".youtube.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Uj8Mpvb6u38",
+        "expiry": 1720480362,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wp-wpml_current_language": {
+    "visit_id": 1,
+    "name": "wp-wpml_current_language",
+    "domain": "www.aics.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

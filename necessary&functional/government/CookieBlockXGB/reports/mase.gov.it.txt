@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: mase.gov.it 
+NECESSARY COOKIES = _pk_id.6.c860,_pk_ses.6.c860,CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

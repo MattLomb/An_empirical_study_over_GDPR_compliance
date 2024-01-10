@@ -1,0 +1,62 @@
+{
+  "cookie-agreed-version": {
+    "visit_id": 1,
+    "name": "cookie-agreed-version",
+    "domain": "www.interno.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.0.0",
+        "expiry": 1713563912,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "cookie-agreed-categories": {
+    "visit_id": 1,
+    "name": "cookie-agreed-categories",
+    "domain": "www.interno.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "[%22mandatory%22]",
+        "expiry": 1713563912,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "cookie-agreed": {
+    "visit_id": 1,
+    "name": "cookie-agreed",
+    "domain": "www.interno.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1713563912,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  }
+}

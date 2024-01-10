@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: pagopa.gov.it 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.5.e7e6,_pk_ses.5.e7e6
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _GRECAPTCHA
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

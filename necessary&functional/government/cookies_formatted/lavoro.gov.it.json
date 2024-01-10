@@ -1,0 +1,42 @@
+{
+  "bot_mgt_id": {
+    "visit_id": 1,
+    "name": "bot_mgt_id",
+    "domain": ".www.lavoro.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MDMAAAIAa48oIgAAAACXL45EgCGfZdmmyGXOmxduNt-Q1ZYXR0J7UxWWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADaleZKKBPAPorE4vfPldX-7dJqJhSGfZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZMXKHMKTct3xNe-ZYWXhcRsjGP",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "waf_mgt_id": {
+    "visit_id": 1,
+    "name": "waf_mgt_id",
+    "domain": ".lavoro.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AAI7gCGfZTsyxwIAAAAAADu0900ylJWpGQ-dO9ehZWYA0trfJD14PubumYIRIMlROw==CiWfZQ==QpNbwkjcbW34tB90aPDNZTrusO8=",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: dati.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.JK23zKQp6X.7fc9,_pk_ses.JK23zKQp6X.7fc9
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,322 @@
+{
+  "NSC_WJQ_xfcqpsu-wjq9_100.245*443": {
+    "visit_id": 1,
+    "name": "NSC_WJQ_xfcqpsu-wjq9_100.245*443",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ffffffffaf187ae845525d5f4f58455e445a4a42378b",
+        "expiry": 1704929790,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.1.16b4": {
+    "visit_id": 1,
+    "name": "_pk_id.1.16b4",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d5ca500f7ffbd866.1704927460.",
+        "expiry": 1738882660,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.1.16b4": {
+    "visit_id": 1,
+    "name": "_pk_ses.1.16b4",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704929260,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_id.BwyqkknqkX.16b4": {
+    "visit_id": 1,
+    "name": "_pk_id.BwyqkknqkX.16b4",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "80b4be55871b25cb.1704927460.",
+        "expiry": 1738882660,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.BwyqkknqkX.16b4": {
+    "visit_id": 1,
+    "name": "_pk_ses.BwyqkknqkX.16b4",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704929260,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "LFR_SESSION_STATE_20159": {
+    "visit_id": 1,
+    "name": "LFR_SESSION_STATE_20159",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704927461082",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-01": {
+    "visit_id": 1,
+    "name": "cookiefascia-01",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-02": {
+    "visit_id": 1,
+    "name": "cookiefascia-02",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-03": {
+    "visit_id": 1,
+    "name": "cookiefascia-03",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-04": {
+    "visit_id": 1,
+    "name": "cookiefascia-04",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-05": {
+    "visit_id": 1,
+    "name": "cookiefascia-05",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-06": {
+    "visit_id": 1,
+    "name": "cookiefascia-06",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-07": {
+    "visit_id": 1,
+    "name": "cookiefascia-07",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-08": {
+    "visit_id": 1,
+    "name": "cookiefascia-08",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-09": {
+    "visit_id": 1,
+    "name": "cookiefascia-09",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiefascia-10": {
+    "visit_id": 1,
+    "name": "cookiefascia-10",
+    "domain": "miur.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

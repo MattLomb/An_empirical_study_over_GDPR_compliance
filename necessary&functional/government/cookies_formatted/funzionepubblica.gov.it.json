@@ -1,0 +1,142 @@
+{
+  "has_js": {
+    "visit_id": 1,
+    "name": "has_js",
+    "domain": "www.funzionepubblica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".funzionepubblica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.3.1860188832.1704928255",
+        "expiry": 1739488254,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".funzionepubblica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.3.812960170.1704928255",
+        "expiry": 1705014654,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat": {
+    "visit_id": 1,
+    "name": "_gat",
+    "domain": ".funzionepubblica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704928314,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.9.8c61": {
+    "visit_id": 1,
+    "name": "_pk_id.9.8c61",
+    "domain": ".www.funzionepubblica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "03886fc1092ef14b.1704928255.",
+        "expiry": 1738883455,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.9.8c61": {
+    "visit_id": 1,
+    "name": "_pk_ses.9.8c61",
+    "domain": ".www.funzionepubblica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704930055,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_8YXCCQSRF0": {
+    "visit_id": 1,
+    "name": "_ga_8YXCCQSRF0",
+    "domain": ".funzionepubblica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.3.1704928255.1.0.1704928255.0.0.0",
+        "expiry": 1739488255,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

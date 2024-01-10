@@ -1,0 +1,42 @@
+{
+  "_pk_id.R9pxNNv0Xm.5984": {
+    "visit_id": 1,
+    "name": "_pk_id.R9pxNNv0Xm.5984",
+    "domain": "padigitale2026.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6e0d96395e5871e8.1704929295.1.1704929295.1704929295.",
+        "expiry": 1738884495,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.R9pxNNv0Xm.5984": {
+    "visit_id": 1,
+    "name": "_pk_ses.R9pxNNv0Xm.5984",
+    "domain": "padigitale2026.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704931095,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

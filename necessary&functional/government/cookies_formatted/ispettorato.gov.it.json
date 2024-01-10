@@ -1,0 +1,42 @@
+{
+  "ARRAffinity": {
+    "visit_id": 1,
+    "name": "ARRAffinity",
+    "domain": ".www.ispettorato.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3caa0c2a2982352a0848e130b5cff367b2665d07f4337d334a3a191fca41f5a8",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ARRAffinitySameSite": {
+    "visit_id": 1,
+    "name": "ARRAffinitySameSite",
+    "domain": ".www.ispettorato.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3caa0c2a2982352a0848e130b5cff367b2665d07f4337d334a3a191fca41f5a8",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

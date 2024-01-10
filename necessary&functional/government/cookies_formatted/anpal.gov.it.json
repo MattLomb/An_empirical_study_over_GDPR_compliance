@@ -1,0 +1,242 @@
+{
+  "anpalPortalePRD": {
+    "visit_id": 1,
+    "name": "anpalPortalePRD",
+    "domain": "www.anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704928028.814.30491.71933|45b713b3caab5c6645bea75335d5ad89",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": ".anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_5_sn_357D95B0690E3D21D09A7442645CC20C_perc_100000_ol_0_mul_1_app-3Ae0514cdb90f03d4f_1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ED30E78338C171AA56A3EF684D757C44.liferaydxp-1-1",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "COOKIE_SUPPORT": {
+    "visit_id": 1,
+    "name": "COOKIE_SUPPORT",
+    "domain": "www.anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1736464028,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "GUEST_LANGUAGE_ID": {
+    "visit_id": 1,
+    "name": "GUEST_LANGUAGE_ID",
+    "domain": "www.anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it_IT",
+        "expiry": 1736464028,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxVisitor": {
+    "visit_id": 1,
+    "name": "rxVisitor",
+    "domain": ".anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704928028666KRK5K94MSUN9GO3TR60K1BSUGB23B7PV",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtSa": {
+    "visit_id": 1,
+    "name": "dtSa",
+    "domain": ".anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.Po0nVjK0wJ.e68f": {
+    "visit_id": 1,
+    "name": "_pk_id.Po0nVjK0wJ.e68f",
+    "domain": "www.anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "faa120d625548d62.1704928030.",
+        "expiry": 1738883230,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.Po0nVjK0wJ.e68f": {
+    "visit_id": 1,
+    "name": "_pk_ses.Po0nVjK0wJ.e68f",
+    "domain": "www.anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704929830,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "LFR_SESSION_STATE_20103": {
+    "visit_id": 1,
+    "name": "LFR_SESSION_STATE_20103",
+    "domain": "www.anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704928030747",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxvt": {
+    "visit_id": 1,
+    "name": "rxvt",
+    "domain": ".anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704929830750|1704928028668",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtPC": {
+    "visit_id": 1,
+    "name": "dtPC",
+    "domain": ".anpal.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5$328028664_906h-vNRFGBTKCJBHPSBCBPOUAPKVHIWPUADMA-0e0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

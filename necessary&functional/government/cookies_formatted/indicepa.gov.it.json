@@ -1,0 +1,62 @@
+{
+  "cookiesession1": {
+    "visit_id": 1,
+    "name": "cookiesession1",
+    "domain": "indicepa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "678A3E263433ED93ED1DB776CC3D35C0",
+        "expiry": 1736463980,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.LgV3jWYpAE.6130": {
+    "visit_id": 1,
+    "name": "_pk_id.LgV3jWYpAE.6130",
+    "domain": "indicepa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eabb8d47477c4965.1704927981.",
+        "expiry": 1738883181,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.LgV3jWYpAE.6130": {
+    "visit_id": 1,
+    "name": "_pk_ses.LgV3jWYpAE.6130",
+    "domain": "indicepa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704929781,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

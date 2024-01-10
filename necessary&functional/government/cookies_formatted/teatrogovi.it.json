@@ -1,0 +1,242 @@
+{
+  "tk_or": {
+    "visit_id": 1,
+    "name": "tk_or",
+    "domain": ".teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%22%22",
+        "expiry": 1739489504,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tk_r3d": {
+    "visit_id": 1,
+    "name": "tk_r3d",
+    "domain": ".teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%22%22",
+        "expiry": 1705188704,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tk_lr": {
+    "visit_id": 1,
+    "name": "tk_lr",
+    "domain": ".teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%22%22",
+        "expiry": 1736465504,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-necessary": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-necessary",
+    "domain": "www.teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yes",
+        "expiry": 1736465504,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-performance": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-performance",
+    "domain": "www.teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736465504,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-analytics": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-analytics",
+    "domain": "www.teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736465504,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-advertisement": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-advertisement",
+    "domain": "www.teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736465504,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-others": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-others",
+    "domain": "www.teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736465504,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ts": {
+    "visit_id": 1,
+    "name": "ts",
+    "domain": ".paypal.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "vreXpYrS%3D1799623905%26vteXpYrS%3D1704931305%26vr%3Df5b7b0e718c0a550284cf540ff7bceef%26vt%3Df5b7b0e718c0a550284cf540ff7bceee%26vtyp%3Dnew",
+        "expiry": 1739489505,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ts_c": {
+    "visit_id": 1,
+    "name": "ts_c",
+    "domain": ".paypal.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "vr%3Df5b7b0e718c0a550284cf540ff7bceef%26vt%3Df5b7b0e718c0a550284cf540ff7bceee",
+        "expiry": 1739489505,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-functional": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-functional",
+    "domain": "www.teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yes",
+        "expiry": 1736465507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieLawInfoConsent": {
+    "visit_id": 1,
+    "name": "CookieLawInfoConsent",
+    "domain": "www.teatrogovi.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJuZWNlc3NhcnkiOnRydWUsImZ1bmN0aW9uYWwiOnRydWUsInBlcmZvcm1hbmNlIjpmYWxzZSwiYW5hbHl0aWNzIjpmYWxzZSwiYWR2ZXJ0aXNlbWVudCI6ZmFsc2UsIm90aGVycyI6ZmFsc2V9",
+        "expiry": 1736465507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

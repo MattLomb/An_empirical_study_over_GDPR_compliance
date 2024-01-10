@@ -1,0 +1,182 @@
+{
+  "SERVERID": {
+    "visit_id": 1,
+    "name": "SERVERID",
+    "domain": "www.affarieuropei.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "webserver-ext2",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ASP.NET_SessionId": {
+    "visit_id": 1,
+    "name": "ASP.NET_SessionId",
+    "domain": "www.affarieuropei.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dlvxhdkzfyllakzq1yuzwjh0",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".affarieuropei.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.3.1984597143.1704929320",
+        "expiry": 1739489320,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".affarieuropei.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.3.2045500764.1704929320",
+        "expiry": 1705015720,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat": {
+    "visit_id": 1,
+    "name": "_gat",
+    "domain": ".affarieuropei.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704929380,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.43.2b5d": {
+    "visit_id": 1,
+    "name": "_pk_id.43.2b5d",
+    "domain": "www.affarieuropei.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5aaf6f718b7335c0.1704929321.",
+        "expiry": 1738884521,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.43.2b5d": {
+    "visit_id": 1,
+    "name": "_pk_ses.43.2b5d",
+    "domain": "www.affarieuropei.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704931120,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_ZCCWWRY00W": {
+    "visit_id": 1,
+    "name": "_ga_ZCCWWRY00W",
+    "domain": ".affarieuropei.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.3.1704929320.1.0.1704929320.0.0.0",
+        "expiry": 1739489320,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cc_d_p_e": {
+    "visit_id": 1,
+    "name": "cc_d_p_e",
+    "domain": ".www.affarieuropei.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"categories\":[\"necessary\"],\"level\":[\"necessary\"],\"revision\":0,\"data\":null,\"rfc_cookie\":false,\"consent_date\":\"2024-01-10T23:28:43.506Z\",\"consent_uuid\":\"ac4b93d1-abee-49a1-8f7d-055ef66b5438\",\"last_consent_update\":\"2024-01-10T23:28:43.506Z\"}",
+        "expiry": 1736465323,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

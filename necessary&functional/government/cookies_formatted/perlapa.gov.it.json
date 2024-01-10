@@ -1,0 +1,62 @@
+{
+  "_d494d": {
+    "visit_id": 1,
+    "name": "_d494d",
+    "domain": "www.perlapa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "http://10.0.12.137:80",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.46.d2d5": {
+    "visit_id": 1,
+    "name": "_pk_id.46.d2d5",
+    "domain": ".perlapa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1a29ccf088297801.1704928324.",
+        "expiry": 1738883524,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.46.d2d5": {
+    "visit_id": 1,
+    "name": "_pk_ses.46.d2d5",
+    "domain": ".perlapa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704930124,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

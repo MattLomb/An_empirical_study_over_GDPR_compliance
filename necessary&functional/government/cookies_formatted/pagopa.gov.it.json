@@ -1,0 +1,102 @@
+{
+  "_GRECAPTCHA": {
+    "visit_id": 1,
+    "name": "_GRECAPTCHA",
+    "domain": "www.recaptcha.net",
+    "path": "/recaptcha",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "09APYnBZVZI66n9cJo0o0Ou6jj_tdTveztbPSZH3yNXTow2BNxBp74N5STQglnEoiTDFyS4DgpxbDNzD6Ol-UdFTs",
+        "expiry": 1720480135,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.5.e7e6": {
+    "visit_id": 1,
+    "name": "_pk_id.5.e7e6",
+    "domain": "www.pagopa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "221fefbd16d8c6e4.1704928133.",
+        "expiry": 1738883333,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.5.e7e6": {
+    "visit_id": 1,
+    "name": "_pk_ses.5.e7e6",
+    "domain": "www.pagopa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704929944,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".www.pagopa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-10T23:08:57.626Z",
+        "expiry": 1720480137,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".www.pagopa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isIABGlobal=false&datestamp=Thu+Jan+11+2024+00%3A08%3A57+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.30.0&hosts=&consentId=ba3c7edd-a003-4704-9dfa-56fd6c7a76f4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0",
+        "expiry": 1720480137,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

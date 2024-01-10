@@ -1,0 +1,142 @@
+{
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.giustizia.it",
+    "path": "/giustizia",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "u2B03JvAJOTyoCs4pbIf_Q4nLMDiDGobf58qecND.stizia-67d9d5b789-55wz2",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "d6a1da9af1d1390df3029fb11809aa19": {
+    "visit_id": 1,
+    "name": "d6a1da9af1d1390df3029fb11809aa19",
+    "domain": "www.giustizia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4b623671797efba9abb1bc4fa1f0f2a6",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookiesession1": {
+    "visit_id": 1,
+    "name": "cookiesession1",
+    "domain": "www.giustizia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "678A3E6523E7C7F1A07F2CD6943DDA69",
+        "expiry": 1736465686,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.DkjpRzjp1y.1271": {
+    "visit_id": 1,
+    "name": "_pk_id.DkjpRzjp1y.1271",
+    "domain": "www.giustizia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "788ed28436acd228.1704929687.",
+        "expiry": 1738884887,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.DkjpRzjp1y.1271": {
+    "visit_id": 1,
+    "name": "_pk_ses.DkjpRzjp1y.1271",
+    "domain": "www.giustizia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704931487,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_id.50.1271": {
+    "visit_id": 1,
+    "name": "_pk_id.50.1271",
+    "domain": "www.giustizia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "45c50adfc9f94cd3.1704929687.",
+        "expiry": 1738884887,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.50.1271": {
+    "visit_id": 1,
+    "name": "_pk_ses.50.1271",
+    "domain": "www.giustizia.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704931487,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_cfuvid": {
+    "visit_id": 1,
+    "name": "_cfuvid",
+    "domain": ".highcharts.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Uj6J6NlkucLdnwA8v9IdSASEvbcjiT7GRRj44oksqOw-1704929544986-0-604800000",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.64.5b56": {
+    "visit_id": 1,
+    "name": "_pk_id.64.5b56",
+    "domain": ".opencoesione.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7718f2b3d2b4aad8.1704929545.",
+        "expiry": 1738884745,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.64.5b56": {
+    "visit_id": 1,
+    "name": "_pk_ses.64.5b56",
+    "domain": ".opencoesione.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704931345,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cc_cookie": {
+    "visit_id": 1,
+    "name": "cc_cookie",
+    "domain": ".opencoesione.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"categories\":[\"necessary\"],\"level\":[\"necessary\"],\"revision\":0,\"data\":null,\"rfc_cookie\":false,\"consent_date\":\"2024-01-10T23:32:27.748Z\",\"consent_uuid\":\"e2d9a4f3-a1ec-4fce-a4c7-0a99457b4520\",\"last_consent_update\":\"2024-01-10T23:32:27.748Z\"}",
+        "expiry": 1720654347,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_pk_id.6.d675": {
+    "visit_id": 1,
+    "name": "_pk_id.6.d675",
+    "domain": "www.dgc.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "42eb384d7291bb0f.1704929111.",
+        "expiry": 1738884311,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.6.d675": {
+    "visit_id": 1,
+    "name": "_pk_ses.6.d675",
+    "domain": "www.dgc.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704930910,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

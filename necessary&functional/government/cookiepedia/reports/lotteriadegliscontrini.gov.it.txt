@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lotteriadegliscontrini.gov.it 
+NECESSARY COOKIES = JSESSIONID
+FUNCTIONAL COOKIES = GUEST_LANGUAGE_ID
+ANALYTICS COOKIES = _pk_id.2.2bcb,_pk_ses.2.2bcb
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = COOKIE_SUPPORT,LFR_SESSION_STATE_20104
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

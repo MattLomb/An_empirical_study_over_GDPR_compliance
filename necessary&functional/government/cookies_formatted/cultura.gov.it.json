@@ -1,0 +1,82 @@
+{
+  "XSRF-TOKEN": {
+    "visit_id": 1,
+    "name": "XSRF-TOKEN",
+    "domain": "cultura.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpdiI6Ilo3czdERTc3SHVud3FYVzNFZTFjbEE9PSIsInZhbHVlIjoiRGRKZDhkYU91MGdKNTM3ZzVOM2R4U0JBWlFcL1NiTTRCczVEQlY0N1Z1eFRFY2ZmZXdMWHJJaWY5R3RwaXFEeXMiLCJtYWMiOiI3MTU0Y2E3NGJmZGFkMzI3N2UyMjViNzU4N2RkNDAwOWY1NzcwMWI2YjdkM2NiYTEzMDljMjM4ZTM0ZjdhNGZkIn0%3D",
+        "expiry": 1704936206,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mibac_session": {
+    "visit_id": 1,
+    "name": "mibac_session",
+    "domain": "cultura.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpdiI6InhaWHVhM0NEWDYxa1J4XC9XRTBvVDNRPT0iLCJ2YWx1ZSI6IlVITTd0Y2ZDVEVreFFPYlJWWWw0VHozVzNkYTFEUXpOMzJTd2tGYUUxd3MybkxjWEkyZnptcXRzTWZiSE1qcG0iLCJtYWMiOiJhMTFlZGQ0ODc5MzkyMzI5OTIxZGNhMDc0MDkwNTIwMmE2YWNmMDJmMDlhNDkzYTBlOGJkODhjODczZDJmZWNkIn0%3D",
+        "expiry": 1704936206,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.geO35RMpon.eb99": {
+    "visit_id": 1,
+    "name": "_pk_id.geO35RMpon.eb99",
+    "domain": "cultura.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "619d2b6c3a568b67.1704929007.",
+        "expiry": 1738884207,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.geO35RMpon.eb99": {
+    "visit_id": 1,
+    "name": "_pk_ses.geO35RMpon.eb99",
+    "domain": "cultura.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704930807,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

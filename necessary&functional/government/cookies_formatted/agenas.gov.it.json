@@ -1,0 +1,82 @@
+{
+  "3a3390f857494a646ba02602066e61bf": {
+    "visit_id": 1,
+    "name": "3a3390f857494a646ba02602066e61bf",
+    "domain": "www.agenas.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "sh8vjo0sv2ht7vsar4du23j139",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cfuvid": {
+    "visit_id": 1,
+    "name": "_cfuvid",
+    "domain": ".highcharts.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "lH0ROlESnWZKyJi_Gs05wxWw31ij1JDOBuD34tqzKQk-1704929476768-0-604800000",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.1e0GkZ206l.42dc": {
+    "visit_id": 1,
+    "name": "_pk_id.1e0GkZ206l.42dc",
+    "domain": "www.agenas.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "44e3fd345b685318.1704929477.",
+        "expiry": 1738884677,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.1e0GkZ206l.42dc": {
+    "visit_id": 1,
+    "name": "_pk_ses.1e0GkZ206l.42dc",
+    "domain": "www.agenas.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704931277,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

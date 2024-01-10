@@ -1,0 +1,102 @@
+{
+  "_pk_id.1.545a": {
+    "visit_id": 1,
+    "name": "_pk_id.1.545a",
+    "domain": "istruzioneveneto.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fafb9b1960388468.1704929451.",
+        "expiry": 1738884651,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.1.545a": {
+    "visit_id": 1,
+    "name": "_pk_ses.1.545a",
+    "domain": "istruzioneveneto.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704931251,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_HD9Y8QES78": {
+    "visit_id": 1,
+    "name": "_ga_HD9Y8QES78",
+    "domain": ".istruzioneveneto.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704929451.1.0.1704929451.0.0.0",
+        "expiry": 1739489451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".istruzioneveneto.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.824088887.1704929452",
+        "expiry": 1739489451,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookie_notice_accepted": {
+    "visit_id": 1,
+    "name": "cookie_notice_accepted",
+    "domain": "istruzioneveneto.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1707521453,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

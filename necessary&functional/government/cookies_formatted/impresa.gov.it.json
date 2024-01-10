@@ -1,0 +1,62 @@
+{
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": "www.impresa.gov.it",
+    "path": "/intro",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "j0tSh1cxgXhExmAWbOmJ6ygoX9o4pC3RmgCmMzW-.pimpjb2",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TS01182bc5": {
+    "visit_id": 1,
+    "name": "TS01182bc5",
+    "domain": "www.impresa.gov.it",
+    "path": "/intro",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01090ee16ee21734b32c85ff90ca835c3e66f6b80479e4440c2258b9a8d9f9e2d36e452ac0707df96f34d659ca7a15b54ef44c2744",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TS0138fb12": {
+    "visit_id": 1,
+    "name": "TS0138fb12",
+    "domain": "www.impresa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01090ee16ee21734b32c85ff90ca835c3e66f6b80479e4440c2258b9a8d9f9e2d36e452ac0707df96f34d659ca7a15b54ef44c2744",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

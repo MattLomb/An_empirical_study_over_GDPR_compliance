@@ -1,0 +1,22 @@
+{
+  "displayCookieConsent": {
+    "visit_id": 1,
+    "name": "displayCookieConsent",
+    "domain": "datagraph.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "y",
+        "expiry": 1736550633,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

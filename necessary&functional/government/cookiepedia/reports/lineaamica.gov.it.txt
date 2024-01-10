@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lineaamica.gov.it 
+NECESSARY COOKIES = ASP.NET_SessionId,ARRAffinity,CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gat_gtag_UA_320690_4
+UNCLASSIFIED COOKIES = ARRAffinitySameSite,sf-prs-ss,sf-prs-lu,_ga_1K3FMS8HRN
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

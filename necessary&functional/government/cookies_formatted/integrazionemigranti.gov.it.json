@@ -1,0 +1,102 @@
+{
+  "dnn_IsMobile": {
+    "visit_id": 1,
+    "name": "dnn_IsMobile",
+    "domain": "integrazionemigranti.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "False",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "language": {
+    "visit_id": 1,
+    "name": "language",
+    "domain": "integrazionemigranti.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it-IT",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  ".ASPXANONYMOUS": {
+    "visit_id": 1,
+    "name": ".ASPXANONYMOUS",
+    "domain": "integrazionemigranti.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "nH3ho2w9wVUs6R5-i1n-fkW2ra7UO0OLhY66wLpjED0DTa7aZW7ee14nj9HYIBrsONi8obxWPpg-IhtcuXpR-BX9tdEBLFAG2opvzcffJ9qDDqXJ0",
+        "expiry": 1710928448,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.aW3g4mlpDR.7f1d": {
+    "visit_id": 1,
+    "name": "_pk_id.aW3g4mlpDR.7f1d",
+    "domain": "integrazionemigranti.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f6b1a6b451f00ae3.1704928450.",
+        "expiry": 1738883650,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.aW3g4mlpDR.7f1d": {
+    "visit_id": 1,
+    "name": "_pk_ses.aW3g4mlpDR.7f1d",
+    "domain": "integrazionemigranti.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704930249,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "ASP.NET_SessionId": {
+    "visit_id": 1,
+    "name": "ASP.NET_SessionId",
+    "domain": "lineaamica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "sfaavspx0ghwa3miq2rhydcj",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ARRAffinity": {
+    "visit_id": 1,
+    "name": "ARRAffinity",
+    "domain": ".lineaamica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4bf3dc9ed7525bb5e97f3d81c14ced8dfaac43b10b51095c3ffb6d10eca34deb",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ARRAffinitySameSite": {
+    "visit_id": 1,
+    "name": "ARRAffinitySameSite",
+    "domain": ".lineaamica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4bf3dc9ed7525bb5e97f3d81c14ced8dfaac43b10b51095c3ffb6d10eca34deb",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sf-prs-ss": {
+    "visit_id": 1,
+    "name": "sf-prs-ss",
+    "domain": "lineaamica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "638405249633180000",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "sf-prs-lu": {
+    "visit_id": 1,
+    "name": "sf-prs-lu",
+    "domain": "lineaamica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "https://lineaamica.gov.it/",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_1K3FMS8HRN": {
+    "visit_id": 1,
+    "name": "_ga_1K3FMS8HRN",
+    "domain": ".lineaamica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704928163.1.0.1704928163.0.0.0",
+        "expiry": 1739488163,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_320690_4": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_320690_4",
+    "domain": ".lineaamica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704928223,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "lineaamica.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%27UBNm2eRo0cTpxxIIJYp22BVDt+bKA1VrQNHlTSgX2NNIe6iRc5eFQQ==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704928167342%2Cregion:%27it%27}",
+        "expiry": 1736550567,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

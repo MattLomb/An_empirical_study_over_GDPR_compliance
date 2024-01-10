@@ -1,0 +1,182 @@
+{
+  "cookiesession1": {
+    "visit_id": 1,
+    "name": "cookiesession1",
+    "domain": "www.salute.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "678B289A9EA7E9996838CD21ACBC74DE",
+        "expiry": 1736463416,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NGMDS_PORTN": {
+    "visit_id": 1,
+    "name": "NGMDS_PORTN",
+    "domain": "www.salute.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ffffffff09b80bdf45525d5f4f58455e445a4a423660",
+        "expiry": 1704927750,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxVisitor": {
+    "visit_id": 1,
+    "name": "rxVisitor",
+    "domain": ".salute.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "17049275295590DI0PPKSVEUGQ0IG4T2LQCFDN12K24GK",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtSa": {
+    "visit_id": 1,
+    "name": "dtSa",
+    "domain": ".salute.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.Gwgp9gg0De.179f": {
+    "visit_id": 1,
+    "name": "_pk_id.Gwgp9gg0De.179f",
+    "domain": "www.salute.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "baf54c0f4314ef70.1704927530.",
+        "expiry": 1738882730,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.Gwgp9gg0De.179f": {
+    "visit_id": 1,
+    "name": "_pk_ses.Gwgp9gg0De.179f",
+    "domain": "www.salute.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704929330,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "rxvt": {
+    "visit_id": 1,
+    "name": "rxvt",
+    "domain": ".salute.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704929331051|1704927529561",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtPC": {
+    "visit_id": 1,
+    "name": "dtPC",
+    "domain": ".salute.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-21$327529557_781h-vGVCCODCIRQMAMORLAKBPNAHUWPRDEMBJ-0e0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": ".salute.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_1_sn_0TK5VP948IFOL2C5RM72E190267JLVTN_perc_100000_ol_0_mul_1_app-3A0a0f6d2d1b1156e7_0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

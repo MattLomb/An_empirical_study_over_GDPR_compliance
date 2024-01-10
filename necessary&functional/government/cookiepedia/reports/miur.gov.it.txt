@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: miur.gov.it 
+NECESSARY COOKIES = NSC_WJQ_xfcqpsu-wjq9_100.245*443
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.1.16b4,_pk_ses.1.16b4,_pk_id.BwyqkknqkX.16b4,_pk_ses.BwyqkknqkX.16b4
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LFR_SESSION_STATE_20159,cookiefascia-01,cookiefascia-02,cookiefascia-03,cookiefascia-04,cookiefascia-05,cookiefascia-06,cookiefascia-07,cookiefascia-08,cookiefascia-09,cookiefascia-10
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

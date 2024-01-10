@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: agenas.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.1e0GkZ206l.42dc,_pk_ses.1e0GkZ206l.42dc
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 3a3390f857494a646ba02602066e61bf,_cfuvid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

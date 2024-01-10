@@ -1,0 +1,122 @@
+{
+  "SERVERID": {
+    "visit_id": 1,
+    "name": "SERVERID",
+    "domain": "informazioneeditoria.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "web1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".informazioneeditoria.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.3.719581965.1704929568",
+        "expiry": 1739489568,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".informazioneeditoria.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.3.683611693.1704929568",
+        "expiry": 1705015968,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat": {
+    "visit_id": 1,
+    "name": "_gat",
+    "domain": ".informazioneeditoria.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704929628,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_012FJBMCBQ": {
+    "visit_id": 1,
+    "name": "_ga_012FJBMCBQ",
+    "domain": ".informazioneeditoria.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.3.1704929568.1.0.1704929568.0.0.0",
+        "expiry": 1739489568,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cc_cookie": {
+    "visit_id": 1,
+    "name": "cc_cookie",
+    "domain": ".informazioneeditoria.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"categories\":[\"necessary\"],\"revision\":0,\"data\":null,\"rfc_cookie\":false,\"consent_date\":\"2024-01-10T23:32:51.014Z\",\"consent_uuid\":\"f4d031d7-8130-4ce9-927d-35c8ec350a7c\",\"last_consent_update\":\"2024-01-10T23:32:51.014Z\"}",
+        "expiry": 1720654371,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_GRECAPTCHA": {
+    "visit_id": 1,
+    "name": "_GRECAPTCHA",
+    "domain": "www.google.com",
+    "path": "/recaptcha",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "09APYnBZWiyA1Y3-Vq4RjkwO-lZsaEK9OpxFvDkH4f3oGGqUpHHCxjdmaG5f6WeeoGjrqAYRJtMtzI-KekLx6TaB4",
+        "expiry": 1720481277,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

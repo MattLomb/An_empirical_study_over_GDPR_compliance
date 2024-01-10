@@ -1,0 +1,42 @@
+{
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "artbonus.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "37107e90837520cc651aaee13cf85ac3",
+        "expiry": 1705534056,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieConsent": {
+    "visit_id": 1,
+    "name": "CookieConsent",
+    "domain": "artbonus.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{stamp:%27id/hCEazRRF3e0P/KREVWQZzPJwAVtRpvu6cMXSwRts8hCYnbBwxKw==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:false%2Cmarketing:false%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1704929260570%2Cregion:%27it%27}",
+        "expiry": 1736551660,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

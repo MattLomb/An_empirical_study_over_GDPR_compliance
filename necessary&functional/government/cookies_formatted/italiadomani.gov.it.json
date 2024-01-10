@@ -1,0 +1,62 @@
+{
+  "": {
+    "visit_id": 1,
+    "name": "",
+    "domain": "www.italiadomani.gov.it",
+    "path": "/content/sogei-ng/it/it",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "HttpOnly",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.42.5443": {
+    "visit_id": 1,
+    "name": "_pk_id.42.5443",
+    "domain": ".italiadomani.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6bee54076c357795.1704929189.",
+        "expiry": 1738884389,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.42.5443": {
+    "visit_id": 1,
+    "name": "_pk_ses.42.5443",
+    "domain": ".italiadomani.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704930989,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

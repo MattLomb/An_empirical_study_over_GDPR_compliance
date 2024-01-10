@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: salute.gov.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = rxVisitor
+ANALYTICS COOKIES = dtSa,_pk_id.Gwgp9gg0De.179f,_pk_ses.Gwgp9gg0De.179f,rxvt,dtPC
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = cookiesession1,NGMDS_PORTN,dtCookie
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,242 @@
+{
+  "cookiesession1": {
+    "visit_id": 1,
+    "name": "cookiesession1",
+    "domain": "portale.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "678A3E5BA61A04D13E488B2C896F59B2",
+        "expiry": 1736465361,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.72.5fd1": {
+    "visit_id": 1,
+    "name": "_pk_id.72.5fd1",
+    "domain": ".www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2579204bb52fb0ec.1704929361.",
+        "expiry": 1738884561,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.72.5fd1": {
+    "visit_id": 1,
+    "name": "_pk_ses.72.5fd1",
+    "domain": ".www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704931160,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-necessary": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-necessary",
+    "domain": "www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yes",
+        "expiry": 1736465360,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-performance": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-performance",
+    "domain": "www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736465360,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-analytics": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-analytics",
+    "domain": "www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736465360,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-advertisement": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-advertisement",
+    "domain": "www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736465360,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-others": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-others",
+    "domain": "www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736465360,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XSRF-TOKEN": {
+    "visit_id": 1,
+    "name": "XSRF-TOKEN",
+    "domain": "portale.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2d9c3c38-864e-4467-af59-50ecba3debc6",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-functional": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-functional",
+    "domain": "www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yes",
+        "expiry": 1736465363,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cli_user_preference": {
+    "visit_id": 1,
+    "name": "cli_user_preference",
+    "domain": "www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it-checkbox-necessary-yes-checkbox-functional-yes-checkbox-performance-no-checkbox-analytics-no-checkbox-advertisement-no-checkbox-others-no",
+        "expiry": 1736465363,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieLawInfoConsent": {
+    "visit_id": 1,
+    "name": "CookieLawInfoConsent",
+    "domain": "www.inpa.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ2ZXIiOiIxIiwibmVjZXNzYXJ5IjoidHJ1ZSIsImZ1bmN0aW9uYWwiOiJ0cnVlIiwicGVyZm9ybWFuY2UiOiJmYWxzZSIsImFuYWx5dGljcyI6ImZhbHNlIiwiYWR2ZXJ0aXNlbWVudCI6ImZhbHNlIiwib3RoZXJzIjoiZmFsc2UifQ==",
+        "expiry": 1736465363,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

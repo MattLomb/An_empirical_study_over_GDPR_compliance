@@ -1,0 +1,42 @@
+{
+  "_pk_id.JK23zKQp6X.7fc9": {
+    "visit_id": 1,
+    "name": "_pk_id.JK23zKQp6X.7fc9",
+    "domain": "dati.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "087be09094d975ce.1704928786.",
+        "expiry": 1738883986,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.JK23zKQp6X.7fc9": {
+    "visit_id": 1,
+    "name": "_pk_ses.JK23zKQp6X.7fc9",
+    "domain": "dati.gov.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704930586,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}
