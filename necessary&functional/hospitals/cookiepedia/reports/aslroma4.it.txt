@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: aslroma4.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.yw3Wa2yqgQ.d4e6,_pk_ses.yw3Wa2yqgQ.d4e6
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = b71aa3c3efb92b3cbaff742895507ce1,_iub_cs-57981804
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

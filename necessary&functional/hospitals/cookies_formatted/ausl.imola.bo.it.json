@@ -1,0 +1,82 @@
+{
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "www.ausl.imola.bo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "pgnc58govcbjk0g8u56fflces3",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "fxs": {
+    "visit_id": 1,
+    "name": "fxs",
+    "domain": "www.ausl.imola.bo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659fb5e60792d1.07146084%3A12952",
+        "expiry": 1736522558,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.VgqPLwZq2a.a110": {
+    "visit_id": 1,
+    "name": "_pk_id.VgqPLwZq2a.a110",
+    "domain": "www.ausl.imola.bo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "382f2c6bb13608cf.1704965607.",
+        "expiry": 1738920807,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.VgqPLwZq2a.a110": {
+    "visit_id": 1,
+    "name": "_pk_ses.VgqPLwZq2a.a110",
+    "domain": "www.ausl.imola.bo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704967407,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

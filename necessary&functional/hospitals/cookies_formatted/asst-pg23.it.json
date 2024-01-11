@@ -1,0 +1,62 @@
+{
+  "_pk_id.Po0noDj3wJ.0ca3": {
+    "visit_id": 1,
+    "name": "_pk_id.Po0noDj3wJ.0ca3",
+    "domain": "asst-pg23.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c57aa2b8084cb700.1704966176.",
+        "expiry": 1738921376,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.Po0noDj3wJ.0ca3": {
+    "visit_id": 1,
+    "name": "_pk_ses.Po0noDj3wJ.0ca3",
+    "domain": "asst-pg23.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704967976,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "cookie-agreed-version": {
+    "visit_id": 1,
+    "name": "cookie-agreed-version",
+    "domain": "asst-pg23.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.0.0",
+        "expiry": 1713602579,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

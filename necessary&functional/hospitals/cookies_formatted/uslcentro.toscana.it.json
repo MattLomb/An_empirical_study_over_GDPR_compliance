@@ -1,0 +1,82 @@
+{
+  "fef078890c89b447f175ccf008b33180": {
+    "visit_id": 1,
+    "name": "fef078890c89b447f175ccf008b33180",
+    "domain": "uslcentro.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "tc249eq11jco0vfb6n7av0uv30",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.K23z6Od36X.3b07": {
+    "visit_id": 1,
+    "name": "_pk_id.K23z6Od36X.3b07",
+    "domain": "uslcentro.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7731cec5021c40d3.1704965662.",
+        "expiry": 1738920862,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.K23z6Od36X.3b07": {
+    "visit_id": 1,
+    "name": "_pk_ses.K23z6Od36X.3b07",
+    "domain": "uslcentro.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704967461,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "displayCookieConsent": {
+    "visit_id": 1,
+    "name": "displayCookieConsent",
+    "domain": "uslcentro.toscana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "y",
+        "expiry": 1736588063,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

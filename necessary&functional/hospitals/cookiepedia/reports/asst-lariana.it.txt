@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: asst-lariana.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.BJ3BKrepX6.3068,_pk_ses.BJ3BKrepX6.3068
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

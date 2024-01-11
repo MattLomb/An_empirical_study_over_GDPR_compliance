@@ -1,0 +1,42 @@
+{
+  "XSRF-TOKEN": {
+    "visit_id": 1,
+    "name": "XSRF-TOKEN",
+    "domain": ".asl.vt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpdiI6IlRSUXBWTGNTYTNZZkhTZUhDWjZpYlE9PSIsInZhbHVlIjoiYmpwYWptc0NQKzdsNVRsanF3VEFhcUlSZUkrbDlvTUEvalY4dnZZcDJscnBjNlNCaEZqSTUweUJzeUZNRTF5K0E2WjlhYStmOUVuWVJqRlJZQURqM1FmbTU0bXV1dUhFWkNZVC9wMzNZcXFmc01VNFBtREd5S2x2TjJhZ08yckUiLCJtYWMiOiJlOTA1ZDc2NTQ1MDk3MTVhMDdlMmNkZTFmNDQ4NTUzM2FhOTA0NWI3Yzc4NzMxNzMwZjExNWMxOGFjYjZiNWU3IiwidGFnIjoiIn0%3D",
+        "expiry": 1704971905,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "asl_viterbo_session": {
+    "visit_id": 1,
+    "name": "asl_viterbo_session",
+    "domain": ".asl.vt.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "zxoJYhREvKXUR6zWCkZGizNu6c64gQklKf7EEUlw",
+        "expiry": 1704971905,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

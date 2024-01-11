@@ -1,0 +1,42 @@
+{
+  "_pk_id.BJ3BKrepX6.3068": {
+    "visit_id": 1,
+    "name": "_pk_id.BJ3BKrepX6.3068",
+    "domain": "www.asst-lariana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "33383a95ed0f0aaa.1704966651.",
+        "expiry": 1738921851,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.BJ3BKrepX6.3068": {
+    "visit_id": 1,
+    "name": "_pk_ses.BJ3BKrepX6.3068",
+    "domain": "www.asst-lariana.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704968450,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

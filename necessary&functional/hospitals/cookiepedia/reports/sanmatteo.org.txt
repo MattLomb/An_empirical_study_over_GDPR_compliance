@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: sanmatteo.org 
+NECESSARY COOKIES = JSESSIONID,CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.kjpRLbE01y.0604,_pk_ses.kjpRLbE01y.0604
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

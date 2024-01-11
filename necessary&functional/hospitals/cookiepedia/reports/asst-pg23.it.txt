@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: asst-pg23.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.Po0noDj3wJ.0ca3,_pk_ses.Po0noDj3wJ.0ca3
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = cookie-agreed-version
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,42 @@
+{
+  "_pk_id.kJ3Zadr0Ly.9e1a": {
+    "visit_id": 1,
+    "name": "_pk_id.kJ3Zadr0Ly.9e1a",
+    "domain": "www.asl8cagliari.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "642dd9a74fbbbdc2.1704966003.",
+        "expiry": 1738921203,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.kJ3Zadr0Ly.9e1a": {
+    "visit_id": 1,
+    "name": "_pk_ses.kJ3Zadr0Ly.9e1a",
+    "domain": "www.asl8cagliari.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704967803,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

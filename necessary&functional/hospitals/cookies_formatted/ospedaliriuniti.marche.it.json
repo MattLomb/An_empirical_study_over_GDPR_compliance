@@ -1,0 +1,102 @@
+{
+  "dev_aou_data": {
+    "visit_id": 1,
+    "name": "dev_aou_data",
+    "domain": ".www.ospedaliriuniti.marche.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "s%3A1%3A%220%22%3B",
+        "expiry": 1736502474,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "dev_aou_sid": {
+    "visit_id": 1,
+    "name": "dev_aou_sid",
+    "domain": ".www.ospedaliriuniti.marche.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dca4b05e02798c091283b03f8338ad6f",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "dev_aou_personali": {
+    "visit_id": 1,
+    "name": "dev_aou_personali",
+    "domain": ".www.ospedaliriuniti.marche.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a%3A1%3A%7Bs%3A11%3A%22profilo_aou%22%3Bs%3A1%3A%221%22%3B%7D",
+        "expiry": 1739526474,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "_pk_id.bm93L2PqxR.44e9": {
+    "visit_id": 1,
+    "name": "_pk_id.bm93L2PqxR.44e9",
+    "domain": "www.ospedaliriuniti.marche.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "248309e8dd451182.1704966476.",
+        "expiry": 1738921676,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.bm93L2PqxR.44e9": {
+    "visit_id": 1,
+    "name": "_pk_ses.bm93L2PqxR.44e9",
+    "domain": "www.ospedaliriuniti.marche.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704968275,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

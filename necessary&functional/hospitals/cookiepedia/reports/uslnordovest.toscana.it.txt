@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: uslnordovest.toscana.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.VQ0Qw6epdY.40b5,_pk_ses.VQ0Qw6epdY.40b5
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = d2015fbda49c4637400f466395e3118d,displayCookieConsent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

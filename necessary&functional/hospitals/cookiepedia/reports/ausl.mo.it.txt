@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ausl.mo.it 
+NECESSARY COOKIES = PHPSESSID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.KW3vxO8qBA.4f64,_pk_ses.KW3vxO8qBA.4f64
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = fxs
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

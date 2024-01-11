@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ospedaliriunitipalermo.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.BEpD1mWqyL.e1df,_pk_ses.BEpD1mWqyL.e1df
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = Path
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: aslroma1.it 
+NECESSARY COOKIES = PHPSESSID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.jLp6y2L3WQ.d623,_pk_ses.jLp6y2L3WQ.d623
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = BNIS_vid,BNIS___utm_is1,BNIS___utm_is2,BNIS___utm_is3,BNIS_x-bni-jas,saw_snackbar
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

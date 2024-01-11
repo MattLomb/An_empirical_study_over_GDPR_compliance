@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: asl-rme.it 
+NECESSARY COOKIES = HstCfa4518068,HstCla4518068,HstCmu4518068,HstPn4518068,HstPt4518068,HstCnv4518068,HstCns4518068
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = cookie_notice_accepted
+ADVERTISING COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

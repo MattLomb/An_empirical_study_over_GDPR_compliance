@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: aslvco.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.XKqJrYnqYR.8fae,_pk_ses.XKqJrYnqYR.8fae
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = cookielawinfo-checkbox-necessary,cookielawinfo-checkbox-analytics,cookielawinfo-checkbox-merketing,cookielawinfo-checkbox-altro
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

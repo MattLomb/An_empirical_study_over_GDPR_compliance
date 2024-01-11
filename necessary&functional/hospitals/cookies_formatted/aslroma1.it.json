@@ -1,0 +1,182 @@
+{
+  "BNIS_vid": {
+    "visit_id": 1,
+    "name": "BNIS_vid",
+    "domain": "www.aslroma1.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eHwpidskpFT8elxzhN9DPBn51E6wT8QtxOxgb4LMS7qrYGjtSebeKw0Sq+z0omoYFOdgaVOczbzYFmJBUaslFbapyoV7ypX3M6aM/x5vC3PQG1k8R1T/19J7i0woyuf0/Ydp3KkLmUKPpn4cB3PebWsQ7S64hGdo9wCMpZSNlL1vSKUZDvFYB6AHzJ2BAVktzH0iOdOHS90f+6XQDMjOS9Bkmao05LHn61j84zP3oJc=",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BNIS___utm_is1": {
+    "visit_id": 1,
+    "name": "BNIS___utm_is1",
+    "domain": "www.aslroma1.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "HhW7O94MyuCD4aQGxYV8/eThT/g99i2TwdwxLMz/8wWUmcJ8ZIkFtoxaVECd1pOUTor2Z9Gkx2g+iBRoGw01gNJ14Nv4Q//lFNEm2t575/l96QcaBmHawA==",
+        "expiry": 1736501081,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BNIS___utm_is2": {
+    "visit_id": 1,
+    "name": "BNIS___utm_is2",
+    "domain": "www.aslroma1.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eR5YFh/EKutatwEor8PfcL7NqRPgaVIP0dmN6ytVQr3ajBPYWzoc91TcXGF5QZ0jb/tufo4ogHI=",
+        "expiry": 1704975881,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BNIS___utm_is3": {
+    "visit_id": 1,
+    "name": "BNIS___utm_is3",
+    "domain": "www.aslroma1.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "OOBCko25v/vQH2vmQOHKZs0ceWi/1afIOCK7qD8g6CdJWp5doBvkbqzsollIjYQNnlddNqxtviYYPgFc86O0XVmC4wE5768Obx4HShD9DiUYh2mcJKwH2g==",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BNIS_x-bni-jas": {
+    "visit_id": 1,
+    "name": "BNIS_x-bni-jas",
+    "domain": "www.aslroma1.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "H4CVfOUEcbAA6NrbQDqC6m191XfRFMxgR/Fba9a5sDdP+fMCZtk6ynLVvV+e0qOXPNwaTQqjfuCxQRwqCQHuJgNLWWl0M7gzb0mP2S9OwS97cXsAcFeOhA==",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "PHPSESSID": {
+    "visit_id": 1,
+    "name": "PHPSESSID",
+    "domain": "www.aslroma1.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e08smq4vkqlcmgk444u7dfhqj3",
+        "expiry": 1704972276,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.jLp6y2L3WQ.d623": {
+    "visit_id": 1,
+    "name": "_pk_id.jLp6y2L3WQ.d623",
+    "domain": "www.aslroma1.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "29babab4e7ac88b8.1704965078.",
+        "expiry": 1738920278,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.jLp6y2L3WQ.d623": {
+    "visit_id": 1,
+    "name": "_pk_ses.jLp6y2L3WQ.d623",
+    "domain": "www.aslroma1.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704966877,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "saw_snackbar": {
+    "visit_id": 1,
+    "name": "saw_snackbar",
+    "domain": "www.aslroma1.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

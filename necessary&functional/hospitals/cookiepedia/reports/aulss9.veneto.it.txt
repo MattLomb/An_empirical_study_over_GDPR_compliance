@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: aulss9.veneto.it 
+NECESSARY COOKIES = JSESSIONID,CFID,CFTOKEN
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.5WpwRbQ3lK.ccef,_pk_ses.5WpwRbQ3lK.ccef
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = 
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

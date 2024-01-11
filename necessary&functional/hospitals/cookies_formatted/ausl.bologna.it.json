@@ -1,0 +1,62 @@
+{
+  "serverid": {
+    "visit_id": 1,
+    "name": "serverid",
+    "domain": "www.ausl.bologna.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "p103|ZZ+1z|ZZ+1z",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BIGipServerextranet2023": {
+    "visit_id": 1,
+    "name": "BIGipServerextranet2023",
+    "domain": "www.ausl.bologna.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!GghF4ITsoFydwNszx58MwqBJRNsXd/KBlsXGuCpoIQW2cyUmChL4Pmv3V0DJc6bBPpoYCiGmGrGdXQ==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TS01afd472": {
+    "visit_id": 1,
+    "name": "TS01afd472",
+    "domain": ".www.ausl.bologna.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01d89a447259d3961cbe032543510e48ccec5c45f058fbd7bfb6a6ea6b523a542a123602c4f631b47752c3dd4daf0d9c2b51006e841bda010a8a7f3725d2c086749b47c784aaf90a8993a1b3c08fee460e0d551648",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

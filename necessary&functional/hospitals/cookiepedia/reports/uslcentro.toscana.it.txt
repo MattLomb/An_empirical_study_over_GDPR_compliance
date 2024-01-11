@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: uslcentro.toscana.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.K23z6Od36X.3b07,_pk_ses.K23z6Od36X.3b07
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = fef078890c89b447f175ccf008b33180,displayCookieConsent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,482 @@
+{
+  "visid_incap_2471768": {
+    "visit_id": 1,
+    "name": "visid_incap_2471768",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "sUutTmZCSai4H7mf4zCWxN23n2UAAAAAQUIPAAAAAAC+GCzNngWNYeLBpnkIMpM6",
+        "expiry": 1736443465,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "incap_ses_9197_2471768": {
+    "visit_id": 1,
+    "name": "incap_ses_9197_2471768",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eDcaI7UCKhtgciHwKVCif923n2UAAAAA8IoqfMpiHug86642Gff/Sw==",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "incap_ses_1575_2471768": {
+    "visit_id": 1,
+    "name": "incap_ses_1575_2471768",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "pijjZeiQSDMjXu9QqobbFdy3n2UAAAAAbd+Zus8J4R2hKKU/0KtBUA==",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-necessary": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-necessary",
+    "domain": "www.humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yes",
+        "expiry": 1736502110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-analytics": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-analytics",
+    "domain": "www.humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "no",
+        "expiry": 1736502110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "___utmvc": {
+    "visit_id": 1,
+    "name": "___utmvc",
+    "domain": "www.humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "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",
+        "expiry": 1704966130,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__kla_id": {
+    "visit_id": 1,
+    "name": "__kla_id",
+    "domain": "www.humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJjaWQiOiJPVGt6WWpWbVpUa3RaV0V4TWkwME16QXdMVGxoWTJJdFlUUXpNemRtTkdGaE56TmgiLCIkcmVmZXJyZXIiOnsidHMiOjE3MDQ5NjYxMTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lmh1bWFuaXRhcy5pdC8ifSwiJGxhc3RfcmVmZXJyZXIiOnsidHMiOjE3MDQ5NjYxMTAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3Lmh1bWFuaXRhcy5pdC8ifX0=",
+        "expiry": 1739526110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "visid_incap_2352612": {
+    "visit_id": 1,
+    "name": "visid_incap_2352612",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "KY1FUFdpSqmDp6YxtvtQqt23n2UAAAAAQUIPAAAAAABJksPgUOsC2s+OdcLTD+8m",
+        "expiry": 1736462584,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "incap_ses_1575_2352612": {
+    "visit_id": 1,
+    "name": "incap_ses_1575_2352612",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "KEO+AqOGBhzkXu9QqobbFd23n2UAAAAAzmvmuh69jfxvxSxpccQuUQ==",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.377791407.1704966110",
+        "expiry": 1712742110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704967010,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.800902311.1704966111",
+        "expiry": 1739526113,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1609708881.1704966111",
+        "expiry": 1705052513,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_UA-169898263-1": {
+    "visit_id": 1,
+    "name": "_gat_UA-169898263-1",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704966170,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_UA-8080307-3": {
+    "visit_id": 1,
+    "name": "_gat_UA-8080307-3",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704966170,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_UA-168209962-3": {
+    "visit_id": 1,
+    "name": "_gat_UA-168209962-3",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704966170,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_UA-168209962-1": {
+    "visit_id": 1,
+    "name": "_gat_UA-168209962-1",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704966170,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704966110906.1121025564",
+        "expiry": 1712742113,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_82CNG99M6T": {
+    "visit_id": 1,
+    "name": "_ga_82CNG99M6T",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704966110.1.0.1704966113.57.0.0",
+        "expiry": 1739526113,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_93VBWTCD7Z": {
+    "visit_id": 1,
+    "name": "_ga_93VBWTCD7Z",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704966110.1.0.1704966113.57.0.0",
+        "expiry": 1739526113,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_BWYJ44G370": {
+    "visit_id": 1,
+    "name": "_ga_BWYJ44G370",
+    "domain": ".humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704966110.1.0.1704966113.57.0.0",
+        "expiry": 1739526113,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cookielawinfo-checkbox-functional": {
+    "visit_id": 1,
+    "name": "cookielawinfo-checkbox-functional",
+    "domain": "www.humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yes",
+        "expiry": 1736502113,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cli_user_preference": {
+    "visit_id": 1,
+    "name": "cli_user_preference",
+    "domain": "www.humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it-checkbox-necessary-yes-checkbox-functional-yes-checkbox-analytics-no",
+        "expiry": 1736502113,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CookieLawInfoConsent": {
+    "visit_id": 1,
+    "name": "CookieLawInfoConsent",
+    "domain": "www.humanitas.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ2ZXIiOiIxIiwibmVjZXNzYXJ5IjoidHJ1ZSIsImZ1bmN0aW9uYWwiOiJ0cnVlIiwiYW5hbHl0aWNzIjoiZmFsc2UifQ==",
+        "expiry": 1736502113,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

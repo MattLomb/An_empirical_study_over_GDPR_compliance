@@ -1,0 +1,82 @@
+{
+  "ssr-caching": {
+    "visit_id": 1,
+    "name": "ssr-caching",
+    "domain": "www.traslochiarundine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cache#desc=miss#varnish=miss_hit#dc#desc=fastly_g",
+        "expiry": 1704965067,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "hs": {
+    "visit_id": 1,
+    "name": "hs",
+    "domain": ".www.traslochiarundine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-1178461775",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "svSession": {
+    "visit_id": 1,
+    "name": "svSession",
+    "domain": ".www.traslochiarundine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "009be9cfb07ee386fcd8c511902df5e891f9b89242501a10e119535e64ee0f9051d26c4af44ac44d7d8546a78426249f1e60994d53964e647acf431e4f798bcdf09e29d2fbdfac23eea4314d3759dfeaefdf8799a6a2f4bf15ffc23140404127f534a3886ac96da9266cfd4db80daed9f65313b97f2fd6299b28a76e1f63454a601e36d6303d56b911cba1b42381e266",
+        "expiry": 1739525047,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XSRF-TOKEN": {
+    "visit_id": 1,
+    "name": "XSRF-TOKEN",
+    "domain": ".www.traslochiarundine.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704965047|X38FOB08fIfQ",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

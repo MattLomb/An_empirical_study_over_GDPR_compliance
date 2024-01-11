@@ -1,0 +1,82 @@
+{
+  "3804d7016abe45bfc7ba8b4f9b1552e8": {
+    "visit_id": 1,
+    "name": "3804d7016abe45bfc7ba8b4f9b1552e8",
+    "domain": "aslvc.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "68b9aacqsubnir2n4qv5uc67if",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "zoom_pagina": {
+    "visit_id": 1,
+    "name": "zoom_pagina",
+    "domain": "aslvc.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1705051230,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.kJ3ZMnO0Ly.a9f4": {
+    "visit_id": 1,
+    "name": "_pk_id.kJ3ZMnO0Ly.a9f4",
+    "domain": "aslvc.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5ff4f9c671cff923.1704964831.",
+        "expiry": 1738920031,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.kJ3ZMnO0Ly.a9f4": {
+    "visit_id": 1,
+    "name": "_pk_ses.kJ3ZMnO0Ly.a9f4",
+    "domain": "aslvc.piemonte.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704966631,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}
