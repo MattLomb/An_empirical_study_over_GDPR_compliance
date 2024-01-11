@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: centrometeoitaliano.it 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _fbp,IMRID
+UNCLASSIFIED COOKIES = prism_649509315,_ga_85GDBLG6MC,_iub_cs-29235925,_iub_cs-29235925-granular,euconsent-v2,SSID_TRO-centrometeoitalianoi,SV_TRO-centrometeoitalianoi,SSC_TRO-centrometeoitalianoi,SN_TRO-centrometeoitalianoi,TAPAD,cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

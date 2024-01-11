@@ -1,0 +1,42 @@
+{
+  "_ga_Q9JGQ36B41": {
+    "visit_id": 1,
+    "name": "_ga_Q9JGQ36B41",
+    "domain": ".ilveggente.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704939109.1.0.1704939109.60.0.0",
+        "expiry": 1739499109,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ilveggente.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.2076771466.1704939109",
+        "expiry": 1739499109,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

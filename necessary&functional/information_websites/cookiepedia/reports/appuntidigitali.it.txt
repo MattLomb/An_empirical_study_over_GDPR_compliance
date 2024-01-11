@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: appuntidigitali.it 
+NECESSARY COOKIES = PHPSESSID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_FB8QGR8J5V,__cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

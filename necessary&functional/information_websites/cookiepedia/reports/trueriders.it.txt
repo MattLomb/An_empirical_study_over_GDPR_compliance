@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: trueriders.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,uid
+ADVERTISING COOKIES = _fbp,_gcl_au,IDE,uuid,mt_mop
+UNCLASSIFIED COOKIES = _ga_MMSHW7D17Q,C,cP,cOptout,mt_misc,cProfile,FCCDCF,GLAM-JID,GLAM-AID,GLAM-SID,__j_state,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

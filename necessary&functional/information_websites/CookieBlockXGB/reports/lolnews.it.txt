@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: lolnews.it 
+NECESSARY COOKIES = _pk_id.2.8984,_pk_ses.2.8984,euconsent-v2
+FUNCTIONAL COOKIES = mc,__qca,_ga_F1DY1J3R5P,_ga,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

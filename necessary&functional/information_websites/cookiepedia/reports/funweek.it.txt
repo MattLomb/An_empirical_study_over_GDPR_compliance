@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: funweek.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _pk_id.1.6d24,_pk_ses.1.6d24,_ga
+ADVERTISING COOKIES = mc,__qca,_fbp,IMRID
+UNCLASSIFIED COOKIES = _ga_6JGRR6HGMH,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

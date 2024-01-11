@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: motor1.com 
+NECESSARY COOKIES = _dc_gtm_UA-65598278-1,PHPSESSID,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = _cb_svref
+ANALYTICS COOKIES = _gid,_ga,_chartbeat2,uid
+ADVERTISING COOKIES = _fbp,icu,uuid2,IMRID,test_cookie
+UNCLASSIFIED COOKIES = cookie_supported,m1_touch,abtest,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,Sessions7daysExpires,Sessions7days,Sessions30daysExpires,Sessions30days,cookie_accept,__browsiSessionID,__browsiUID,FPID,FPLC,_cb,ue_v20,ucountry,pageviewSession,_ga_TKMB81YMJ6,is_logged_in,XANDR_PANID,_pbjs_userid_consent_data,eupubconsent-v2,OTAdditionalConsentString,APC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

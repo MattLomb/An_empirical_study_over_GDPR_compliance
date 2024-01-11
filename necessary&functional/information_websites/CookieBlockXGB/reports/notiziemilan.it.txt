@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: notiziemilan.it 
+NECESSARY COOKIES = evntuid,__cf_bm,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = _ga_5YT1E7GK54,_ga,_ga_EXK7YBW3W8,_ga_WSXM92EFSE,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,_fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

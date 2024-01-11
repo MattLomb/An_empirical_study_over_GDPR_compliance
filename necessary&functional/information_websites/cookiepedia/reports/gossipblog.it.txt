@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: gossipblog.it 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_4CZR7C5EJD,euconsent-v2,addtl_consent,SSID_TRO-gossipblogit,SV_TRO-gossipblogit,SSC_TRO-gossipblogit,SN_TRO-gossipblogit,SSCN_N_TRO-gossipblogit,SSCN_UG_TRO-gossipblogit,SSCN_UW_TRO-gossipblogit,SSCN_UM_TRO-gossipblogit,_pbjs_userid_consent_data,TAPAD,cProfile,cP,tr,cOptout,aniC,_lr_retry_request,_lr_env_src_ats,pbjs-unifiedid,panoramaId_expiry
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

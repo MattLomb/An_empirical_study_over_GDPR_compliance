@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: corriere.it 
+NECESSARY COOKIES = apw_cache,__GDPRcorriere_ct,__CPcorriere_ct,apw_browser,PermutiveRandomInt,rcsMeteo,TSstop,s_fbsr,s_nr,OMN_LNK_CR,s_ips,s_cc,everest_g_v2,_pc_cpwall,FP_PRVT_USER,FP_PRVT_USER_LSTLGN,FP_PRVT_USER_NPM,pnespsdk_visitor,__cf_bm,__pat,_pc_rcsad_abbonato,cX_P,LANG,LANG_CHANGED,_cb,_chartbeat2,s_tp,s_ppv,pubconsent-v2,__cpmtClicked,s_sq,__cmpAcceptedPurposes,cpmt_xa,__ric,gvsC,apw_status,pnespsdk_ssn,__tbc,_pc_ltsscore,_pc_wall_adv_stop,incognitoMode,G_ENABLED_IDPS,IDE,__chkVLST,utag_main,ad-id,ad-privacy
+FUNCTIONAL COOKIES = uuidv4,demdex,s_fid_old,UESeg,IMRID,_pctx,_pcid,dpm,cX_G,euconsent-v2,tlConsent,__pvi,xbc,_pcus,s_fid,permutive-id,tiq_gpv_pn,mc,NID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = AMCVS_AA5673AE52E15B730A490D4C%40AdobeOrg,AMCV_AA5673AE52E15B730A490D4C%40AdobeOrg,gckp,_fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

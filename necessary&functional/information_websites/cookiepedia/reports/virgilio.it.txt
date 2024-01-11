@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: virgilio.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID
+ADVERTISING COOKIES = wt_nbg_Q3,IMRID
+UNCLASSIFIED COOKIES = wteid_215973748390194,wtsid_215973748390194,evntuid,_prenotify_rnd,abtest,__cf_bm,euconsent-v2,policy_cookie,_iub_cs-89638261,aff_ran_url_2760
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

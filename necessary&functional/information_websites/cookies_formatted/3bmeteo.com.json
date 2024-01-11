@@ -1,0 +1,122 @@
+{
+  "sn_v5": {
+    "visit_id": 1,
+    "name": "sn_v5",
+    "domain": ".3bmeteo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"fl\":[{\"key\":\"4074\",\"label\":\"Milano\",\"canonical_url\":\"milano\"},{\"key\":\"5913\",\"label\":\"Roma\",\"canonical_url\":\"roma\"},{\"key\":\"4579\",\"label\":\"Napoli\",\"canonical_url\":\"napoli\"}]}",
+        "expiry": 1736476600,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ci_session": {
+    "visit_id": 1,
+    "name": "ci_session",
+    "domain": ".3bmeteo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "55c70b34f898cb9618dbd66a7901e9c6df416a12",
+        "expiry": 1704947800,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cflb": {
+    "visit_id": 1,
+    "name": "__cflb",
+    "domain": "www.3bmeteo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "02DiuEAbwCALrV1nigm7onrgPgbSRYgTcdzn7YUi5vurt",
+        "expiry": 1705023400,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "40aba5d0-b02a-11ee-a6be-7be4b66cd2e1",
+        "expiry": 1738636601,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".3bmeteo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4N9sAP4N9sAB7E7CITDgCgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUACQkF8ABAAC4AKAAqAByADwAQAAwABlADQANQAeABEACYAE8AKoAZgA3gB6AD8AISAQwBEgCOAEsAJoAYAAw4BlAGWANkAc8A7gDvgHsAfEA-wD9gH-AgABFICLgIwARqAkQCSgEpgJ-AoMBTwFXALmAXoAxQBogDaAG4AOIAh0BHsCRAJFATsAocBR4CkQFNgLYAXIAu8BeYDBgGGwMjAyQBk4DMwGcgM-AaRA1cDWQG3gN1AcFA5MDlAHLgPHAe0A-kCCYEGAIQwQtBC8CHIEPQIfgRxAj6BH8CRQEkIJMAkyBLACWYEtwJfATAgmWCZgEzgJuBoAgBTwEOgM-AcoIgCAFPAQ6Az4BygqAGAz4BygELxkAMBnwDlAIXjoPQAC4AKAAqAByAD4AQAAugBgAGUANAA1AB4AEQAJgATwAqwBcAF0AMQAZgA3gB6AD9AIYAiQBLACaAE4AKMAYAAwwBlADRAGyAOeAdwB3gD2gH2AfoA_wCKQEWARgAjsBIgElAJTAT8BQQCnwFRAVcAsQBc4C8gL0AYoA2gBuADiAHOAOoAfYBDoCLwEegJEASoAmQBOwCh4FHgUhApoCmwFWALFAWUAtgBboC4AFyALtAXeAvMBfQDBgGGgMegZGBkgDJwGVAMsAZmAzkBnwDRAGkANNAarA1cDWAG3gN1AcXA5MDlAHLgPHAeSA9oB9ID6wH3AQBAgwBC0CF8EOQQ6Ah6BHECOwEfQI_gSKAkgBJkCVAEsAJZgS6Al8BMACZgEzgJuATeAnCQgdAALAAoAC4AGIANQAmABTACqAFwAMQAbwA9ACOAGAAOeAdwB3gD_AIoASkAoIBT4CogKuAXMAxQBtADnAHUAR6AlQBTQCrAFigLKAWiAuABcgDIwGTgM5AZ8A0QBqoDgAHKAPHAfSBBgCFAELQIXgQ6Ah6BHECRQEkAJMgS6AmcSgfAAIAAWABQADgAH4AYABiADwAIgATAAqgBcADFAIYAiQBHACjAGAANkAd4A_ACnwFRAVcAuYBigDqAIdARMAi8BHoCRAFHgKaAWKAsoBbAC84GRgZIAycBnIDPgGkANYAbeA4AB7QD6QIAgQPAgwBCECF4EPQI4gSKAkgBJUCTIEugJfQTLBMwCZwE3AJwlIL4AC4AKAAqAByAD4AQQAwADKAGgAagA8ACIAEwAJ4AUgAqgBiADMAH6AQwBEgCjAGAAMoAaIA2QBzgDvgH4AfoBFgCMAEdgJEAkoBKQCgwFRAVcAuYBeQDFAG0ANwAdQA9oB9gEOgImAReAj0BIgCdgFDgKQgU0BTYCrAFigLYAXAAuQBdoC8wF9AMNgZGBkgDJwGWAM5AZ8A0iBrAGsgNvAbqA4KByYHKAOXAeKA8cB7QD6QIJgQYAhCBC0CF4EM4Icgh0BHECOwEfQI_gSKAkhBJgEmQJVASzAl0BL4CYAEzAJnATeA",
+        "expiry": 1736044603,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-817732": {
+    "visit_id": 1,
+    "name": "_iub_cs-817732",
+    "domain": ".3bmeteo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-11T02%3A36%3A43.964Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A817732%2C%22cons%22%3A%7B%22rand%22%3A%22a4b191%22%7D%7D",
+        "expiry": 1736476604,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

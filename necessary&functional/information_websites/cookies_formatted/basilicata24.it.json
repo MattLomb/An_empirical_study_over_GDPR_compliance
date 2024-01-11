@@ -1,0 +1,202 @@
+{
+  "LSW_WEB": {
+    "visit_id": 1,
+    "name": "LSW_WEB",
+    "domain": "www.basilicata24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LSW_WEB31",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OAID": {
+    "visit_id": 1,
+    "name": "OAID",
+    "domain": "adv.presscommtech.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01000111010001000101000001010010",
+        "expiry": 1736469180,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSID_PCT-basilicata2": {
+    "visit_id": 1,
+    "name": "SSID_PCT-basilicata2",
+    "domain": "www.basilicata24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1622754452775",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SV_PCT-basilicata2": {
+    "visit_id": 1,
+    "name": "SV_PCT-basilicata2",
+    "domain": "www.basilicata24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704933172101",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSC_PCT-basilicata2": {
+    "visit_id": 1,
+    "name": "SSC_PCT-basilicata2",
+    "domain": "www.basilicata24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%G1%G%G1704933172000%G%G%G1%G1704933172000%Ghttps%3A%2F%2Fwww.basilicata24.it%2F%G",
+        "expiry": 1720485172,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SN_PCT-basilicata2": {
+    "visit_id": 1,
+    "name": "SN_PCT-basilicata2",
+    "domain": "www.basilicata24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0%G%G1%G1704933172000%G1704933172000%G",
+        "expiry": 1720485172,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".www.basilicata24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4N9sAP4N9sAAKAyBITAiEgAAAAAEPgABCYAABBqQLMNGqmj7J0tCrQeIoERIgriFigQBgAAuDZAQJmTQp2BgEvsJkAIMUAAwQMgABRmgCAgCSABCoCJBClQAiQCHQAAIAACAQBcDIAOIi0EAgAJAfAxTCgAUixgSsyInTgjCoSDbtsoHlgKBBXiBYscSKATEwUBaCNABWAAACx2A5JuC1mQUJYR_SBAEACCeW4VCKXqwBjTu7LVbiqfRtYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAwUCuAAEABQAGwARQAnACoAHYAPQAhABFACkAF4AOYAigBKwCtAK4AYQAxIBnAGiAOAAcYA6wB4gEIAI6ASYAnUBXgFfAL8AbYA4ABxwDmwHXAdkA9QB7QD9gH9AQkAjuBLQExAKEAUkApoBUoCvgFkgLRAW6AuiBdYF2AL0AX8AwiBi4GMgMcAY8A1oBrwDZQHHAOWgdSB1QDtwH8AP-AgEBAUCBwEF4IbghxBDoEOwIhARJAjMBGoCNgEbwI5ASPAksBK4CWQEugJlATeAnCBOgeBSAACAAoADYAHgARQAnACoAHoAQgAigBOAClAHMAdwBFACTgFaAVwAxABwADjAHWAPEAjIBJgCdQFeAV8AvwBkgDbAHAAObAdcB2QDzAHqAPbAfsB_QEJAI5AR2AkiBLQEvAKEAUkAqQBXwCyQFowLrAuwBegDGYGOAY7AzUDNgGdgNaAbKA2cBvIDjgHTwOpA6oB2QDtwH1AQCggKCAwEDgILgQjAhwBEICJIEZgI1ARsAkeBJYCUgEqwJZAS2AmKBMoCawE6CIC8AAIAIgAVABCADuAJMAcABGYCvAK-AX4AzgB1wD2wH7AfwBCQCOYEtATEAoQBSQCpAFfQLrAuwBegDHAGPANaAbKA44B08DqQOqggKCAwEDgILgQjAhwBEICJIEagI2ARyAkeBJYCUgExQJlATWAnQTAdAABABFACcAKAAhABSADuAJMAVoAxABwADjAHWARkAnUBXgFfAL8AZwA2wBwADmwH7AfwBCQCOQEvAKEAUgApIBUgC1gFuwLrAuwBegDGQGPANaAbKA3kBxwD4gICgQOAguBCMCHAEOgIhARqAjYBHICOoEjwJLASrAlsBMUCZQE6AJ2lQIIAAQARQAnACoAIQARYA5gDuAIoASYArQBiADgAHGATqArwCvwF-AYAA2wBxwDmgHZAPUAfsBCQCOQEdgJIgS0BLwCZQFCAKPAUkAtYBdYC9IGMgY0Ax4BkADNAGtANlAccA-oB_wEBQIHAQXAhGBDgCIQESQIzARqAjYBHICOoEjwJLASkAlWBK8CWQExQJlATdAnQBO0uASABEACoAIQA4AC_AGcAWIAtEBrQDjgICgQXAhwBEICOQEygJugToA.YAAAAAAAAAAA",
+        "expiry": 1738629178,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "addtl_consent": {
+    "visit_id": 1,
+    "name": "addtl_consent",
+    "domain": ".www.basilicata24.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~",
+        "expiry": 1738629178,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_OASCAP[13553]": {
+    "visit_id": 1,
+    "name": "_OASCAP[13553]",
+    "domain": "adv.presscommtech.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_OABLOCK[13553]": {
+    "visit_id": 1,
+    "name": "_OABLOCK[13553]",
+    "domain": "adv.presscommtech.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704933180",
+        "expiry": 1707525180,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

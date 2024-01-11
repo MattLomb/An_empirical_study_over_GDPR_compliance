@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ifood.it 
+NECESSARY COOKIES = quads_browser_width,_ga,euconsent-v2,addtl_consent,test_cookie,lotame_domain_check,vido_visitor_id,panoramaId_expiry,C,uid,sa-user-id,sa-user-id-v2
+FUNCTIONAL COOKIES = UID,_ga_WKTZE0EVX6,_ga_TVEJTCMTGL,uuid-s,viewer_token,sa-user-id-v3
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __cf_bm,sst,ssid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

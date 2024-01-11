@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: oaplus.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_9ENNG7528Z,_sharedID,_sharedID_cst,FCCDCF,_ga_394CXNSB1T,lotame_domain_check,panoramaId_expiry
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

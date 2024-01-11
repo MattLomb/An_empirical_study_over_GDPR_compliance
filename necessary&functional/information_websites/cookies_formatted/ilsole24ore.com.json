@@ -1,0 +1,402 @@
+{
+  "wtsid_988195797407130": {
+    "visit_id": 1,
+    "name": "wtsid_988195797407130",
+    "domain": "ilsole24oreitalia01.wt-eu02.net",
+    "path": "/988195797407130",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wteid_988195797407130": {
+    "visit_id": 1,
+    "name": "wteid_988195797407130",
+    "domain": "ilsole24oreitalia01.wt-eu02.net",
+    "path": "/988195797407130",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170494450800681234",
+        "expiry": 1720513848,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "nohupMeteo": {
+    "visit_id": 1,
+    "name": "nohupMeteo",
+    "domain": "www.ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4074%7CMilano%7C/italia/lombardia/milano",
+        "expiry": 1736480506,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAPID": {
+    "visit_id": 1,
+    "name": "TAPID",
+    "domain": ".tealiumiq.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ilsole24ore/main>018cf69c9804001ffbf65145907e05075001c06d009dc|",
+        "expiry": 1736497848,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "58f8dff0-b033-11ee-bd76-ef7360456ec6",
+        "expiry": 1738640507,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1D38d59a82b845519badce91704944507",
+        "expiry": 1739521849,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "ilsole24oreitalia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!gBcDjiv0Aq269+Q8AP7SORvNY+Kz1N7DpMU6tRUE/Wz0oQg4J/bGZRyeGqQR2Sl+Qjq7gO/lqOGlHg==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SoleCookieAccept": {
+    "visit_id": 1,
+    "name": "SoleCookieAccept",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "N",
+        "expiry": 1736584247,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_gdpr_988195797407130": {
+    "visit_id": 1,
+    "name": "wt_gdpr_988195797407130",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170494450800681234",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_cookiecontrol": {
+    "visit_id": 1,
+    "name": "wt_cookiecontrol",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".criteo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3231f25b-6549-4ec1-bce9-0d8d0b55e85b",
+        "expiry": 1738640508,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4N05gP4N05gAcABBENAiEwAAAAAAAAAChQg1NV_H__bX9r8Xr36ft0eY1X99j77sQxBhfJk-4FyDvW_JwXn2EyNA26tqYKmRIEuzZBIQFkHJHURVigSogVrzHsYkGcgTNIJ6BkgFMRY2dYCFxvmYtjMQIY5_p9d3f52T-9_dv83dzjz8FnvzU5PmclcICdQ58tDfl_bRKb-5IOd-78v4v09N_rk2_eTVm_tevr7B-ufs-7_XV-9_YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABgSCqAAgABcAFAAVAA4AB4AEAAMIAZABqADwAIgATAAqgBmADeAHoAPwAhIBDAESAI4ASwAmgBgADDgGUAZYA2QBzwDuAO-AewB8QD7AP2Af4CAQEXARgAjUBIgElAJTAT8BQYCoAKuAXMAvQBigDaAG4AOJAj0CRQE7AKHAUeApEBTYC2AFyALvAXmAwYBhsDIwMkAZOAzMBnMDVwNZAbeA3UBwQDkwHLgPHAfSBBMCDAEIYIWghcBDmCHoIfgRxgj6CP4EigJIQSYBJkCWAEswJbgS-AmABMwCZwE3AgCsABwAJAAjgCcAIOARwAnYBfQErAJlATaApCBT4FQgK5AWEAsQBbgC8gF_gMQAYsAyEBowDUwG0ANuAbpA8kDyoHyAfKA_cCAgEDAIIgQrAh4BFMCOgEjQJUgTFAmaBNQINQ4CUAAiABwAHgAXABIAEcAKAAaABHADkAIBAQcBCACIgEcAJ2AVAA44B0gEigJWATEAmUBNoCkwFQgKlAVUArkBYgC1AFuALoAX-AwQBiADFgGQgMmAaMA1MBrwDaAG3AN0AceA5YBz4DrAHlAPiAfKA-2B-wH7gQEAgiBBsCFYEPAIpgRgAjeBHQCQgEjYJIgkkBKkCXAEuwJggTDAmaBNQCbAE2wg1DoNYAC4AKAAqABwAEAALoAYABqADwAIgATAAqwBcAF0AMQAZgA3gB6AD9AIYAiQBLACaAE4AKMAYAAwwBlADRAGyAOeAdwB3gD2gH2AfoA_4CLAIxAR0BJQCUwE_AUGAqICrgFiALnAXkBegDFAG0ANwAcQA6gB9gEXwI9AkQBKgCZAE7AKHgUeBSECmgKbAWKAsoBbAC3QFwALkAXaAu8BeYC-gGDAMNAY9AyMDJAGTgMqAZYAzMBnIDRAGmgNVgauBrADbwG6gOLAcmA5cB44DyQH0gPrAfcBAECDAELYIcgh0BD0COIEdoI-gj-BIoCSAEmQJUASwAlmBLoCXwEwAJmATOAm4BN4gAoAAQAA8ANAA5ACOAFiAL6Am0BSYCpQFcgLEAXkAwQBngDRgGpgNuAboA5YBz8DyQPKAfEA_YCAgEGwIVgQzAimBGACNIEbwI6ASNgkiCSQEqAJhgTNAmwBNshAzAAWABQAFwAMQAagBMACmAFUALgAYgA3gB6AEcAMAAc8A7gDvAH-ASkAoMBUQFXALmAYoA2gB1AEegJUAU0AsUBZQC0QFwALkAZGAycBnIDRAGqgOAAeOA-kCDAEKAIWgQ6Ah6BHECRQEkAJMgS6AmcSgZgAIAAWABQADkAMAAxAB4AEQAJgAVQAuABigEMARIAjgBRgDAAGyAO8AfkBUQFXALmAYoA6gCJgEXwI9AkQBR4CmgFigLKAWwAvOBkYGSAMnAZyA1gBt4DgAH0gQBAgwBCECHoEcQJFASQAkyBLoCXwEzAJnATcJAHgALgBHAHcAQAAg4BHACoAJFASsAmIBNoCkwFuAL_AYsAywBngDdAHLAPKAfuBAQCCIEMwIwASNAkkBKgCZoE2ygDkABQAFwASAAuACOAI4ATgA5AB3AD7AIAAQcAsQBdQDXgHbAP-AkUBMQCbQFPwKkAqUBbgC6AF5AMEAYsAyYBnkDRANGAamA14BugDlgHlAPiAfKA-2B-wH7gQEAgYBBsCFYEPAIpgRgAjWBHQCPYEjYJIgklBKgEqQJdgTNAmoBNgCbZSCmAAuACgAKgAcABBADAANQAeABEACYAFIAKoAYgAzAB-gEMARIAowBgADKAGiANkAc4A74B-AH6ARYAjEBHQElAJSAUGAqICrgFzALyAYoA2gBuADqAHtAPsAiYBF8CPQJEATsAocBSECmgKbAWKAtgBcAC5AF2gLzAX0Aw2BkYGSAMnAZYAzmBrAGsgNvAbqA4IByYDlwHigPHAfSBBMCDAEIQIWgQzghyCHQEcQI7QR9BH8CRQEkIJMAkyBLMCXQEvgJgATMAmcBN4tAOABqAI4AYAA7gC9AH2AU0AzMB44D6QIegSZAmYBNwsAQAGWARwA2gCPQExAJtAVyA0YBqYDdAHLAQEAjABI0CZoE2AAA.YAAAAAAAAAAA",
+        "expiry": 1720513846,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_OptanonConsentOld": {
+    "visit_id": 1,
+    "name": "_OptanonConsentOld",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+09%3A30%3A47+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=628a794f-6c09-43f5-8b18-b5d355f69798&interactionCount=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A0%2CV2STACK42%3A0&AwaitingReconsent=false",
+        "expiry": 1736584247,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+09%3A30%3A48+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=628a794f-6c09-43f5-8b18-b5d355f69798&interactionCount=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A0%2CV2STACK42%3A0&AwaitingReconsent=false",
+        "expiry": 1720513848,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_k5a": {
+    "visit_id": 1,
+    "name": "_k5a",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "61@{\"u\":[{\"uid\":\"h8ure9DI4vHjVlE2\",\"ts\":1704961848},1705051848]}",
+        "expiry": 1736584248,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "wt_cdbeid": {
+    "visit_id": 1,
+    "name": "wt_cdbeid",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704962748,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=ilsole24ore.com&si=ihamqtu79ao&ss=lr8y9gy3&sl=1&tt=17s&ld=17u\"",
+        "expiry": 1705566648,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf69c9804001ffbf65145907e05075001c06d009dc$_sn:2$_se:8$_ss:0$_st:1704963648895$dc_visit:2$ses_id:1704961505814%3Bexp-session$_pn:2%3Bexp-session$dc_event:8%3Bexp-session$dc_region:eu-central-1%3Bexp-session",
+        "expiry": 1736497848,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_rla": {
+    "visit_id": 1,
+    "name": "wt_rla",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "988195797407130%2C8%2C1704961505821",
+        "expiry": 1710145849,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cto_bundle": {
+    "visit_id": 1,
+    "name": "cto_bundle",
+    "domain": ".ilsole24ore.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "pzxxPF84ZVh4WXhaZnR0R1JqbnQwMnZyJTJGZ0lIZHdEM1lmcWp4JTJCWTZibzZrT0dLdnhFeWVsMUZYUUR1MnpvS0t4ZkhZbW95ZE1RZ0U3WEZuNzcxdnBCV1llSmwwZ0JWNmMzQnRvJTJGUEdVdFVjNEZiVmZ1MnVybTJaWnpuUU1SMmplTlZaZTlycmdVbW8yQllyYUhJc04yaWpJN2Y5d0g1ZHNYN2UlMkY1U0h3TnppcWcyS3VYTXc0b2h6ZUt5RG5sUk4lMkZwUzM4QnpBcjNKc1BRbUElMkYxR2l6UE92Q0NnJTNEJTNE",
+        "expiry": 1738657849,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

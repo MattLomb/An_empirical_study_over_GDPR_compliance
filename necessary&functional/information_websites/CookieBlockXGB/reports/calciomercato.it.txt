@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: calciomercato.it 
+NECESSARY COOKIES = __lxG__consent__v2,gv,test_cookie,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_C2JKXE14LY,_ga,UID,__lxG__consent__v2_daisybit
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = st_uid,st_ssp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

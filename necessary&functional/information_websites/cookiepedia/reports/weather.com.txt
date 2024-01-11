@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: weather.com 
+NECESSARY COOKIES = usprivacy
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = RT
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = speedpin,consentUUID,wxu-metrics-session,daybreak-metrics,ci
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

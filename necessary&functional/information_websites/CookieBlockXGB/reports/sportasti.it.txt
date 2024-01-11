@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: sportasti.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_Sportasti,SV_Sportasti,SSC_Sportasti,SN_Sportasti,addtl_consent,_OASCAP[13654],_OABLOCK[13654]
+FUNCTIONAL COOKIES = _ga_7NN2Z4QW3Y,_ga,_ga_P5P7XX22TS,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

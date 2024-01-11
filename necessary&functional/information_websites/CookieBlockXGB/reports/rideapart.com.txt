@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: rideapart.com 
+NECESSARY COOKIES = cookie_supported,m1_touch,abtest,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,pageviewSession,Sessions7days,Sessions30days,cookie_accept,_dc_gtm_UA-38230919-1,__browsiSessionID,FPID,_cb,_chartbeat2,_cb_svref,ucountry,PHPSESSID,is_logged_in,_pbjs_userid_consent_data,OptanonAlertBoxClosed,eupubconsent-v2,HAPLB8G,__uih,__uin_ex,__uir_ex,__uin_a9,__uir_a9,wrvUserID,_Amc_b
+FUNCTIONAL COOKIES = Sessions7daysExpires,Sessions30daysExpires,_gid,FPLC,_ga_QMSTTFT3DK,_ga,__browsiUID,_fbp,ktcid,CONSUMABLEID,OTAdditionalConsentString,OptanonConsent,XANDR_PANID,demdex,dpm
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _usd_rideapart.com,__uis,INGRESSCOOKIE,uuid2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: sportitalia.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = MUID
+UNCLASSIFIED COOKIES = _ga_9XMJ9RBNS9,_ga_08Q6C023Z1,euconsent-v2,addtl_consent,__cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

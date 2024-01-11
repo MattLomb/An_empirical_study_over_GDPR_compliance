@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: pinkblog.it 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_VDEBM6HK0J,euconsent-v2,addtl_consent,SSID_TRO-pinkblogit,SV_TRO-pinkblogit,SSC_TRO-pinkblogit,SN_TRO-pinkblogit,SSCN_N_TRO-pinkblogit,SSCN_UG_TRO-pinkblogit,SSCN_UW_TRO-pinkblogit,SSCN_UM_TRO-pinkblogit,TAPAD,cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

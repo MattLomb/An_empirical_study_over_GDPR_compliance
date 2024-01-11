@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ubitennis.com 
+NECESSARY COOKIES = __cf_bm,__utmc,__utmz,__utmt,__utmb,_pbjs_userid_consent_data,euconsent-v2,pubtech-cmp-pcstring,pubtech-unifiedid
+FUNCTIONAL COOKIES = mrf-client-id,__utma,_ga_0PVTQTBY79,_ga,_abck,ak_bmsc,bm_sz,_pubCommonId,MUID,_pubCommonId_last
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

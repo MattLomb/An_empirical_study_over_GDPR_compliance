@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: omnifurgone.it 
+NECESSARY COOKIES = cookie_supported,m1_touch,abtest,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,pageviewSession,Sessions7days,Sessions30days,cookie_accept,_dc_gtm_UA-314269-13,__browsiSessionID,FPID,ucountry,_cb,_chartbeat2,_cb_svref,PHPSESSID,is_logged_in,uuid2,OptanonAlertBoxClosed,_pbjs_userid_consent_data,eupubconsent-v2,CMPS,CMPRO,sa-user-id,sa-user-id-v2
+FUNCTIONAL COOKIES = Sessions7daysExpires,Sessions30daysExpires,_gid,_ga_Q5SX626HZZ,_ga,__browsiUID,FPLC,_fbp,XANDR_PANID,icu,OTAdditionalConsentString,OptanonConsent,IMRID,sa-user-id-v3
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = khaos,audit,CMID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

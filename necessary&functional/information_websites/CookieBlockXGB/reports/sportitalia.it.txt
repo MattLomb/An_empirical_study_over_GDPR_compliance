@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: sportitalia.it 
+NECESSARY COOKIES = euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = _ga_9XMJ9RBNS9,_ga,_ga_08Q6C023Z1,UID,MUID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

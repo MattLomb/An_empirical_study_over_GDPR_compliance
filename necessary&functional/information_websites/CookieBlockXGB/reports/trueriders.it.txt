@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: trueriders.it 
+NECESSARY COOKIES = IDE,C,uid,mt_misc,mt_mop,GLAM-JID,GLAM-AID,GLAM-SID,__j_state
+FUNCTIONAL COOKIES = _ga_MMSHW7D17Q,_ga,uuid,FCCDCF
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,_gcl_au,cP,cOptout,cProfile,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

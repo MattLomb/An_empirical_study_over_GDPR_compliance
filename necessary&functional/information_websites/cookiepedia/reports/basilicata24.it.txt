@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: basilicata24.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,SSID_PCT-basilicata2,SV_PCT-basilicata2,SSC_PCT-basilicata2,SN_PCT-basilicata2,euconsent-v2,addtl_consent,_OASCAP[13553],_OABLOCK[13553]
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

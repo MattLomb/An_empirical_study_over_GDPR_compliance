@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: universoanimali.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _gid,_ga
+ADVERTISING COOKIES = _gat_gtag_UA_138139553_1
+UNCLASSIFIED COOKIES = _ga_06GBKEVD4X,_ga_WMJPMEZ4BD,_iub_cs-59953343-granular,euconsent-v2,_iub_cs-59953343,lotame_domain_check,panoramaId_expiry
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

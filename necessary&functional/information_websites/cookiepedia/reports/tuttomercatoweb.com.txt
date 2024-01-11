@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: tuttomercatoweb.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = IMRID
+UNCLASSIFIED COOKIES = _ga_5QENE0CSQF,FCNEC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

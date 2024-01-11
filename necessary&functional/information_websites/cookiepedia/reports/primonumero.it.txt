@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: primonumero.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,OAID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,_ga_35EGW70ZXV,SSID_PCT-primonumero,SV_PCT-primonumero,SSC_PCT-primonumero,SN_PCT-primonumero,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

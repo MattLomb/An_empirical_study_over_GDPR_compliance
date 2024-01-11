@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: direttagoal.it 
+NECESSARY COOKIES = XSRF-TOKEN
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = direttagoal_session,player_enabled,_ga_JVSPNLGV0W,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

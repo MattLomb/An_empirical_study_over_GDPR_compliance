@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilgiornale.it 
+NECESSARY COOKIES = wteid_769396664005295,wtsid_769396664005295,ARRAffinity,ARRAffinitySameSite,ilg_mr__home,__cf_bm,wt_nbg_Q3,euconsent-v2,addtl_consent,_mediamond_UID,
+FUNCTIONAL COOKIES = UID,_ga,_ga_NQVT6E5YKL,_ga_ENZ2GEXW4Y,_ga_R163K4Y084,_ga_EJCFTZ7CV7,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = aniC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

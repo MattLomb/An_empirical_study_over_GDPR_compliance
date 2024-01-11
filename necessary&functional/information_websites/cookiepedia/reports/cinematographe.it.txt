@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: cinematographe.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _gid,_ga
+ADVERTISING COOKIES = _gat_gtag_UA_58731259_1
+UNCLASSIFIED COOKIES = _ga_3G5V0GN3VL,_ga_WMJPMEZ4BD,_iub_cs-81034388-granular,euconsent-v2,_iub_cs-81034388,lotame_domain_check,panoramaId_expiry
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

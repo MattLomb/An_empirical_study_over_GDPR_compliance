@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: lanazione.it 
+NECESSARY COOKIES = __cf_bm,_k5a,__adblocker,_pctx,__pnahc,test_cookie,__tbc,__pat,__pvi,xbc,cX_P,_pbjs_userid_consent_data,ptechsdepth,pubtech-cmp-pcstring,pubtech-unifiedid
+FUNCTIONAL COOKIES = cf_clearance,_pcid,_pcus,_ga,IMRID,cX_G,_pubCommonId,pt1-ppid-v2,euconsent-v2,_ga_HMED2J3E53,_pubCommonId_last
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,gckp,dmvk,ts,v1st,usprivacy
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

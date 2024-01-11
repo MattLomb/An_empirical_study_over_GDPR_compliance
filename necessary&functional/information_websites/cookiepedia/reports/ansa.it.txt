@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ansa.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = CLID,SRM_B
+ANALYTICS COOKIES = _ga,_clsk,MR,SM
+ADVERTISING COOKIES = IMRID,MUID,ANONCHK
+UNCLASSIFIED COOKIES = __cf_bm,_ga_M79NL4FRK3,_pprv,_clck,__pid,__tbc,_pctx,xbc,_iub_cs-15665353,_iub_cs-15665353-granular,euconsent-v2,_pbjs_userid_consent_data,_pubCommonId,_pubCommonId_last,pubtech-unifiedid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

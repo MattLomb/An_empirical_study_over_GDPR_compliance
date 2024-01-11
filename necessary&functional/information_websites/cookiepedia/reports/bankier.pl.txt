@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: bankier.pl 
+NECESSARY COOKIES = __gfp_64b,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = CLID,SRM_B
+ANALYTICS COOKIES = _gid,_ga,_clsk,MR,SM,UID
+ADVERTISING COOKIES = __utmzzses,_gat_UA-325086-1,_fbp,IDE,_gat_onn_tracker,MUID,ANONCHK,uuid2,uuid,tuuid,tuuid_lu
+UNCLASSIFIED COOKIES = _pbjs_userid_consent_data,_sharedID,smvr,smuuid,APC,_smvs,initialTrafficSource,_ga_ZK415J09PQ,_clck,_ga_6WDH9ZFQ0J,eupubconsent-v2,OTP,XANDR_PANID,px2-uidH-xandr,px2-uidH-onetag,px2-uid-xandr,c,admtr,ac_r,Gdyn,Gdynp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,362 @@
+{
+  "_ga_8Q4KHJNH6E": {
+    "visit_id": 1,
+    "name": "_ga_8Q4KHJNH6E",
+    "domain": ".vesuvius.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704940071.1.0.1704940071.0.0.0",
+        "expiry": 1739500071,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "quads_browser_width": {
+    "visit_id": 1,
+    "name": "quads_browser_width",
+    "domain": "www.vesuvius.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1512",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yabs-sid": {
+    "visit_id": 1,
+    "name": "yabs-sid",
+    "domain": "mc.yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "929051181704940073",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bh": {
+    "visit_id": 1,
+    "name": "bh",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EkAiR29vZ2xlIENocm9tZSI7dj0iMTE3IiwiIE5vdDtBIEJyYW5kIjt2PSI5OSIsIkNocm9taXVtIjt2PSIxMTciGgUieDg2IiILIjExNy4wLjAuMCIqAj8wOgoiTWFjIE9TIFgiQgkiMTBfMTVfNyJKBCI2NCJSNyJDaHJvbWl1bSI7dj0iMTE3LjAuNTkzOC44OCIsIk5vdDtBPUJyYW5kIjt2PSI4LjAuMC4wIiI=",
+        "expiry": 1736476073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".vesuvius.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.283264666.1704940072",
+        "expiry": 1739500072,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".vesuvius.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.222803651.1704940072",
+        "expiry": 1705026472,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_51813898_28": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_51813898_28",
+    "domain": ".vesuvius.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704940132,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_uid": {
+    "visit_id": 1,
+    "name": "_ym_uid",
+    "domain": ".vesuvius.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704940073635662313",
+        "expiry": 1736476072,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_d": {
+    "visit_id": 1,
+    "name": "_ym_d",
+    "domain": ".vesuvius.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704940073",
+        "expiry": 1736476072,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sync_cookie_csrf": {
+    "visit_id": 1,
+    "name": "sync_cookie_csrf",
+    "domain": ".mc.yandex.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1680116497fake",
+        "expiry": 1704940673,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_isad": {
+    "visit_id": 1,
+    "name": "_ym_isad",
+    "domain": ".vesuvius.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2",
+        "expiry": 1705012072,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sync_cookie_ok": {
+    "visit_id": 1,
+    "name": "sync_cookie_ok",
+    "domain": ".mc.yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "synced",
+        "expiry": 1705026473,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "i": {
+    "visit_id": 1,
+    "name": "i",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "wEiL2i4Eq8kPmWfUkhdtlrAHfV5qYA8i5Ptl3j3RA86cEBAL7WlC2EwrOL3BB0jGfqNbTmL6vPknzdCiTERw8Mu/Bv8=",
+        "expiry": 1739500073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yandexuid": {
+    "visit_id": 1,
+    "name": "yandexuid",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1331524011704940072",
+        "expiry": 1739500073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yuidss": {
+    "visit_id": 1,
+    "name": "yuidss",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7624364771704940073",
+        "expiry": 1736476073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yp": {
+    "visit_id": 1,
+    "name": "yp",
+    "domain": ".yandex.ru",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1705026473.yu.6379807451704940072",
+        "expiry": 1739500073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ymex": {
+    "visit_id": 1,
+    "name": "ymex",
+    "domain": ".yandex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1736476073.yrts.1704940073",
+        "expiry": 1736476073,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ym_visorc": {
+    "visit_id": 1,
+    "name": "_ym_visorc",
+    "domain": ".vesuvius.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b",
+        "expiry": 1704941873,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

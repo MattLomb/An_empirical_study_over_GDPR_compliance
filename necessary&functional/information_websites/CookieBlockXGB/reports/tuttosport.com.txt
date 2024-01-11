@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: tuttosport.com 
+NECESSARY COOKIES = AwinCookie,sptnet_adunit_limit_intro,ar_debug,_gat_gtag_UA_2135082_1,C,receive-cookie-deprecation,uid,CM,CMPS,CMPRO,SEUNCY,SERVERID,uid-bp-617,UID,_kuid_,cm_uid,DID,IDT,cookie_ver,block_reset,permanent,bku,bkpa,arcki2,UserID1,wfivefivec,matchadform,idt,AFFICHE_W,cache0
+FUNCTIONAL COOKIES = _gid,_ga_EXFQRFB44E,_ga,IDE,didomi_token,FCNEC,CM14,rlas3,EE,pxrc,ud,XANDR_PANID,anj,ab,demdex,arcki2_adform,dpm,arcki2_ddp2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,_fbp,CMID,uuid2,ct_uid,ct_did,ct_idt
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

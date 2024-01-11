@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: bankier.pl 
+NECESSARY COOKIES = _pbjs_userid_consent_data,_smvs,__utmzzses,_gid,_gat_UA-325086-1,_gat_onn_tracker,CLID,_clck,MR,SM,ANONCHK,OptanonAlertBoxClosed,px2-uidH-xandr,px2-uid-xandr,c,tuuid_lu,Gdyn
+FUNCTIONAL COOKIES = _sharedID,__gfp_64b,smvr,smuuid,APC,initialTrafficSource,_ga_ZK415J09PQ,IDE,_ga,_ga_6WDH9ZFQ0J,_clsk,MUID,SRM_B,eupubconsent-v2,OptanonConsent,OTP,XANDR_PANID,UID,px2-uidH-onetag,uuid,tuuid,Gdynp
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp,uuid2,admtr,ac_r
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

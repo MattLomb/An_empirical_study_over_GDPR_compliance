@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: dagospia.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,RT
+ADVERTISING COOKIES = IMRID
+UNCLASSIFIED COOKIES = DAGOSPIA_cookie,__cf_bm,_k5a,_dfdrm,_ga_3K5RFTT45Z,_pbjs_userid_consent_data,_pubCommonId,_pubCommonId_last,ptechsdepth,pt1-ppid-v2,euconsent-v2,pubtech-cmp-pcstring
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: 365animali.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,UID,uid
+ADVERTISING COOKIES = _gat_gtag_UA_211731478_2,tuuid,tuuid_lu,IDE
+UNCLASSIFIED COOKIES = _ga_GNKQCZPK8D,_ga_WMJPMEZ4BD,_iub_cs-48438395-granular,euconsent-v2,_iub_cs-48438395,lotame_domain_check,panoramaId_expiry,ad_simply_viewer,profiler,simply_new_fc,C
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

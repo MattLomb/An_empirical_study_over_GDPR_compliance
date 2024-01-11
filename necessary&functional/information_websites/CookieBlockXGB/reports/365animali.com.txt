@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: 365animali.com 
+NECESSARY COOKIES = _gat_gtag_UA_211731478_2,_iub_cs-48438395-granular,_iub_cs-48438395,lotame_domain_check,panoramaId_expiry,ad_simply_viewer,C,uid,tuuid_lu,IDE
+FUNCTIONAL COOKIES = _ga_GNKQCZPK8D,_ga_WMJPMEZ4BD,_ga,_gid,euconsent-v2,UID,profiler,tuuid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = simply_new_fc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

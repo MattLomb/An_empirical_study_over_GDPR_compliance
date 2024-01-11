@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: reggiosera.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,SSID_PCT-reggioserait,SV_PCT-reggioserait,SSC_PCT-reggioserait,SN_PCT-reggioserait,_ga_RYTC9WBSRD,euconsent-v2,addtl_consent,_OASCAP[13585],_OABLOCK[13585]
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

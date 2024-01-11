@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: fcinternews.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,UID,uid
+ADVERTISING COOKIES = vido_visitor_id,khaos,pd,IDE
+UNCLASSIFIED COOKIES = _ga_HBRVQME30L,_ga_NE0M2NZ0BX,clever-last-tracker-71175,clever-counter-71175,__Host-logged-out-session,locale,uc_session,gvc,t,__Host-js_csrf,Affiliates,session,pstk,__cf_bm,i,C,audit,viewer_token,sa-user-id,sa-user-id-v2,sa-user-id-v3,euconsent-v2,addtl_consent,lotame_domain_check,panoramaId_expiry,profiler,ad_simply_viewer,CC,fcap_v1,CIM,CCL,fourWGuid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

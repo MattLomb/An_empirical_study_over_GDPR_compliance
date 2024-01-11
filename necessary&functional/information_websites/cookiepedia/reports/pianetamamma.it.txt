@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: pianetamamma.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid,_hjSessionUser_2493117,_hjFirstSeen,_hjSession_2493117,_hjAbsoluteSessionInProgress
+ADVERTISING COOKIES = wt_nbg_Q3,_gat_gtag_UA_746038_9,IMRID
+UNCLASSIFIED COOKIES = trackTimeDistribution,wtstp_sid,wtstp_eid,wtstp_cdbeid,wtstp_rla,_hjIncludedInSessionSample_2493117,push_notification_viewed,_ga_P324T0KMEY
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

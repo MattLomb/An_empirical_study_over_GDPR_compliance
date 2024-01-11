@@ -1,0 +1,182 @@
+{
+  "m-login": {
+    "visit_id": 1,
+    "name": "m-login",
+    "domain": ".quora.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739522251,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m-b": {
+    "visit_id": 1,
+    "name": "m-b",
+    "domain": ".quora.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "46dmBlPS6RCqwD69NH351g==",
+        "expiry": 1736498251,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m-b_lax": {
+    "visit_id": 1,
+    "name": "m-b_lax",
+    "domain": ".quora.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "46dmBlPS6RCqwD69NH351g==",
+        "expiry": 1736498251,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "m-b_strict": {
+    "visit_id": 1,
+    "name": "m-b_strict",
+    "domain": ".quora.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "46dmBlPS6RCqwD69NH351g==",
+        "expiry": 1736498251,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "m-s": {
+    "visit_id": 1,
+    "name": "m-s",
+    "domain": ".quora.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ahC--4LBPG6JK27PG-d3Jw==",
+        "expiry": 1736498251,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m-uid": {
+    "visit_id": 1,
+    "name": "m-uid",
+    "domain": ".quora.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "None",
+        "expiry": 1739522248,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m-ql10n_it": {
+    "visit_id": 1,
+    "name": "m-ql10n_it",
+    "domain": ".quora.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "https%3A%2F%2Fqsc.cf2.quoracdn.net%2F-4-l10n_main-30-it-5864cbe9be730671.translation.json",
+        "expiry": 1705135049,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m-theme": {
+    "visit_id": 1,
+    "name": "m-theme",
+    "domain": ".quora.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "light",
+        "expiry": 1736498249,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "m-dynamicFontSize": {
+    "visit_id": 1,
+    "name": "m-dynamicFontSize",
+    "domain": ".quora.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "regular",
+        "expiry": 1736498249,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

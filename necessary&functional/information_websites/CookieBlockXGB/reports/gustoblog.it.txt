@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: gustoblog.it 
+NECESSARY COOKIES = euconsent-v2,addtl_consent,TAPAD,SSID_TRO-gustoblogit,SV_TRO-gustoblogit,SSC_TRO-gustoblogit,SN_TRO-gustoblogit,SSCN_N_TRO-gustoblogit,SSCN_UG_TRO-gustoblogit,SSCN_UW_TRO-gustoblogit,SSCN_UM_TRO-gustoblogit
+FUNCTIONAL COOKIES = _ga_56XLMKJWZN,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

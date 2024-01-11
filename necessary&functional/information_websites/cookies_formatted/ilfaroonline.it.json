@@ -1,0 +1,682 @@
+{
+  "LSW_WEB": {
+    "visit_id": 1,
+    "name": "LSW_WEB",
+    "domain": "www.ilfaroonline.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LSW_WEB22",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OAID": {
+    "visit_id": 1,
+    "name": "OAID",
+    "domain": "adv.presscommtech.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "01000111010001000101000001010010",
+        "expiry": 1736469716,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSID_Ilfaroonline": {
+    "visit_id": 1,
+    "name": "SSID_Ilfaroonline",
+    "domain": "www.ilfaroonline.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "336758937594",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SV_Ilfaroonline": {
+    "visit_id": 1,
+    "name": "SV_Ilfaroonline",
+    "domain": "www.ilfaroonline.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704933708916",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSC_Ilfaroonline": {
+    "visit_id": 1,
+    "name": "SSC_Ilfaroonline",
+    "domain": "www.ilfaroonline.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%G1%G%G1704933708000%G%G%G1%G1704933708000%Ghttps%3A%2F%2Fwww.ilfaroonline.it%2F%G",
+        "expiry": 1720485708,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SN_Ilfaroonline": {
+    "visit_id": 1,
+    "name": "SN_Ilfaroonline",
+    "domain": "www.ilfaroonline.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0%G%G1%G1704933708000%G1704933708000%G",
+        "expiry": 1720485708,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_HWK444SVZ7": {
+    "visit_id": 1,
+    "name": "_ga_HWK444SVZ7",
+    "domain": ".ilfaroonline.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704933708.1.0.1704933708.0.0.0",
+        "expiry": 1739493708,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ilfaroonline.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1504162353.1704933709",
+        "expiry": 1739493708,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".www.ilfaroonline.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4N9sAP4N9sAAKAyBITAiEgAAAAAEPgABCYAABBqQLMNGqmj7J0tCrQeIoERIgriFigQBgAAuDZAQJmTQp2BgEvsJkAIMUAAwQMgABRmgCAgCSABCoCJBClQAiQCHQAAIAACAQBcDIAOIi0EAgAJAfAxTCgAUixgSsyInTgjCoSDbtsoHlgKBBXiBYscSKATEwUBaCNABWAAACx2A5JuC1mQUJYR_SBAEACCeW4VCKXqwBjTu7LVbiqfRtYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAwUCuAAEABQAGwARQAnACoAHYAPQAhABFACkAF4AOYAigBKwCtAK4AYQAxIBnAGiAOAAcYA6wB4gEIAI6ASYAnUBXgFfAL8AbYA4ABxwDmwHXAdkA9QB7QD9gH9AQkAjuBLQExAKEAUkApoBUoCvgFkgLRAW6AuiBdYF2AL0AX8AwiBi4GMgMcAY8A1oBrwDZQHHAOWgdSB1QDtwH8AP-AgEBAUCBwEF4IbghxBDoEOwIhARJAjMBGoCNgEbwI5ASPAksBK4CWQEugJlATeAnCBOgeBSAACAAoADYAHgARQAnACoAHoAQgAigBOAClAHMAdwBFACTgFaAVwAxABwADjAHWAPEAjIBJgCdQFeAV8AvwBkgDbAHAAObAdcB2QDzAHqAPbAfsB_QEJAI5AR2AkiBLQEvAKEAUkAqQBXwCyQFowLrAuwBegDGYGOAY7AzUDNgGdgNaAbKA2cBvIDjgHTwOpA6oB2QDtwH1AQCggKCAwEDgILgQjAhwBEICJIEZgI1ARsAkeBJYCUgEqwJZAS2AmKBMoCawE6CIC8AAIAIgAVABCADuAJMAcABGYCvAK-AX4AzgB1wD2wH7AfwBCQCOYEtATEAoQBSQCpAFfQLrAuwBegDHAGPANaAbKA44B08DqQOqggKCAwEDgILgQjAhwBEICJIEagI2ARyAkeBJYCUgExQJlATWAnQTAdAABABFACcAKAAhABSADuAJMAVoAxABwADjAHWARkAnUBXgFfAL8AZwA2wBwADmwH7AfwBCQCOQEvAKEAUgApIBUgC1gFuwLrAuwBegDGQGPANaAbKA3kBxwD4gICgQOAguBCMCHAEOgIhARqAjYBHICOoEjwJLASrAlsBMUCZQE6AJ2lQIIAAQARQAnACoAIQARYA5gDuAIoASYArQBiADgAHGATqArwCvwF-AYAA2wBxwDmgHZAPUAfsBCQCOQEdgJIgS0BLwCZQFCAKPAUkAtYBdYC9IGMgY0Ax4BkADNAGtANlAccA-oB_wEBQIHAQXAhGBDgCIQESQIzARqAjYBHICOoEjwJLASkAlWBK8CWQExQJlATdAnQBO0uASABEACoAIQA4AC_AGcAWIAtEBrQDjgICgQXAhwBEICOQEygJugToA.YAAAAAAAAAAA",
+        "expiry": 1738629714,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "addtl_consent": {
+    "visit_id": 1,
+    "name": "addtl_consent",
+    "domain": ".www.ilfaroonline.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1~",
+        "expiry": 1738629714,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_OASCAP[13557]": {
+    "visit_id": 1,
+    "name": "_OASCAP[13557]",
+    "domain": "adv.presscommtech.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_OABLOCK[13557]": {
+    "visit_id": 1,
+    "name": "_OABLOCK[13557]",
+    "domain": "adv.presscommtech.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704933716",
+        "expiry": 1707525716,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4764065454152199898",
+        "expiry": 1712709718,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707612118,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pbw": {
+    "visit_id": 1,
+    "name": "pbw",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%24b%3d16999%3b%24o%3d12100",
+        "expiry": 1736556119,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "vs": {
+    "visit_id": 1,
+    "name": "vs",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "350309=5798921",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TestIfCookie": {
+    "visit_id": 1,
+    "name": "TestIfCookie",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ok",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TestIfCookieP": {
+    "visit_id": 1,
+    "name": "TestIfCookieP",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ok",
+        "expiry": 1736556119,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pid": {
+    "visit_id": 1,
+    "name": "pid",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8162703041579092291",
+        "expiry": 1736556119,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sasd2": {
+    "visit_id": 1,
+    "name": "sasd2",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "q=%24qc%3D1500006965%3B%24ql%3DMedium%3B%24qpc%3D00119%3B%24qt%3D197_3190_84860t%3B%24dma%3D0&c=1&l=-96683851&lo=-849089859&lt=638405305182372252&o=1",
+        "expiry": 1705020119,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sasd": {
+    "visit_id": 1,
+    "name": "sasd",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%24qc%3D1500006965%3B%24ql%3DMedium%3B%24qpc%3D00119%3B%24qt%3D197_3190_84860t%3B%24dma%3D0",
+        "expiry": 1705020119,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "JfpTkli8lLezXjEMoB6M8oZ78hDRuayLk8IFWtmDSVPca4xriDIdWTfRD7jQK2DUiOJud1u43lfYYBYZYlo_tGSS4v3qu0C7K0JVgTVVwd8.",
+        "expiry": 1739493718,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "icu": {
+    "visit_id": 1,
+    "name": "icu",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ChgI9qIxEAoYAiACKAIw1vL8rAY4AkACSAIQ1vL8rAYYAQ..",
+        "expiry": 1712709718,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MUID": {
+    "visit_id": 1,
+    "name": "MUID",
+    "domain": ".bing.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2E84C086403B660E24B4D485414B67A4",
+        "expiry": 1738629718,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "d": {
+    "visit_id": 1,
+    "name": "d",
+    "domain": ".quantserve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EDUBDQHwKoir0QA",
+        "expiry": 1712709721,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mc": {
+    "visit_id": 1,
+    "name": "mc",
+    "domain": ".quantserve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659f3959-b9549-2b957-ca2d6",
+        "expiry": 1739148121,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "KCCH": {
+    "visit_id": 1,
+    "name": "KCCH",
+    "domain": ".ads.pubmatic.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "YES",
+        "expiry": 1705020121,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "viewer_token": {
+    "visit_id": 1,
+    "name": "viewer_token",
+    "domain": ".csync.loopme.me",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6ba3a40e-0ff3-4a65-a392-8543aad964bb",
+        "expiry": 1712796121,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "test_cookie": {
+    "visit_id": 1,
+    "name": "test_cookie",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CheckForPermission",
+        "expiry": 1704934621,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bito": {
+    "visit_id": 1,
+    "name": "bito",
+    "domain": ".bidr.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AAAt8U7LPnMAABQDl4xPQg",
+        "expiry": 1739043721,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bitoIsSecure": {
+    "visit_id": 1,
+    "name": "bitoIsSecure",
+    "domain": ".bidr.io",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ok",
+        "expiry": 1739043721,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "csync": {
+    "visit_id": 1,
+    "name": "csync",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "124:6ba3a40e-0ff3-4a65-a392-8543aad964bb|127:AAAt8U7LPnMAABQDl4xPQg|135:TAM_OK",
+        "expiry": 1736556123,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-id": {
+    "visit_id": 1,
+    "name": "ad-id",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A41arXez5k4Wq6fBptCpLcM",
+        "expiry": 1727743322,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ad-privacy": {
+    "visit_id": 1,
+    "name": "ad-privacy",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739493722,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

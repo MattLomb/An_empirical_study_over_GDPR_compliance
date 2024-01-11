@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: vetrinamotori.it 
+NECESSARY COOKIES = __RequestVerificationToken,_dc_gtm_UA-58482142-1
+FUNCTIONAL COOKIES = CLID,SRM_B,NMUID
+ANALYTICS COOKIES = UID,_gid,MR,SM,_clsk,_ga
+ADVERTISING COOKIES = _gat_gtag_UA_192535639_20,MUID,ANONCHK,uuid2
+UNCLASSIFIED COOKIES = nmm-ss-cps-usr-exp,nmm-ss-cps-usr,_clck,_pbjs_userid_consent_data,_iub_cs-28513791,_ncid,lotame_domain_check,euconsent-v2,_iub_cs-28513791-granular,_ga_5370FJJ421,12331dcr-g,12593dcr-g,12594dcr-g,12595dcr-g,12940dcr-g,13127dcr-g,_ga_S74FMJ1YRE,_ga_2FENV12YX9,panoramaId_expiry,_Amc_b,viewer_token,XANDR_PANID,syncedBidders,uids
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

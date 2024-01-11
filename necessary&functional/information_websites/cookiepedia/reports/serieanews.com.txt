@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: serieanews.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,uid,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_423MVZL5SG,C
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilsole24ore.com 
+NECESSARY COOKIES = wtsid_988195797407130,wteid_988195797407130,nohupMeteo,TAPID,wt_nbg_Q3,SoleCookieAccept,wt_gdpr_988195797407130,wt_cookiecontrol,_k5a,wt_cdbeid,RT,utag_main
+FUNCTIONAL COOKIES = IMRID,UID,eupubconsent-v2,_OptanonConsentOld,OptanonConsent,wt_rla,cto_bundle
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

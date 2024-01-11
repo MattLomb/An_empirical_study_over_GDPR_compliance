@@ -1,0 +1,182 @@
+{
+  "xf_csrf": {
+    "visit_id": 1,
+    "name": "xf_csrf",
+    "domain": "famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "vVYcyjx7C18pTq0L",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.70534263.1704962420",
+        "expiry": 1739522419,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gads": {
+    "visit_id": 1,
+    "name": "__gads",
+    "domain": ".famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ID=6f0f612c926490ed:T=1704962420:RT=1704962420:S=ALNI_MY9tqzBt26CC00CkhjKwEEDc58skw",
+        "expiry": 1738658420,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__gpi": {
+    "visit_id": 1,
+    "name": "__gpi",
+    "domain": ".famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "UID=00000d3f6160be1c:T=1704962420:RT=1704962420:S=ALNI_MZQeALyQk-bbe8vw6NWRL11u0rvOg",
+        "expiry": 1738658420,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_VBC5766HJ8": {
+    "visit_id": 1,
+    "name": "_ga_VBC5766HJ8",
+    "domain": ".famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704962419.1.0.1704962421.0.0.0",
+        "expiry": 1739522421,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".googleadservices.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1712738421,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "APC": {
+    "visit_id": 1,
+    "name": "APC",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AfxxVi62rPevYhQNUG3QjImhjJdJu5vSLf9xbTEFRXjoy8icFHBAJA",
+        "expiry": 1720514421,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUk9zAF9Dqz9r9ujjWuo69HQPz_PnXfIJ8ps9GL0tB4biKVHAHFhS3dZdiO-YQs",
+        "expiry": 1738658421,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "famifeed_preference": {
+    "visit_id": 1,
+    "name": "famifeed_preference",
+    "domain": "famiboards.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "off",
+        "expiry": 1704984023,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

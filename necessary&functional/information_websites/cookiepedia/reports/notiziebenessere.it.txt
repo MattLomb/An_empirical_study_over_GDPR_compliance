@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: notiziebenessere.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = at_gd
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = _gcl_au,_fbp
+UNCLASSIFIED COOKIES = _ga_Q3YN8RFJR5,_ga_EXK7YBW3W8,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: corrieredellosport.it 
+NECESSARY COOKIES = SERVERID
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _hjSessionUser_3416860,_hjFirstSeen,_hjSession_3416860,_hjAbsoluteSessionInProgress,_ga,_gid,uid,UID
+ADVERTISING COOKIES = _gcl_au,_fbp,_gat_gtag_UA_2120790_1,IDE,CMID,CMPS,CMPRO,rlas3,EE,pxrc,ud,_kuid_,uuid2,demdex,bku,anj,ab,UserID1,dpm,wfivefivec,AFFICHE_W
+UNCLASSIFIED COOKIES = AwinCookie,_hjIncludedInSessionSample_3416860,didomi_token,_ga_FGBR2QGYP1,ar_debug,C,receive-cookie-deprecation,CM,CM14,uid-bp-617,SEUNCY,cm_uid,DID,IDT,cookie_ver,block_reset,ct_uid,ct_did,ct_idt,permanent,bkpa,XANDR_PANID,arcki2,arcki2_adform,idt,matchadform,arcki2_ddp2,cache0
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

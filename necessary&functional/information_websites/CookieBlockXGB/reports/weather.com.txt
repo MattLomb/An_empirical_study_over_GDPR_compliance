@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: weather.com 
+NECESSARY COOKIES = speedpin,usprivacy,RT,wxu-metrics-session,daybreak-metrics
+FUNCTIONAL COOKIES = ci
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = consentUUID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

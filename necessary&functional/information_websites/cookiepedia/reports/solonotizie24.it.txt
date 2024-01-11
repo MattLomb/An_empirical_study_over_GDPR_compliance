@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: solonotizie24.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = quads_browser_width,_ga_HKW8W46WHQ,__lxG__consent__v2,__lxG__consent__v2_daisybit
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

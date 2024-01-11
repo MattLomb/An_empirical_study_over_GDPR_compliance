@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: moto.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _pbjs_userid_consent_data,_ga_6FYJGNH5XE,euconsent-v2,_iub_cs-13468808-granular
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

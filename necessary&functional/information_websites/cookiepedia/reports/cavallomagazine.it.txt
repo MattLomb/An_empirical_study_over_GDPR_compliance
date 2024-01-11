@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: cavallomagazine.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = IMRID
+UNCLASSIFIED COOKIES = __cf_bm,SSID_cavallomagazine,SV_cavallomagazine,SSC_cavallomagazine,SN_cavallomagazine,euconsent-v2,pubtech-cmp-pcstring
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

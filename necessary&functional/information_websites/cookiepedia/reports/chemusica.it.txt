@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: chemusica.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,_ga,_gid
+ADVERTISING COOKIES = _gat_gtag_UA_886456_52
+UNCLASSIFIED COOKIES = quads_browser_width,_ga_XEJQWZY0KG
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

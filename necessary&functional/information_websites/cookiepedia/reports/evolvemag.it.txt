@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: evolvemag.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = lidc
+ANALYTICS COOKIES = _pk_id.4.b0a3,_pk_ses.4.b0a3,_ga
+ADVERTISING COOKIES = _fbp,bcookie,UserMatchHistory,bscookie,IMRID
+UNCLASSIFIED COOKIES = _ga_DMKV4FVCQ0,li_sugr,AnalyticsSyncHistory,li_gc,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

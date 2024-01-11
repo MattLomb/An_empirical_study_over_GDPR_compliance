@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: caffeinamagazine.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = IMRID
+UNCLASSIFIED COOKIES = __cf_bm,_iub_cs-61276433,_iub_cs-61276433-granular,euconsent-v2,lotame_domain_check,panoramaId_expiry
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

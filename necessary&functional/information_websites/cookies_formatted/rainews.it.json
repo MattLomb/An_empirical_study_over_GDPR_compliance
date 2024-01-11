@@ -1,0 +1,242 @@
+{
+  "wtsid_602039762736393": {
+    "visit_id": 1,
+    "name": "wtsid_602039762736393",
+    "domain": "rai-italia01.wt-eu02.net",
+    "path": "/602039762736393",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wteid_602039762736393": {
+    "visit_id": 1,
+    "name": "wteid_602039762736393",
+    "domain": "rai-italia01.wt-eu02.net",
+    "path": "/602039762736393",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4170496262600113119",
+        "expiry": 1720514626,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ws_jwt": {
+    "visit_id": 1,
+    "name": "ws_jwt",
+    "domain": "www.rainews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdXRoLWdyb3VwcyI6InN1YiIsImNsaWVudC1pZCI6IjkySDBYWEs3TkZaMiIsImV4cCI6MTcwNDk2NjIyNX0.MoVTnXXSiVdtr5k-rCzvRFhtdAkXY_ebEi4QUA6dGEcfzgI4AL75mAoj9t6PPdHgZljcX7ojBjki8q7_iEQdnhfF2k2O68Fpv7a1FsMl_gbqKUFq4GCkk2P1kajHqnO33VmkvZ5ZSIO57y88z5CbWvG45MhNUDYMv15CpT2Q2m5JGHvVzkdqUVlYxu_NaSihLBst33a-rwn5vn2ZquqCTg2nQ_YdApc1mPTdk-mBOl4Z4-mgIrHlkTVGHLBDXJqdFTFMGsLrZz4lIHQk3Z1StuYSUerTOkFal2etxUBJy9KbemjVj0RHTHMTIGEzUwgDTH3Zne6NzAdR-K_XDF2kMw",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ws_basepath": {
+    "visit_id": 1,
+    "name": "ws_basepath",
+    "domain": "www.rainews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ec.rainews.it",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rn-weather-prov": {
+    "visit_id": 1,
+    "name": "rn-weather-prov",
+    "domain": "www.rainews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Roma",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".rainews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "173B5F3677226019ECE93E1475CC25DF~YAAQr8ATAmfrvfSMAQAAdxCx9xZdhXlXQAzdgeNfUgvwUXHpHRf9qTHJtLqXiIoxSbm2Oxmb+ca/Frqg7AZ9XAwz6/dVXQSweXyryC+H5MtiyTokjmEmQAYkQhoION6/46GVXXySeH7z5Svgzs7ESyNoEr8T0VOxwZlX52cWKC6X16eRmCu7S7sXTvNVy+IQiIPCrjY7ROzimulbAtyPxaVy1Oho+t16kCR0Jq2Wzx9rnF2qlPKoyf0JfarBgsnr~1",
+        "expiry": 1704969825,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".rainews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "94F25004A80F74DAD7AACA1257B02C80~000000000000000000000000000000~YAAQr8ATAnTrvfSMAQAAtxCx9xazGk89cTMKMcbeXQiG90CBGph5sZ9nE4a9ZLgJqnYl5Ae3nvt4By7+e0kYvOsy9+cczBROcvY4V2NV115oqeFW82tbjyX9m7QinV+eT3bcafwkM0zjcgEk/IdsfXNeSa2bylj3LhWVF09M4XIHt/6GKQIv3FjR03fsWdUJt1qWzKTNPYoGSc5izatvBQZ2iQXA5UB1MOd2TNrPv6qpzXhPQN2rsiAE1RpUVdYt42oSyo8ApRQ2OWvPi/fiuQFrMPltms0DmtxpSKCbJEZ+vOugA3e0FZnQogCkZfykDMJhPzdMPPnLACg8FhQiEAhmA0EObMHCartywkMm2XwanSNoqrA+IfKLGzcj4LTMKBT8oIA6SNNk963n/USbLynODCg2PcNWvXnRxOi/CS6UOoYT181THp5CiXoO0Qac/LD26+aEv9EdRQ5MCdpdgZHRkKMYksvG2ijpwYMNgAdqadaMluZt2JYRPlQeK0I=",
+        "expiry": 1704969824,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_rla": {
+    "visit_id": 1,
+    "name": "wt_rla",
+    "domain": ".rainews.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "602039762736393%2C2%2C1704962625882",
+        "expiry": 1710146625,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "wt_nbg_Q3": {
+    "visit_id": 1,
+    "name": "wt_nbg_Q3",
+    "domain": "rai-italia01.wt-eu02.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!of8JkudoV5IEhJo8AP7SORvNY+Kz1I0U4qcuuu/ytxObGJD45TxKRGRza7vLbfIwFfGY6dPflPJI/w==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "b_id": {
+    "visit_id": 1,
+    "name": "b_id",
+    "domain": "www.rai.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5bb0488b-2e39-4424-86ef-c2ef8e4c1556",
+        "expiry": 1720514626,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "88950a20-b05d-11ee-b45e-150d5486b253",
+        "expiry": 1738658626,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "19Ac5698e9a4f2d0611bd531704962631",
+        "expiry": 1739522631,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

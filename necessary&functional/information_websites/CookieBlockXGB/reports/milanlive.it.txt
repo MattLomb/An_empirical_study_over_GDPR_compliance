@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: milanlive.it 
+NECESSARY COOKIES = OAGEO,OAID,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = _ga_ZVVND9BTK5,_ga,UID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

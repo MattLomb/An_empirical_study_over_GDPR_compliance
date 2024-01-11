@@ -1,0 +1,82 @@
+{
+  "_ga_5QENE0CSQF": {
+    "visit_id": 1,
+    "name": "_ga_5QENE0CSQF",
+    "domain": ".tuttomercatoweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704940852.1.0.1704940852.0.0.0",
+        "expiry": 1739500852,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".tuttomercatoweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.2144418234.1704940853",
+        "expiry": 1739500852,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d69ccf60-b02a-11ee-ab96-95121efc1ea5",
+        "expiry": 1738636853,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FCNEC": {
+    "visit_id": 1,
+    "name": "FCNEC",
+    "domain": ".tuttomercatoweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5B%22AKsRol8y5q79AtZPkytQwg4dMCtJWV0qipExnvUkVNEbI3VbTGF3wQfEktPQ10QxiMSTyoCr3f-hvSXCf3kjO-d2xnyyp2qjqZyyglWXLOCUvN4Rxun1q1A0LeOyauYnGxzu__EyZUzfrnNCD0x-dd9ZmTFOI8o6bA%3D%3D%22%5D%2Cnull%2C%5B%5B5%2C%22393%22%5D%5D%5D",
+        "expiry": 1736476854,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

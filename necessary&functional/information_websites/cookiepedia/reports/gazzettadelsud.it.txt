@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: gazzettadelsud.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = ts
+ANALYTICS COOKIES = UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = gdsit-ws,dmvk,_TEST_,v1st,_iub_cs-47273256,euconsent-v2,_iub_cs-47273256-granular
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

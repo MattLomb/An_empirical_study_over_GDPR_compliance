@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: bebeblog.it 
+NECESSARY COOKIES = utag_main,euconsent-v2,addtl_consent,SSID_TRO-bebeblogit,SV_TRO-bebeblogit,SSC_TRO-bebeblogit,SN_TRO-bebeblogit,SSCN_N_TRO-bebeblogit,SSCN_UG_TRO-bebeblogit,SSCN_UW_TRO-bebeblogit,SSCN_UM_TRO-bebeblogit,TAPAD
+FUNCTIONAL COOKIES = _ga_E44HJD1PHG,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: serchioindiretta.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,_ga_CF9MVXS6J3,_ga_FR20SCSXTH,SSID_PCT-serchio,SV_PCT-serchio,SSC_PCT-serchio,SN_PCT-serchio,euconsent-v2,addtl_consent,_OASCAP[13567],_OABLOCK[13567]
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

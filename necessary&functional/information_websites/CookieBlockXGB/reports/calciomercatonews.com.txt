@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: calciomercatonews.com 
+NECESSARY COOKIES = quads_browser_width,OAGEO,OAID,C,uid,tuuid_lu,euconsent-v2,addtl_consent,test_cookie,lotame_domain_check,panoramaId_expiry
+FUNCTIONAL COOKIES = _ga_EDSG4ZJZ0M,_ga,UID,tuuid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = khaos,audit,__cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

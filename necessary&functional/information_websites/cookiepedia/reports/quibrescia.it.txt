@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: quibrescia.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,_ga_3XM1YW12C1,SSID_quibrescia,SV_quibrescia,SSC_quibrescia,SN_quibrescia,euconsent-v2,addtl_consent,_OASCAP[13583],_OABLOCK[13583]
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

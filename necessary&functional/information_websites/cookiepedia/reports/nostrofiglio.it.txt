@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: nostrofiglio.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = wt_nbg_Q3,_gat_gtag_UA_5699143_1,IMRID
+UNCLASSIFIED COOKIES = wtstp_sid,wtstp_eid,wtstp_cdbeid,wtstp_rla,_ga_60S70NSJ8B,push_notification_viewed
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

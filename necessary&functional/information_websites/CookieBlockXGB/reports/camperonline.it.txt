@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: camperonline.it 
+NECESSARY COOKIES = ASPSESSIONIDCEATATAB,PHPSESSID,euconsent-v2,_gat_UA-73886531-1,_gat_UA-73886531-4
+FUNCTIONAL COOKIES = _ga_3B49PRNS8L,_ga,_gid,_ga_N4WSCHKT5Y,_ga_QPW13KFHH2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE,cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: scoreboard.com 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,_fbp,test_cookie
+UNCLASSIFIED COOKIES = eupubconsent-v2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

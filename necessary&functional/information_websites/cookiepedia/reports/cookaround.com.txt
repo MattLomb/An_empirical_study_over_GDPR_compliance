@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: cookaround.com 
+NECESSARY COOKIES = AWSALB,AWSALBCORS
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gat_gtag_UA_2292754_1,wt_nbg_Q3,IMRID
+UNCLASSIFIED COOKIES = wteid_769396664005295,wtsid_769396664005295,wt_rla,_ga_4HRXJDCP75,push_notification_viewed
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

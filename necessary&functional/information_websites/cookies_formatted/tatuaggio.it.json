@@ -1,0 +1,42 @@
+{
+  "_ga_TX0PF5YFF2": {
+    "visit_id": 1,
+    "name": "_ga_TX0PF5YFF2",
+    "domain": ".tatuaggio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704939983.1.0.1704939983.0.0.0",
+        "expiry": 1739499983,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".tatuaggio.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1836997504.1704939983",
+        "expiry": 1739499983,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

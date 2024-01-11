@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: instanews.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID,_ga,_gid
+ADVERTISING COOKIES = _gat_gtag_UA_66528123_4
+UNCLASSIFIED COOKIES = _ga_GPNX3NYJ01,euconsent-v2,addtl_consent,__cf_bm
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

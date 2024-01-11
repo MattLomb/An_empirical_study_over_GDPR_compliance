@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: messinanelpallone.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _ga_S2Q1R529RF,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

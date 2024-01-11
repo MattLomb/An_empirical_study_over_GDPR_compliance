@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ubitennis.com 
+NECESSARY COOKIES = ak_bmsc
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = __utma,__utmc,__utmz,__utmt,__utmb,_ga
+ADVERTISING COOKIES = _fbp,MUID
+UNCLASSIFIED COOKIES = mrf-client-id,__cf_bm,_ga_0PVTQTBY79,_abck,bm_sz,_pbjs_userid_consent_data,_pubCommonId,euconsent-v2,pubtech-cmp-pcstring,_pubCommonId_last,pubtech-unifiedid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

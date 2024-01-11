@@ -1,0 +1,282 @@
+{
+  "_ga_XKCC7LWP7S": {
+    "visit_id": 1,
+    "name": "_ga_XKCC7LWP7S",
+    "domain": ".ricettedellanonna.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704938038.1.0.1704938038.0.0.0",
+        "expiry": 1739498038,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ricettedellanonna.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.839504269.1704938039",
+        "expiry": 1739498038,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".ricettedellanonna.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704938038720.1650419649",
+        "expiry": 1712714042,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "C": {
+    "visit_id": 1,
+    "name": "C",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707616439,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUk_Bsv-7HaTucq4xTUFScnOZb_XNpPlXmRr9GsL3L3Y6oH-tk7vsv3yqliOZcM",
+        "expiry": 1738634039,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid": {
+    "visit_id": 1,
+    "name": "uuid",
+    "domain": ".mathtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b77d659f-4a37-4200-a07c-807bd2074e2e",
+        "expiry": 1738893239,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".adform.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4089568000996927546",
+        "expiry": 1710122039,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cProfile": {
+    "visit_id": 1,
+    "name": "cProfile",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AQMZ7HPVwAXUAAAAAAAEAAABjQrTWuAAB2RlZmF1bHQ=",
+        "expiry": 1706234040,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cP": {
+    "visit_id": 1,
+    "name": "cP",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ATYDGexz1a4FtgAAAAABsZaS",
+        "expiry": 1736474041,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cOptout": {
+    "visit_id": 1,
+    "name": "cOptout",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0|yocToken:bFPpwvkGM8jBSu0bpVUGvpOP8_w",
+        "expiry": 1736474040,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mt_mop": {
+    "visit_id": 1,
+    "name": "mt_mop",
+    "domain": ".mathtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1707530050,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tr": {
+    "visit_id": 1,
+    "name": "tr",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "loCAwIGpTUVESUFNQVRIzmWgm7mAgdoANDMxOWVjNzNkNWFlMDViNl9iNzdkNjU5Zi00YTM3LTQyMDAtYTA3Yy04MDdiZDIwNzRlMmXOZZ9KOQ==",
+        "expiry": 1736474041,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FCCDCF": {
+    "visit_id": 1,
+    "name": "FCCDCF",
+    "domain": ".ricettedellanonna.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CP4N9sAP4N9sAEsACCITAiEgAAAAAAAAAAAgAABBQhTwABAAKABgAGgAQgAwADIAGwAPgAiABKACqAFgAWgA4gB0AHcAPQA-ACKAE4AKIAWgAvABhADIAG0AOcAdwB4AD4AIKARQBGACZAE6AJ8AUIApABWgC-AGIANIAagA2AB1gDtAHiAPMAfIA_gCBwESARMAkwBN4CegJ8AUUApYBTYCvAK-AWYAvgBfgDAAGNAM0AZ8A1wBswDgAHLAOuAeiA94D5AH7AQAAgwBDYCJQEVAI1gR2BHgCSIEsgS0Al4BOgChAFRAKrAVfAr4CvwFhwLLAs0BZ4C1QFrgLeAXLAukC6gF2ALuAXoAvcBgADAgGDwMLAwwBiYDGQGNgMdAZAAyiBl4GYQM1AzYBn8DQgNDAaVA1ADUgGrANaAa7A2EDYgGygNqAbiA3yBwgHDAOOAc5A6EDo4HUgdUA7IB28DuQO6gd4B3oDvwHhAPIAeYA88B7wD4wH4gP4gf4B_wEAAIBQQIBAkCCgEFoIMgg0BB8CEgELAIaQQ3BDgCHYERgIlARWAiyBGYCNUEbARuAjhBHIEcwI-ASBgkWCRgEvAJhQTGBMcCZIQUAAA.YAAAAAAAAAA%22%2C%222~~dv.2052.2064.2068.2072.43.55.70.89.93.108.122.136.143.149.2213.196.2253.211.2271.2299.259.2316.2328.2331.286.311.313.317.323.2373.338.358.2415.2416.371.2427.385.2440.397.2453.415.2477.449.2501.453.2506.2510.2517.469.2526.482.486.2542.494.495.2567.2568.522.2571.2572.2575.2577.2583.540.2628.584.2642.2651.2656.2657.609.2677.2681.2710.2713.2767.2805.2821.2831.2834.2839.2844.798.2867.2878.2886.2887.2891.2895.2898.864.2916.2927.2941.2949.2964.2973.2985.2986.938.3018.3025.981.3030.3034.3052.3066.3073.1029.3077.1031.1033.1040.3095.1048.1051.3100.3109.3112.1067.3128.3130.1092.1095.1097.3153.1107.3185.3190.3198.3213.3219.1186.3234.3244.1201.1205.1211.1230.3290.3292.3314.1268.1276.3324.3327.1301.1307.1329.1344.1365.1415.1419.1449.1451.1455.1516.1558.1570.1577.1579.1598.1616.1626.1638.1651.1653.1697.1712.1716.1732.1735.1753.1782.1808.1842.1843.1859.1870.1911.1917.1958.1985.2010%22%2C%222AFBBCD2-BEEB-46AB-A613-1F66A0EE68CE%22%5D%5D",
+        "expiry": 1738634042,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mt_misc": {
+    "visit_id": 1,
+    "name": "mt_misc",
+    "domain": ".mathtag.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "mt_bt:1704938050",
+        "expiry": 1707530050,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

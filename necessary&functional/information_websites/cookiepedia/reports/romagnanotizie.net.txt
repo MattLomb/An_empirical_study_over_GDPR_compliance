@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: romagnanotizie.net 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = _GRECAPTCHA,LSW_WEB,_ga_16DV4ZKRE4,_ga_D106RQ6MXJ,SSID_PCT-romagnanoti,SV_PCT-romagnanoti,SSC_PCT-romagnanoti,SN_PCT-romagnanoti,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

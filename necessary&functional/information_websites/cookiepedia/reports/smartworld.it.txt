@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: smartworld.it 
+NECESSARY COOKIES = AWSALB,AWSALBCORS
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _gat_gtag_UA_16649429_1,wt_nbg_Q3,IMRID
+UNCLASSIFIED COOKIES = wteid_769396664005295,wtsid_769396664005295,nielsenSdk-1067801098,wt_rla,_ga_S4SWGHWWJ9,push_notification_viewed
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

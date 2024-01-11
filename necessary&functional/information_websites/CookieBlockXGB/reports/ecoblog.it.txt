@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ecoblog.it 
+NECESSARY COOKIES = euconsent-v2,addtl_consent,TAPAD,SSID_TRO-ecoblogit,SV_TRO-ecoblogit,SSC_TRO-ecoblogit,SN_TRO-ecoblogit,SSCN_N_TRO-ecoblogit,SSCN_UG_TRO-ecoblogit,SSCN_UW_TRO-ecoblogit,SSCN_UM_TRO-ecoblogit
+FUNCTIONAL COOKIES = _ga_F947FHX9ZR,_ga
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

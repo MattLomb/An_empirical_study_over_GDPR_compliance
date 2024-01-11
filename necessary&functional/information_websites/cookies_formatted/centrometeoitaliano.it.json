@@ -1,0 +1,362 @@
+{
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.79026632.1704931183",
+        "expiry": 1739491183,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704931183094.1812041809",
+        "expiry": 1712707190,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "prism_649509315": {
+    "visit_id": 1,
+    "name": "prism_649509315",
+    "domain": ".centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "397ebfbc-d768-4c49-9041-db91ce05b52a",
+        "expiry": 1707523183,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IMRID": {
+    "visit_id": 1,
+    "name": "IMRID",
+    "domain": ".imrworldwide.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "53828040-b014-11ee-b5b1-a7c9a62fe728",
+        "expiry": 1738627184,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_85GDBLG6MC": {
+    "visit_id": 1,
+    "name": "_ga_85GDBLG6MC",
+    "domain": ".centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704931183.1.0.1704931189.0.0.0",
+        "expiry": 1739491189,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf5d16411000c08f596184da705075002306d009dc$_sn:1$_se:1$_ss:1$_st:1704932989778$ses_id:1704931189778%3Bexp-session$_pn:1%3Bexp-session",
+        "expiry": 1736467189,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-29235925": {
+    "visit_id": 1,
+    "name": "_iub_cs-29235925",
+    "domain": ".iubenda.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T23%3A59%3A50.887Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%222%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A29235925%7D",
+        "expiry": 1736467191,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-29235925-granular": {
+    "visit_id": 1,
+    "name": "_iub_cs-29235925-granular",
+    "domain": ".centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22gac%22%3A%22MX4%3D%22%7D",
+        "expiry": 1736467190,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAB7E7CITAiEgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUABQkFsABAAC4AKAAqABwADwAIIAXgBhADIANQAeABEACYAFUAMwAbwA9AB-AEJAIYAiQBHACWAE0AMAAYcAygDLAGyAOeAdwB3wD2APiAfYB-wD_AQAAikBFwEYAI1ASIBJQCUwE_AUGAqACrgFzAL0AYoA0QBtADcAHEgR6BIoCdgFDgKPAUiApsBbAC5AF3gLzAYMAw2BkYGSAMnAZmAzmBq4GsgNvAbmA3UBwQDkwHLgPHAfSBBMCDAEIYIWghcBDmCHoIfgRxgj6CP4EigJIQSYBJkCWAEswJbgS-AmABMwCZwE3AJzATpAncOg4AALgAoACoAHAAQQAuADUAHgARAAmABVgC4ALoAYgAzABvAD0AH6AQwBEgCWAE0AJwAUYAwABhgDKAGiANkAc8A7gDvAHtAPsA_QB_wEUARiAjoCSgEpgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB1AD7AIvgR6BIoCVAEyAJ2AUPAo8CkIFNAU2AqwBYoCyoFsAWyAt0BcAC5AF2gLvAXmAvoBgwDDQGPQMjAyQBk4DKgGWAMzAZyA0QBpoDVYGrgawA28BuoDiwHJgOXAeOA8kB9ID6wH3AP7AgCBBgCFsEOQQ6Ah6BHECO0EfQR_AkUBJACTIEqAJYASzAl0BL4CYAEzAJnATcAm8BOECcwE6YJ2gncQgcAALAAoAC4AGIANQAmABTACqAFwAMQAbwA9ACOAGAAOeAdwB3gD_AIoASkAoMBUQFXALmAYoA2gB1AEegJUAU0AqwBYoCygFogLgAXIAyMBk4DOQGiANVAcAA8cB9ID-wIMAQoAhaBDoCHoEcQJFASQAkyBLoCZwE5gJ3EoG4ACAAFgAUAA5ADAAMQAeABEACYAFUALgAYoBDAESAI4AUYAwABsgDvAH5AVEBVwC5gGKAOoAiYBF8CPQJFAUeApoBYoCygFsALzgZGBkgDJwGcgNYAbeA4AB9IEAQIHgQYAhCBD0COIEigJIASZAl0BL4CZgEzgJuAThAnMBO4pBXAAXABQAFQAOAAggBgAGoAPAAiABMACkAFUAMQAZgA_QCGAIkAUYAwABlADRAGyAOcAd8A_AD9AIsARiAjoCSgEpAKDAVEBVwC5gF5AMUAbQA3AB1AD2gH2ARMAi-BHoEigJ2AUOApCBTQFNgKsAWKAtgBcAC5AF2gLzAX0Aw2BkYGSAMnAZYAzmBrAGsgNvAbqA4IByYDlwHigPHAfSA_sCCYEGAIQgQtAhnBDkEOgI4gR2gj6CP4EigJIQSYBJkCWYEugJfATAAmYBM4CbwE5gJ3AA",
+        "expiry": 1736035190,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSID_TRO-centrometeoitalianoi": {
+    "visit_id": 1,
+    "name": "SSID_TRO-centrometeoitalianoi",
+    "domain": "www.centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1353194066688",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SV_TRO-centrometeoitalianoi": {
+    "visit_id": 1,
+    "name": "SV_TRO-centrometeoitalianoi",
+    "domain": "www.centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704931191204",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SSC_TRO-centrometeoitalianoi": {
+    "visit_id": 1,
+    "name": "SSC_TRO-centrometeoitalianoi",
+    "domain": "www.centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1%G1%G%G1704931191000%G%G%G1%G1704931191000%Ghttps%3A%2F%2Fwww.centrometeoitaliano.it%2F%G",
+        "expiry": 1720483191,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SN_TRO-centrometeoitalianoi": {
+    "visit_id": 1,
+    "name": "SN_TRO-centrometeoitalianoi",
+    "domain": "www.centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0%G%G1%G1704931191000%G1704931191000%G",
+        "expiry": 1720483191,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAPAD": {
+    "visit_id": 1,
+    "name": "TAPAD",
+    "domain": "www.centrometeoitaliano.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22id%22%3A%225c7ec025-a223-4656-8ec9-52a9971b03b4%22%7D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "cProfile": {
+    "visit_id": 1,
+    "name": "cProfile",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AQMZ66KtFAXiAAAAAAAEAAABjQpqxooAB2RlZmF1bHQ=",
+        "expiry": 1706227186,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cP": {
+    "visit_id": 1,
+    "name": "cP",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AWIDGeuirRQF4gAAAAABsZYg",
+        "expiry": 1736467190,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tr": {
+    "visit_id": 1,
+    "name": "tr",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "loCAwICAwA==",
+        "expiry": 1736467191,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cOptout": {
+    "visit_id": 1,
+    "name": "cOptout",
+    "domain": ".neodatagroup.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0|yocToken:_KY4wPI0o8LHyTntTBEnimzeHks",
+        "expiry": 1736467191,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

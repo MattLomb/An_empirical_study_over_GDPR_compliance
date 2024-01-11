@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: tgcom24.mediaset.it 
+NECESSARY COOKIES = gig_canary,gig_bootstrap_3_Q2YR3-An4K_pslqTk0mxn7NXhotIqAGEa4K9oWWuhB8terc3cQk5GVAX3AIeVTlt,utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = UID
+ADVERTISING COOKIES = wt_nbg_Q3,IMRID
+UNCLASSIFIED COOKIES = wteid_769396664005295,wtsid_769396664005295,__mx_log,gig_canary_ver,gmid,ucid,hasGmid,gig_canary_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM,gig_canary_ver_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM,daily_pixel_synch_last_fired,_iub_cs-40600793,apiDomain_3_AEqz9yB3cfIGhPz-eTIo1QaMkmJL6d2kp-RypQnJvtv4TRaZqnGKZbViAYVjFmVM,wtstp_rla
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

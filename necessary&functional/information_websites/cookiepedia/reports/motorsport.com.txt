@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: motorsport.com 
+NECESSARY COOKIES = _dc_gtm_UA-5127509-1,OptanonAlertBoxClosed,OptanonConsent,JSESSIONID
+FUNCTIONAL COOKIES = _cb_svref,visitor,LANG
+ANALYTICS COOKIES = _gid,_chartbeat2,_ga
+ADVERTISING COOKIES = _fbp
+UNCLASSIFIED COOKIES = ms_touch,abtestv2,_pc_PianoABtestv2,_pc_20ABtestv2,_pc_20ABtestn2,pageviewSession,Sessions7daysExpires,Sessions7days,Sessions30daysExpires,Sessions30days,adblfree,_cb,FPLC,FPID,opt_out,ucountry,ustate,ntvSession,eupubconsent-v2,OTAdditionalConsentString,_ga_PVMXPYS8TW,ktcid,cs,status,ver,_pctx,_pcid,_pcus,__cf_bm,__tbc,__pat,__pvi,xbc,ch_sid,cX_P,LANG_CHANGED,gckp,cX_G,m
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

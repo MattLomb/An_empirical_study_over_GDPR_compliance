@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: scoreboard.com 
+NECESSARY COOKIES = OptanonAlertBoxClosed,eupubconsent-v2,_gcl_au,test_cookie
+FUNCTIONAL COOKIES = OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

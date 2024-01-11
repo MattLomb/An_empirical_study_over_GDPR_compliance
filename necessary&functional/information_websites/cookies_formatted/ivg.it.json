@@ -1,0 +1,102 @@
+{
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".ivg.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704933827457.967409770",
+        "expiry": 1712709831,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".ivg.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-11T00:43:51.947Z",
+        "expiry": 1736469831,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "eupubconsent-v2": {
+    "visit_id": 1,
+    "name": "eupubconsent-v2",
+    "domain": ".ivg.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4N05gP4N05gAcABBENAiEgAAAAAEPgAAYgg1NX_H__bW9j8Xr3aft0eY1P99j77sQxBhfJE-4FyLvW_JwXx2EwNA26pqIKmRIEu3ZBIQFlHIHURUigaogVryHsYkGcgTNKJ6BkgFMRM2dYCF5vmYtj-QKY5_p9d3fx2D-t_dv83dzzz8VHn3epfmckcICdQ58tDfn9bRKb-5IOd_78v4v09F_rk2_eTVn_tcAAAAAAAAAAAAAO9_cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQaoYwACIAFAAXAA4AD4AKAAqABcADgAHgAQAAkgBcAGUANAA1ABwADwAH4ARAAjgBMAChAFIAUwAqwBbAF0AMQAZgA0ABvAD0AH4AQgAhoBEAESAI4ASwAmgBOACjAGAAMOAZQBlgDNAGiANkAcgA54B3AHeAPYAfEA-wD9gH-AgEBBwEIAIiARSAiwCMAEagI4AjoBIgCSgEpAJoATsAn4BQYCoAKiAVcAsQBcwC6wF5AXoAvoBigDPgGiANeAbQA3ABxADjgHSAOoAdsA9oB9gD_gImARfAjwCPYEiASLAlQCVgExQJkAmUBM4CbQE7AKHgUeBSICk4FNAU2Ap8BUMCpAKlAVUAqwBXICuwFhQLEAsUBZQC0QFqQLYAtmBbgFugLgAXIAugBdoC74F5AXmAvoBf4DBAGDAMNAYgAxYBjwDIYGRgZJAyYDJwGVAMsAZmAzkBngDRAGjANNAamA1WBq4GsgNeAbQA2yBtwG3wNzA3UBvgDgAHBAOLAceA5OBywHLgOdAc-A6wB2wDuQHigPHgeSB5QD4oHyAfKA-kB9cD7QPugfsB-4D-wIAgQEAgYBA8CCMEEwQUAgwBBsCEIEKAIVwQtBC4CGcEOQQ6gh4CHoEPwIpgRgAjSBGsCN4EcQI6AR2Aj2BH0CaQE1AJsQTbBNyCbwJvgThCDUAA.YAAACHwAAAAA",
+        "expiry": 1736469831,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".ivg.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+01%3A43%3A51+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202312.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e6997a29-786a-442a-9355-b0d94044ede0&interactionCount=1&landingPath=NotLandingPage&groups=C0005%3A0%2CC0002%3A0%2CC0003%3A1%2CC0004%3A0%2CC0001%3A1%2CV2STACK42%3A0",
+        "expiry": 1736469831,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "Intro": {
+    "visit_id": 1,
+    "name": "Intro",
+    "domain": "www.ivg.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "si",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

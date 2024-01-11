@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: luccaindiretta.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = LSW_WEB,_ga_5FNNRR1DYY,SSID_Luccaindiretta,SV_Luccaindiretta,SSC_Luccaindiretta,SN_Luccaindiretta,_ga_FR20SCSXTH,euconsent-v2,addtl_consent
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

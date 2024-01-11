@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: multiplayer.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = color-scheme,_ga_BW3X5D4E38,_iub_cs-495815-granular,euconsent-v2,TAPAD,_iub_cs-495815
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

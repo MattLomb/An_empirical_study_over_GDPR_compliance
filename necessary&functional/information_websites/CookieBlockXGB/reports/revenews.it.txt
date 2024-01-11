@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: revenews.it 
+NECESSARY COOKIES = _pk_id.3.8008,_pk_ses.3.8008,__qca,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = mc,_ga_W948ZJHB35,_ga,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ricettedellanonna.net 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,uid
+ADVERTISING COOKIES = _fbp,IDE,uuid,mt_mop
+UNCLASSIFIED COOKIES = _ga_XKCC7LWP7S,C,cProfile,cP,cOptout,tr,FCCDCF,mt_misc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

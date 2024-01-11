@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: juvelive.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = euconsent-v2,addtl_consent,__cf_bm,_ga_RH8B4CV9LB
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

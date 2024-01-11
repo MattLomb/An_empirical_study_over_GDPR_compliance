@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilrestodelcarlino.it 
+NECESSARY COOKIES = AWSALBCORS,_k5a,__cf_bm,__adblocker,__pnahc,__tbc,__pat,test_cookie,cX_P,_pbjs_userid_consent_data,ptechsdepth,pubtech-cmp-pcstring,pubtech-unifiedid
+FUNCTIONAL COOKIES = IMRID,_pctx,_pcid,_pcus,_ga,__pvi,xbc,_ga_1QY0VE6NXY,cX_G,_pubCommonId,pt1-ppid-v2,euconsent-v2,_pubCommonId_last
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,gckp,dmvk,ts,v1st,usprivacy
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

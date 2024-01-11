@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: omnimoto.it 
+NECESSARY COOKIES = __cf_bm,_gat_UA-15680706-1,C,IDE,uid,mt_mop,mt_misc
+FUNCTIONAL COOKIES = _ga_WLSCLY7QYF,_ga,_gid,IMRID,uuid,FCCDCF
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = cProfile,cP,cOptout,tr
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

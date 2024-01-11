@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: repubblica.it 
+NECESSARY COOKIES = gig_canary,gig_bootstrap_3_1LA7c1Tgh8TOu8RyhRNltE6n6Avs4pEXj5bhyQNpnpC3KHJ60mcdJ6xOubYt6iUJ
+FUNCTIONAL COOKIES = _cb_svref
+ANALYTICS COOKIES = _chartbeat2,_ga,_gid
+ADVERTISING COOKIES = IMRID,NID
+UNCLASSIFIED COOKIES = kw_1pc_enableds,kw_dllimio_logdebugger,kw_prevUsrSts,froomle-frm-internal-abtest,kw_debug_1px,gig_canary_ver,_t_tests,_cb,_ga_CJNJE8FY4S,gmid,ucid,hasGmid,gig_canary_3_2oQ0Rw41QlhvMLmUtCqjJUkf3Vou3hkxjQGQBHWIc9REFlNZdsQ6Nhgf1lcRZARv,gig_canary_ver_3_2oQ0Rw41QlhvMLmUtCqjJUkf3Vou3hkxjQGQBHWIc9REFlNZdsQ6Nhgf1lcRZARv,kw_qr_dc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: stopandgoal.com 
+NECESSARY COOKIES = quads_browser_width,__lxG__consent__v2,gv
+FUNCTIONAL COOKIES = _ga_MYJMWN2Q72,_ga,UID,__lxG__consent__v2_daisybit
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __cf_bm,st_uid,st_ssp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

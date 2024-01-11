@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilmessaggero.it 
+NECESSARY COOKIES = _iub_cs-29298946,cst_44,__cf_bm,_lr_retry_request,_lr_env_src_ats
+FUNCTIONAL COOKIES = IMRID,euconsent-v2,MUID,__mguid_,XANDR_PANID,anj
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uuid2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

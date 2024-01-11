@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilgazzettino.it 
+NECESSARY COOKIES = _iub_cs-84131446,cst_44,__cf_bm,_lr_retry_request,_lr_env_src_ats
+FUNCTIONAL COOKIES = IMRID,euconsent-v2,MUID,__mguid_,anj,XANDR_PANID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uuid2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

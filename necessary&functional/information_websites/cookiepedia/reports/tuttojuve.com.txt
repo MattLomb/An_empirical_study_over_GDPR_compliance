@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: tuttojuve.com 
+NECESSARY COOKIES = utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = OAID,_ga,_gid,uid
+ADVERTISING COOKIES = __kuid
+UNCLASSIFIED COOKIES = _ga_YT2MLX1FN3,C,__lxG__consent__v2,__lxG__consent__v2_daisybit,SSID_TRO-tuttojuvecom,SV_TRO-tuttojuvecom,SSC_TRO-tuttojuvecom,SN_TRO-tuttojuvecom,__browsiSessionID,__browsiUID,TAPAD,cProfile,cP,tr,cOptout
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

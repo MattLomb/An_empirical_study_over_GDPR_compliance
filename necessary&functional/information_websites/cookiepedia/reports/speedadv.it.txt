@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: speedadv.it 
+NECESSARY COOKIES = CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gat_UA-100563032-1
+UNCLASSIFIED COOKIES = _GRECAPTCHA,_ga_PN39PLQKYF
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

@@ -1,0 +1,102 @@
+{
+  "_ga_ZPWX8TKCB0": {
+    "visit_id": 1,
+    "name": "_ga_ZPWX8TKCB0",
+    "domain": ".urbanpost.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704930920.1.0.1704930920.0.0.0",
+        "expiry": 1739490920,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".urbanpost.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.471107649.1704930920",
+        "expiry": 1739490920,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-28136270": {
+    "visit_id": 1,
+    "name": "_iub_cs-28136270",
+    "domain": ".urbanpost.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-10T23%3A55%3A23.823Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%222%22%3Atrue%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A28136270%7D",
+        "expiry": 1736466923,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-28136270-granular": {
+    "visit_id": 1,
+    "name": "_iub_cs-28136270-granular",
+    "domain": ".urbanpost.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22gac%22%3A%22MX4%3D%22%7D",
+        "expiry": 1736466923,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".urbanpost.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4KqwAP4KqwAB7E7CITAiEgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUABQkFsABAAC4AKAAqABwADwAIIAXgBhADIANQAeABEACYAFUAMwAbwA9AB-AEJAIYAiQBHACWAE0AMAAYcAygDLAGyAOeAdwB3wD2APiAfYB-wD_AQAAikBFwEYAI1ASIBJQCUwE_AUGAqACrgFzAL0AYoA0QBtADcAHEgR6BIoCdgFDgKPAUiApsBbAC5AF3gLzAYMAw2BkYGSAMnAZmAzmBq4GsgNvAbmA3UBwQDkwHLgPHAfSBBMCDAEIYIWghcBDmCHoIfgRxgj6CP4EigJIQSYBJkCWAEswJbgS-AmABMwCZwE3AJzATpAncOg4AALgAoACoAHAAQQAuADUAHgARAAmABVgC4ALoAYgAzABvAD0AH6AQwBEgCWAE0AJwAUYAwABhgDKAGiANkAc8A7gDvAHtAPsA_QB_wEUARiAjoCSgEpgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB1AD7AIvgR6BIoCVAEyAJ2AUPAo8CkIFNAU2AqwBYoCyoFsAWyAt0BcAC5AF2gLvAXmAvoBgwDDQGPQMjAyQBk4DKgGWAMzAZyA0QBpoDVYGrgawA28BuoDiwHJgOXAeOA8kB9ID6wH3AP7AgCBBgCFsEOQQ6Ah6BHECO0EfQR_AkUBJACTIEqAJYASzAl0BL4CYAEzAJnATcAm8BOECcwE6YJ2gncQgcAALAAoAC4AGIANQAmABTACqAFwAMQAbwA9ACOAGAAOeAdwB3gD_AIoASkAoMBUQFXALmAYoA2gB1AEegJUAU0AqwBYoCygFogLgAXIAyMBk4DOQGiANVAcAA8cB9ID-wIMAQoAhaBDoCHoEcQJFASQAkyBLoCZwE5gJ3EoG4ACAAFgAUAA5ADAAMQAeABEACYAFUALgAYoBDAESAI4AUYAwABsgDvAH5AVEBVwC5gGKAOoAiYBF8CPQJFAUeApoBYoCygFsALzgZGBkgDJwGcgNYAbeA4AB9IEAQIHgQYAhCBD0COIEigJIASZAl0BL4CZgEzgJuAThAnMBO4pBXAAXABQAFQAOAAggBgAGoAPAAiABMACkAFUAMQAZgA_QCGAIkAUYAwABlADRAGyAOcAd8A_AD9AIsARiAjoCSgEpAKDAVEBVwC5gF5AMUAbQA3AB1AD2gH2ARMAi-BHoEigJ2AUOApCBTQFNgKsAWKAtgBcAC5AF2gLzAX0Aw2BkYGSAMnAZYAzmBrAGsgNvAbqA4IByYDlwHigPHAfSA_sCCYEGAIQgQtAhnBDkEOgI4gR2gj6CP4EigJIQSYBJkCWYEugJfATAAmYBM4CbwE5gJ3AA",
+        "expiry": 1736034923,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

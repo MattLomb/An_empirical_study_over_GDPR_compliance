@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: calciomercatoweb.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,UID,OAID
+ADVERTISING COOKIES = OAGEO
+UNCLASSIFIED COOKIES = _ga_G9S5GDY8PB
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

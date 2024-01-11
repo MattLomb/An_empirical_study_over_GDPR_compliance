@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: paesionline.it 
+NECESSARY COOKIES = ASP.NET_SessionId
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,uid
+ADVERTISING COOKIES = NID,_fbp,uuid,IDE,mt_mop
+UNCLASSIFIED COOKIES = ans,_ga_52FNHMXS3R,cProfile,C,cP,cOptout,tr,FCCDCF,_lr_geo_location_state,_lr_geo_location,GLAM-JID,GLAM-AID,GLAM-SID,__j_state,mt_misc
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

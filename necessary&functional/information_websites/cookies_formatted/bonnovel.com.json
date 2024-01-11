@@ -1,0 +1,1162 @@
+{
+  "thirdparty": {
+    "visit_id": 1,
+    "name": "thirdparty",
+    "domain": "widgets.outbrain.com",
+    "path": "/nanoWidget/externals/cookie",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "yes",
+        "expiry": 1704966099,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_52TQHZXGTL": {
+    "visit_id": 1,
+    "name": "_ga_52TQHZXGTL",
+    "domain": ".bonnovel.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704962491.1.0.1704962491.0.0.0",
+        "expiry": 1739522491,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".bonnovel.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1888292895.1704962492",
+        "expiry": 1739522491,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pbjs_userid_consent_data": {
+    "visit_id": 1,
+    "name": "_pbjs_userid_consent_data",
+    "domain": "bonnovel.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5655053101386045",
+        "expiry": 1707554493,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_sharedid": {
+    "visit_id": 1,
+    "name": "_sharedid",
+    "domain": ".bonnovel.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fc284ae8-236f-49ca-a19f-7457fffa864d",
+        "expiry": 1739522498,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "7thMile": {
+    "visit_id": 1,
+    "name": "7thMile",
+    "domain": ".h12-media.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5339c218%2D196b%2D4ae7%2D9072%2Df0ca71306c29",
+        "expiry": 1709962493,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CT": {
+    "visit_id": 1,
+    "name": "CT",
+    "domain": "pbjs.e-planning.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cto_bundle": {
+    "visit_id": 1,
+    "name": "cto_bundle",
+    "domain": ".bonnovel.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "w08mDl9NS3RCMGtReUxaZW8xWnR2ZHpURWJUSUlQVzhJYkJVZTBYQXhVY0I5YlhxTSUyQmtNUlJyNnBtRHBpM2RpQWNqTTIweVp5QTJSWDFmTXpXRFVZN25VbUgwUUo2Zlg3a0d4NFdzbThKWTd4eHglMkZwOURSdktNZDBYNFBhdGh5U3EzQk01dFFOSlg0ck9MWHZlcG9WOXBScXM3RFVwcGhRTmZsSWZXcVdsTnVwU3BzJTNE",
+        "expiry": 1738662093,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cto_bidid": {
+    "visit_id": 1,
+    "name": "cto_bidid",
+    "domain": ".bonnovel.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3rxQ1184SWJEVVc5YXRYTkhERGFzbGNsMkh1WU4zRkwlMkJ1cFU2TWlES3M0QyUyQjBoZTZDOXVYUVVuVUs4MFZqS2xIaEZHYk9rd290Z0slMkY3elpVamdOUDFaM2Q3M1A5Qm5vOUh6QnlxZUduT1AySiUyRktoeCUyRmFyb3JmZ2tNbjdFVmpCOG1Cbjc",
+        "expiry": 1738662093,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "apuid": {
+    "visit_id": 1,
+    "name": "apuid",
+    "domain": "a4p.adpartner.pro",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c6016147-fa97-48c2-8dee-023622ae8b40",
+        "expiry": 1710146498,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid2": {
+    "visit_id": 1,
+    "name": "uuid2",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1862323585059537637",
+        "expiry": 1712738499,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "obsessionid-p178258": {
+    "visit_id": 1,
+    "name": "obsessionid-p178258",
+    "domain": ".outbrain.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7465946f-1a3e-74e7-0000-018cf7af222f|0|1",
+        "expiry": 1704964299,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "recs": {
+    "visit_id": 1,
+    "name": "recs",
+    "domain": ".outbrain.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0B5452309580A2784477051ACD1",
+        "expiry": 1704962559,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "obuid": {
+    "visit_id": 1,
+    "name": "obuid",
+    "domain": ".zemanta.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fBp5kYSVGYBL6TQJN4Ds85JXr0FcvNNPi_jDGZhOn-zxsSPxdoHZiS0XprLgJ8GL",
+        "expiry": 1736498500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "vmuid": {
+    "visit_id": 1,
+    "name": "vmuid",
+    "domain": ".adtelligent.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c21ae8cf7f44b880",
+        "expiry": 1710319300,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "a733849": {
+    "visit_id": 1,
+    "name": "a733849",
+    "domain": ".adtelligent.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2573919880116358781",
+        "expiry": 1710319300,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "a307558": {
+    "visit_id": 1,
+    "name": "a307558",
+    "domain": ".adtelligent.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c6016147-fa97-48c2-8dee-023622ae8b40",
+        "expiry": 1710319300,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "a297253": {
+    "visit_id": 1,
+    "name": "a297253",
+    "domain": ".adtelligent.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1862323585059537637",
+        "expiry": 1710319300,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "XANDR_PANID": {
+    "visit_id": 1,
+    "name": "XANDR_PANID",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "pTMYc1ip76GPSuv3GBTROh9_-aqt4j8X_YG3Z7uaKG3v7bOgRhyZtm-4zG-s267ySybIMUpmM1koltLDJGSYC8K83_jjV57pbPhvI4GjA6Q.",
+        "expiry": 1739522499,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid": {
+    "visit_id": 1,
+    "name": "tuuid",
+    "domain": ".mfadsrvr.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0812a3f6-5c6a-43b3-8fab-eba608633c7a",
+        "expiry": 1739522500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "c": {
+    "visit_id": 1,
+    "name": "c",
+    "domain": ".mfadsrvr.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704962500",
+        "expiry": 1739522500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ab": {
+    "visit_id": 1,
+    "name": "ab",
+    "domain": ".agkn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0001%3A1odNVAuMrGkvLEMhxHRkqglrjDBnNZu8",
+        "expiry": 1736498499,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pxrc": {
+    "visit_id": 1,
+    "name": "pxrc",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CMPT/qwGEgUI6AcQABIGCLrqARAA",
+        "expiry": 1710146500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "66545778097096818581082262552054851976",
+        "expiry": 1720514500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "tuuid_lu": {
+    "visit_id": 1,
+    "name": "tuuid_lu",
+    "domain": ".mfadsrvr.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704962500",
+        "expiry": 1739522500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_kuid_": {
+    "visit_id": 1,
+    "name": "_kuid_",
+    "domain": ".krxd.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "QB2v8H3i",
+        "expiry": 1720514500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "66545778097096818581082262552054851976",
+        "expiry": 1720514500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ssh": {
+    "visit_id": 1,
+    "name": "ssh",
+    "domain": ".mfadsrvr.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "!outbrain,1704962500",
+        "expiry": 1739522500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "imid_secure": {
+    "visit_id": 1,
+    "name": "imid_secure",
+    "domain": ".im-apps.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8_Orf0P3Q2OSBBEz86P2iQ",
+        "expiry": 1739522500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "imid_created_secure": {
+    "visit_id": 1,
+    "name": "imid_created_secure",
+    "domain": ".im-apps.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704962500",
+        "expiry": 1739522500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUklrYfqQHEIbEPDFcpzWsD5d9k6dKqFqkFFAxAcRQy2HzgppOV1iylxCRCOfLY",
+        "expiry": 1738658500,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UserID1": {
+    "visit_id": 1,
+    "name": "UserID1",
+    "domain": ".adfarm1.adition.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7322758178414262418",
+        "expiry": 1712738500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "smxtrack": {
+    "visit_id": 1,
+    "name": "smxtrack",
+    "domain": ".smadex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b6c41699-eb52-4336-bd90-6d8dcbbc8e2e",
+        "expiry": 1736066500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "smxbds": {
+    "visit_id": 1,
+    "name": "smxbds",
+    "domain": ".smadex.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1705826500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rlas3": {
+    "visit_id": 1,
+    "name": "rlas3",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7xtajAZGG039KmesrAe0IhiOAuH4v423i/jJYz5c88U=",
+        "expiry": 1736498500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SERVERID": {
+    "visit_id": 1,
+    "name": "SERVERID",
+    "domain": ".eyeota.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "21535~DM",
+        "expiry": 1704963100,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "zuid": {
+    "visit_id": 1,
+    "name": "zuid",
+    "domain": ".zemanta.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "oaYK423z1YMU4JvARr6b",
+        "expiry": 1736498500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "u": {
+    "visit_id": 1,
+    "name": "u",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "HSeNFeJ1rtcVQ57YZxJR",
+        "expiry": 1736498500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "g": {
+    "visit_id": 1,
+    "name": "g",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "HSeNFeJ1rtcVQ57YZxJR_1704962500594",
+        "expiry": 1736498500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ts": {
+    "visit_id": 1,
+    "name": "ts",
+    "domain": ".creativecdn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704962500",
+        "expiry": 1736498500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMID": {
+    "visit_id": 1,
+    "name": "CMID",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ZZ.pxAUn0l80XXxxq6gcyQAA",
+        "expiry": 1736498500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPS": {
+    "visit_id": 1,
+    "name": "CMPS",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5043",
+        "expiry": 1712738500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CMPRO": {
+    "visit_id": 1,
+    "name": "CMPRO",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5043",
+        "expiry": 1712738500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "EE": {
+    "visit_id": 1,
+    "name": "EE",
+    "domain": ".exelator.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"7fe2d21454036ae21dca90496a23ab36\"",
+        "expiry": 1715330500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ud": {
+    "visit_id": 1,
+    "name": "ud",
+    "domain": ".exelator.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"eJxrXxzq6XKLQcE8LdUoxcjQxNTEwNgsMdXIMCU50dLAxNIs0cg4McnYbHFZatGCpaXFqSlJh5ZU5JTkNK0uiw91jHdz9PX0iVzmnFGUn5u6AiwU5hq02NDQfEl%252BUWb6Is%252BQxUUpaQyLSopPBR%252BrvgEAjeEqgw%253D%253D\"",
+        "expiry": 1715330500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "i": {
+    "visit_id": 1,
+    "name": "i",
+    "domain": ".openx.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "5778a307-cb97-4dcc-b5a8-f30e5bc7a56e|1704962500",
+        "expiry": 1736498500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "hsk_1600": {
+    "visit_id": 1,
+    "name": "hsk_1600",
+    "domain": ".exelator.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"gAAAAAQAAACSKLUv%252FSCSkQQAiKRidWlk2gBAZkJwNWtZU1ZHWUJMNlRRSk40RHM4NUpYcjBGY3ZOTlBpX2pER1poT24tenhzU1B4ZG9IWmlTMFhwckxnSjhHTKNoc2ukNjIxOahkZWxpdmVyeaQ2MjE5o3ZlcgGlYm5hbWWnUzIwNE9VVKV0c2Vnc6cyOTQ0NTQ0pWJjb2RlzQZAonRzylPGe9g%253D\"",
+        "expiry": 1715330500,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MUID": {
+    "visit_id": 1,
+    "name": "MUID",
+    "domain": ".bing.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1427E71B7FEF62FD18A4F3187ED86314",
+        "expiry": 1738658502,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MR": {
+    "visit_id": 1,
+    "name": "MR",
+    "domain": ".c.bing.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1705567302,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pid": {
+    "visit_id": 1,
+    "name": "pid",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8139922333177768437",
+        "expiry": 1739176842,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "d": {
+    "visit_id": 1,
+    "name": "d",
+    "domain": ".quantserve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EFABDQHwKq-LswA",
+        "expiry": 1712738501,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mc": {
+    "visit_id": 1,
+    "name": "mc",
+    "domain": ".quantserve.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "659fa9c5-3a01e-ff68b-a5072",
+        "expiry": 1739176901,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "INGRESSCOOKIE": {
+    "visit_id": 1,
+    "name": "INGRESSCOOKIE",
+    "domain": "bh.contextweb.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9ac8f89f3c54824a",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "UID": {
+    "visit_id": 1,
+    "name": "UID",
+    "domain": ".adx.opera.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "OPU56fd79daceb9471eb9eba965730dd90e",
+        "expiry": 1736498501,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ut-112-0": {
+    "visit_id": 1,
+    "name": "ut-112-0",
+    "domain": ".rtbsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7DED8F4AC42E47702D38D2B8F48A226710BC43300C133DCF22503E720FCD0E30BEA781D390BC24B1F53D4F787F05484C9959F0D8F87A17244AEE8136720983D6BC79EBD9916C48B3192C85D5135BC14E5F6FD556ABB4DEAF81BE5A853717D70D",
+        "expiry": 1704962551,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ut-0-112": {
+    "visit_id": 1,
+    "name": "ut-0-112",
+    "domain": ".rtbsystem.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7252B64FC68BBF06639888602B4427FC027738A64D3D7ACC66CFCF8B976157C3181C0653EBE99FA6207F14FFA88475CD9BC7F3839DB40D200F6B33C57F4CFF12",
+        "expiry": 1704962551,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uid": {
+    "visit_id": 1,
+    "name": "uid",
+    "domain": ".turn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3022678399020325942",
+        "expiry": 1720514501,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_rxuuid": {
+    "visit_id": 1,
+    "name": "_rxuuid",
+    "domain": ".targeting.unrulymedia.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22rx_uuid%22%3A%22RX-827551e2-64f3-4a93-9e59-95f005373632-003%22%7D",
+        "expiry": 1736498502,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: atnews.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_ATNews,SV_ATNews,SSC_ATNews,SN_ATNews,addtl_consent,_OASCAP[13653],_OABLOCK[13653],pbw,vs,TestIfCookie,TestIfCookieP,pid,d,KCCH,uid,_rxuuid
+FUNCTIONAL COOKIES = _ga_5Z5M5FQVWL,_ga,_ga_P5P7XX22TS,euconsent-v2,sasd2,sasd,icu,XANDR_PANID,ayl_visitor,mc,csync
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au,uuid2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

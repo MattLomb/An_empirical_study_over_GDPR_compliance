@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: milannews.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = IMRID
+UNCLASSIFIED COOKIES = _ga_S6TSBD5EMN,FCNEC,__lxG__consent__v2,__lxG__consent__v2_daisybit,o
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

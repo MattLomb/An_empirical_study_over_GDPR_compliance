@@ -1,0 +1,42 @@
+{
+  "_ga_69DGJVDLDB": {
+    "visit_id": 1,
+    "name": "_ga_69DGJVDLDB",
+    "domain": ".ultimaparola.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704940030.1.0.1704940030.0.0.0",
+        "expiry": 1739500030,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".ultimaparola.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.1198711269.1704940031",
+        "expiry": 1739500030,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

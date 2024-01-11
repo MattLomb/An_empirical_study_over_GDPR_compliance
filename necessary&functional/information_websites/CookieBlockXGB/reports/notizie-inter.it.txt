@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: notizie-inter.it 
+NECESSARY COOKIES = __cf_bm,evntuid,euconsent-v2,addtl_consent
+FUNCTIONAL COOKIES = _ga_QD5L2JC2GW,_ga,_ga_EXK7YBW3W8,_ga_5YT1E7GK54,IMRID,MUID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ilcapoluogo.it 
+NECESSARY COOKIES = LSW_WEB,OAID,SSID_ilCapoluogoit,SV_ilCapoluogoit,SSC_ilCapoluogoit,SN_ilCapoluogoit,addtl_consent
+FUNCTIONAL COOKIES = _ga_7DVX3WS1X5,_ga,euconsent-v2
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

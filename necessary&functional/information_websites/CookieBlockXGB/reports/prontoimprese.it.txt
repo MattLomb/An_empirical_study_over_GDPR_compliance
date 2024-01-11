@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: prontoimprese.it 
+NECESSARY COOKIES = _gat_UA-13179473-1,SSID_prontoimprese,SV_prontoimprese,SSC_prontoimprese,SN_prontoimprese,__gpi,IDE,test_cookie,ar_debug,SSA
+FUNCTIONAL COOKIES = _ga,_gid,cf_clearance,UID,_ga_MEM1RMF4YH,IMRID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = __gads
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

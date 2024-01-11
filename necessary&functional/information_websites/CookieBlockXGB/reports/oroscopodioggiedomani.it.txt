@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: oroscopodioggiedomani.it 
+NECESSARY COOKIES = euconsent-v2,addtl_consent,OAGEO,OAID,_gid,_gat_UA-122253619-16,AMCVS_1A124673527853290A490D45%40AdobeOrg,wrvUserID,IDE
+FUNCTIONAL COOKIES = _ga_ERBXEM8Y84,UID,_ga,_ga_6C8YZH8X8E,demdex,s_ecid,AMCV_1A124673527853290A490D45%40AdobeOrg,APC,uuid-s
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = cs
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies
