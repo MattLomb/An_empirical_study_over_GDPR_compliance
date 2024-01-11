@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: italian.alibaba.com 
+NECESSARY COOKIES = __itrace_wid,XSRF-TOKEN,xman_us_f,xman_t,_tb_token_,NetWorkGrade,sca,icbu_s_tag,ug_se_c,xlly_s,isg,ali_apache_track,ali_apache_tracktmp,i,yandexuid,_ym_uid,_ym_d,_ym_isad,yabs-sid,yuidss,u,ts,ar_debug,yashr,uuid2,IDE,CMPS,CMPRO,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,criteo,_kuid_,opt_out,dc,ss
+FUNCTIONAL COOKIES = ali_apache_id,sc_g_cfg_f,acs_usuc_t,xman_f,t,cookie2,atpsida,cbc,umdata_,_m_h5_tk,_m_h5_tk_enc,tfstk,l,ymex,bh,g,c,demdex,dpm,ayl_visitor,XANDR_PANID,anj,tvid,tv_UICR,UID,tuuid,ut
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = cna,uid,visitor-id,data-c-ts,data-c,CMID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

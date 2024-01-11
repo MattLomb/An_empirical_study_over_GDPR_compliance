@@ -1,0 +1,702 @@
+{
+  "dwac_42fa10501657c2bafbe4e39236": {
+    "visit_id": 1,
+    "name": "dwac_42fa10501657c2bafbe4e39236",
+    "domain": "www.euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Iq7GJq-x2k2BBLOtu4aud1JFbnIXOYgSpNA%3D|dw-only|||EUR|false|Europe%2FRome|true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cqcid": {
+    "visit_id": 1,
+    "name": "cqcid",
+    "domain": "www.euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cfaXcJPIfqBkiBCVvqAdYsvOtb",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cquid": {
+    "visit_id": 1,
+    "name": "cquid",
+    "domain": "www.euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "||",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sid": {
+    "visit_id": 1,
+    "name": "sid",
+    "domain": "www.euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Iq7GJq-x2k2BBLOtu4aud1JFbnIXOYgSpNA",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dwanonymous_9f66852da18e58c387015589bd34e546": {
+    "visit_id": 1,
+    "name": "dwanonymous_9f66852da18e58c387015589bd34e546",
+    "domain": "www.euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cfaXcJPIfqBkiBCVvqAdYsvOtb",
+        "expiry": 1720520712,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cq_dnt": {
+    "visit_id": 1,
+    "name": "__cq_dnt",
+    "domain": "www.euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dw_dnt": {
+    "visit_id": 1,
+    "name": "dw_dnt",
+    "domain": "www.euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dwsid": {
+    "visit_id": 1,
+    "name": "dwsid",
+    "domain": "www.euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "rtzG4oZ0IaLa6Vy1t7ajj943brY-_HP9_z19aqFs_sfNDnr0zh7ktAQdE47P3Px0krfKWeI5dmKb3ubcu6issQ==",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "igodigitaltc2": {
+    "visit_id": 1,
+    "name": "igodigitaltc2",
+    "domain": ".igodigital.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b493147e-b06b-11ee-aaa5-aee29e3d6bd2",
+        "expiry": 1739528713,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "igodigitalst_100001654": {
+    "visit_id": 1,
+    "name": "igodigitalst_100001654",
+    "domain": ".igodigital.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "b4931942-b06b-11ee-aaa5-aee29e3d6bd2",
+        "expiry": 1704969613,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "igodigitalstdomain": {
+    "visit_id": 1,
+    "name": "igodigitalstdomain",
+    "domain": ".igodigital.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1144365",
+        "expiry": 1704969613,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.1394709768.1704968713",
+        "expiry": 1712744713,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1752240300.1704968714",
+        "expiry": 1739528713,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.127091746.1704968714",
+        "expiry": 1705055113,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_E67WS7M9VZ": {
+    "visit_id": 1,
+    "name": "_ga_E67WS7M9VZ",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704968713.1.0.1704968713.0.0.0",
+        "expiry": 1739528713,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CLID": {
+    "visit_id": 1,
+    "name": "CLID",
+    "domain": "www.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "314f656541ce4b64b0bc8c085707e67d.20240111.20250110",
+        "expiry": 1736504712,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSessionUser_1033475": {
+    "visit_id": 1,
+    "name": "_hjSessionUser_1033475",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6IjRhNDY4OTgwLTEyNzAtNTJhZi1hMWJiLTgwMzgyYjc0NDBhMCIsImNyZWF0ZWQiOjE3MDQ5Njg3MTM5NzQsImV4aXN0aW5nIjpmYWxzZX0=",
+        "expiry": 1736504713,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjFirstSeen": {
+    "visit_id": 1,
+    "name": "_hjFirstSeen",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704970513,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjIncludedInSessionSample_1033475": {
+    "visit_id": 1,
+    "name": "_hjIncludedInSessionSample_1033475",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704970513,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjSession_1033475": {
+    "visit_id": 1,
+    "name": "_hjSession_1033475",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJpZCI6Ijk4NWExZDU2LTQxNzEtNDYyOC04YjM1LWZhMDg0YjIyZTMzYyIsImMiOjE3MDQ5Njg3MTM5NzUsInMiOjAsInIiOjAsInNiIjoxfQ==",
+        "expiry": 1704970513,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_hjAbsoluteSessionInProgress": {
+    "visit_id": 1,
+    "name": "_hjAbsoluteSessionInProgress",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704970513,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_clck": {
+    "visit_id": 1,
+    "name": "_clck",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1rz4xhz%7C2%7Cfib%7C0%7C1471",
+        "expiry": 1736504713,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "yourekoUserId": {
+    "visit_id": 1,
+    "name": "yourekoUserId",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "24020db3-4927-76a9-7a71-de95def939cd",
+        "expiry": 1736504714,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_MEY774YD6Q": {
+    "visit_id": 1,
+    "name": "_ga_MEY774YD6Q",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.2.1704968714.1.0.1704968714.60.0.0",
+        "expiry": 1739528714,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uuid": {
+    "visit_id": 1,
+    "name": "uuid",
+    "domain": ".cquotient.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cfaXcJPIfqBkiBCVvqAdYsvOtb",
+        "expiry": 1739096714,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cq_uuid": {
+    "visit_id": 1,
+    "name": "__cq_uuid",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cfaXcJPIfqBkiBCVvqAdYsvOtb",
+        "expiry": 1739096714,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cq_seg": {
+    "visit_id": 1,
+    "name": "__cq_seg",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00",
+        "expiry": 1707560714,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_clsk": {
+    "visit_id": 1,
+    "name": "_clsk",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1qklwkg%7C1704968714764%7C1%7C1%7Cn.clarity.ms%2Fcollect",
+        "expiry": 1705055114,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MUID": {
+    "visit_id": 1,
+    "name": "MUID",
+    "domain": ".clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3C4A998B8A0563AC1C998D888BE46299",
+        "expiry": 1738664716,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MR": {
+    "visit_id": 1,
+    "name": "MR",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1705573516,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SRM_B": {
+    "visit_id": 1,
+    "name": "SRM_B",
+    "domain": ".c.bing.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3C4A998B8A0563AC1C998D888BE46299",
+        "expiry": 1738664716,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SM": {
+    "visit_id": 1,
+    "name": "SM",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "C",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ANONCHK": {
+    "visit_id": 1,
+    "name": "ANONCHK",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704969316,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-11T10:25:17.666Z",
+        "expiry": 1720520717,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".euronics.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+11%3A25%3A17+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.37.0&isIABGlobal=false&hosts=&consentId=f986de6d-725f-4eb0-b13f-5098866926e1&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A1%2CC0004%3A0",
+        "expiry": 1720520717,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

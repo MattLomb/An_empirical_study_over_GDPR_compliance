@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: vinted.it 
+NECESSARY COOKIES = __cf_bm,v_sid,v_udt,anon_id,anonymous-locale,viewport_size,cf_clearance,_vinted_fr_session,_pbjs_userid_consent_data,OptanonAlertBoxClosed,OTAdditionalConsentString,_dd_s
+FUNCTIONAL COOKIES = ab.optOut,datadome,eupubconsent-v2,OptanonConsent,MUID
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _uetsid,_uetvid,_fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

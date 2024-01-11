@@ -1,0 +1,722 @@
+{
+  "__cf_bm": {
+    "visit_id": 1,
+    "name": "__cf_bm",
+    "domain": ".biff.travel",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "TfmZOEgYhZLkKI.T1rOE65mpa2_pRqRd7eenNXlj5Pw-1704970665-1-AR80Kk1dWUMMz5IeW8zD3BsVGzzuJHPP0A6TepLUJP8lNohjEHSb/oeWTKoKDBWD/E+iW05bZzA1iFpAYAe4l4I=",
+        "expiry": 1704972465,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__cfruid": {
+    "visit_id": 1,
+    "name": "__cfruid",
+    "domain": ".biff.travel",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c0b5de27410d22120b1e1e37d7fac64206334ace-1704970665",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__vuc": {
+    "visit_id": 1,
+    "name": "__vuc",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "V05_357993d9-2f27-464c-8e50-0c96d294367f_",
+        "expiry": 1739530665,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "LSI": {
+    "visit_id": 1,
+    "name": "LSI",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTRmMTNjLTllZmUtNDI0OS1iYjA4LTI3ZDdkNmRiMmE0NiJ9.qgJBnwpsb1zn5dPZpXoSlenaD4WSKGqdycrgmqREpMY",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "businessProfileId": {
+    "visit_id": 1,
+    "name": "businessProfileId",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "LASTMINUTECOUK",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "no_oil_cookie": {
+    "visit_id": 1,
+    "name": "no_oil_cookie",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "callcenter-service-prd": {
+    "visit_id": 1,
+    "name": "callcenter-service-prd",
+    "domain": "services.lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704970666.318.3447.522775|63a853646076a34e50441e9309863b38",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1463779950.1704970666",
+        "expiry": 1739530665,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.136265842.1704970666",
+        "expiry": 1705057065,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cq_duid": {
+    "visit_id": 1,
+    "name": "_cq_duid",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1704970665.7VNgt9Z7HL9Re0uf",
+        "expiry": 1712854665,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cq_suid": {
+    "visit_id": 1,
+    "name": "_cq_suid",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1704970665.pET3ismz0ywDZUq4",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pk_id.14bd2cd6-1200-4cc5-b5cf-8b0038fda4bb.8fb5": {
+    "visit_id": 1,
+    "name": "_pk_id.14bd2cd6-1200-4cc5-b5cf-8b0038fda4bb.8fb5",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0632d94ea6f36f73.1704970666.1.1704970666.1704970666.",
+        "expiry": 1738925865,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_pk_ses.14bd2cd6-1200-4cc5-b5cf-8b0038fda4bb.8fb5": {
+    "visit_id": 1,
+    "name": "_pk_ses.14bd2cd6-1200-4cc5-b5cf-8b0038fda4bb.8fb5",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "*",
+        "expiry": 1704972465,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.luUUmtmZem3oN65QB1nsESaPHwD%2BmEoA8grpZz%2F5h%2F0%3D.1704970666",
+        "expiry": 1739530665,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "D1GD3bSaLv5XYim2kVCMPwVx40%2FT3fLZKs5Gws0d84e%2F%2FMWq%2ByZcQ5bCq%2Ba7Zo%2B5laW96iBNHx4TFc3VlMcyGo1i79YH7JdYuc4Xl%2B4EwRBWt%2Bk6n6YX9%2Bho%2Bi86WQ%3D%3D",
+        "expiry": 1705042665,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__mpt": {
+    "visit_id": 1,
+    "name": "__mpt",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTRmMTNjLTllZmUtNDI0OS1iYjA4LTI3ZDdkNmRiMmE0NiIsImV4cCI6MTcwNDk3MzM2NiwidXVpZCI6IjM1Nzk5M2Q5LTJmMjctNDY0Yy04ZTUwLTBjOTZkMjk0MzY3ZiIsInVyZCI6IkdVRVNUIn0.BqffOrbK6zjHjTk6aaRQhMPS8IRLJYqK2_W0wkgcNH8",
+        "expiry": 1739530665,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cg_uuid": {
+    "visit_id": 1,
+    "name": "cg_uuid",
+    "domain": "obseu.herbgreencolumn.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "08017c19f3137c6c7b2cd74e2c5ef3d8",
+        "expiry": 1734001066,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.429061664.1704970666",
+        "expiry": 1712746666,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_uetsid": {
+    "visit_id": 1,
+    "name": "_uetsid",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "40d81c00b07011ee83dfb3f9d62bd58a",
+        "expiry": 1705057066,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_uetvid": {
+    "visit_id": 1,
+    "name": "_uetvid",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "40d80d80b07011eeabb889c727e1c19c",
+        "expiry": 1738666666,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MUID": {
+    "visit_id": 1,
+    "name": "MUID",
+    "domain": ".clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2777828921506A7A25C7968A20B16BD0",
+        "expiry": 1738666667,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUlJaQfZOJLylUpP6MSUvfH9OBU6zhdVXAOPfm-ik2J7kHmzZzWfLJ8AtNBk",
+        "expiry": 1738666666,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "CLID": {
+    "visit_id": 1,
+    "name": "CLID",
+    "domain": "www.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "71406922b356470fa898ad628e076767.20240111.20250110",
+        "expiry": 1736506667,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_clck": {
+    "visit_id": 1,
+    "name": "_clck",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1qys0hn%7C2%7Cfib%7C0%7C1471",
+        "expiry": 1736506667,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MR": {
+    "visit_id": 1,
+    "name": "MR",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1705575467,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SRM_B": {
+    "visit_id": 1,
+    "name": "SRM_B",
+    "domain": ".c.bing.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2777828921506A7A25C7968A20B16BD0",
+        "expiry": 1738666667,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SM": {
+    "visit_id": 1,
+    "name": "SM",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "C",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ANONCHK": {
+    "visit_id": 1,
+    "name": "ANONCHK",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704971267,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_clsk": {
+    "visit_id": 1,
+    "name": "_clsk",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1lur54f%7C1704970668183%7C1%7C1%7Cn.clarity.ms%2Fcollect",
+        "expiry": 1705057068,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-77035448-granular": {
+    "visit_id": 1,
+    "name": "_iub_cs-77035448-granular",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22gac%22%3A%22MX4%3D%22%7D",
+        "expiry": 1736506670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "euconsent-v2": {
+    "visit_id": 1,
+    "name": "euconsent-v2",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CP4N9sAP4N9sAB7E7CENAiEgAAAAAAAAAAAAAABBQgIgA4AM-AjwBKoCZwG-AO2AdyBBQCRAElAJRgS0AmOBMkCaQQUAAAAA",
+        "expiry": 1736074670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "oil_GTM_cookie": {
+    "visit_id": 1,
+    "name": "oil_GTM_cookie",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "{\"2\":false,\"3\":false,\"5\":false,\"25\":true,\"26\":false,\"28\":false,\"recreated\":true}",
+        "expiry": 1736506670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "c_m_a": {
+    "visit_id": 1,
+    "name": "c_m_a",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1736506670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_66BMGPKMTR": {
+    "visit_id": 1,
+    "name": "_ga_66BMGPKMTR",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704970665.1.1.1704970670.0.0.0",
+        "expiry": 1739530670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf82bbcb600171be5420e85e505075001b06d009dc$_sn:1$_se:12$_ss:0$_st:1704972470463$ses_id:1704970665143%3Bexp-session$_pn:1%3Bexp-session",
+        "expiry": 1736506670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_iub_cs-77035448": {
+    "visit_id": 1,
+    "name": "_iub_cs-77035448",
+    "domain": ".lastminute.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22timestamp%22%3A%222024-01-11T10%3A57%3A50.285Z%22%2C%22version%22%3A%221.53.2%22%2C%22purposes%22%3A%7B%221%22%3Atrue%2C%222%22%3Afalse%2C%223%22%3Afalse%2C%224%22%3Afalse%2C%225%22%3Afalse%7D%2C%22id%22%3A77035448%2C%22cons%22%3A%7B%22rand%22%3A%227e63cf%22%7D%7D",
+        "expiry": 1736506670,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

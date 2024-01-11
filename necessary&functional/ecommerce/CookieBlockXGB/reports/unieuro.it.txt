@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: unieuro.it 
+NECESSARY COOKIES = JSESSIONID,ASAK,_GRECAPTCHA,TS018d3b94,userCookie,TS01c4f873,BIGipServerwww.unieuro.it_PROD_BROWSER_pool,TS010c1c85,BIGipServerwww.unieuro.it_PROD_MOBILE_pool,tCdebugLib,FPID,stack,hero-session-d7e1d2b7-e794-4c35-bbeb-4df29420eef7,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = _ga,_gid,FPLC,OptanonConsent,_ga_9ME2EJF5E6
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

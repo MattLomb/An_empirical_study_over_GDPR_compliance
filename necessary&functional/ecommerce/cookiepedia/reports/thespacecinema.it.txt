@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: thespacecinema.it 
+NECESSARY COOKIES = ASP.NET_SessionId,AWSALB,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = at_check
+ANALYTICS COOKIES = SC_ANALYTICS_GLOBAL_COOKIE
+ADVERTISING COOKIES = test_cookie
+UNCLASSIFIED COOKIES = SameSite,ADRUM_BTa,ADRUM_BT1,searchSource,welcomeScreenCookie,showRibbonRating,__cfwaitingroom
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

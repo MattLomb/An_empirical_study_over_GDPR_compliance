@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: farmasave.it 
+NECESSARY COOKIES = __session:0.159143601436869:,akcwv,apay-session-set,FPID,ar_debug,IDE,CMPS,CMPRO,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,criteo,opt_out,_kuid_,CookieConsent
+FUNCTIONAL COOKIES = _ga_DYW85VJEDY,XANDR_PANID,anj,ayl_visitor,demdex,dpm,tvid,tv_UICR
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uid,uuid2,visitor-id,data-c-ts,data-c,CMID
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

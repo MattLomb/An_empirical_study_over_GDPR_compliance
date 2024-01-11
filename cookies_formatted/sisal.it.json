@@ -1,0 +1,702 @@
+{
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "454C8A23BEA82C35104208F3776A7620~YAAQSX4ZuK8Ppu+MAQAAnTQK+BbfWdT+3KpBYaCLIFvMEpr6hU2SwLJTO3/fm9tpRl8aHYQCpfpy0Wy7O5/xXRaMuo8fU2aqxXFtNtnYnqC3o4nRNzlCxY1eB8TiNU6y9PH7MG2RCbKNpnUgF5V0RKaO926uBYHfWJMFEyqhV5eTRm36MpXNS0nHZaZOGuginA7eigD0rJCytA0e06ZQdg1I4LymkA/oC+W3r8t1S0ltP0cKR5w0YRwZZZfsaGnUYlfp0R2JoG2mZw2Rbbb5bGMGd/NRoTaotpvxpDIDtCxx~4605491~3683633",
+        "expiry": 1704982867,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxVisitor": {
+    "visit_id": 1,
+    "name": "rxVisitor",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704968467497PHT85FGONBF06KKIQTL9B8H148N9R9V9",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtPC": {
+    "visit_id": 1,
+    "name": "dtPC",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-43$368467495_84h1vKUANMJNNJNDBOACQKLMCKHLUUTMAHKFG-0e0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtSa": {
+    "visit_id": 1,
+    "name": "dtSa",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "utag_main": {
+    "visit_id": 1,
+    "name": "utag_main",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_id:018cf80a36a30011ab69865ffb8d05075001506d009dc$_sn:1$_se:1$_ss:1$_st:1704970268132$ses_id:1704968468132%3Bexp-session$_pn:1%3Bexp-session$_prevpage:undefined%3Bexp-1704972068141$vapi_domain:sisal.it",
+        "expiry": 1736504468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "provParameter": {
+    "visit_id": 1,
+    "name": "provParameter",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akaalb_betting_it": {
+    "visit_id": 1,
+    "name": "akaalb_betting_it",
+    "domain": "betting.sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "~op=betting_sisal_it:farm-a-betting_IT|~rv=100~m=farm-a-betting_IT:0|~os=7e3c2469c276ac9f83abff0fc0704b0b~id=b46c6c6a917c2e39d24f50a2b333365e",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.176145713.1704968469",
+        "expiry": 1705054868,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "38173D5EE93598C90B87808B3D269A14~000000000000000000000000000000~YAAQSX4ZuEARpu+MAQAAjTkK+BYwwAuAiPug6I0fzcoBUxZefFODK8Kc6alCjTdtV9lTLx9vSNemnJrjT6mejiQhfrDf5mmqIV3S4lCOFQybR62Dsdr57+nvLqiQVxxMQlH0TJLuc/b0/+I+JZfsYHRiupUBkv/fcwsOzKh3WAYhXEpzwG6xeApXuPRyf08AlFoOaCYWjWtdrWwC63/HrguZ20m9W2Do8hD3BuOeadm+61a2AZyd/gg3b4OVp43UoV61oR/CU9PryhQkmz48doqcM1qpIOsrvb96MOiSvc/D2X/7f8Kx1adrhOxtS8EGJcesLTYD8zgRQZ9Zk1aAFH/Nsu4obP6NQfAsT+it4bE1R813V9TRTWAFNlCXs8uKNYHlwQsy/j7D/UdnkJ9dK8mFNPfm8DEuc2lUtedh0qaPbNOn1O4SyoOR5bfBhXa/8QxgUW1hORYCYkVUkOXXaHmg+Afsq+z07+X+c64kpzIyalixGU2jMkpMWy2skQ==",
+        "expiry": 1704975667,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_fid": {
+    "visit_id": 1,
+    "name": "s_fid",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "243A7CD10633F48E-04ED6EE3EA02CF4A",
+        "expiry": 1739528473,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_lv_s": {
+    "visit_id": 1,
+    "name": "s_lv_s",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "First%20Visit",
+        "expiry": 1704970273,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gvsC": {
+    "visit_id": 1,
+    "name": "gvsC",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "New",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cm": {
+    "visit_id": 1,
+    "name": "cm",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "Direct%20Load",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "SC_LINKS_S": {
+    "visit_id": 1,
+    "name": "SC_LINKS_S",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5BB%5D%5D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_gpv_pn": {
+    "visit_id": 1,
+    "name": "s_gpv_pn",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "homepage",
+        "expiry": 1704970273,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_2F7HDG66KD": {
+    "visit_id": 1,
+    "name": "_ga_2F7HDG66KD",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704968468.1.0.1704968468.0.0.0",
+        "expiry": 1739528468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.994321907.1704968469",
+        "expiry": 1739528468,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "03580AD69427F5169A02FA4A5B5B78EC~0~YAAQSX4ZuIARpu+MAQAA3DoK+Av7D9sM5enoghFR4Jn8LMMcWu8H52QwxXk4/GO/i2PjenNFSdkJkYNKaJPiwOJ3zJmspJ1H2sjCWXZiQ187ZEU+PoDR/FZ8VrWrbSu7DYdqTdJZvb/zI0uSv8TwONV8C9mroyH8hIp6GYucP0ihiHK3na1u9j4AWHjF8Brrgfy2Ek9/Dr3DDHETY7F6fpmnU7GQJJq5KXXzmu0eUxrFo5+Ea88l7z8uxsehRMQ0M9pnVNX+HncKI7Ld5kl0mK8Bh9cRYuHDOA/cCQQfrRsG83bfip3NNs7wUlckAi5H80GblfLIhrCYrMlHxXXBqAZVatrAXnRPeB2TtABE3XewdnZSRBgSF5mJ17xhHQPJizRdSVkRvISKg7MyqJRHJIJDuU6XfA==~-1~||-1||~-1",
+        "expiry": 1736504469,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "08064883442724491150325246183355575671",
+        "expiry": 1720520469,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kndctr_45974CD958010CB40A495E7C_AdobeOrg_cluster": {
+    "visit_id": 1,
+    "name": "kndctr_45974CD958010CB40A495E7C_AdobeOrg_cluster",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "irl1",
+        "expiry": 1704970270,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kndctr_45974CD958010CB40A495E7C_AdobeOrg_identity": {
+    "visit_id": 1,
+    "name": "kndctr_45974CD958010CB40A495E7C_AdobeOrg_identity",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CiYwODM3NTc5NzU3NTczMDY0MTkwMDMwMDkyMjEyNjYwOTQ1MDcwNlITCNb1qMDPMRABGAEqBElSTDEwAPAB1vWowM8x",
+        "expiry": 1739096469,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_45974CD958010CB40A495E7C%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_45974CD958010CB40A495E7C%40AdobeOrg",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MCMID|08375797575730641900300922126609450706",
+        "expiry": 1738664469,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_dur": {
+    "visit_id": 1,
+    "name": "s_dur",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704968469080",
+        "expiry": 1704970269,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_vnc365": {
+    "visit_id": 1,
+    "name": "s_vnc365",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1736504469081%26vn%3D1",
+        "expiry": 1736549999,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ivc": {
+    "visit_id": 1,
+    "name": "s_ivc",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1704970269,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dtCookie": {
+    "visit_id": 1,
+    "name": "dtCookie",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v_4_srv_3_sn_ASPTQ5TNU2OM1O7IPBE16O0JQ37RG9UC_perc_100000_ol_0_mul_1_app-3Af5087d32441d6d78_0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "rxvt": {
+    "visit_id": 1,
+    "name": "rxvt",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704970270506|1704968467498",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_nr": {
+    "visit_id": 1,
+    "name": "s_nr",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704968473038-New",
+        "expiry": 1712744473,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_lv": {
+    "visit_id": 1,
+    "name": "s_lv",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704968473038",
+        "expiry": 1739528473,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_channelStack": {
+    "visit_id": 1,
+    "name": "s_channelStack",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5B%27Direct%2520Load%27%2C%271704968473039%27%5D%5D",
+        "expiry": 1739528473,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_sq": {
+    "visit_id": 1,
+    "name": "s_sq",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "sisalpreprod%3D%2526pid%253Dhomepage%2526pidt%253D1%2526oid%253DConferma%252520le%252520mie%252520scelte%2526oidt%253D3%2526ot%253DSUBMIT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-11T10:21:13.041Z",
+        "expiry": 1736504473,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+11%3A21%3A13+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.23.0&isIABGlobal=false&consentId=f7ab3acb-5e6b-4fd1-ad1b-31e095cf4ee8&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0%2CC0003%3A0&hosts=H13%3A1%2CH19%3A1%2CH21%3A1%2CH22%3A1%2CH23%3A1%2CH24%3A1%2CH26%3A1%2CH59%3A1%2CH28%3A1%2CH6%3A0%2CH8%3A0%2CH2%3A0%2CH33%3A0%2CH4%3A0%2CH64%3A0%2CH7%3A0%2CH27%3A0%2CH12%3A0%2CH222%3A0",
+        "expiry": 1736504473,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "akaalb_www": {
+    "visit_id": 1,
+    "name": "akaalb_www",
+    "domain": "www.sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704970273~op=www_aem:farm-b-www-aem|~rv=4~m=farm-b-www-aem:0|~os=19998e1be61d868e4c1c9f44b9332069~id=928209585839b29a6346d36448ef4dff",
+        "expiry": 1704970273,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".sisal.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8A3C714DB1E5B5C38F9716B3C51F5D21~YAAQrcATAsXF3O2MAQAACGkK+BY4R+QikbzSuOUsy6ZuPneSLvmTt9EnHhCL7iUsHgLxbVUp8n+3l3rPEK7rf2KV4YBzibSJ4XMOkmERrX2zMhSks5XmJAiFupM1MC/2DALpNMokfNX4a5uy+9UskOq/F54SCLUpwLquVTcvYjGOETk72gLMn9FyxxHNHdaKiGvJo+qY/4A5y9DLWBOP3qDEDWGFNBosGGOIDoycU31q8WjA3e96om4qcgAqu2Y=~1",
+        "expiry": 1704975667,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

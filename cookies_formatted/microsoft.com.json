@@ -1,0 +1,302 @@
+{
+  "AEMDC": {
+    "visit_id": 1,
+    "name": "AEMDC",
+    "domain": "www.microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "westeurope",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akacd_OneRF": {
+    "visit_id": 1,
+    "name": "akacd_OneRF",
+    "domain": "www.microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1712745766~rv=60~id=f2e096a5f23e6569ee0cfc37f67bad22",
+        "expiry": 1712745766,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MicrosoftApplicationsTelemetryDeviceId": {
+    "visit_id": 1,
+    "name": "MicrosoftApplicationsTelemetryDeviceId",
+    "domain": "www.microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "582e10b7-95e6-4fd0-8dfa-97ab7be189f6",
+        "expiry": 1736505767,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ai_session": {
+    "visit_id": 1,
+    "name": "ai_session",
+    "domain": "www.microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "y7v0byE52+1BkMkc0b/IF/|1704969767070|1704969767214",
+        "expiry": 1704971567,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MUID": {
+    "visit_id": 1,
+    "name": "MUID",
+    "domain": ".microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "c3f44e84386b44679e46b535f63c6afb",
+        "expiry": 1736592168,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "325983088552A4312E6B4FCE74273452~000000000000000000000000000000~YAAQnsATAkWQ1/OMAQAAAgse+BYIWf0gaH1A/kLK4dzn177/E1YLj0Svcvw3oNRaiZcI/rn0AWaHQQVchJCgFue6o6R9R93vpLH66vIQg6HtWvDQ19EqA73RlEagqTNz9AISudJqfvxNtYpfe2jhwsrJtUWwOeMyHSq2X8y+S+2GCjvQxw+UY4rDXTAsVwPfvOlh+DU+pyEagX4LSZp51d6za1DEQQvB0rSqK02X4++WoDCgp70aQkohxkeoXvOSgoBoW0JXTisWWZe6ioeak8aUMJ72LxcSkMuWvJwoYJj52ftpAnntbgs6Iy/ETlhl0neqWP6lANIxavUsRjIhOC5m4km3iFmxxT1hP05RAgPSJEwHkeixADx2osMxl0sMES0mY562SUn6BrFY",
+        "expiry": 1704976967,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "at_check": {
+    "visit_id": 1,
+    "name": "at_check",
+    "domain": ".microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "fptctx2": {
+    "visit_id": 1,
+    "name": "fptctx2",
+    "domain": ".microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "H3ihr9e92IdW6yd1ZgQ9Sz4bj6XMGo9empP83sM5ewcmj08aTa%252bwRI9aN4ZIBwaZ%252f%252fw2L9UejStUpE3LzybYFwaBNIS12Px2bempBdzR2yYyp6SxroqwSPssIMKHbocy0rQgdcAKjW8vbgdJLNrtDrOYNTpXW1L076BfYUVi6o4QQmqlpkmvE%252b363jBBRV9A%252beJuobsJwWLSk89aHynyK8sEWFvM%252fOJ7B%252fyW8v3%252b9bfq%252b0ncQinUj3a4pJbfiHTJaj%252b%252favJzDH7rmzTcEL5tXoYymmWHF6yWJB48YkhwKiWGbRReM9gcneATq2232PAchrx0eezwNGBeDAA38XVh3g%253d%253d",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "mbox": {
+    "visit_id": 1,
+    "name": "mbox",
+    "domain": ".microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "session#f482628a91ee42f5b3fa1c2c18d40d02#1704971628|PC#f482628a91ee42f5b3fa1c2c18d40d02.37_0#1707561769",
+        "expiry": 1707561769,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "uaid": {
+    "visit_id": 1,
+    "name": "uaid",
+    "domain": ".login.live.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9bd7fadd01534e0c43eb3d4a02257deb",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MSPRequ": {
+    "visit_id": 1,
+    "name": "MSPRequ",
+    "domain": ".login.live.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "id=N&lt=1704969768&co=1",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OParams": {
+    "visit_id": 1,
+    "name": "OParams",
+    "domain": ".login.live.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "11O.DuNgs*h!JylmjgGEPzj6RWUeVJ6POVvVAARqYnkw*YOcHqWogynZCj74DVGRakYUmNsc1gSWwEP7!1mg4aM13VERmFNSnb!s9mjbXq7Ykq9zndu3pSz970IsJAOd80jAWxT!NLokoroOp9EyNG8K4cQZh7eIFzh3HifZa8wV9wBHrlG8cBtBmqcRLtIXazEMRGvoLvbrhxvIggzlLUkgPhFBfJoBAiRlA*SMKRZe8ncgbh2qz1uGttdSDp8gYWSByampSbArxlxyAVgFZIePF84$",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MC1": {
+    "visit_id": 1,
+    "name": "MC1",
+    "domain": ".microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GUID=a3823868994f4d47a58e329cf0b8292d&HASH=a382&LV=202401&V=4&LU=1704969768857",
+        "expiry": 1736505769,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MS0": {
+    "visit_id": 1,
+    "name": "MS0",
+    "domain": ".microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fe2c0f54edd84ff8a8411b6694a0184e",
+        "expiry": 1704971569,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "MSFPC": {
+    "visit_id": 1,
+    "name": "MSFPC",
+    "domain": "www.microsoft.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GUID=a3823868994f4d47a58e329cf0b8292d&HASH=a382&LV=202401&V=4&LU=1704969768857",
+        "expiry": 1736505769,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

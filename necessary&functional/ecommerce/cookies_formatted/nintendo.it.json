@@ -1,0 +1,82 @@
+{
+  "AWSELBCORS": {
+    "visit_id": 1,
+    "name": "AWSELBCORS",
+    "domain": "api.ec.nintendo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2D5303BF16AD16A57C75AF1982BBE8F3F187A367C435007C51C97C5541F1B660B49C0F6CD7FEAA56E8BF599D4CCFB2035C8208C832FFA4A5FC25EC610EC98E6B9EF26301D0",
+        "expiry": 1704970544,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "NATID": {
+    "visit_id": 1,
+    "name": "NATID",
+    "domain": "accounts.nintendo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "749b5e91d782fdef11f757ddd94d8f404ec855f4",
+        "expiry": 1739529949,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".www.nintendo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-11T10:45:48.541Z",
+        "expiry": 1736505948,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".www.nintendo.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isIABGlobal=false&datestamp=Thu+Jan+11+2024+11%3A45%3A49+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.37.0&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CBG42%3A0%2CC0002%3A0%2CC0004%3A0&geolocation=%3B&AwaitingReconsent=false",
+        "expiry": 1736505949,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ibs.it 
+NECESSARY COOKIES = ASP.NET_SessionId,__RequestVerificationToken,ARRAffinity,ai_user,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = CLID,SRM_B
+ANALYTICS COOKIES = _ga,_gid,ai_session,_clsk,MR,SM
+ADVERTISING COOKIES = MUID,ANONCHK
+UNCLASSIFIED COOKIES = useMobileVersion,Node,_ALGOLIA,trackerBot,n,mvtid,s,mvtdebug,uc,rr_rcs,lantern,_clck,_ga_R0W58PJ2ZT
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

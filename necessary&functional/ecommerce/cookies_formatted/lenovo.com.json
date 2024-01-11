@@ -1,0 +1,502 @@
+{
+  "Path": {
+    "visit_id": 1,
+    "name": "Path",
+    "domain": "openapi.lenovo.com",
+    "path": "/it/it/auth",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "/",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AKA_A2": {
+    "visit_id": 1,
+    "name": "AKA_A2",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A",
+        "expiry": 1704975765,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1ACA01DDFF57AF9D92F5EDFD1392E310~YAAQkD4WAijpx2OMAQAAsaNC+BZNuuqQub6MuYwF+SFMC3m93lLMIbntmSaSlY86f0qyuqmAIvUACG8m8/YoI6NDhA9QiaWy4US/Uy09JiGGY+T95ccnzUcDXFRpz+GY+qkgG3zyGnpCkcKauAADcINApaZGo6+9IN/ZEP63Dc5sGNinqqY/78t2euGv+KgQiHh/MMko2k9k3eJ06F6Q9bTVy4g/lSzd0zF3ifCDm2wMSS8ezK73j1CCsqunvel2dEdm456K2Cfpa6/PYQRnzjh84a+p2ZC0nZx9kO4S4oNj4Ek=~4408631~4605249",
+        "expiry": 1704986565,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_page_type_": {
+    "visit_id": 1,
+    "name": "_page_type_",
+    "domain": "www.lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FTV%20Homepage",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "leid": {
+    "visit_id": 1,
+    "name": "leid",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2.yUdhklf/f+R",
+        "expiry": 1739532166,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "searchabran": {
+    "visit_id": 1,
+    "name": "searchabran",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "58",
+        "expiry": 1739532166,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "41193942816061323141995313987815828358",
+        "expiry": 1720524167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kndctr_F6171253512D2B8C0A490D45_AdobeOrg_cluster": {
+    "visit_id": 1,
+    "name": "kndctr_F6171253512D2B8C0A490D45_AdobeOrg_cluster",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "irl1",
+        "expiry": 1704973967,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_F6171253512D2B8C0A490D45%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_F6171253512D2B8C0A490D45%40AdobeOrg",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MCMID|41430103710510794282010062549857050328",
+        "expiry": 1738668166,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akavpau_WaitingRoomController": {
+    "visit_id": 1,
+    "name": "akavpau_WaitingRoomController",
+    "domain": ".www.lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704972467~id=788be4ffd58bae772b44bb4060b43dbd",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AB8DDDE9003EF3BB296856BA8370B8B6~0~YAAQkD4WAnDpx2OMAQAAz6dC+AuZEXcai3s2YfGbuyBkCLldAvoqeK7LT3usrY1NEvcW3Hzne12UUlTHwDCeFInHa3UApCqmLIZgvNgsxg5g342r4zv8Qh8Zxt+EvagqwSi4tpexbvjU87abMp7BvIrysR4r7PDErxVxDh5aoHgOcoO2au3rjFugNrOn9Gs6Kq32JSua/L74TM7LkovggmbJvLmUtCLJqVcFjBQjUY9DIyXXaPJYFheXxfZaabwZAjomv+++RUDNeJNimEOBC183xYYbcAr/f+waPjIgLv/+SmZie0ng1Dsz0kKMh+sg2DiatUNoJtLQiZA0EiXJlyquOJjgniyl8SjxBhiihmu4ssAe8rlR0WPAUMWi65EovH/t3k4b8SbxvjJVJHE7Gn4uzwME9P/Q~-1~-1~1704975709",
+        "expiry": 1736508167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6182A39BA8046BF236C59A4D05DF59E7~YAAQkD4WAnfpx2OMAQAAOKhC+BbPYTGN0zrr0xk99CLf3dgk1ZVzUZp30g5qMqO8lfTTd8siUVuEK4krCxVUksSgD+1EsrwfVFTcTT5gtUw87bfLFo8AQUDrXXHmZquXQIHZp7GTa0zYhq5Iv+uj/L6uPnPo54hVFdXkOXWWH+jwOBJMe5xjwZgQJd5Mbuwxn2S5pCd46BauALXuxgx9CeF7b8LEv5fmBt74D6hovVjzH1kiJ4IgOvf/oA71uExS~1",
+        "expiry": 1704979366,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=lenovo.com&si=75ed4071-cf99-4fce-9326-a8ad9a85098c&ss=lr94emgb&sl=1&tt=19o&bcn=%2F%2F0217991d.akstat.io%2F&ld=1h3\"",
+        "expiry": 1705576967,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUnht9s7S7Uu6b-1IXf3jmlJetfJXEHef7w_KFOrqkXFLuAdbGehZ0l_RN2M5hE",
+        "expiry": 1738668167,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "aamtest1": {
+    "visit_id": 1,
+    "name": "aamtest1",
+    "domain": "www.lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "auto%3D549200",
+        "expiry": 1707564167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "834E5E375BE0E0C02E7D3BA509B14A09~000000000000000000000000000000~YAAQkD4WAoHpx2OMAQAAmqlC+BaDAGj/DOEylIczV8sJfUoKs2iFzraifAk3z4Q8sbpdjTQdy1DAzHp/L6ew4ksoh+R+LeWhaaBm9ui90m27SQ1uy5U/H7MOO2W1KdwrFg11fXVOq/YJG4ZbqBLpsDt6xcs+F/HrqajJuneidrwk4oaTbdhPYRc554r+n5voWPdnFDva8EsXCGs9aJrHriCo3hBqvXg5h67PjJdJOpfiEIKGe7WM4/wvHOqmxnk98dvcXx0+8qkiuRDQsWRVbz2bginlRh5vM3pWWgiNFO+UEToRYVbmPzrR0iPN+pVWd3uv78D96n14FSZlJo2zVZopqWU50uy30/CxL56HacgmtbHA1aK7s7YaPKKPmilqFpWHbc2fYgU6g2Zma+ut7QnwK7kOza3PYF5p3hlppiR7Dctcy9UEcb5BPSVpQeURdZ67gryVAZp4O79g9NmZZ+v68gUgibOIJPGs/gUabW82PGmDEtptgyuK+OI6vIk=",
+        "expiry": 1704979366,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "41193942816061323141995313987815828358",
+        "expiry": 1720524167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_tslv": {
+    "visit_id": 1,
+    "name": "s_tslv",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704972167667",
+        "expiry": 1739532167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_inv": {
+    "visit_id": 1,
+    "name": "s_inv",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1704973967,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_vnc365": {
+    "visit_id": 1,
+    "name": "s_vnc365",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1736508167668%26vn%3D1",
+        "expiry": 1736549999,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ivc": {
+    "visit_id": 1,
+    "name": "s_ivc",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1704973967,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_dur": {
+    "visit_id": 1,
+    "name": "s_dur",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704972167668",
+        "expiry": 1704973967,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "kndctr_F6171253512D2B8C0A490D45_AdobeOrg_identity": {
+    "visit_id": 1,
+    "name": "kndctr_F6171253512D2B8C0A490D45_AdobeOrg_identity",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CiY0MTQzMDEwMzcxMDUxMDc5NDI4MjAxMDA2MjU0OTg1NzA1MDMyOFITCPfOisLPMRABGAEqBElSTDEwAKAB%2D86Kws8xqAGS%5F5SkmJXdx7gBsAEC8AH3zorCzzE%3D",
+        "expiry": 1739100167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "has_consent_cookie": {
+    "visit_id": 1,
+    "name": "has_consent_cookie",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": 1736508167,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "inside-eu2": {
+    "visit_id": 1,
+    "name": "inside-eu2",
+    "domain": ".lenovo.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "706192418-fb81d6cb4fdac238ff531b78de689fd03cc3ff3ef4d18f21de83553e365b91dd-0-0",
+        "expiry": 1736508168,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

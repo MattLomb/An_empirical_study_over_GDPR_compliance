@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: costacrociere.it 
+NECESSARY COOKIES = ak_bmsc,AWSALB,AWSALBCORS,bm_sv
+FUNCTIONAL COOKIES = countryCode
+ANALYTICS COOKIES = AKA_A2,s_dfa,_ga,_gid,RT
+ADVERTISING COOKIES = test_cookie,__utmzzses
+UNCLASSIFIED COOKIES = bm_sz,continentCode,CostaPersistent,initialTrafficSource,_abck,OSPESESSID,_aeaid,aelastsite,aelreadersettings,purpose_1,purpose_3,purpose_4,purpose_5,adobeujs-optin,_iub_cs-43125850
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

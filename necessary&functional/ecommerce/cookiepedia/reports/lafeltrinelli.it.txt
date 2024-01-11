@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lafeltrinelli.it 
+NECESSARY COOKIES = ASP.NET_SessionId,__RequestVerificationToken,ARRAffinity,ai_user,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = CLID,SRM_B
+ANALYTICS COOKIES = RT,_ga,_gid,ai_session,_clsk,MR,SM
+ADVERTISING COOKIES = __utmzzses,MUID,ANONCHK
+UNCLASSIFIED COOKIES = useMobileVersion,Node,_ALGOLIA,initialTrafficSource,trackerBot,_ga_N0TYM9H37L,n,mvtid,s,mvtdebug,uc,session,rr_rcs,_clck
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

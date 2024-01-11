@@ -1,0 +1,362 @@
+{
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6D4B4ED78EA3164F40389E42137F978A~YAAQkTRoaGvzMO6MAQAATSQu+BYQ9YQDP2zAkROsj4V5pbhFZss4X5KszjmxUf4By6lxzuzSvEaXkrz/TNSIx+N8h3vcmabTF65rTTQXb2fiLk2wx0+UgBl2UNyRgTYWk/jQIHwtyOZheSMO9bgwYZaGYiy6nR3hdRtxUzcsuZ7yniD9dS5ESwAUyKpRYjcYyyJ9JKETLcN1TB70k/+01hoCJmzkDDB4PEkJBotZqd+EFC5a7yTWgRWBlE/3avKCldQVP9p0YnUJNCSTG70nBbfHx14WTwiBXjkCNQqnX8Wiah7K+rF4EBL/H0Z/XLtg43Xm3Ke4taGkqyUgbA1Oex0pGkk9BHhQhNWXMYHmHbaVizlprkGD/q3wcCdSVa+q0KsRM6GqBnEfH7+Hbz5g/PGbxhYdK2YMkwUuWaY83OiQWRCxasVa/vqFy36bjQ==~3752261~4408644",
+        "expiry": 1704985222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3AAEF686CE6A0633B3AC2D168CBD5FFA~000000000000000000000000000000~YAAQkTRoaBn0MO6MAQAA0Ssu+BZZQivIxOg+Jx/nmlk+k+XMR/0bIFCPZXE4rKLLl6F9kbP5+18zl5tBPgADJY9/yXECTLoUAq6zY39FqqgDMMO/Y0ta47NnoU0H8+v/toiYr0+VuaGCnYqb8k/iyWE/FrdqOGI9mhDg5biB7rF6hDbLzbyCLE7DrOvJGwYKTBdi9CY6ZbssjLj8oBSQ0I/DKuoMAViHn7eP3/w1M3cHZXv85a26PYmRFTua5Tu5WPNwmw9LCqeycGr4AsiDgLXuo+AwqtonAAWNsUS8bfuoKLb7E15mQGayptBfRF6UVRxfaduc3oXu7EFbCOUlLN963OjO+77z6y3cBZd+cCHxqgP4CdYPXvK2fYmMI8IHSh4aahH4TBLTD92dYlL8HhwRJxJIWRuN4cuqM+yKc1n2bv6pDLhbHoGVgnKII3RLdwnlgp1YBEmdUhawCyfIlr6i8aMnDGNgUA3GSvZlARemPq6Fah9aU/syhozV3ArHbw==",
+        "expiry": 1704978022,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ASP.NET_SessionId": {
+    "visit_id": 1,
+    "name": "ASP.NET_SessionId",
+    "domain": "be.wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "wohh0rk4jrns1ys3evqyukw0",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RequestVerificationToken": {
+    "visit_id": 1,
+    "name": "RequestVerificationToken",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "26563675cf804282b73e36a1ca14e89a",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "akacd_onewizz_AB_backend_production": {
+    "visit_id": 1,
+    "name": "akacd_onewizz_AB_backend_production",
+    "domain": "be.wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "3882423624~rv=78~id=ed74cf0453f5615fed7b7924803f7403",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8A12492BD09A43A510BCC7014C645238~0~YAAQkTRoaFj0MO6MAQAAcDAu+AvVB0KzipcxHiAbHiM+hxnq6NFQAANXAtA368I45kI0kLoluMW+KVCQ4/LgTCK9DtrgJSU6yWI9fNieQHHTBWxknjfYdBjhe+9Tjg59PiIn2acf1Za+0JinqtcNyIlbdrqHsH1cElFRE6hpNqus+JJhoYRlAR3Z5HXRoRcrDRqI/nqkzUXC77vKy9jEdbBE93E/BoujJ82CuYnyOoly1SIkVnqbDHRupW3E2i17NwCT0GE9E6qYeexBUi1/i6cgRUfEv9jJIyL8VDts5SQndJXHyqGhkL/YE3xPmDhONwEd1lt4rYP0KF6Rg8gGgIOCllOCWWaNxUNVVfROVdxZpQOFZd1E39d9bu7Y96l7XCR4uYeH/fpEk1lMcjCw5MeDpg3pwIbPtN44od9GnC4oFvd+cMnTggU7B3CNCQ==~-1~-1~-1",
+        "expiry": 1736506825,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ewizz-origin": {
+    "visit_id": 1,
+    "name": "ewizz-origin",
+    "domain": "wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_fbp": {
+    "visit_id": 1,
+    "name": "_fbp",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fb.1.1704970826350.1861625565",
+        "expiry": 1712746831,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.511135864.1704970827",
+        "expiry": 1712746826,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1797473259.1704970827",
+        "expiry": 1705057226,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat_gtag_UA_2629375_25": {
+    "visit_id": 1,
+    "name": "_gat_gtag_UA_2629375_25",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704970886,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "37360F5E361C19A68AE3BD784A2A582A~YAAQkTRoaJ70MO6MAQAASjQu+BbUQq5nm10K4HLYQZmLTxIha4Ac/uJk6IZkbOFw/QiUHuilgW9I9MslUyaJdDfxYu9ee12gS9CpAUeDQSWMjF/VylquDn17UVk81rGJZkZ9CZ34irAxdwVsoHqDN4AKKl1UcSpW7N/FnvbwvIQhKHO6geDMtNGOdGELQ4d6E+oVb6WjAcyqgVmPOWCeux1ZicxX3euxL8Dq5It9qdKdfrqnH/OTykMNus9Ckifi2A==~1",
+        "expiry": 1704978024,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_G2EKSJBE0J": {
+    "visit_id": 1,
+    "name": "_ga_G2EKSJBE0J",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704970826.1.0.1704970826.60.0.0",
+        "expiry": 1739530826,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.156874261.1704970827",
+        "expiry": 1739530826,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1707562827,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUnIwV-oacbbPBRHqYrUemt_BOESQvXNVgdbCKhV4oIC4qopwAQDoNd7dKQLDS8",
+        "expiry": 1738666827,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-11T11:00:31.183Z",
+        "expiry": 1736506831,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".wizzair.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+12%3A00%3A31+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A0%2CC0001%3A1%2CC0003%3A1%2CC0004%3A0%2CC0007%3A1",
+        "expiry": 1736506831,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

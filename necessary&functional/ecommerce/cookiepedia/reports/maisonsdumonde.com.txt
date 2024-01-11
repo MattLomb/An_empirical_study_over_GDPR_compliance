@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: maisonsdumonde.com 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = mdm_session_id,mdm_algolia_session,TCID,TCSESSION,TCPID,AB_test_privacy_banner,ABC_test_cookie_banner,datadome,_ga_S42C7ME73J,TC_PRIVACY,TC_PRIVACY_CENTER,tc_cj_v2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

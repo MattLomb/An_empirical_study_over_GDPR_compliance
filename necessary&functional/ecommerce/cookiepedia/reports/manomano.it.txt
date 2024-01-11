@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: manomano.it 
+NECESSARY COOKIES = 
+FUNCTIONAL COOKIES = cf_clearance
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = mm_visitor_id
+UNCLASSIFIED COOKIES = mm_ab_test_version,mm_ab_tests,mm_flags_version,mm_flags,__cf_bm,didomi_token,request_uri,OAuth_Token_Request_State,multireferer_id,referer_id
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

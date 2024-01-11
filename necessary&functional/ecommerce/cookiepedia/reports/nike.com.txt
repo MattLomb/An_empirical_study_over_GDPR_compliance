@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: nike.com 
+NECESSARY COOKIES = bm_mi,ak_bmsc,bm_sv
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = AKA_A2,RT
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = AnalysisUserId,geoloc,anonymousId,bm_sz,audience_segmentation_performed,visitData,ni_c,sq,ppd,ak_bmsc_nke-2.3-ssn,ak_bmsc_nke-2.3,_abck
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

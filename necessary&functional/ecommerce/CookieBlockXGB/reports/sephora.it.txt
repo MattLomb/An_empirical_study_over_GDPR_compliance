@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: sephora.it 
+NECESSARY COOKIES = akacd_Sephora_IT_PR,CYB,tc_compteur_page,rxVisitor,dtSa,TCPID,__cq_dnt,dw_dnt,sid,dwanonymous_9ba7b620ffc5ebb782d1bef0c6819ea7,dwsid,akavpau_vpwaitingroom,test_cookie,dtCookie
+FUNCTIONAL COOKIES = _abck,bm_sz,bm_mi,bm_sv,ak_bmsc,rxvt,RT,dtPC
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: mondadoristore.it 
+NECESSARY COOKIES = JSESSIONID,NOW,HAPSIDMONDSTORE,__rtbh.lid,u,ts,ar_debug,receive-cookie-deprecation,_kuid_,_iub_cs-73705257
+FUNCTIONAL COOKIES = g,c,_ga,_gid,XANDR_PANID,anj,IMRID,_ga_T01XDNRG2V
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = uuid2
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

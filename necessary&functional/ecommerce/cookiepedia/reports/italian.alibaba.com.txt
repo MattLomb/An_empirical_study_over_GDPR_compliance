@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: italian.alibaba.com 
+NECESSARY COOKIES = XSRF-TOKEN
+FUNCTIONAL COOKIES = ts
+ANALYTICS COOKIES = uid,UID
+ADVERTISING COOKIES = g,uuid2,IDE,demdex,dpm,CMID,CMPS,CMPRO,ayl_visitor,criteo,anj,_kuid_,tuuid,ss
+UNCLASSIFIED COOKIES = ali_apache_id,sc_g_cfg_f,cna,__itrace_wid,xman_us_f,acs_usuc_t,xman_t,xman_f,t,_tb_token_,cookie2,NetWorkGrade,atpsida,sca,icbu_s_tag,ug_se_c,xlly_s,cbc,umdata_,_m_h5_tk,_m_h5_tk_enc,tfstk,l,isg,ali_apache_track,ali_apache_tracktmp,i,yandexuid,_ym_uid,_ym_d,_ym_isad,yabs-sid,yuidss,ymex,bh,u,c,ar_debug,yashr,visitor-id,data-c-ts,data-c,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,XANDR_PANID,opt_out,tvid,tv_UICR,dc,ut
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

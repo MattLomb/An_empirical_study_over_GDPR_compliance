@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: flixbus.it 
+NECESSARY COOKIES = ab_bucket,sp,affiliate,_sp_ses.ca26
+FUNCTIONAL COOKIES = atbpdid,_sp_id.ca26,_dd_s
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = atbgdid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

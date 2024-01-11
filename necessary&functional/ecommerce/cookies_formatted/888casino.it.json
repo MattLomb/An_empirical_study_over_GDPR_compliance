@@ -1,0 +1,322 @@
+{
+  "888Attribution": {
+    "visit_id": 1,
+    "name": "888Attribution",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704970913,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "888Cookie": {
+    "visit_id": 1,
+    "name": "888Cookie",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isftd%3Dfalse%26isHybrid%3Dfalse%26isreal%3Dfalse%26lang%3Dit%26OSR%3D1927680",
+        "expiry": 1705574813,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "888TestData": {
+    "visit_id": 1,
+    "name": "888TestData",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22orig-lp%22%3A%22https%3A%2F%2F888casino.it%2F%22%2C%22currentvisittype%22%3A%22Unknown%22%2C%22strategy%22%3A%22UnknownStrategy%22%2C%22strategysource%22%3A%22previousvisit%22%2C%22datecreated%22%3A%222024-01-11T10%3A46%3A54.132Z%22%2C%22expiredat%22%3A%22Thu%2C%2018%20Jan%202024%2010%3A46%3A00%20GMT%22%7D",
+        "expiry": 1705574760,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lastproduct": {
+    "visit_id": 1,
+    "name": "lastproduct",
+    "domain": "www.888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "casino",
+        "expiry": 1736592414,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cs_c": {
+    "visit_id": 1,
+    "name": "_cs_c",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1739134015,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cs_id": {
+    "visit_id": 1,
+    "name": "_cs_id",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "884a860b-e141-afe9-e602-bf8460e46da3.1704970015.1.1704970015.1704970015.1596465133.1739134015131.1",
+        "expiry": 1739134015,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cs_id___4367": {
+    "visit_id": 1,
+    "name": "_cs_id___4367",
+    "domain": ".csxd.contentsquare.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "884a860b-e141-afe9-e602-bf8460e46da3.1704970015.1.1704970015.1704970015.1596465133.1739134015131.1",
+        "expiry": 1739134015,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cs_s": {
+    "visit_id": 1,
+    "name": "_cs_s",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.5.0.1704971815534",
+        "expiry": 1704971815,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cs_s___4367": {
+    "visit_id": 1,
+    "name": "_cs_s___4367",
+    "domain": ".csxd.contentsquare.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.5.0.1704971815534",
+        "expiry": 1704971815,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1464673598.1704970016",
+        "expiry": 1705056416,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_1YFG8LJ90F": {
+    "visit_id": 1,
+    "name": "_ga_1YFG8LJ90F",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704970016.1.0.1704970016.0.0.0",
+        "expiry": 1739530016,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.1208078189.1704970016",
+        "expiry": 1739530016,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.fwtXrOnKhshNyCm%2F4T7eBwRm86p2OC%2Few%2F7BiJHRQ04%3D.1704970016",
+        "expiry": 1739530017,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "a1VrIVzeaY%2FxmIc4LcgyZr9A7MxIoMsBG4Cd5D9ziMI7%2BzW01%2Fq7x0xikBVWvDQ6cMyC%2FRk3HOzSfm1VpUqcnEfVCwqm7efkvBP595nxtXTr1RAve%2B08VM%2BQnSPdmQ%3D%3D",
+        "expiry": 1705042017,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-11T10:46:58.157Z",
+        "expiry": 1738666018,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".888casino.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+11%3A46%3A58+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.34.0&isIABGlobal=false&hosts=&consentId=1e3c9938-ae9d-4e7b-9a43-b8978cff95a4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A1%2CC0004%3A0",
+        "expiry": 1738666018,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: 888casino.it 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _gid,_ga
+ADVERTISING COOKIES = _cs_c,_cs_id,_cs_id___4367,_cs_s,_cs_s___4367
+UNCLASSIFIED COOKIES = 888Attribution,888Cookie,888TestData,lastproduct,_ga_1YFG8LJ90F,FPID,FPLC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

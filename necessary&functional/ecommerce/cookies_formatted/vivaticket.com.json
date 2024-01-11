@@ -1,0 +1,162 @@
+{
+  "visid_incap_2282435": {
+    "visit_id": 1,
+    "name": "visid_incap_2282435",
+    "domain": ".vivaticket.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "RbqfXvA3Qhm8ZOyY9Au1INbCn2UAAAAAQUIPAAAAAACA1qgkm0HMruR/vkrX/Hhj",
+        "expiry": 1736425182,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "incap_ses_416_2282435": {
+    "visit_id": 1,
+    "name": "incap_ses_416_2282435",
+    "domain": ".vivaticket.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "DAj5cAyQvX4Wwud6iO7FBdbCn2UAAAAASqP4/HzrigyqoxIZlUPkfg==",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "nlbi_2282435": {
+    "visit_id": 1,
+    "name": "nlbi_2282435",
+    "domain": ".vivaticket.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "pLOHfSqfeSNVJi8E5vGorQAAAABg9Ue4ndI6dMa9BAUen3a/",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Queue-it-token": {
+    "visit_id": 1,
+    "name": "Queue-it-token",
+    "domain": "bestunion.queue-it.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e_vivaticketstore~q_ec6c0634-753e-4a90-9a3e-99bff3ff44a9~ts_1704969099~ce_true~rt_safetynet~h_9005785fb275045761171916ed3e323360e35f402f1b143e7aa7009e9c40b931",
+        "expiry": 1704969099,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Queue-it-ec6c0634-753e-4a90-9a3e-99bff3ff44a9": {
+    "visit_id": 1,
+    "name": "Queue-it-ec6c0634-753e-4a90-9a3e-99bff3ff44a9",
+    "domain": "bestunion.queue-it.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "WasRedirected=false&i=638405657192913176",
+        "expiry": 1704972519,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Queue-it": {
+    "visit_id": 1,
+    "name": "Queue-it",
+    "domain": ".queue-it.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "u=a41ca54e-bb0c-4099-b628-d6548a20ef5e",
+        "expiry": 1736591319,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "QueueITAccepted-SDFrts345E-V3_vivaticketstore": {
+    "visit_id": 1,
+    "name": "QueueITAccepted-SDFrts345E-V3_vivaticketstore",
+    "domain": ".vivaticket.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EventId%3Dvivaticketstore%26QueueId%3Dec6c0634-753e-4a90-9a3e-99bff3ff44a9%26RedirectType%3Dsafetynet%26IssueTime%3D1704968919%26Hash%3Dc9f885dfbacfb5c3e0bb8f3e24fe39acce3827507190b285850d287ce7fef140",
+        "expiry": 1705055319,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "VivaSession": {
+    "visit_id": 1,
+    "name": "VivaSession",
+    "domain": ".vivaticket.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%7B%22Country%22%3A%22it%22%2C%22Language%22%3A%22it-IT%22%7D",
+        "expiry": 1707647319,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

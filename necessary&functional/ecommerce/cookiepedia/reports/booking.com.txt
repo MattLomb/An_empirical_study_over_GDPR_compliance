@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: booking.com 
+NECESSARY COOKIES = OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = _pin_unauth
+ANALYTICS COOKIES = _gid,_gat,_ga,_uetvid
+ADVERTISING COOKIES = _gcl_au,_scid,_uetsid,IDE,MUID
+UNCLASSIFIED COOKIES = X-AB,_GRECAPTCHA,px_init,cors_js,BJS,bkng_sso_session,lastSeen,bkng_prue,_ga_FPD6YLJCJ7,_ga_A12345,ar_debug,FPID,FPLC,sc_at,_pinterest_ct_ua,_scid_r,bkng_ap_sso_session,bkng_sso_ses,pcm_consent,bkng_sso_auth,bkng_sso_auth_1704967540,bkng
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

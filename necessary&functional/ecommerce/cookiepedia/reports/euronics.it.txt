@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: euronics.it 
+NECESSARY COOKIES = sid,dw_dnt,dwsid,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = __cq_dnt,CLID,SRM_B
+ANALYTICS COOKIES = cqcid,cquid,_ga,_gid,_hjSessionUser_1033475,_hjFirstSeen,_hjSession_1033475,_hjAbsoluteSessionInProgress,__cq_uuid,_clsk,MR,SM
+ADVERTISING COOKIES = dwac_42fa10501657c2bafbe4e39236,dwanonymous_9f66852da18e58c387015589bd34e546,_gcl_au,uuid,MUID,ANONCHK
+UNCLASSIFIED COOKIES = igodigitaltc2,igodigitalst_100001654,igodigitalstdomain,_ga_E67WS7M9VZ,_hjIncludedInSessionSample_1033475,_clck,yourekoUserId,_ga_MEY774YD6Q,__cq_seg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

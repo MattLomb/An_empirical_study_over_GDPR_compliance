@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: instant-gaming.com 
+NECESSARY COOKIES = PHPSESSID,_dc_gtm_UA-32010245-2
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _uetvid,_ga,_gid
+ADVERTISING COOKIES = _gcl_au,_uetsid,MUID,_fbp,test_cookie
+UNCLASSIFIED COOKIES = ig_tz,__cf_bm,ig_location,ig_pid,_ga_GQL10ZG0DF,_rdt_uuid,_ttp,_tt_enable_cookie
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

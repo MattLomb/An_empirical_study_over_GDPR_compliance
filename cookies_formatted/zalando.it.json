@@ -1,0 +1,162 @@
+{
+  "fvgs_ml": {
+    "visit_id": 1,
+    "name": "fvgs_ml",
+    "domain": ".zalando.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "mosaic",
+        "expiry": 1705745642,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "frsx": {
+    "visit_id": 1,
+    "name": "frsx",
+    "domain": ".zalando.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AAAAADxSY5WgggWIKN9n9qvJVf23wxbfvXikLOsK24fBuXzWBvx8-FOnYTX94oTocGeJJoGONyhXsGItcShzvAwauHBNTdjcgGXcJektQHrPzj0JqrogaHr1dlLjTntBSXYVgLwfuArN1f2E8fdLIks=",
+        "expiry": 1704971642,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "Zalando-Client-Id": {
+    "visit_id": 1,
+    "name": "Zalando-Client-Id",
+    "domain": ".zalando.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "012c9ddb-ab73-4b9c-9e57-8f9611d470c9",
+        "expiry": 1739528047,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "mpulseinject": {
+    "visit_id": 1,
+    "name": "mpulseinject",
+    "domain": ".www.zalando.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1704971642,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".zalando.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "F94B9E159258B76F2883F4ECA0CC58A4~YAAQRzRoaMq+taGMAQAAYrcD+BYeFjUma2eoGJi0hnrPizEZGOk6Giq4ZFM7stkcN74gBERPOGnzze/tgLXXv5IgPlMJUg1p5a4TL/FiqN75skyWR7JTRdMRbTIRHgiZdU5P6Cel1ii/I7yGSvBpjJJzvgdVOIUgpHfZkVOXHelZb/pPlt1CoU0bU8gZfyOiARewsxlRY+t8L75DSFdp5LaQoqBXSAxI5YRjPnhi9Lc0gKRM51XGoXxSb/Vqx9AyRV7udFy+iw8bEkoe39Hmr3lJMgxjS54/lDYzdxRqbqKQPSQ4TZgARjBBYMKlv7VLT9JnDmF5P+AF/5QUTSadRlNA8Rp9sHaeZJsmefUqdX+B/hQTXf40PWZmWoLWBXXYRPb1yiRvRk5m+dMpWymLmDQAi/Dc/xHKJpTvNd2yopjC04+65JliL2EMsWp5~3487800~3354930",
+        "expiry": 1704982442,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "language-preference": {
+    "visit_id": 1,
+    "name": "language-preference",
+    "domain": ".zalando.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it",
+        "expiry": 1736504042,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".zalando.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "7D50BE406CA93F878184535A78D991C6~000000000000000000000000000000~YAAQRzRoaE+/taGMAQAAlrwD+BYTEQPnlWWX1aVJUiP3NdkdX2F9i0g/pGRmXa0qObsNQrFNQQrsHVKbuCFu8wKWBpwXq8muaQDP4JzFYRHNTMHS4g5s/9pfXP0eOKLc1mP02RGxLeckzbP9HOy4Daxw5jFqP6qx5QcbDv6OJOE5kPhGO3jbJBHAuc12Bj5pOi1l0tDVrgKOJ31lVVNCJwA7Xkw0VOJRSpJN6jwL6Cu4v/v11JxkuiE7Vtr62hIDjcC/6yhT9zBM3otr2zWgFE5fvHC2xqoAt/b2m8kS1X/1amKOIJcFel6+Oj/1j2rkWQhFgm29XELbrofmgDKHQTuxrJGsAlo8WlH9lDZepfmFbD+eHFaslFfuQ+Eo4oZ0+kB+lVPmnXqia96zsRlue1QtEo/4L67TN94ZABvff+O1UYJJLfiK/CJEKnS+l5TbvCygC6SjmRvM8SUGJAA9zU+EDTFJ0LEGsmmUX9yRsYIc/C2LyBsy5B5NXMOyQHvy",
+        "expiry": 1704975242,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".zalando.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "37A6A80442049AAAA06B3648CA27EA29~-1~YAAQRzRoaG+/taGMAQAApb4D+AtPHvR6nsPlItsFaQGYUtD/dSXLKDYxcgaht2xoj3UT1y1Nmf2PoPamPXZ3FAENzGIa7xrHxrA76K74hg+YWpISosegGUUlwdM/VjaEtZxZZ42ZgWJJpHaiL69vu0JO4iEZzJ9N/yv1POJKfymsapT8ol7F5cXMDYpnM+XGeafKmvYWLXuYWmpllL7L68KVibvnfrj1CXRznr1qxl3hlt8FhbOtX2/ZbNRxFbf0DoGCGI94a1S8l2TEbZYOqaQxHEm1Tmwqz6evbK/VMDI6JfR1ggi0xPFOawo8/4qqhkbKzB+Yct7CfjcvOZnPYSzECSFV9uxbSpqX71XERK/mBmv3Yac5tOoMXqJ82raJTfge7WqEhRyfdefrAuO0Lqz+gXaEYph3R1jXfFiWazcDmsJVHNuHJmz741KzX/u3Ek/4xfawiywt+5THWoBbmo7s6gMZlpr2mwTCEFE=~-1~-1~-1",
+        "expiry": 1736504044,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

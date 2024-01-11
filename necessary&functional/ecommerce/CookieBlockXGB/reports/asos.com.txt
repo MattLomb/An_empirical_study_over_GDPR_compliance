@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: asos.com 
+NECESSARY COOKIES = idsvr.session,idsrv,geocountry,siteChromeVersion,keyStoreDataversion,browseCountry,browseCurrency,browseLanguage,browseSizeSchema,storeCode,currency,stc-welcome-message,asos-b-sdv629,asos-ts121,asos-lan999,asos-cou998,asos-sto997,everest_g_v2,asos-anon12,asos,asos-perx,_s_fpv,s_cc,_cs_c,_cs_id,_cs_s,FPID,OptanonAlertBoxClosed,s_sq
+FUNCTIONAL COOKIES = bm_sz,featuresId,demdex,s_ecid,ak_bmsc,dpm,bm_sv,s_pers,_abck,RT,_cs_mk_aa,_ga_1JR0QCFRSY,_ga,FPLC,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = AMCVS_C0137F6A52DEAFCC0A490D4C%40AdobeOrg,AMCV_C0137F6A52DEAFCC0A490D4C%40AdobeOrg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

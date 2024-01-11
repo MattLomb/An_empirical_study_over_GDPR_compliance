@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: farmae.it 
+NECESSARY COOKIES = PHPSESSID
+FUNCTIONAL COOKIES = form_key,mage-cache-storage,mage-cache-storage-section-invalidation,section_data_ids,BrowserId_sec
+ANALYTICS COOKIES = _vwo_uuid_v2,_vwo_uuid,_vwo_ds,_vwo_sn,_vis_opt_s,_vis_opt_test_cookie,_vis_opt_exp_4_combi,_ga,_gid
+ADVERTISING COOKIES = 
+UNCLASSIFIED COOKIES = AwinChannelCookie,didomi_token,_ga_RJQV3R3B10,mage-cache-sessid,mage-messages,recently_viewed_product,recently_viewed_product_previous,recently_compared_product,recently_compared_product_previous,product_data_storage
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics cookies

@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: yoox.com 
+NECESSARY COOKIES = USERINFO,bm_mi,bm_sv,ak_bmsc
+FUNCTIONAL COOKIES = rxVisitor
+ANALYTICS COOKIES = AKA_A2,optimizelyEndUserId,dtSa,_gid,_ga,rxvt,RT,dtPC
+ADVERTISING COOKIES = _gat_gtag_UA_4532215_2
+UNCLASSIFIED COOKIES = VISIT,ABTEST,FEATURE_DISABLED_BAYNOTE,OLDVISIT,SESSIONS,YEDGESESSION,bm_sz,PIM-SESSION-ID,GENERIC_USER_ID,LAYERFIRSTVISIT,tc_YAB_test,isp,_ga_JPNZR0P362,TCPID,_abck,dtCookie
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

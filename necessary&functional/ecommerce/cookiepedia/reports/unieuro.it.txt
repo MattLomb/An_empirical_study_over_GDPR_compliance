@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: unieuro.it 
+NECESSARY COOKIES = JSESSIONID,userCookie,BIGipServerwww.unieuro.it_PROD_BROWSER_pool,BIGipServerwww.unieuro.it_PROD_MOBILE_pool,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = _ga,_gid
+ADVERTISING COOKIES = _fbp
+UNCLASSIFIED COOKIES = ASAK,_GRECAPTCHA,TS018d3b94,TS01c4f873,TS010c1c85,tCdebugLib,FPID,FPLC,stack,hero-session-d7e1d2b7-e794-4c35-bbeb-4df29420eef7,_ga_9ME2EJF5E6
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

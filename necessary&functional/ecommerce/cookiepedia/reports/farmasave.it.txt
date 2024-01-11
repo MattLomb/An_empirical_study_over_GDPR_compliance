@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: farmasave.it 
+NECESSARY COOKIES = CookieConsent
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = uid
+ADVERTISING COOKIES = IDE,uuid2,anj,CMID,CMPS,CMPRO,ayl_visitor,criteo,demdex,dpm,_kuid_
+UNCLASSIFIED COOKIES = __session:0.159143601436869:,akcwv,_ga_DYW85VJEDY,apay-session-set,FPID,ar_debug,visitor-id,data-c-ts,data-c,XANDR_PANID,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,opt_out,tvid,tv_UICR
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

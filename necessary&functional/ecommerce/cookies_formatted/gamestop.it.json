@@ -1,0 +1,162 @@
+{
+  ".ASPXANONYMOUS": {
+    "visit_id": 1,
+    "name": ".ASPXANONYMOUS",
+    "domain": "www.gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "vtxHs9DhgYkAw1H-tyjWo_VkJMAJjMBUlw5b9f3Puw2nvM7CLOxuAuK11BOCnCqPvF3zIrzZkiAeU37cCvpyOL1xBmaLFTXx17XskhzHzjrzbm63F_XPxuCJ5ZOaWRJdvIeynQ2",
+        "expiry": 1710968955,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6279D8E65F1AB027CF280F9F284A1233~000000000000000000000000000000~YAAQXH4ZuGO5XfWMAQAAV6gR+BaFZEpil1F2Dfm0sZoxB/0KGpQeT5zKEvnWSL1HpM4b77jZaia780+yrsbQwThSviFJRUjgRloke3Z79vMMWIy5IOnh7p9fFwIDhw0A8gTh5EwZmBJRAHasxCVN/W3auFj9aGxjbHTShvXNuPLo9AJQAxMnNKIX6muwcZUJddUnCyE/feTVVOx82UCqZuf6a/uZXPCbmCzdTJlilOYbmShYtX9ynBOLEKg3XtafRIUAQZElbzPO5RIMwlSf0YReaRGGFKN/SrtIaqcekdrd2sMIycCFGbapUVXkCSIU0Xpc+0BSmbUZTJOJWvcjLYO14/021JgjtCx1Ox1RQe/w01oOjtTucKWN7MmI6e1pmR1+GnAFjHmdJw==",
+        "expiry": 1704976155,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "E34F18B43BC3A6762A0E789DAF11100D~YAAQXH4ZuGS5XfWMAQAAV6gR+BYazsbiEmyHdjAruFAvJR5WhJyU/d82TXkz2gK/Y+girbc+Bzs/Ct00x4D56CY/FK0ocbvFfinhvRnGGH/CFtVgpgPzL3mV52TumaYREuN6i4sZfjthFaR27mVibqBf5CFkQED/GhHQhMEo0k20d2M/vR1c5ATPfR/9Z3iiO9xnitWQQxfZFYwz6lZxVcvRrWxHsJVKC7mYWnpBNan79ARRg+L7vfHTEA24oVAINdncpMwEbbVHbXtBppp+tAGmVhITYLzD5Xp2/iCbhrIitsmU~4273463~3488070",
+        "expiry": 1704983355,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "TAsessionID": {
+    "visit_id": 1,
+    "name": "TAsessionID",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1f6b25c0-02f6-4941-819f-ce1401b6cc14|NEW",
+        "expiry": 1704970756,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "notice_behavior": {
+    "visit_id": 1,
+    "name": "notice_behavior",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "expressed,eu",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "EBBC681124A247DF6D9A12F20C9D9726~-1~YAAQXH4ZuIq6XfWMAQAAx6sR+AtXs4k89cZYFy6nzyHphZYAOBCbi89jGPs7coUSW5abgkVtLm7LVEuf5o4S91E4pj+LkIjxajktO6afcfYHD4MPyq3g9mvBld8p6EqptcocvOMJgmpjjUFQPJAel8eW4d1VfZ3RwRjy9wefwMeeE9xt1I/sPk/9yIyMWgjqxrtpusyjAPb9GhU6KXSPwkNft+UdHq818heVPTF/BReKj5G5RJ1IxIHh7ldQn0gESRVuE8JRKBCIBLfA3kmhCv9aAtLhjZtJzFFoK5M4jV+cyD73USb9rBaQYQxlPHGZj6qWUzetEle4Kf32TXKtxs6ystOWsl6INlMqTvIqWa79I7TgZ9O25zNraH4pViZfGM5NA8g4EWmK2Cg=~-1~-1~1704972543",
+        "expiry": 1705573756,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".gamestop.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1022B54868A1A6A34715E43D93E66366~YAAQXH4ZuKW6XfWMAQAAGawR+Bbc/YuTYAV6eC872qySa3ZDUAKnAiEfpbeKSOIyWWwL47OBmNn8USSUL1bQHocTV63jesPWf/jnCEgjlVyjlK1JmqF1sYcnnMRYHKKGbOKI2slsIxapscp8/tN2Vah5ujdwbYxWksnp1TPUFYi2gTtc22RM112lGi1F1c0InQSDY+RfTYujSffp/ado0XqXS97DWWRI2JEwmGfAv83j35Tb2sF9VDVK9HPfEA3npg==~1",
+        "expiry": 1704976156,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "JSESSIONID": {
+    "visit_id": 1,
+    "name": "JSESSIONID",
+    "domain": ".nr-data.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8d15156f763d8652",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

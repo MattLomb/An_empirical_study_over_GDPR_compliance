@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: lastminute.com 
+NECESSARY COOKIES = __cfruid,utag_main
+FUNCTIONAL COOKIES = CLID,SRM_B
+ANALYTICS COOKIES = _ga,_gid,_pk_id.14bd2cd6-1200-4cc5-b5cf-8b0038fda4bb.8fb5,_pk_ses.14bd2cd6-1200-4cc5-b5cf-8b0038fda4bb.8fb5,_uetvid,MR,SM,_clsk
+ADVERTISING COOKIES = _gcl_au,_uetsid,MUID,IDE,ANONCHK
+UNCLASSIFIED COOKIES = __cf_bm,__vuc,LSI,businessProfileId,no_oil_cookie,callcenter-service-prd,_cq_duid,_cq_suid,FPID,FPLC,__mpt,cg_uuid,_clck,_iub_cs-77035448-granular,euconsent-v2,oil_GTM_cookie,c_m_a,_ga_66BMGPKMTR,_iub_cs-77035448
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

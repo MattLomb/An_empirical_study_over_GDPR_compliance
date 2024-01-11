@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: easyjet.com 
+NECESSARY COOKIES = bm_mi,ak_bmsc,bm_sv
+FUNCTIONAL COOKIES = cookies.js
+ANALYTICS COOKIES = _gid,_ga
+ADVERTISING COOKIES = _gat_UA-157731594-1,_gat_NGTM1
+UNCLASSIFIED COOKIES = 63882,64199,66309,66310,66311,66312,CMSPOD,bm_sz,ejCorrelation,lang2012,EASYJET_ENSIGHTEN_PRIVACY_BANNER_LOADED,RBKPOD,shell#lang,odb*,website_account-app#lang,DA-Antiforgery-S,DA-Antiforgery-C,_abck,ejCC_3,WPPOD,akacd_DA2MB_PR,EASYJET_ENSIGHTEN_PRIVACY_BANNER_VIEWED,EASYJET_ENSIGHTEN_PRIVACY_Performance_and_Personalisation,EASYJET_ENSIGHTEN_PRIVACY_easyJet_Marketing,EASYJET_ENSIGHTEN_PRIVACY_MODAL_VIEWED,EASYJET_ENSIGHTEN_PRIVACY_MODAL_LOADED,_ga_RQJDCQFJCZ,akacd_TrueClarity_SC
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

@@ -1,0 +1,682 @@
+{
+  "X-AB": {
+    "visit_id": 1,
+    "name": "X-AB",
+    "domain": "sc-static.net",
+    "path": "/scevent.min.js",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dc4e3509882e40c68a170453af779220",
+        "expiry": 1705053936,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_GRECAPTCHA": {
+    "visit_id": 1,
+    "name": "_GRECAPTCHA",
+    "domain": "www.google.com",
+    "path": "/recaptcha",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "09APYnBZVLvpnR_vhPyUOgzxxuhs-nHykTYZVPUd8kQINhcT8dIrZksH2-Ijxojp9RXhTwI9QGNjD29v9DJjVhYaE",
+        "expiry": 1720519537,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "px_init": {
+    "visit_id": 1,
+    "name": "px_init",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739527533,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "strict"
+      }
+    ]
+  },
+  "cors_js": {
+    "visit_id": 1,
+    "name": "cors_js",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736503534,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "BJS": {
+    "visit_id": 1,
+    "name": "BJS",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-",
+        "expiry": 1705053934,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gid": {
+    "visit_id": 1,
+    "name": "_gid",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.2.2043002166.1704967535",
+        "expiry": 1705053934,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gat": {
+    "visit_id": 1,
+    "name": "_gat",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1704967595,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bkng_sso_session": {
+    "visit_id": 1,
+    "name": "bkng_sso_session",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e30",
+        "expiry": 1739527539,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "lastSeen": {
+    "visit_id": 1,
+    "name": "lastSeen",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bkng_prue": {
+    "visit_id": 1,
+    "name": "bkng_prue",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_gcl_au": {
+    "visit_id": 1,
+    "name": "_gcl_au",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.1.301831910.1704967536",
+        "expiry": 1712743536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_FPD6YLJCJ7": {
+    "visit_id": 1,
+    "name": "_ga_FPD6YLJCJ7",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704967536.1.0.1704967536.60.0.0",
+        "expiry": 1739527536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.409378027.1704967535",
+        "expiry": 1739527536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_A12345": {
+    "visit_id": 1,
+    "name": "_ga_A12345",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704967536.1.0.1704967536.0.0.0",
+        "expiry": 1739527536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_scid": {
+    "visit_id": 1,
+    "name": "_scid",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "24cc05e3-7022-4bb0-9c2a-8776a9804312",
+        "expiry": 1739154234,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_uetsid": {
+    "visit_id": 1,
+    "name": "_uetsid",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f7443a90b06811eebbe613b8f494490a",
+        "expiry": 1705053936,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_uetvid": {
+    "visit_id": 1,
+    "name": "_uetvid",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f7444fc0b06811eebfcc2b7780bdd67b",
+        "expiry": 1738663536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ar_debug": {
+    "visit_id": 1,
+    "name": "ar_debug",
+    "domain": ".pinterest.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736503537,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.JE3RgkMgK8BCMRGWR%2BPn7IH6kUYqw3yh2Xk51JTqOtQ%3D.1704967535",
+        "expiry": 1739527536,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "U5TUrBMRCqyPlj%2F0AJ5s%2FRGdGDDp7k9b72qJyjDaumIRJkfVUjial%2FT4J6tFz38rRSLK1n84%2FCe3bOOqN0dCD3bR63EjbvNMq1Tnf3Qj8XZzbRHaLsUL%2BIqGwLBdyA%3D%3D",
+        "expiry": 1705039536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "IDE": {
+    "visit_id": 1,
+    "name": "IDE",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AHWqTUllo0I1-tJbI7rMXy3gYd09XxtFGMV05ZHkS0kmtYhqeHtBiWeVlDqiwVSijy0",
+        "expiry": 1738663535,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sc_at": {
+    "visit_id": 1,
+    "name": "sc_at",
+    "domain": ".snapchat.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "v2|H4sIAAAAAAAAAA3GyREAMQgDsIqYccAxpJwcZVD8rl4Cwx1nWj1dI7n/XdlWOGLUKVf3SHApZ2TjA6IMv4UyAAAA",
+        "expiry": 1738663536,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pin_unauth": {
+    "visit_id": 1,
+    "name": "_pin_unauth",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "dWlkPVpHWmxaR1JtTWpVdFlXWTVOaTAwTnpRMUxUZ3lOREF0TWprNE16SmtaRE00TWpjMA",
+        "expiry": 1736503537,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_pinterest_ct_ua": {
+    "visit_id": 1,
+    "name": "_pinterest_ct_ua",
+    "domain": ".ct.pinterest.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"TWc9PSZBQ3BST1J1d1dKcklPR3k1Ky96MitQUGRpOEI1UHJ2VXcwcjVGU0RvZlM1NUNQVkVhOFY2SUw4SXVWVEx2eVJDL0JBbXRFNW9jcGNHTTF2QjdPdkp3S05xK1NyYzFzMVR6d29rQVExZDlZZz0mNkxTY1RnZUtrdzNnMllrNjZuWDhjRkFRK1pRPQ==\"",
+        "expiry": 1736503537,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".www.booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-11T10:05:39.714Z",
+        "expiry": 1736503539,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_scid_r": {
+    "visit_id": 1,
+    "name": "_scid_r",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "24cc05e3-7022-4bb0-9c2a-8776a9804312",
+        "expiry": 1739154237,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "MUID": {
+    "visit_id": 1,
+    "name": "MUID",
+    "domain": ".bing.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1637C890F7F66FAF309FDC93F6C16E61",
+        "expiry": 1738663539,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bkng_ap_sso_session": {
+    "visit_id": 1,
+    "name": "bkng_ap_sso_session",
+    "domain": ".account.booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJib29raW5nX2dsb2JhbCI6eyJzZXNzaW9ucyI6W3sicmVmcmVzaF90b2tlbiI6IkNBRVNkMUoxdkxoMzRIS2FhRlo4ZjJJcnNONUkxMXpSUkIwTzFTOVhFZEtmVFktTmt1OEVWaFVaVk9yeHhfUy1zUG5tNDBPa0FVZENtM09yb09QbEhVNXJqRUJUU2xQemFSMzV4VTlkOExULW5GOWttd3ROdEp2b2xzSVVaaFppV2VaN0lqX21PeXNNZUFLZnhZdGxCOS1SVWo5NE9aWWdjZ2xsIiwic2Vzc2lvbl9yZWZlcmVuY2UiOiIxNzU3NDJhYi0xMGEzLTQwNjUtYmYyYi03OGUwOTFiOWIxNzgifV0sImRhdGFfc3ViamVjdF9pZCI6ImI3ODBkYmI1LTMyOWUtNDE4Yy05Zjc1LWQwZDM5OTY1NTE0OSJ9fQ",
+        "expiry": 1739527539,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bkng_sso_ses": {
+    "visit_id": 1,
+    "name": "bkng_sso_ses",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "eyJib29raW5nX2dsb2JhbCI6W3siaCI6ImJjYUZqeXB3bC9rZk13SEZyelhKdS9ib3ZLUGg0WXBSVjRMN3BFNkFXN2MiLCJhIjoxfV19",
+        "expiry": 1739527539,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pcm_consent": {
+    "visit_id": 1,
+    "name": "pcm_consent",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "consentedAt%3D2024-01-11T10%3A05%3A40.131Z%26countryCode%3DIT%26expiresAt%3D2024-07-09T10%3A05%3A40.131Z%26implicit%3Dfalse%26regulation%3Dgdpr%26legacyRegulation%3Dgdpr%26consentId%3Ded918f8a-fdde-4c7f-ac08-6860a8f8c846%26analytical%3Dtrue%26marketing%3Dtrue",
+        "expiry": 1736503539,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bkng_sso_auth": {
+    "visit_id": 1,
+    "name": "bkng_sso_auth",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CAIQsOnuTRp4HgiRdGiViaVD74vEV57Kb+Ff6vPb5SEbgGcYyF53vgX7jZExZWJif49glZSgaCM8iJZ+M5owZkUnjCOmtmEgbK0neawkjiBYrnytBDH+pIYqHPtDCJRowPTmGxRGxJOMAoqV/5hNTVB/eSC2kbVdFsJ27hk7oBrZ",
+        "expiry": 1739527539,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bkng_sso_auth_1704967540": {
+    "visit_id": 1,
+    "name": "bkng_sso_auth_1704967540",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CAIQsOnuTRp4HgiRdGiViaVD74vEV57Kb+Ff6vPb5SEbgGcYyF53vgX7jZExZWJif49glZSgaCM8iJZ+M5owZkUnjCOmtmEgbK0neawkjiBYrnytBDH+pIYqHPtDCJRowPTmGxRGxJOMAoqV/5hNTVB/eSC2kbVdFsJ27hk7oBrZ",
+        "expiry": 1739527539,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".www.booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+11%3A05%3A39+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=69a38ed2-ff3b-4aee-aa55-00532d4b47ea&interactionCount=0&landingPath=NotLandingPage&implicitConsentCountry=GDPR&implicitConsentDate=1704967535125&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&backfilled_at=1704967539994&backfilled_seed=1",
+        "expiry": 1736503539,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "bkng": {
+    "visit_id": 1,
+    "name": "bkng",
+    "domain": ".booking.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "11UmFuZG9tSVYkc2RlIyh9Yaa29%2F3xUOLbiKbS0JOgDBKtCN8f0CTZfcjzgy36lQIRCdEUiCGCzd2r%2BvIW9FF02GFxuERe1efkO3e%2Bjhdzo1MGYgWlsyWzzsFzCeYvlTLQUQk7KrGHPezwiIEwtzU0wBDOlEnyy4KcMABMK4BZbNKEthaGvkCtUx6F6bdtFfUTQ1byNYXrrgc%3D",
+        "expiry": 1739527541,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

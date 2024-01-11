@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: euronics.it 
+NECESSARY COOKIES = dwac_42fa10501657c2bafbe4e39236,cqcid,cquid,sid,dwanonymous_9f66852da18e58c387015589bd34e546,__cq_dnt,dw_dnt,dwsid,igodigitalstdomain,CLID,_hjFirstSeen,_hjIncludedInSessionSample_1033475,_hjAbsoluteSessionInProgress,_clck,__cq_seg,MR,SM,ANONCHK,OptanonAlertBoxClosed
+FUNCTIONAL COOKIES = igodigitaltc2,igodigitalst_100001654,_ga,_gid,_ga_E67WS7M9VZ,_hjSessionUser_1033475,_hjSession_1033475,yourekoUserId,_ga_MEY774YD6Q,uuid,__cq_uuid,_clsk,MUID,SRM_B,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _gcl_au
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

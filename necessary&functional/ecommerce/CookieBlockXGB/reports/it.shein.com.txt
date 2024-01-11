@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: it.shein.com 
+NECESSARY COOKIES = cookieId,sessionID_shein,bm_sz,__cfruid,RESOURCE_ADAPT_WEBP,app_country,country,countryId,smidV2,_csrf,ftr_blst_1h,lastRskxRun,rskxRunCookie,ar_debug,_pin_unauth,_aimtellSubscriberID,inId,OptanonAlertBoxClosed,forterToken
+FUNCTIONAL COOKIES = NID,_abck,_ga,_gid,ak_bmsc,rCookie,_pinterest_ct_ua,OptanonConsent,bm_sv
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _uetsid,_uetvid
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

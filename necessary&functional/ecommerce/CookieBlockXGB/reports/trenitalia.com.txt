@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: trenitalia.com 
+NECESSARY COOKIES = trainSearchList,gds_s,s_vs,s_cc,s_nr,gds,s_sq,OptanonAlertBoxClosed,eupubconsent-v2
+FUNCTIONAL COOKIES = ak_bmsc,s_ppn,bm_sv,IDE,OptanonConsent
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = YSC,VISITOR_INFO1_LIVE,AMCVS_0D5215F354E6C24C0A4C98A4%40AdobeOrg,AMCV_0D5215F354E6C24C0A4C98A4%40AdobeOrg
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

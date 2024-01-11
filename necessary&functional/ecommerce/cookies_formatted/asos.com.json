@@ -1,0 +1,922 @@
+{
+  "idsvr.session": {
+    "visit_id": 1,
+    "name": "idsvr.session",
+    "domain": "my.asos.com",
+    "path": "/identity",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "9348c430c197daaa1904480683ccdf3c",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "idsrv": {
+    "visit_id": 1,
+    "name": "idsrv",
+    "domain": "my.asos.com",
+    "path": "/identity",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "l5wSbkdBFuqjrvZ5oDU2S_dO8kh-4dbRbZ8stOjTVRm1WE6Q9WjmcGFkDEBLm4ODtR3XGhpBRSg91KXk2RjVt_neZv_3jsQlRd39gFEnXWDGsk1T0VlKEdoFVWFPfbEhaKaAGl7qbOWJAPnPjbtgHJHlv8Nautt7sMhuOJcN4su2TRicgDbFybeWD6aISJoozZ-nWW6u2mJg9GB_-fESzmUO2fYEixtGv8_4nDsKmymR98YtBH8RB7ciTtwmpwfl6PcODtALauvxOP0UmOmGYv96iobQdJ3dY-w7mg58DYz9iAGOubq6MYlXAwOwc3M9UR3wtBAyASTjsopoOagCZTJUWvVW-z_sUPFSV6CtcGIesLKFNLWS_9hZBSiyEMjcxpLOSxYym1GR9u8N8cjhKTuRLR4",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "geocountry": {
+    "visit_id": 1,
+    "name": "geocountry",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "6D4816CBD53C273E20AE9D68FC5E0B05~YAAQIegWAr0ZtGSMAQAAADA0+BYC3U/Siy1ZdZsAMpVtDK1FN3hGdgjgqJRWAKb/P70Fwi+0R374YR+6ciI8RkndcErzGD9JLwp2xV7cMVE6e/6C+ITUkJ34WAJfThNKNnDYtSgxxfgEsbrbyPXoDByFMKYDyE/iJJWCNEbRsjv5m9VHPsUa9LXh/gWH+9ZnLPBBX1vIy4goEh0rQD5Mc+bE4QQ/25+ALJPKHtpfTdK9OCN+8HfsltAuWP0pc1FWzXPulgu5EFFjJGru9GZfSf1g2KNkXeO5KrRiql9LdBoWNk4xj5pXu9uUbG1xpbMMyTLppqaxLHDQBg==~3553335~3487814",
+        "expiry": 1704985618,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "siteChromeVersion": {
+    "visit_id": 1,
+    "name": "siteChromeVersion",
+    "domain": "www.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "au=12&com=12&de=12&dk=12&es=12&fr=12&it=12&nl=12&pl=12&roe=12&row=12&ru=12&se=12&us=12",
+        "expiry": 1704974819,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "keyStoreDataversion": {
+    "visit_id": 1,
+    "name": "keyStoreDataversion",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "h7g0xmn-38",
+        "expiry": 1704974819,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "browseCountry": {
+    "visit_id": 1,
+    "name": "browseCountry",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GB",
+        "expiry": 1736507219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "browseCurrency": {
+    "visit_id": 1,
+    "name": "browseCurrency",
+    "domain": "www.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GBP",
+        "expiry": 1736507219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "browseLanguage": {
+    "visit_id": 1,
+    "name": "browseLanguage",
+    "domain": "www.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en-GB",
+        "expiry": 1736507219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "browseSizeSchema": {
+    "visit_id": 1,
+    "name": "browseSizeSchema",
+    "domain": "www.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "UK",
+        "expiry": 1736507219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "storeCode": {
+    "visit_id": 1,
+    "name": "storeCode",
+    "domain": "www.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "COM",
+        "expiry": 1736507219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "currency": {
+    "visit_id": 1,
+    "name": "currency",
+    "domain": "www.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736507219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "stc-welcome-message": {
+    "visit_id": 1,
+    "name": "stc-welcome-message",
+    "domain": "www.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "cappedPageCount=1",
+        "expiry": 1736507219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "featuresId": {
+    "visit_id": 1,
+    "name": "featuresId",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "f638e9b0-65cb-4d39-ae24-a2a9c6e0969d",
+        "expiry": 1736507219,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "asos-b-sdv629": {
+    "visit_id": 1,
+    "name": "asos-b-sdv629",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "h7g0xmn-38",
+        "expiry": 1704992819,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "demdex": {
+    "visit_id": 1,
+    "name": "demdex",
+    "domain": ".demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "22999444297182287860730658270429891128",
+        "expiry": 1720523220,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCVS_C0137F6A52DEAFCC0A490D4C%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCVS_C0137F6A52DEAFCC0A490D4C%40AdobeOrg",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_ecid": {
+    "visit_id": 1,
+    "name": "s_ecid",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "MCMID%7C22720031863556121580742843571284651252",
+        "expiry": 1739531225,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "asos-ts121": {
+    "visit_id": 1,
+    "name": "asos-ts121",
+    "domain": "my.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "608c6381c37545119c2238f369986ea3",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "asos-lan999": {
+    "visit_id": 1,
+    "name": "asos-lan999",
+    "domain": "my.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "en-GB",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "asos-cou998": {
+    "visit_id": 1,
+    "name": "asos-cou998",
+    "domain": "my.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GB",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "asos-sto997": {
+    "visit_id": 1,
+    "name": "asos-sto997",
+    "domain": "my.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "COM",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ABDBEA4C99D527A29FCBBF64BDA535C1~000000000000000000000000000000~YAAQIegWAtUZtGSMAQAAgTY0+BYgrXNZnkoGSQh06A/J8WC7PLWO+tPG4WgPfhaZeHU0IZRu/uYa0LbhWY9Ydvo28mipx2WcW2WhZJbgaG4z/if9AniOtRJChgFI7Fkw8SyizTwMjtKlgAcL1zo4tg5WZKck73ubPIqSZ9kOPyoqjym7DcwLBsNUn7m7tjmu7RXs3n9/fZ3+yk9YyD318rU2Aj4pz5wrzJh4Y037uJ03bnvW77zTboINvs2JxUwEVoHeMs1dROSNLsKFyyJb6O0m1Nwlo/JA8/SHs0S6L/9ZKcNhg1GetKvvKEjGSapcViHootPSm+C7T/wM/n/Uk3jlxODVRe9rNGK/E/muwZqtg7zSsBufBTWzMyR8KFcZsJrNhfUvRbrE4G2KIx5iwNMPETJCQM71QY0Km4XgoTJ8Y6QcII9V+dHr76H/VuGAuQhD5ww24choSTHRbHnihHyos43h6s36bGBUhgCmpSGdeuULiPM=",
+        "expiry": 1704978419,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "everest_g_v2": {
+    "visit_id": 1,
+    "name": "everest_g_v2",
+    "domain": ".everesttech.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "g_surferid~ZZ-L1AAAAJ7zYAN-",
+        "expiry": 1736507220,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dpm": {
+    "visit_id": 1,
+    "name": "dpm",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "22999444297182287860730658270429891128",
+        "expiry": 1720523220,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "AMCV_C0137F6A52DEAFCC0A490D4C%40AdobeOrg": {
+    "visit_id": 1,
+    "name": "AMCV_C0137F6A52DEAFCC0A490D4C%40AdobeOrg",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "-1303530583%7CMCMID%7C22720031863556121580742843571284651252%7CMCAAMLH-1705576020%7C6%7CMCAAMB-1705576020%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCCIDH%7C0%7CMCOPTOUT-1704978420s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-19741%7CvVersion%7C3.3.0",
+        "expiry": 1739531220,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "asos-anon12": {
+    "visit_id": 1,
+    "name": "asos-anon12",
+    "domain": "my.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "143161047f0e43c0845b8760648f04af",
+        "expiry": 1736507220,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "AD8C906966C5669662BBAFF87CA0BA89~YAAQIegWAt4ZtGSMAQAATDg0+BYgCUgYZcUMN/kt4ZGdU6fPOfRE8mZtm9iAHbopHIZI3bcm2E1BJX6lAc70iFIyEPAHyMtKpRAMpeEc1I9xpnCPY/GWcjnc7hsurOrxGHI/koqnKHWAHuyC/IR8A7XImWUtvAFQZ3IQjWmxOq9AqmFJ+vtQPrXWe3/w2zevUa17jaD9YfgigAr57W4zEuP76YBptTQhoXYIwduxag8zp8DM3SNqQGDkmqNVOw==~1",
+        "expiry": 1704978420,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "asos": {
+    "visit_id": 1,
+    "name": "asos",
+    "domain": "www.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "PreferredSite=&currencyid=1&currencylabel=GBP&customerguid=143161047f0e43c0845b8760648f04af",
+        "expiry": 1736507221,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "asos-perx": {
+    "visit_id": 1,
+    "name": "asos-perx",
+    "domain": "www.asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "143161047f0e43c0845b8760648f04af||608c6381c37545119c2238f369986ea3",
+        "expiry": 1736507221,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_pers": {
+    "visit_id": 1,
+    "name": "s_pers",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%20eVar225%3D1%7C1704973019678%3B%20s_vnum%3D1706742000679%2526vn%253D1%7C1706742000679%3B%20visitCount%3D1%7C1704973019680%3B%20s_invisit%3Dtrue%7C1704973021049%3B%20s_nr%3D1704971221050-New%7C1736507221050%3B%20gpv_p10%3Ddesktop%2520com%257Chome%2520page%257Chome%7C1704973021051%3B%20gpv_p6%3D%2520%7C1704973021053%3B%20gpv_e47%3Dhome%7C1704973021054%3B",
+        "expiry": 1736507221,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_s_fpv": {
+    "visit_id": 1,
+    "name": "_s_fpv",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1704973025,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s_cc": {
+    "visit_id": 1,
+    "name": "s_cc",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "A2DFE19948A52922B51141000F55B1CD~-1~YAAQIegWAuAZtGSMAQAArTg0+Av7SsEYMFO3+9DwWOyGgHeaaoGDONl/oFNTEcG8Pmy9TNufNbaNZJ5jLCTr/W77CpIntUysuVlRxt+TnCqGK7ZCIPpI/2rOfl6mfxdDLmr0cLWiivF5KlwPDmUm+OHCN6n7vCTDSvGqGB+LNEvU8d8k4udBBN9+BtAo1bC+vmXBPEvLluq/izvvq8gfSwdqk6bPTnnLZRO/CCQKL/kPkaHndJKMW5t/SR9IiDhBohLlyXA8/NoJQxiDOFkiO9v05ZuxcFKgxLbbzW3nGFh1nvbDQWyPyJ2qsKzxb+mKJP06tp6KSkyN84Lsil/Or3Ode0EK8KvOa0q0Gyh4aJ9d84j9RIWxiKWGIBaOlGj0oCJlB3Uk/tA=~-1~-1~-1",
+        "expiry": 1736507221,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "RT": {
+    "visit_id": 1,
+    "name": "RT",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "\"z=1&dm=asos.com&si=9563b92b-45a2-4eea-bab7-ad8800e4797c&ss=lr93ublm&sl=2&tt=27h&bcn=%2F%2F0217991c.akstat.io%2F&ld=2f6\"",
+        "expiry": 1705576021,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_cs_mk_aa": {
+    "visit_id": 1,
+    "name": "_cs_mk_aa",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0.715200263766961_1704971221474",
+        "expiry": 1704973021,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_cs_c": {
+    "visit_id": 1,
+    "name": "_cs_c",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0",
+        "expiry": 1739135221,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_cs_id": {
+    "visit_id": 1,
+    "name": "_cs_id",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "10c64960-e141-aae4-f61d-2762f4ba1f7e.1704971221.1.1704971221.1704971221.1628755191.1739135221645",
+        "expiry": 1739135221,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_cs_s": {
+    "visit_id": 1,
+    "name": "_cs_s",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1.0.0.1704973021646",
+        "expiry": 1704973021,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "_ga_1JR0QCFRSY": {
+    "visit_id": 1,
+    "name": "_ga_1JR0QCFRSY",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704971221.1.0.1704971221.0.0.0",
+        "expiry": 1739531222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.2063226831.1704971222",
+        "expiry": 1739531222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPID": {
+    "visit_id": 1,
+    "name": "FPID",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "FPID2.2.9l0CrRCY4r%2BgaZOO2urEJNQwH8WnASZy29PWCjUP7iE%3D.1704971222",
+        "expiry": 1739531222,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "FPLC": {
+    "visit_id": 1,
+    "name": "FPLC",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "x%2BsFj1kP1ex3QAISGFGi6rDMVsyayd14jR%2F4vQvOHHbqK79wBz5NtZ6Q5HiUUcP%2BIqtEIOpl1T1sim63uxcDJj6Bh%2FF36AEkJFgzJvIDzWZKa4ptbQ3KB8Nx4angtg%3D%3D",
+        "expiry": 1705043222,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-11T11:07:05.165Z",
+        "expiry": 1736507225,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+12%3A07%3A05+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=933bb6f2-a29a-45be-88f4-d20deff21cd9&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0004%3A0",
+        "expiry": 1736507225,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "s_sq": {
+    "visit_id": 1,
+    "name": "s_sq",
+    "domain": ".asos.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "%5B%5BB%5D%5D",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+CookieBlockXGB model FINAL REPORT OVER WEBSITE: ticketone.it 
+NECESSARY COOKIES = webid,__cmpconsentx36053,__cmpcvcx36053,__cmpcpcx36053,__cmpcvc,__cmpcpc,__cmpiab,__cmpiabli,initialReferrer,webshop,_dc_gtm_UA-78684294-36,__gpi,DSID,ar_debug
+FUNCTIONAL COOKIES = bm_sz,__cmpiuid,ak_bmsc,_abck,_ga_D0PL176BWD,permInfo,_gid,muc_ads,IDE
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = FPAU,_ga,_fbp,personalization_id,__gads
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

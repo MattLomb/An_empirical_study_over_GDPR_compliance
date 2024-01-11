@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: ovs.it 
+NECESSARY COOKIES = dwsid,sid,dw_dnt,OptanonAlertBoxClosed,OptanonConsent
+FUNCTIONAL COOKIES = __cq_dnt,BrowserId_sec
+ANALYTICS COOKIES = cqcid,cquid,_ga,__cq_uuid
+ADVERTISING COOKIES = dwac_d9175831c0dfb542444e0bb939,dwanonymous_81715affa36e5cc8890f11497a69d59f,uuid
+UNCLASSIFIED COOKIES = dwpersonalization_81715affa36e5cc8890f11497a69d59f,newsletterTriggerTime,__cq_seg,_ga_ZEP9MN0D7F
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

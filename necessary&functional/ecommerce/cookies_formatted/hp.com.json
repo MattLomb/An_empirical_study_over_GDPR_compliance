@@ -1,0 +1,362 @@
+{
+  "aka_client_code": {
+    "visit_id": 1,
+    "name": "aka_client_code",
+    "domain": "www.hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "IT-en",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "CE0C99D4FC28DF2BD32615ADFC7A50D1~YAAQyNEVlzKt3maMAQAAcf8T+BYlfTFaen7LSvMUFOqOodueCKoip09iSa1kXqGOpubxAqyMCEBPY+2ip4soQ1MWxsvsrtHiP5u03CQe+Ayr1D/ymS/W/+59x7sugrXuMZ1ErAU2KEVTEXjYShlJ+a9e1i7t/smsKPjD7PB+CVJJJp6BL0h8aNdMbnK8agMWbWMT1QgdeE8YSdn4/ibjZ7tkGW3KAfg/Tu7zT5/R9nEUdjl8vQBm/CW0XV1c2yaeDTUF/R+1o1vpR3l19uSawQE8Spu31S/2nXtZM1ie1w==~3425081~4343092",
+        "expiry": 1704983509,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_mi": {
+    "visit_id": 1,
+    "name": "bm_mi",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "270C9A77135034A43E5688C9553D9FCE~YAAQyNEVl3Ct3maMAQAAWAMU+BbCxbcSCb1sk3JNN/o+raXgOdPx9JjMbeiDU0ETh47VUVNKAN36gUCi6Ma3y7wZ4KaZ/8boNcLxgyHjaOrQfU3kaKN5/1TPUZjMGTliYVcYY8jHOj+Qei96ui8qEyLSeaChE1IIZXgr7XdDywDgYIcXIzq0E4UdW/cIBJ2paCW9sjpLiHbxQUQZKca0qiYEN1dK/alL8idJAEJL/5U289MKF1aUMhqU4J75vVJ/CGCid1Edz1097QYCM/nBhXLDt6Jdt+0NUfd2Fs3JAtEt+cjlOZ0XZ5jjoF9FIwSG8DmizdqTJtE=~1",
+        "expiry": 1704976309,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sv": {
+    "visit_id": 1,
+    "name": "bm_sv",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "F0724762D29161B007C89A2C5ED76525~YAAQyNEVl3Gt3maMAQAAWAMU+BaTCIJu42ZPRqEziboxII2HXaMh02sv77h9MWPRf/VzvWMwJ5nKpwysBAhROuoHhYOfB3pZiTKPPARP2rP+x0rcGJherqKD/rjsFQ1CBvcchrSbKOudyZe8hznz1iM/JfDMbYYdxadYu8jY2YJ2bbuFkadDk1E5upqDIny9+IFg1b3lLwdvxtuh74LCQTRydiXv0QyCIqBM0QcG4mVhmx0YXLtaRbubsuU=~1",
+        "expiry": 1704976310,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ajs_anonymous_id": {
+    "visit_id": 1,
+    "name": "ajs_anonymous_id",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "aea385ef-a84f-4386-af73-83a028295a7c",
+        "expiry": 1736505110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"
+      }
+    ]
+  },
+  "lang": {
+    "visit_id": 1,
+    "name": "lang",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it-it",
+        "expiry": 1712745110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "www_hp_com_locale": {
+    "visit_id": 1,
+    "name": "www_hp_com_locale",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it-it",
+        "expiry": 1712745110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "cc": {
+    "visit_id": 1,
+    "name": "cc",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it",
+        "expiry": 1712745110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "dcm_s": {
+    "visit_id": 1,
+    "name": "dcm_s",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704969110886.1563421143",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2D206C64518823541A92B6B58DF64B1B~0~YAAQyNEVl5Ot3maMAQAA9QUU+AsHktS2W/7w6eRgVt8nNNe4h4scjNsJOd5yDnAQESdzcbtycDqxMHwe8PyWCpRxSUeTA+mdb+/jUQJz0IbjKlb4HVQzWcUq34y3rqNv8eP4Eh4HAFmwRS2n3JqSxbrhDPyEqC3+Tl1QTdsekie230nh0h8Uz/Oo0GK6PbbiN0YAW65HLd2B5pPB1Q0ZlAfTMemQcifVevgkpGUrSmumTNBIHUWbukdkU3ExA67eW4k3ZdnmFDNcNnTliu03eYEDzaTbtToOF2ZglxGyNhzGmzT/KioXL28ZRM7zNYG5vf12869UilbCKQ+gGSudBhojpvzxB9Fi6nf5WjTSwuU/wqmWgiP8HxqrGNFVMmX8cgi71yyqIVyVDhUqmOby266WT00=~-1~-1~-1",
+        "expiry": 1736505110,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "ADFF6A6444E24FC05BB8FAF166794B8B~000000000000000000000000000000~YAAQyNEVl6it3maMAQAAkwcU+BbXMIMOmVMnLr6gfwGy4NJ1lYNrtV5FpMGthR/L8dkfrWkkeuaPd89+SJqmR78UV7G9OAPLCGNHRmYUfxI6xCRQWrf72Ar8HVmb37WCd4+L/TXk7wc39qxGfpq73x/TuWn5uHYGarybjKacueL0/9YPxDirJaxzruCqM+r6b/SardQwRwgrroWgSeLxjUdwt5kdADKvlIIYfktpbRyrdpW7o9vnQ9tfFkGAY2QjzVycwAloXd4cdsXQYT4eHNVMEXQcfVcvuNy2MgKZ01cMOJz8QgZccs3KVruhI8HteEwJj2OqdZwPXgdYKfdbB21+u8zbA7+ruqpgQWGq5H8tBX9V+UT6vIasUynmSIoFf6jplbQdz8kj/Hz0Z5vj/9honLmHAM6ntYksx5LhRuMnnPmCoVzOTCIoupbiQ8m+I0Al4afWgpJCSse1QQVHIdxHBIQp0YbZyyXbCGMMLny/lfeYHv0EtpxSnGHU6aC5AzViglIS0zpYJGxuBNvi2dKAeaBbTH+hGF3Smw==",
+        "expiry": 1704976309,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonAlertBoxClosed": {
+    "visit_id": 1,
+    "name": "OptanonAlertBoxClosed",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2024-01-11T10:31:54.428Z",
+        "expiry": 1736505114,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "OptanonConsent": {
+    "visit_id": 1,
+    "name": "OptanonConsent",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+11+2024+11%3A31%3A54+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202311.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f05349aa-3327-4ba9-b49a-e7f4a53bacc3&interactionCount=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A0%2C3%3A1%2C4%3A0%2C8%3A0",
+        "expiry": 1736505114,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "hpeuck_prefs": {
+    "visit_id": 1,
+    "name": "hpeuck_prefs",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1010",
+        "expiry": 1736505114,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "hpeuck_answ": {
+    "visit_id": 1,
+    "name": "hpeuck_answ",
+    "domain": ".hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1736505114,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gscs": {
+    "visit_id": 1,
+    "name": "gscs",
+    "domain": "www.hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704969115.1704969115.1704969115",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gscv": {
+    "visit_id": 1,
+    "name": "gscv",
+    "domain": "www.hp.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704969115.1704969115.1704969115.1",
+        "expiry": 1739529115,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "gsci": {
+    "visit_id": 1,
+    "name": "gsci",
+    "domain": "s.getsmartcontent.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "4k3ml7xxjf7fwgf4jpexjz5rjegfn1cm",
+        "expiry": 1739529116,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}

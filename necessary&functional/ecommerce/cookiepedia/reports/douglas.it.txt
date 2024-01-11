@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: douglas.it 
+NECESSARY COOKIES = bm_mi,ak_bmsc,bm_sv,utag_main
+FUNCTIONAL COOKIES = 
+ANALYTICS COOKIES = s_ecid,ROUTE
+ADVERTISING COOKIES = demdex,AMCVS_CE025F3E56F292177F000101%40AdobeOrg,AMCV_CE025F3E56F292177F000101%40AdobeOrg
+UNCLASSIFIED COOKIES = ncx,bm_sz,PIM-SESSION-ID,akacd_PIM-prd_ah_rollout,_abck,_teal_stateVar,akavpau_VP-IT,TAPID,_teal_perf
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

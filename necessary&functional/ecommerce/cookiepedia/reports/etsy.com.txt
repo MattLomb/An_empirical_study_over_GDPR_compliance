@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: etsy.com 
+NECESSARY COOKIES = user_prefs
+FUNCTIONAL COOKIES = uaid
+ANALYTICS COOKIES = 
+ADVERTISING COOKIES = _fbp
+UNCLASSIFIED COOKIES = fve,last_browse_page,exp_ebid,ua,datadome
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Advertising cookies

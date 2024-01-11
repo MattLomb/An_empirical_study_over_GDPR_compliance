@@ -1,0 +1,10 @@
+Cookiepedia model FINAL REPORT OVER WEBSITE: farmacialoreto.it 
+NECESSARY COOKIES = CookieConsent
+FUNCTIONAL COOKIES = language,CLID,LANG,x-pp-s,tsrce,ts,SRM_B
+ANALYTICS COOKIES = MR,SM
+ADVERTISING COOKIES = MUID,ANONCHK
+UNCLASSIFIED COOKIES = OCSESSID,__cf_bm,nsid,l7_az,ts_c,enforce_policy
+
+⚠️	VIOLATION FOUND: the consents given have not been respected	⚠️
+GIVEN CONSENTS FOR: Necessary Functional cookies
+FOUND CONSENTS ALSO FOR: Analytics Advertising cookies

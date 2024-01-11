@@ -1,0 +1,442 @@
+{
+  "division": {
+    "visit_id": 1,
+    "name": "division",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "perugia",
+        "expiry": 1739529391,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "user_locale": {
+    "visit_id": 1,
+    "name": "user_locale",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "it_IT",
+        "expiry": 1739155852,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "b": {
+    "visit_id": 1,
+    "name": "b",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "8f474a9b-5eff-403f-874a-9b5eff003f62",
+        "expiry": 1739529388,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "s": {
+    "visit_id": 1,
+    "name": "s",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d43d150d-5837-4bd5-bd15-0d5837ebd57b",
+        "expiry": 1704971191,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_csrf": {
+    "visit_id": 1,
+    "name": "_csrf",
+    "domain": "www.groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1bwrtlUENhh5iXteXYSVWkg7",
+        "expiry": -1,
+        "session": true,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "pageId": {
+    "visit_id": 1,
+    "name": "pageId",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "d43d150d-5837-4bd5-bd15-0d5837ebd57b-1704969386070-TH0",
+        "expiry": 1739155852,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "ak_bmsc": {
+    "visit_id": 1,
+    "name": "ak_bmsc",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "E0D78A5D13C1FA44CD4EE5C33C02C8D5~000000000000000000000000000000~YAAQ0z4WAjqTDO+MAQAANkEY+Ba7eWGFpMh4TmJ6SuesfAzwYTdXriXh9h13+1zkBEFHuRgAREht9ujukbh0Jr4fW+78Cg7c2cAYEZoVQmlMf8P8bCTo58PoKmIM2FNjF6wvkwzImZ2PzCRLCFgJHEpocOH5xr/TeYsY6dYfhLBBZV0MRcmtZN682s8dGZgOo0KwmfKqm53fvrMdvRMh0TAovmOMjuQa+GsNkcarRuMYLoIr2hHgUVX6iNrdo/IAxdsIRDuNWNOsDgcXZPaogEPHw4Nv/tNvpN74IngFX9ee8TVo63mhplrBhFQnCi3zDs+9MXnRAPDSL8LC1L/F+a8Yob39KTwrMLVVYxTyDREWjOhSsFVkO+teU9IQKeCRKhFDs/MgXjS6",
+        "expiry": 1704976586,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "bm_sz": {
+    "visit_id": 1,
+    "name": "bm_sz",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2163C3150E6E0F7EE34CEC45F14EFD9C~YAAQ0z4WAjuTDO+MAQAANkEY+BY8nFgZm31ghzq4Gw1Te4da4TyhM9YICoMpXX9WLgmi2yfADDdnd5Q0Ta/DJKn6xWxoYjZYMls8f8XY9ljrFLmrswjiRSC7KJ8K8HKk3SvQxIsIPIzEKwKpgBOX/rJa4LSYQIlFe91YU9HJYLQEXXaxFTXhXXv+OiZ+K1BA8wVrc8VA8P6zK8KOWIQ8gW6FPIzKbTQyXJJ9Obn9j7jRfFlsVMbFbPxjJyTn530Y736sVu2ye/LEcHnzipuwj1n6Hb7hU4G4bDsU9fRU9ppZsiM=~4474421~4407878",
+        "expiry": 1704983786,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "googtrans": {
+    "visit_id": 1,
+    "name": "googtrans",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "",
+        "expiry": -1,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "db_ui": {
+    "visit_id": 1,
+    "name": "db_ui",
+    "domain": "www.databreakers.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fa6d995f-e930-88ce-911d-df3944b63525",
+        "expiry": 1739529389,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_abck": {
+    "visit_id": 1,
+    "name": "_abck",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "439E4163F2A10C5324E771BF0B17B0F4~0~YAAQ0z4WApaTDO+MAQAAmEQY+AsfziEFsEohNa5pS3t/JWR5LCCYFk7UO4mF+7feRZodpM5zNkIlCxLf1Pkk6Q7RbKLZUq4cI0sNuDLoa8zKbVwDq98WJHl/EVbUga7MPGPSdU/KlUNw3TQbDY5cuqxq7kOqY1z6t6PEFYc0HabJ2fpEtvk4yJ4+FAJlOSURt7GQuDqdmLYbrhzIKe5S3E36Op2kS+zMjDvQhnoQ2w8Xe4MZocL7utTfjpUf5PKuiiIvjGviO7mBO7ETZsPLhvyycGNhB/dBddnznsV2BsvPnfaAk1jqmIbwKpfLmDwGDUs8Z2X5XStmZBa84Z3bWNAlZ+yo66Vr80+cBosS5Bbof3q+1RqDbKbBz0eD3oQBRmMxZKKiQA9DMfktc/v1Wpapi1nvYxQK~-1~-1~-1",
+        "expiry": 1736505389,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "subscription_visited": {
+    "visit_id": 1,
+    "name": "subscription_visited",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1",
+        "expiry": 1739155853,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "subscription_last_visited": {
+    "visit_id": 1,
+    "name": "subscription_last_visited",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "1704969389125",
+        "expiry": 1739155853,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "db_uicd": {
+    "visit_id": 1,
+    "name": "db_uicd",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "fa6d995f-e930-88ce-911d-df3944b63525",
+        "expiry": 1739529389,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "slireg": {
+    "visit_id": 1,
+    "name": "slireg",
+    "domain": "www.groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "https://scout.us4.salesloft.com",
+        "expiry": 1705574189,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "thx_guid": {
+    "visit_id": 1,
+    "name": "thx_guid",
+    "domain": "imgs.signifyd.com",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "0bd6e4d0ff32a3635301b531de8668c9",
+        "expiry": 1739529389,
+        "session": false,
+        "http_only": true,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "sliguid": {
+    "visit_id": 1,
+    "name": "sliguid",
+    "domain": "www.groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "e5266db6-3773-49b8-87da-c321092b66c3",
+        "expiry": 1736505389,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "slirequested": {
+    "visit_id": 1,
+    "name": "slirequested",
+    "domain": "www.groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "true",
+        "expiry": 1736505389,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "c3s": {
+    "visit_id": 1,
+    "name": "c3s",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2-1704969390613-0",
+        "expiry": 1739155854,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": true,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "__ssid": {
+    "visit_id": 1,
+    "name": "__ssid",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "2710a0fc5306e41094c0d1394fd37df",
+        "expiry": 1739529391,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga_TW2CBMFZ20": {
+    "visit_id": 1,
+    "name": "_ga_TW2CBMFZ20",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GS1.1.1704969391.1.0.1704969391.0.0.0",
+        "expiry": 1739529391,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  },
+  "_ga": {
+    "visit_id": 1,
+    "name": "_ga",
+    "domain": ".groupon.it",
+    "path": "/",
+    "first_party_domain": "",
+    "label": 0,
+    "cmp_origin": 0,
+    "variable_data": [
+      {
+        "value": "GA1.1.468372981.1704969391",
+        "expiry": 1739529391,
+        "session": false,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "no_restriction"
+      }
+    ]
+  }
+}
