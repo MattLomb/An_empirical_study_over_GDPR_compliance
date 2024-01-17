@@ -1,7 +1,10 @@
 CookieBlockXGB model FINAL REPORT OVER WEBSITE: it.aliexpress.com 
 NO INTERACTION WITH THE BANNER PERFORMED --> ONLY NECESSARY COOKIES SHOULD BE SET 
-NECESSARY COOKIES = intl_common_forever,intl_locale,xman_f,acs_usuc_t,xman_t,xman_us_f,aep_usuc_f,ali_apache_track,ali_apache_tracktmp,e_id,u,ts,receive-cookie-deprecation,cto_bundle,sca,ar_debug,xlly_s,l,isg,IDE,CMPS,CMPRO,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,criteo,opt_out,_kuid_
-FUNCTIONAL COOKIES = ali_apache_id,_m_h5_tk,_m_h5_tk_enc,g,c,cbc,umdata_,atpsida,x5secdata,tfstk,XANDR_PANID,anj,ayl_visitor,demdex,dpm,tvid,tv_UICR
+NECESSARY COOKIES = intl_common_forever,intl_locale,xman_f,acs_usuc_t,xman_t,xman_us_f,aep_usuc_f,ali_apache_track,
+ali_apache_tracktmp,e_id,u,ts,receive-cookie-deprecation,cto_bundle,sca,ar_debug,xlly_s,l,isg,IDE,CMPS,
+CMPRO,mv_tokens,mv_tokens_eu-v1,am_tokens,am_tokens_eu-v1,criteo,opt_out,_kuid_
+FUNCTIONAL COOKIES = ali_apache_id,_m_h5_tk,_m_h5_tk_enc,g,c,cbc,umdata_,atpsida,x5secdata,tfstk,XANDR_PANID,anj,ayl_visitor,demdex,
+dpm,tvid,tv_UICR
 ANALYTICS COOKIES = 
 ADVERTISING COOKIES = cna,uid,uuid2,visitor-id,data-c-ts,data-c,CMID
 
