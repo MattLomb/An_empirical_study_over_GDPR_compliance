@@ -71,7 +71,8 @@ This repository was created as part of the Master Thesis "An empirical study on 
 
 **Thesis author:** Matteo Lombardi.
 
-See also following repositories for other components that were developed as part of the thesis:
+See also following repositories/projects for other components that were developed as part of the thesis:
   - https://github.com/dibollinger/CookieBlock-Consent-Classifier
   - https://github.com/cavi-au/Consent-O-Matic/tree/ScrapeAutoTesting
   - https://github.com/dmlc/xgboost/
+  - https://cookiepedia.co.uk/
