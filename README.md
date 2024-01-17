@@ -1,5 +1,12 @@
 # An empirical study over GDPR compliance on website
 
+  * [Introduction](#introduction)
+  * [CMP detector](#cmp-detector)
+  * [Automatic GDPR violation detector tool](#automatic-gdpr-violation-detector-tool)
+  * [Installation](#installation)
+  * [Repository contents](#repository-contents)
+  * [Credits](#credits)
+
 ## Introduction
 This repository contains the scripts developed to perform an empirical study on Italian website compliance to GDPR.
 
