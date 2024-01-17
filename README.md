@@ -60,7 +60,7 @@ To correctly execute all the scripts present in this folder and to reproduce the
 IMPORTANT: The bash script must be executed in a correct Python environment supporting CookieBlock. 
 
 ## Repository contents
-  - ```cookiepedia_json``` and ```cookies_formatted```: these folder store the json files containing the cookies to be classified by Cookiepedia and CookieBlock respectively. In particular, the cookies_formatted folder contains the output of the **formatCookies.js** script.
+  - ```./cookiepedia_json``` and ```./cookies_formatted```: these folder store the json files containing the cookies to be classified by Cookiepedia and CookieBlock respectively. In particular, the cookies_formatted folder contains the output of the **formatCookies.js** script.
   - ```node_modules```: contains all the Node.js modules used to execute the scripts.
   - ```./statistical_analysis_results```, ```./no_consents```, ```./no_interaction```, ```./necessary&functional```: these folder contains the results of the CMP detector and of the violations detector tool. In particular they are related to the ```./violation_detection_target``` folder.
   - ```./violations```: this folder is used to write in output the result of the **violation_detector.sh** script.
